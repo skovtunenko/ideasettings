@@ -1,5 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.ghx.common.manifest.ManifestInfo.ManifestInfo(componentName,componentVersion,buildDate,platformVersion,bambooVersion,gitHash,branch)" />
+      </blacklist>
+    </blacklists>
   </component>
 </application>
