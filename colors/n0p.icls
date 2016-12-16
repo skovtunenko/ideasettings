@@ -3,11 +3,39 @@
     <property name="created">2016-11-29T16:53:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-11-29T23:50:24</property>
+    <property name="modified">2016-12-16T19:15:23</property>
     <property name="originalScheme">_@user_Default</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <attributes>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="9cd8f7" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="fa6bb2" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="85c52d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="e8d65c" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="5aed7d" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
