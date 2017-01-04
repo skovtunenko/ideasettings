@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="props" type="DTD" />
+      <mapping ext="graphml" type="Native" />
       <mapping ext="py" type="Native" />
     </extensionMap>
   </component>
