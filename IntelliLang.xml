@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="file-reference" injector-id="xml">
+      <display-name>include/@file</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("file")).withParent(xmlTag().withLocalName(string().equalTo("include")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog")))]]></place>
+    </injection>
   </component>
 </application>
