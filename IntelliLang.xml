@@ -10,6 +10,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("file")).withParent(xmlTag().withLocalName(string().equalTo("include")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog")))]]></place>
     </injection>
     <injection language="file-reference" injector-id="xml">
+      <display-name>includeAll/@path</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("path")).withParent(xmlTag().withLocalName(string().equalTo("includeAll")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog")))]]></place>
+    </injection>
+    <injection language="file-reference" injector-id="xml">
       <display-name>sqlFile/@path</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("path")).withParent(xmlTag().withLocalName(string().equalTo("sqlFile")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog")))]]></place>
     </injection>
