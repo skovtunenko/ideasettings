@@ -96,7 +96,7 @@
   <inspection_tool class="CheckedExceptionClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassEscapesItsScope" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassHasNoToStringMethod" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="excludeClassNames" value="" />
+    <option name="excludeClassNames" value="Controller" />
     <option name="excludeException" value="true" />
     <option name="excludeDeprecated" value="true" />
     <option name="excludeEnum" value="false" />
@@ -154,7 +154,6 @@
   </inspection_tool>
   <inspection_tool class="DefaultNotLastCaseInSwitch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeserializableClassInSecureContext" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DesignForExtension" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DivideByZero" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DoubleCheckedLocking" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreOnVolatileVariables" value="false" />
@@ -320,7 +319,6 @@
   <inspection_tool class="MethodOverridesPackageLocalMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodOverridesPrivateMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodOverridesStaticMethod" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MethodReturnOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MigrateAssertToMatcherAssert" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MisorderedAssertEqualsParameters" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -393,7 +391,6 @@
   </inspection_tool>
   <inspection_tool class="PackageDotHtmlMayBePackageInfo" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PackageInfoWithoutPackage" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ParameterOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ParameterTypePreventsOverriding" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ParameterizedParametersStaticCollection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PlaceholderCountMatchesArgumentCount" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -404,7 +401,9 @@
   <inspection_tool class="PublicFieldAccessedInSynchronizedContext" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PublicMethodNotExposedInInterface" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignorableAnnotations">
-      <value />
+      <value>
+        <item value="org.springframework.web.bind.annotation.RequestMapping" />
+      </value>
     </option>
     <option name="onlyWarnIfContainingClassImplementsAnInterface" value="false" />
   </inspection_tool>
