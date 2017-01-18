@@ -5,6 +5,11 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HQL" injector-id="java">
+      <display-name>Session (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
