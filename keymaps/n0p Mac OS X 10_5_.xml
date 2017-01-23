@@ -32,6 +32,7 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateHierarchyToolWindow" />
   <action id="ActivatePersistenceToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
