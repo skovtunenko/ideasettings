@@ -59,7 +59,14 @@
   <inspection_tool class="BadExceptionThrown" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="exceptionsString" value="" />
     <option name="exceptions">
-      <value />
+      <value>
+        <item value="java.lang.Throwable" />
+        <item value="java.lang.Exception" />
+        <item value="java.lang.Error" />
+        <item value="java.lang.NullPointerException" />
+        <item value="java.lang.ClassCastException" />
+        <item value="java.lang.ArrayIndexOutOfBoundsException" />
+      </value>
     </option>
   </inspection_tool>
   <inspection_tool class="BadOddness" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -181,6 +188,7 @@
     <option name="ignoreGetMessage" value="false" />
     <option name="ignoreCantWrap" value="false" />
   </inspection_tool>
+  <inspection_tool class="ExceptionNameDoesntEndWithException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExpectedExceptionNeverThrown" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExtendsConcreteCollection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExtendsThread" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -345,6 +353,7 @@
   <inspection_tool class="NestedTryStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NewExceptionWithoutArguments" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonAtomicOperationOnVolatileField" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NonExceptionNameEndsWithException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalClone" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalFieldOfException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonProtectedConstructorInAbstractClass" enabled="true" level="WARNING" enabled_by_default="true">
@@ -547,7 +556,6 @@
   <inspection_tool class="ThrowCaughtLocally" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreRethrownExceptions" value="false" />
   </inspection_tool>
-  <inspection_tool class="ThrowsRuntimeException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ToArrayCallWithZeroLengthArrayArgument" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TooBroadCatch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TooBroadScope" enabled="true" level="WARNING" enabled_by_default="true">
@@ -566,7 +574,6 @@
   </inspection_tool>
   <inspection_tool class="TypeParameterExtendsFinalClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnaryPlus" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="UncheckedExceptionClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnconditionalWait" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnconstructableTestCase" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryDefault" enabled="true" level="WARNING" enabled_by_default="true" />
