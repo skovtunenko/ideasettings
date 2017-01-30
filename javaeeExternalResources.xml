@@ -3,5 +3,7 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32a2f437_dbchangelog-3.0.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/99f6323_dbchangelog-ext.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/9b192256_xml.xsd" />
+    <resource url="http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/27c071c8_web-app_3_1.xsd" />
   </component>
 </application>
