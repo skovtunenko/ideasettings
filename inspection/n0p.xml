@@ -162,7 +162,7 @@
     <option name="ignorePrivateMethodsAndFields" value="false" />
   </inspection_tool>
   <inspection_tool class="DefaultNotLastCaseInSwitch" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="DeserializableClassInSecureContext" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DeserializableClassInSecureContext" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="DivideByZero" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DoubleCheckedLocking" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreOnVolatileVariables" value="false" />
@@ -447,12 +447,14 @@
   <inspection_tool class="SamePackageImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerialPersistentFieldsWithWrongSignature" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SerialVersionUIDNotStaticFinal" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="SerializableClassInSecureContext" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SerializableClassInSecureContext" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoreThrowable" value="true" />
+  </inspection_tool>
   <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="" />
   </inspection_tool>
-  <inspection_tool class="SerializableHasSerializationMethods" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="SerializableHasSerializationMethods" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoreAnonymousInnerClasses" value="false" />
     <option name="superClassString" value="" />
   </inspection_tool>
