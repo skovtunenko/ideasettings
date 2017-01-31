@@ -22,7 +22,7 @@
   <inspection_tool class="AssertEqualsMayBeAssertSame" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertsWithoutMessages" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToCatchBlockParameter" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="AssignmentToCollectionFieldFromParameter" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="AssignmentToCollectionFieldFromParameter" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignorePrivateMethods" value="true" />
   </inspection_tool>
   <inspection_tool class="AssignmentToDateFieldFromParameter" enabled="true" level="WARNING" enabled_by_default="true">
@@ -158,8 +158,8 @@
   <inspection_tool class="CustomClassloader" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CustomSecurityManager" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeclareCollectionAsInterface" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreLocalVariables" value="false" />
-    <option name="ignorePrivateMethodsAndFields" value="false" />
+    <option name="ignoreLocalVariables" value="true" />
+    <option name="ignorePrivateMethodsAndFields" value="true" />
   </inspection_tool>
   <inspection_tool class="DefaultNotLastCaseInSwitch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DeserializableClassInSecureContext" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
