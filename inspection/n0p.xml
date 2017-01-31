@@ -104,7 +104,7 @@
   <inspection_tool class="CharUsedInArithmeticContext" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckedExceptionClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClassEscapesItsScope" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ClassHasNoToStringMethod" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="ClassHasNoToStringMethod" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="excludeClassNames" value="Controller" />
     <option name="excludeException" value="true" />
     <option name="excludeDeprecated" value="true" />
@@ -120,7 +120,7 @@
     <option name="loggerNamesString" value="java.util.logging.Logger,org.slf4j.Logger,org.apache.commons.logging.Log,org.apache.log4j.Logger" />
   </inspection_tool>
   <inspection_tool class="ClassWithoutConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ClassWithoutNoArgConstructor" enabled="true" level="WARNING" enabled_by_default="true">
+  <inspection_tool class="ClassWithoutNoArgConstructor" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_ignoreClassesWithNoConstructors" value="true" />
   </inspection_tool>
   <inspection_tool class="CloneCallsConstructors" enabled="true" level="WARNING" enabled_by_default="true" />
