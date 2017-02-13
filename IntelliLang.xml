@@ -124,10 +124,6 @@
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("refresh").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("replicate").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.ReplicationMode").definedInClass("org.hibernate.Session"))]]></place>
     </injection>
-    <injection language="MySQL" injector-id="java">
-      <display-name>String.concat (java.lang)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("concat").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
-    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
