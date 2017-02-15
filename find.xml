@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
     <option name="defaultScopeName" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
