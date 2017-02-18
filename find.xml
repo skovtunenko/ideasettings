@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
-    <option name="defaultScopeName" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/skovtunenko/Documents/Dev/Java/GitCheckouts/javafxdemo/src/ch/makery/kotlin/KtTest.kt - [requisitionproduct]'" />
+    <option name="customScope" value="File '.../awscli/src/test/kotlin/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
+    <option name="defaultScopeName" value="File '.../awscli/src/test/kotlin/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
+    <option name="SEARCH_SCOPE" value="File '.../awscli/src/test/kotlin/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
