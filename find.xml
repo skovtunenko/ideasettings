@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../awscli/src/test/java/com/ghx/cli/parameters/commands/Ec2ThreadDumpCommandTest.kt - [aws-commandline-tool]'" />
-    <option name="defaultScopeName" value="File '.../awscli/src/test/java/com/ghx/cli/parameters/commands/Ec2ThreadDumpCommandTest.kt - [aws-commandline-tool]'" />
-    <option name="SEARCH_SCOPE" value="File '.../awscli/src/test/java/com/ghx/cli/parameters/commands/Ec2ThreadDumpCommandTest.kt - [aws-commandline-tool]'" />
+    <option name="customScope" value="File '.../awscli/src/test/java/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
+    <option name="defaultScopeName" value="File '.../awscli/src/test/java/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
+    <option name="SEARCH_SCOPE" value="File '.../awscli/src/test/java/com/ghx/AwsToolBaseSpringTest.kt - [aws-commandline-tool]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
