@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../awscli/src/main/java/com/ghx/cli/processors/CustomJCommanderWrapper.kt - [aws-commandline-tool]'" />
-    <option name="defaultScopeName" value="File '.../awscli/src/main/java/com/ghx/cli/processors/CustomJCommanderWrapper.kt - [aws-commandline-tool]'" />
-    <option name="SEARCH_SCOPE" value="File '.../awscli/src/main/java/com/ghx/cli/processors/CustomJCommanderWrapper.kt - [aws-commandline-tool]'" />
+    <option name="customScope" value="Project 'GRS_idea_2013'" />
+    <option name="defaultScopeName" value="Project 'GRS_idea_2013'" />
+    <option name="SEARCH_SCOPE" value="Project 'GRS_idea_2013'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
