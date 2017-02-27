@@ -628,6 +628,10 @@
   <inspection_tool class="UnnecessaryJavaDocLink" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoreInlineLinkToSuper" value="true" />
   </inspection_tool>
+  <inspection_tool class="UnnecessaryLocalVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
+    <option name="m_ignoreAnnotatedVariables" value="false" />
+  </inspection_tool>
   <inspection_tool class="UnnecessaryUnaryMinus" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnpredictableBigDecimalConstructorCall" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreReferences" value="true" />
