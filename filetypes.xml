@@ -4,6 +4,7 @@
       <mapping ext="props" type="DTD" />
       <mapping ext="graphml" type="Native" />
       <mapping ext="py" type="Native" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
