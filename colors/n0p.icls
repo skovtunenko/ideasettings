@@ -4,7 +4,7 @@
     <property name="created">2016-11-29T16:53:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-24T20:40:17</property>
+    <property name="modified">2017-03-27T16:21:58</property>
     <property name="originalScheme">_@user_Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -16,27 +16,27 @@
   <attributes>
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="a752cd" />
+        <option name="FOREGROUND" value="72d572" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="fa6bb2" />
+        <option name="FOREGROUND" value="ffab91" />
       </value>
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="85c52d" />
+        <option name="FOREGROUND" value="f8bbd0" />
       </value>
     </option>
     <option name="RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="e8d65c" />
+        <option name="FOREGROUND" value="b3e5fc" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="41a653" />
+        <option name="FOREGROUND" value="ffb74d" />
       </value>
     </option>
   </attributes>
