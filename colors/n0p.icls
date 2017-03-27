@@ -4,39 +4,13 @@
     <property name="created">2016-11-29T16:53:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-27T17:09:42</property>
+    <property name="modified">2017-03-27T17:49:36</property>
     <property name="originalScheme">_@user_Default</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <attributes>
-    <option name="RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="72d572" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="ffab91" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="f8bbd0" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="8fb1c7" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="ffb74d" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
