@@ -4,7 +4,7 @@
     <property name="created">2016-11-29T16:53:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-27T16:21:58</property>
+    <property name="modified">2017-03-27T16:41:42</property>
     <property name="originalScheme">_@user_Default</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -31,7 +31,7 @@
     </option>
     <option name="RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="b3e5fc" />
+        <option name="FOREGROUND" value="8fb1c7" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
