@@ -1,12 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="MySQL" injector-id="java">
-      <display-name>QueryProducer.createNativeQuery (org.hibernate.query)</display-name>
+      <display-name>QueryProducer (org.hibernate.query)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
