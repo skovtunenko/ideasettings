@@ -2,8 +2,71 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="MySQL" injector-id="java">
       <display-name>QueryProducer (org.hibernate.query)</display-name>
+      <place><![CDATA[psiMethod().withName("addSynchronizedEntityName").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("addSynchronizedQuerySpace").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("createNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setResultSetMapping").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addSynchronizedEntityName").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addSynchronizedQuerySpace").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setResultSetMapping").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
       <display-name>Session (org.hibernate)</display-name>
