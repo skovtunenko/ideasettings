@@ -32,13 +32,16 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateHierarchyToolWindow" />
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
   <action id="ActivatePersistenceToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="ctrl alt z" />

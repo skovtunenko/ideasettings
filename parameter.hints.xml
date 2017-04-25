@@ -1,9 +1,11 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
+      <blacklist language="Java" />
       <blacklist language="Java">
         <added pattern="com.ghx.common.manifest.ManifestInfo.ManifestInfo(componentName,componentVersion,buildDate,platformVersion,bambooVersion,gitHash,branch)" />
       </blacklist>
     </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="false" />
   </component>
 </application>

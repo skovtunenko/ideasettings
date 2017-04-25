@@ -1,13 +1,72 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="MySQL" injector-id="java">
-      <display-name>QueryProducer.createNativeQuery (org.hibernate.query)</display-name>
+      <display-name>QueryProducer (org.hibernate.query)</display-name>
+      <place><![CDATA[psiMethod().withName("addSynchronizedEntityName").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("addSynchronizedQuerySpace").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("createNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("getNamedSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiMethod().withName("setResultSetMapping").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addSynchronizedEntityName").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addSynchronizedQuerySpace").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedNativeQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getNamedSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setResultSetMapping").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Calendar", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameter").withParameters("java.lang.String", "java.util.Date", "javax.persistence.TemporalType").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
       <display-name>Session (org.hibernate)</display-name>
@@ -30,7 +89,7 @@
       <place><![CDATA[psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session")]]></place>
       <place><![CDATA[psiMethod().withName("getEmail").withParameters().definedInClass("com.requisitionproduct.entity.User")]]></place>
       <place><![CDATA[psiMethod().withName("getEnabledFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session")]]></place>
-      <place disabled="true"><![CDATA[psiMethod().withName("getEntityName").withParameters("java.lang.Object").definedInClass("org.hibernate.Session")]]></place>
+      <place><![CDATA[psiMethod().withName("getEntityName").withParameters("java.lang.Object").definedInClass("org.hibernate.Session")]]></place>
       <place><![CDATA[psiMethod().withName("getExternalUserId").withParameters().definedInClass("com.requisitionproduct.entity.User")]]></place>
       <place><![CDATA[psiMethod().withName("getFirstName").withParameters().definedInClass("com.requisitionproduct.entity.User")]]></place>
       <place><![CDATA[psiMethod().withName("getLastName").withParameters().definedInClass("com.requisitionproduct.entity.User")]]></place>
@@ -55,49 +114,49 @@
       <place><![CDATA[psiMethod().withName("setLogin").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User")]]></place>
       <place><![CDATA[psiMethod().withName("setPassword").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User")]]></place>
       <place><![CDATA[psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session")]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byMultipleIds").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byNaturalId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("bySimpleNaturalId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("contains").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byMultipleIds").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("byNaturalId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("bySimpleNaturalId").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("contains").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createFilter").withParameters("java.lang.Object", "java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("org.hibernate.SharedSessionContract"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("delete").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("disableFetchProfile").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("disableFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("enableFetchProfile").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("enableFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getEnabledFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("delete").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("disableFetchProfile").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("disableFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("enableFetchProfile").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("enableFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("get").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getEnabledFilter").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getEntityName").withParameters("java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isFetchProfileEnabled").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("lock").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("merge").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("persist").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("refresh").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("refresh").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replicate").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.ReplicationMode").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("save").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("saveOrUpdate").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("isFetchProfileEnabled").withParameters("java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("load").withParameters("java.lang.String", "java.io.Serializable", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("lock").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.LockMode").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("merge").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("persist").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("refresh").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("refresh").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.LockOptions").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("replicate").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.ReplicationMode").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("save").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("saveOrUpdate").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setEmail").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setExternalUserId").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setFirstName").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setLastName").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setLogin").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setPassword").withParameters("java.lang.String").definedInClass("com.requisitionproduct.entity.User"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("contains").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>
-      <place disabled="true"><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createFilter").withParameters("java.lang.Object", "java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createFilter").withParameters("java.lang.Object", "java.lang.String").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createNamedQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("createQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("org.hibernate.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("delete").withParameters("java.lang.String", "java.lang.Object").definedInClass("org.hibernate.Session"))]]></place>

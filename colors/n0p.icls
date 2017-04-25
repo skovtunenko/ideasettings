@@ -1,9 +1,10 @@
 <scheme name="n0p" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2016-11-29T16:53:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2017-03-16T20:08:37</property>
+    <property name="modified">2017-04-04T23:00:35</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -11,31 +12,4 @@
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="10" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <attributes>
-    <option name="RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="a752cd" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="fa6bb2" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="85c52d" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR3">
-      <value>
-        <option name="FOREGROUND" value="e8d65c" />
-      </value>
-    </option>
-    <option name="RAINBOW_COLOR4">
-      <value>
-        <option name="FOREGROUND" value="41a653" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
