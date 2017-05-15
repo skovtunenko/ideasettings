@@ -1,4 +1,5 @@
 <profile version="1.0">
+  <description>Useful java 8 inspections by Sergiy Kovtunenko</description>
   <option name="myName" value="n0p" />
   <inspection_tool class="AbstractClassExtendsConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassNeverImplemented" enabled="true" level="WARNING" enabled_by_default="true" />
