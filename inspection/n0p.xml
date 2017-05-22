@@ -355,7 +355,7 @@
   </inspection_tool>
   <inspection_tool class="MalformedSetUpTearDown" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MapReplaceableByEnumMap" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MethodCanBeVariableArityMethod" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="MethodMayBeStatic" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="m_onlyPrivateOrFinal" value="false" />
     <option name="m_ignoreEmptyMethods" value="true" />
@@ -523,7 +523,7 @@
   <inspection_tool class="StaticInheritance" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticMethodOnlyUsedInOneClass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticSuite" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="StaticVariableOfConcreteClass" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="StaticVariableOfConcreteClass" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="StringBufferField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringBufferMustHaveInitialCapacity" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StringBufferToStringInConcatenation" enabled="true" level="WARNING" enabled_by_default="true" />
