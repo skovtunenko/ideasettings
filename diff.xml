@@ -25,6 +25,7 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
             </list>
           </option>
         </PlaceSettings>
@@ -35,6 +36,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
