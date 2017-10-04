@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '/Volumes/SSD480Gb/Exadel/Git/GHX_from_develop/all/heimdall-rest/rest-common/src/main/java/com/ghx/rest/common/utils/excel/parsers/InvoiceInboxUserExcelParser.java - [rest-common]'" />
+    <option name="defaultScopeName" value="File '/Volumes/SSD480Gb/Exadel/Git/GHX_from_develop/all/heimdall-rest/rest-common/src/main/java/com/ghx/rest/common/utils/excel/parsers/InvoiceInboxUserExcelParser.java - [rest-common]'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/SSD480Gb/Exadel/Git/GHX_from_develop/all/heimdall-rest/rest-common/src/main/java/com/ghx/rest/common/utils/excel/parsers/InvoiceInboxUserExcelParser.java - [rest-common]'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
