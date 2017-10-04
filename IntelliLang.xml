@@ -186,7 +186,7 @@
     <injection language="MySQL" injector-id="java">
       <display-name>StringBuilder (java.lang)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringBuilder").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
     </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
