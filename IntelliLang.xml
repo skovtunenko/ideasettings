@@ -68,6 +68,10 @@
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.lang.Object[]", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("setParameterList").withParameters("java.lang.String", "java.util.Collection", "org.hibernate.type.Type").definedInClass("org.hibernate.query.NativeQuery"))]]></place>
     </injection>
+    <injection language="file-reference" injector-id="java">
+      <display-name>Resources.getResource (com.google.common.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getResource").withParameters("java.lang.String").definedInClass("com.google.common.io.Resources"))]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>Session (org.hibernate)</display-name>
       <place><![CDATA[psiMethod().withName("byId").withParameters("java.lang.String").definedInClass("org.hibernate.Session")]]></place>
