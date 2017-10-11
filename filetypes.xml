@@ -6,6 +6,7 @@
       <mapping ext="py" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="biar" type="PLAIN_TEXT" />
+      <mapping ext="tcf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
