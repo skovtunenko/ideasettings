@@ -621,7 +621,7 @@
   <inspection_tool class="UnaryPlus" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnconditionalWait" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnconstructableTestCase" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnnecessaryDefault" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnnecessaryDefault" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryExplicitNumericCast" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryInheritDoc" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryJavaDocLink" enabled="true" level="WEAK WARNING" enabled_by_default="true">
@@ -645,7 +645,7 @@
   <inspection_tool class="UseOfClone" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="UseOfObsoleteAssert" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UseOfPropertiesAsHashtable" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="VariableNotUsedInsideIf" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="VariableNotUsedInsideIf" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="VolatileArrayField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="VolatileLongOrDoubleField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="WaitCalledOnCondition" enabled="true" level="WARNING" enabled_by_default="true" />
