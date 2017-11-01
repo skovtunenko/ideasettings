@@ -83,7 +83,7 @@
     <option name="onlyReportMultiple" value="true" />
   </inspection_tool>
   <inspection_tool class="BooleanVariableAlwaysNegated" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="BreakStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BreakStatement" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BreakStatementWithLabel" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BusyWait" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CachedNumberConstructorCall" enabled="true" level="WARNING" enabled_by_default="true" />
