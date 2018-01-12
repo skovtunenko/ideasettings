@@ -188,6 +188,10 @@
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("replicate").withParameters("java.lang.String", "java.lang.Object", "org.hibernate.ReplicationMode").definedInClass("org.hibernate.Session"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
+      <display-name>SharedSessionContract.createSQLQuery (org.hibernate)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.SharedSessionContract"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>StringBuilder (java.lang)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("StringBuilder").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
       <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
