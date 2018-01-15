@@ -5,6 +5,6 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog-ext" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/99f6323_dbchangelog-ext.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/32b10bb8_dbchangelog-3.1.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/99f6323_dbchangelog-ext.xsd" />
-    <resource url="http://xml.apache.org/xalan" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/extResources/3273488e_xalan.html" />
+    <resource url="http://xml.apache.org/xalan" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.3/extResources/3273488e_xalan.html" />
   </component>
 </application>
