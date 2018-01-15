@@ -22,6 +22,7 @@
   <inspection_tool class="AssertEqualsCalledOnArray" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertEqualsMayBeAssertSame" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssertsWithoutMessages" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentOrReturnOfFieldWithMutableType" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToCatchBlockParameter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AssignmentToCollectionFieldFromParameter" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignorePrivateMethods" value="true" />
@@ -86,7 +87,6 @@
   <inspection_tool class="BreakStatement" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="BreakStatementWithLabel" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="BusyWait" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CachedNumberConstructorCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallToNativeMethodWhileLocked" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CallToSimpleGetterInClass" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreGetterCallsOnOtherObjects" value="false" />
@@ -99,6 +99,7 @@
   <inspection_tool class="CastConflictsWithInstanceof" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CastThatLosesPrecision" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreIntegerCharCasts" value="false" />
+    <option name="ignoreOverflowingByteCasts" value="false" />
   </inspection_tool>
   <inspection_tool class="CastToIncompatibleInterface" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ChannelResource" enabled="true" level="WARNING" enabled_by_default="true">
@@ -132,7 +133,6 @@
   <inspection_tool class="CloneableImplementsClone" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_ignoreCloneableDueToInheritance" value="false" />
   </inspection_tool>
-  <inspection_tool class="CollectionAddAllCanBeReplacedWithConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionContainsUrl" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionsFieldAccessReplaceableByMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CollectionsMustHaveInitialCapacity" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -142,9 +142,7 @@
   <inspection_tool class="ComparisonOfShortAndChar" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ComparisonToNaN" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionSignal" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConditionalExpression" enabled="true" level="WEAK WARNING" enabled_by_default="true">
-    <option name="ignoreSimpleAssignmentsAndReturns" value="false" />
-  </inspection_tool>
+  <inspection_tool class="ConditionalExpression" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConditionalExpressionWithIdenticalBranches" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConfusingElse" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="reportWhenNoStatementFollow" value="false" />
@@ -154,7 +152,7 @@
   <inspection_tool class="ConstantJUnitAssertArgument" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantMathCall" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantValueVariableUse" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ContinueStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ContinueStatement" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ContinueStatementWithLabel" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConvertReferenceToLambda" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="CovariantEquals" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -205,7 +203,7 @@
   <inspection_tool class="DriverManagerGetConnection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateBooleanBranch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateCondition" enabled="true" level="WARNING" enabled_by_default="true">
-    <option name="ignoreMethodCalls" value="false" />
+    <option name="ignoreSideEffectConditions" value="true" />
   </inspection_tool>
   <inspection_tool class="DynamicRegexReplaceableByCompiledPattern" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
@@ -391,7 +389,6 @@
   <inspection_tool class="NestedSynchronizedStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NestedTryStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NewExceptionWithoutArguments" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NonAtomicOperationOnVolatileField" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonExceptionNameEndsWithException" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalClone" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="NonFinalFieldOfException" enabled="true" level="WARNING" enabled_by_default="true" />
