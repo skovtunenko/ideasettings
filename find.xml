@@ -3,7 +3,6 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -25,6 +24,7 @@
       <mask>*.js</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*-beans.xml</mask>
     </recentFileMasks>
   </component>
 </application>
