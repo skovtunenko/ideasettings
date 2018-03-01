@@ -21,10 +21,10 @@
       <mask>*.properties</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
-      <mask>*.js</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*-beans.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
