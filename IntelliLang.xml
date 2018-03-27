@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="HQL" injector-id="java">
+      <display-name>Query.from (com.ghx.tpm.dao.domain.annotation)</display-name>
+      <place><![CDATA[psiMethod().withName("from").withParameters().definedInClass("com.ghx.tpm.dao.domain.annotation.Query")]]></place>
+    </injection>
     <injection language="MySQL" injector-id="java">
       <display-name>QueryProducer (org.hibernate.query)</display-name>
       <place><![CDATA[psiMethod().withName("addSynchronizedEntityName").withParameters("java.lang.String").definedInClass("org.hibernate.query.NativeQuery")]]></place>
@@ -73,7 +77,7 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("getResource").withParameters("java.lang.String").definedInClass("com.google.common.io.Resources"))]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
-      <display-name>Session (org.hibernate)</display-name>
+      <display-name>SharedSessionContract.createQuery (org.hibernate)</display-name>
       <place><![CDATA[psiMethod().withName("byId").withParameters("java.lang.String").definedInClass("org.hibernate.Session")]]></place>
       <place><![CDATA[psiMethod().withName("byMultipleIds").withParameters("java.lang.String").definedInClass("org.hibernate.Session")]]></place>
       <place><![CDATA[psiMethod().withName("byNaturalId").withParameters("java.lang.String").definedInClass("org.hibernate.Session")]]></place>
