@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Volumes/SSD480Gb/Exadel/.m2/repository/com/ghx/transport/docstore/05.06.00/docstore-05.06.00.jar [Maven: com.ghx.transport:docstore:05.06.00]'" />
-    <option name="defaultScopeName" value="Directory '/Volumes/SSD480Gb/Exadel/.m2/repository/com/ghx/transport/docstore/05.06.00/docstore-05.06.00.jar [Maven: com.ghx.transport:docstore:05.06.00]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Volumes/SSD480Gb/Exadel/.m2/repository/com/ghx/transport/docstore/05.06.00/docstore-05.06.00.jar [Maven: com.ghx.transport:docstore:05.06.00]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
