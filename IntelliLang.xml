@@ -207,6 +207,10 @@
       <display-name>includeAll/@path</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("path")).withParent(xmlTag().withLocalName(string().equalTo("includeAll")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog")))]]></place>
     </injection>
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>mongo</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("mongo")).withNamespace(string().equalTo("http://www.liquibase.org/xml/ns/dbchangelog-ext"))]]></place>
+    </injection>
     <injection language="SpringPlaceholderReference" injector-id="xml">
       <display-name>property/@value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("property")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
