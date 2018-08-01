@@ -1,5 +1,6 @@
 <application>
   <component name="GradleSystemSettings">
     <option name="serviceDirectoryPath" value="/Volumes/SSD480Gb/Dev/GradleUserHome" />
+    <option name="gradleVmOptions" value="-Xmx2048m" />
   </component>
 </application>
