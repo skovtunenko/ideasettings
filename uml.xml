@@ -2,8 +2,9 @@
   <component name="UmlConfiguration">
     <option name="categories">
       <map>
-        <entry id="JAVA" categories="Show Cyclic" />
+        <entry id="JAVA" categories="Methods;Show Cyclic" />
         <entry id="MODULES" categories="Libraries" />
+        <entry id="SPRING" categories="Neighbourhood Mode" />
       </map>
     </option>
   </component>
