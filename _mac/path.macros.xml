@@ -2,5 +2,9 @@
   <component name="PathMacrosImpl">
     <macro name="MAVEN_REPOSITORY" value="/Users/skovtunenko/.m2/repository" />
     <macro name="KOTLIN_BUNDLED" value="/Users/skovtunenko/Library/Application Support/IntelliJIdea2018.2/Kotlin/kotlinc" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
   </component>
 </application>
