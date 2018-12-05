@@ -2,14 +2,32 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-qa.yml" timestamp="1544006276162">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="4" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>bootstrapServers: 'kafka-0.broker:9092,kafka-1.broker:9092,kafka-2.broker:9092'</text>
+      </register>
+      <register name="-" type="4">
+        <text>bootstrapServers: 'kafka-0.broker:9092,kafka-1.broker:9092,kafka-2.broker:9092'</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
