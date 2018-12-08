@@ -2,7 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="FuraCode Nerd Font Mono" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="Andale Mono" />
+    <option name="SECONDARY_FONT_FAMILY" value="GoMono Nerd Font Mono" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
