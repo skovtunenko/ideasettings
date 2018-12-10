@@ -32,16 +32,21 @@
         <mark key="[" line="47" column="47" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1544441445158">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="42" column="5" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="5" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-pre.yml" timestamp="1544106678145">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="98" />
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1544446364647">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="89" column="8" />
+        <mark key="]" line="89" column="86" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-util-email-cleaner/src/main/resources/application.yml" timestamp="1544269552529">
         <mark key="'" line="10" column="9" />
@@ -76,16 +81,22 @@
       <jump line="31" column="9" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-util-email-cleaner/src/main/resources/application.yml" />
       <jump line="10" column="9" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-util-email-cleaner/src/main/resources/application.yml" />
       <jump line="91" column="6" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-util-email-cleaner/src/test/groovy/com/abcfinancial/util/emailcleaner/EmailTests.groovy" />
+      <jump line="93" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
+      <jump line="97" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
+      <jump line="98" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
+      <jump line="99" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
+      <jump line="100" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
+      <jump line="108" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">QFBvc3RNYXBwaW5nCiAgICBAUmVzcG9uc2VTdGF0dXMoIEh0dHBTdGF0dXMuQ1JFQVRFRCApCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8Pz4gY3JlYXRlVGVtcGxhdGUoIEBQcmVmZXJIZWFkZXIgZmluYWwgT3B0aW9uYWw8SGVhZGVyUHJlZmVyPiBoZWFkZXJQcmVmZXIsIEBSZXF1ZXN0Qm9keSBAVmFsaWQgRW1haWxUZW1wbGF0ZVZPIHRlbXBsYXRlLAogICAgICAgIGZpbmFsIFVyaUNvbXBvbmVudHNCdWlsZGVyIHVpYiApCiAgICB7CiAgICAgICAgcmV0dXJuIGhlYWRlclByZWZlckFjdGlvbiggaGVhZGVyUHJlZmVyLCB1aWIsIHRlbXBsYXRlLmdldElkKCksIEh0dHBTdGF0dXMuQ1JFQVRFRCwgKCkgLT4gZW1haWxUZW1wbGF0ZVNlcnZpY2UuY3JlYXRlKCB0ZW1wbGF0ZSApICk7CiAgICB9</text>
+        <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIyByZW1vdmUgYWZ0ZXIgbWlncmF0aW9uIHRvIFBST0QsIGFmdGVyIDIwLkRFQy4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIyByZW1vdmUgYWZ0ZXIgbWlncmF0aW9uIHRvIFBST0QsIGFmdGVyIDIwLkRFQy4K</text>
+      <register name="&quot;" type="4">
+        <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
       <register name="2" type="4">
         <text>purchase-request: 'PURCHASE_CREATED'
