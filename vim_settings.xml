@@ -31,7 +31,12 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/docker-compose.yml" timestamp="1544258960694">
         <mark key="[" line="47" column="47" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/setup-env.sh" timestamp="1544263545068" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1544441445158">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-pre.yml" timestamp="1544106678145">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="98" />
@@ -64,7 +69,6 @@
         <mark key="^" line="28" column="52" />
         <mark key="." line="28" column="52" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/init/mysql/create-users-schemas.sql" timestamp="1544260070813" />
     </filemarks>
     <jumps>
       <jump line="24" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
@@ -78,37 +82,38 @@
         <text encoding="base64">QFBvc3RNYXBwaW5nCiAgICBAUmVzcG9uc2VTdGF0dXMoIEh0dHBTdGF0dXMuQ1JFQVRFRCApCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8Pz4gY3JlYXRlVGVtcGxhdGUoIEBQcmVmZXJIZWFkZXIgZmluYWwgT3B0aW9uYWw8SGVhZGVyUHJlZmVyPiBoZWFkZXJQcmVmZXIsIEBSZXF1ZXN0Qm9keSBAVmFsaWQgRW1haWxUZW1wbGF0ZVZPIHRlbXBsYXRlLAogICAgICAgIGZpbmFsIFVyaUNvbXBvbmVudHNCdWlsZGVyIHVpYiApCiAgICB7CiAgICAgICAgcmV0dXJuIGhlYWRlclByZWZlckFjdGlvbiggaGVhZGVyUHJlZmVyLCB1aWIsIHRlbXBsYXRlLmdldElkKCksIEh0dHBTdGF0dXMuQ1JFQVRFRCwgKCkgLT4gZW1haWxUZW1wbGF0ZVNlcnZpY2UuY3JlYXRlKCB0ZW1wbGF0ZSApICk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlbWFpbDA3ZmQwNzEwMjgwZTQ5MDFAcWE0bGlmZS5jb20iLAogICAgImVtYWlsYjY3NjY1MmQzNmZiNDg5M0BxYTRsaWZlLmNvbSIsCg==</text>
+        <text encoding="base64">ICAgICAgIyByZW1vdmUgYWZ0ZXIgbWlncmF0aW9uIHRvIFBST0QsIGFmdGVyIDIwLkRFQy4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QFBvc3RNYXBwaW5nCiAgICBAUmVzcG9uc2VTdGF0dXMoIEh0dHBTdGF0dXMuQ1JFQVRFRCApCiAgICBwdWJsaWMgUmVzcG9uc2VFbnRpdHk8Pz4gY3JlYXRlVGVtcGxhdGUoIEBQcmVmZXJIZWFkZXIgZmluYWwgT3B0aW9uYWw8SGVhZGVyUHJlZmVyPiBoZWFkZXJQcmVmZXIsIEBSZXF1ZXN0Qm9keSBAVmFsaWQgRW1haWxUZW1wbGF0ZVZPIHRlbXBsYXRlLAogICAgICAgIGZpbmFsIFVyaUNvbXBvbmVudHNCdWlsZGVyIHVpYiApCiAgICB7CiAgICAgICAgcmV0dXJuIGhlYWRlclByZWZlckFjdGlvbiggaGVhZGVyUHJlZmVyLCB1aWIsIHRlbXBsYXRlLmdldElkKCksIEh0dHBTdGF0dXMuQ1JFQVRFRCwgKCkgLT4gZW1haWxUZW1wbGF0ZVNlcnZpY2UuY3JlYXRlKCB0ZW1wbGF0ZSApICk7CiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIyByZW1vdmUgYWZ0ZXIgbWlncmF0aW9uIHRvIFBST0QsIGFmdGVyIDIwLkRFQy4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">JCBhd3Mgc2VzIGxpc3QtaWRlbnRpdGllcwo=</text>
+      <register name="2" type="4">
+        <text>purchase-request: 'PURCHASE_CREATED'
+      forgot-password: 'RESET_PASSWORD_REQUESTED'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbmRlcjogJ25vcmVwbHlAYWJjYmlnYm94LmNvbScK</text>
+        <text encoding="base64">ICAgICJlbWFpbDA3ZmQwNzEwMjgwZTQ5MDFAcWE0bGlmZS5jb20iLAogICAgImVtYWlsYjY3NjY1MmQzNmZiNDg5M0BxYTRsaWZlLmNvbSIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhd3M6Cg==</text>
+        <text encoding="base64">JCBhd3Mgc2VzIGxpc3QtaWRlbnRpdGllcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWJjZmluYW5jaWFsOgo=</text>
+        <text encoding="base64">ICAgIHNlbmRlcjogJ25vcmVwbHlAYWJjYmlnYm94LmNvbScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3ZpZGVyOiAnU0VTJwo=</text>
+        <text encoding="base64">ICBhd3M6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlbWFpbDoK</text>
+        <text encoding="base64">YWJjZmluYW5jaWFsOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZW5hbmN5LnJlcXVpcmVkOiB0cnVlCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIHByb3ZpZGVyOiAnU0VTJwo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBlbWFpbDoK</text>
+      </register>
       <register name="-" type="4">
-        <text>bootstrapServers: 'kafka-0.broker:9092,kafka-1.broker:9092,kafka-2.broker:9092'</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
