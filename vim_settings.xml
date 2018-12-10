@@ -28,6 +28,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/sql/oauth_clients.sql" timestamp="1544451491787" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/docker-compose.yml" timestamp="1544258960694">
         <mark key="[" line="47" column="47" />
       </file>
@@ -68,6 +69,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1544451535557">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-pre.yml" timestamp="1544106111893">
         <mark key="[" line="28" column="35" />
         <mark key="]" line="28" column="52" />
@@ -96,7 +102,7 @@
         <text encoding="base64">ICAgICAgIyByZW1vdmUgYWZ0ZXIgbWlncmF0aW9uIHRvIFBST0QsIGFmdGVyIDIwLkRFQy4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
         <text>purchase-request: 'PURCHASE_CREATED'
@@ -124,7 +130,7 @@
         <text encoding="base64">ICBlbWFpbDoK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
