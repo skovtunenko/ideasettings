@@ -16,6 +16,7 @@
       <file name="/Dummy.txt" timestamp="1544106733510">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1544454204482" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-qa.yml" timestamp="1544106591302">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -44,6 +45,7 @@
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-dev.yml" timestamp="1544454334185" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1544446364647">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="89" column="8" />
