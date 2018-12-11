@@ -16,7 +16,6 @@
       <file name="/Dummy.txt" timestamp="1544106733510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1544454204482" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-qa.yml" timestamp="1544106591302">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -29,7 +28,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/sql/oauth_clients.sql" timestamp="1544451491787" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/docker-compose.yml" timestamp="1544258960694">
         <mark key="[" line="47" column="47" />
       </file>
@@ -45,7 +43,6 @@
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-dev.yml" timestamp="1544454334185" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1544446364647">
         <mark key="'" line="104" column="0" />
         <mark key="[" line="89" column="8" />
@@ -54,6 +51,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-util-email-cleaner/src/main/resources/application.yml" timestamp="1544269552529">
         <mark key="'" line="10" column="9" />
       </file>
+      <file name="/authorization-prod.yml" timestamp="1544529289605" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-pre.yml" timestamp="1544106710807">
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="63" />
