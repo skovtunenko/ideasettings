@@ -43,7 +43,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/Jenkinsfile" timestamp="1544605430990" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-prod.yml" timestamp="1544534735134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,7 +92,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule.yml" timestamp="1544604354629" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/billing.yml" timestamp="1544534572767">
         <mark key="[" line="69" column="80" />
         <mark key="]" line="83" column="81" />
@@ -109,10 +107,6 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/application-local.yml" timestamp="1544604965073" />
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/billing-pre.yml" timestamp="1544534600637">
-        <mark key="^" line="2" column="89" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-pre.yml" timestamp="1544534737393">
         <mark key="[" line="0" column="16" />
