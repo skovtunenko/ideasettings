@@ -68,6 +68,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1544709367359">
+        <mark key="'" line="215" column="26" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
@@ -104,6 +107,7 @@
       <jump line="108" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
       <jump line="58" column="6" filename="/Volumes/DEV/GitCheckouts/platform-configs/notification.yml" />
       <jump line="62" column="8" filename="/Volumes/DEV/GitCheckouts/platform-configs/notification.yml" />
+      <jump line="215" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
