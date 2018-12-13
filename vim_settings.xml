@@ -52,21 +52,20 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544604832638">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-prod.yml" timestamp="1544534394481">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/docker-compose.yml" timestamp="1544258960694">
-        <mark key="[" line="47" column="47" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1544534362674">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1544712885434">
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="." line="393" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1544711781648">
         <mark key="'" line="215" column="26" />
@@ -84,16 +83,10 @@
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1544534486777">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1544451535557">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1544604832622">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -140,34 +133,34 @@
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6ICdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6ICdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6ICdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbGllbnQ6Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXVyZWthOgo=</text>
+        <text encoding="base64">ICBjbGllbnQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogZmFsc2UgIyB3aWxsIHN1cGVyIGNlZGUgdGhlIHVyaSBhYm92ZSBhbmQgZ28gdG8gZXVyZWthCg==</text>
+        <text encoding="base64">ZXVyZWthOgo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZW5hYmxlZDogZmFsc2UgIyB3aWxsIHN1cGVyIGNlZGUgdGhlIHVyaSBhYm92ZSBhbmQgZ28gdG8gZXVyZWthCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZXVyZSdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">a2E6CiAgY2xpZW50OgogICAgZW5hYmxlZDogZmFsc2UKICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6IA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICBrYWZrYToKICAgIGJvb3RzdHJhcFNlcnZlcnM6ICdrYWZrYS0wLmJyb2tlcjo5MDkyLGthZmthLTEuYnJva2VyOjkwOTIsa2Fma2EtMi5icm9rZXI6OTA5MicKICAgIGNvbnN1bWVyOgogICAgICBncm91cElkOiBiaWxsaW5nLXRvcGljcwogICAgcHJvZHVjZXI6CiAgICAgIGtleVNlcmlhbGl6ZXI6IG9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplcgogICAgICB2YWx1ZVNlcmlhbGl6ZXI6IG9yZy5zcHJpbmdmcmFtZXdvcmsua2Fma2Euc3VwcG9ydC5zZXJpYWxpemVyLkpzb25TZXJpYWxpemVy</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c3ByaW5nOgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
