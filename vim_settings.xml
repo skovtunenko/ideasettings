@@ -13,12 +13,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-pre.yml" timestamp="1544533940424">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="98" />
-        <mark key="^" line="2" column="98" />
-        <mark key="." line="2" column="98" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1544534386189">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -53,18 +47,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-pre.yml" timestamp="1544106710807">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="29" column="63" />
-        <mark key="^" line="29" column="63" />
-        <mark key="." line="29" column="63" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-pre.yml" timestamp="1544534236741">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="25" column="52" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1544534371609">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -78,12 +60,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization.yml" timestamp="1544604316795">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="56" column="81" />
-        <mark key="." line="56" column="81" />
-        <mark key="^" line="56" column="81" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/docker-compose.yml" timestamp="1544258960694">
         <mark key="[" line="47" column="47" />
       </file>
@@ -91,12 +67,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/billing.yml" timestamp="1544534572767">
-        <mark key="[" line="69" column="80" />
-        <mark key="]" line="83" column="81" />
-        <mark key="^" line="83" column="81" />
-        <mark key="." line="83" column="81" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
@@ -107,12 +77,6 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-pre.yml" timestamp="1544534737393">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1544534486777">
         <mark key="[" line="0" column="0" />
