@@ -71,6 +71,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1544709367359">
         <mark key="'" line="215" column="26" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" timestamp="1544710029633">
+        <mark key="'" line="52" column="4" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
@@ -108,6 +111,29 @@
       <jump line="58" column="6" filename="/Volumes/DEV/GitCheckouts/platform-configs/notification.yml" />
       <jump line="62" column="8" filename="/Volumes/DEV/GitCheckouts/platform-configs/notification.yml" />
       <jump line="215" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
+      <jump line="19" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="20" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="21" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="23" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="28" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="29" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="30" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="31" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="33" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="34" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="37" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="38" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="39" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="40" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="42" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="43" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="46" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="47" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="48" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="49" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="51" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
+      <jump line="52" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
