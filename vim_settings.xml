@@ -3,36 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1544534371609">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-prod.yml" timestamp="1544534394481">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-qa.yml" timestamp="1544534759883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/sql/oauth_clients.sql" timestamp="1544775913507" />
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1544534362674">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1544712885434">
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1544534230193">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1544796595139">
+        <mark key="[" line="60" column="15" />
+        <mark key="]" line="60" column="10" />
+        <mark key="." line="60" column="10" />
+        <mark key="^" line="60" column="10" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1544534386189">
         <mark key="[" line="15" column="0" />
@@ -48,17 +34,11 @@
         <mark key="'" line="62" column="8" />
         <mark key="[" line="25" column="38" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions_v1.sql" timestamp="1544776120157" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1544711781648">
-        <mark key="'" line="215" column="26" />
-      </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/0.3.7/a39f81ffa155482b6359053182931a01b6c9bbf9/common-unit-test-0.3.7-sources.jar!/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1544775931429" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions.sql" timestamp="1544775377527" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1544534248711">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -69,13 +49,42 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" timestamp="1544710029633">
-        <mark key="'" line="52" column="4" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-dev.yml" timestamp="1544534654020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544796537228">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1544534371609">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-prod.yml" timestamp="1544534394481">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1544534362674">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1544712885434">
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions_v1.sql" timestamp="1544776120157" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/0.3.7/a39f81ffa155482b6359053182931a01b6c9bbf9/common-unit-test-0.3.7-sources.jar!/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1544775931429" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions.sql" timestamp="1544775377527" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" timestamp="1544710029633">
+        <mark key="'" line="52" column="4" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
@@ -86,6 +95,9 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1544796470639">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1544451535557">
         <mark key="[" line="53" column="0" />
@@ -137,34 +149,34 @@
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBkc3NmZnMoKQogICAgewogICAgICAgIFVTRVJfUEhPVE8udmFsdWUKICAgIH0K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBkc3NmZnMoKQogICAgewogICAgICAgIFVTRVJfUEhPVE8udmFsdWUKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6ICdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6ICdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGllbnQ6Cg==</text>
+        <text encoding="base64">ICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXVyZWthOgo=</text>
+        <text encoding="base64">ICBjbGllbnQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogZmFsc2UgIyB3aWxsIHN1cGVyIGNlZGUgdGhlIHVyaSBhYm92ZSBhbmQgZ28gdG8gZXVyZWthCg==</text>
+        <text encoding="base64">ZXVyZWthOgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZW5hYmxlZDogZmFsc2UgIyB3aWxsIHN1cGVyIGNlZGUgdGhlIHVyaSBhYm92ZSBhbmQgZ28gdG8gZXVyZWthCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZXVyZSdodHRwOi8vbG9jYWxob3N0OjgxODAvZXVyZWthJwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">a2E6CiAgY2xpZW50OgogICAgZW5hYmxlZDogZmFsc2UKICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6IA==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBrYWZrYToKICAgIGJvb3RzdHJhcFNlcnZlcnM6ICdrYWZrYS0wLmJyb2tlcjo5MDkyLGthZmthLTEuYnJva2VyOjkwOTIsa2Fma2EtMi5icm9rZXI6OTA5MicKICAgIGNvbnN1bWVyOgogICAgICBncm91cElkOiBiaWxsaW5nLXRvcGljcwogICAgcHJvZHVjZXI6CiAgICAgIGtleVNlcmlhbGl6ZXI6IG9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplcgogICAgICB2YWx1ZVNlcmlhbGl6ZXI6IG9yZy5zcHJpbmdmcmFtZXdvcmsua2Fma2Euc3VwcG9ydC5zZXJpYWxpemVyLkpzb25TZXJpYWxpemVy</text>
+        <text encoding="base64">a2E6CiAgY2xpZW50OgogICAgZW5hYmxlZDogZmFsc2UKICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
