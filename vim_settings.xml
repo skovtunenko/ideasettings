@@ -54,8 +54,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544796537228">
-        <mark key="[" line="23" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544802194375">
+        <mark key="[" line="8" column="4" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="21" column="12" />
         <mark key="." line="23" column="0" />
@@ -86,6 +86,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" timestamp="1544710029633">
         <mark key="'" line="52" column="4" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/storage/BucketType.java" timestamp="1544801957415">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
@@ -96,7 +101,7 @@
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1544796470639">
+      <file name="/Clipboard.txt" timestamp="1544801237529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1544451535557">
@@ -151,8 +156,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBkc3NmZnMoKQogICAgewogICAgICAgIFVTRVJfUEhPVE8udmFsdWUKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBkc3NmZnMoKQogICAgewogICAgICAgIFVTRVJfUEhPVE8udmFsdWUKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>location-document</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
@@ -179,7 +184,7 @@
         <text encoding="base64">a2E6CiAgY2xpZW50OgogICAgZW5hYmxlZDogZmFsc2UKICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>location-document</text>
       </register>
     </registers>
     <search>
