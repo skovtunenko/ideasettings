@@ -8,7 +8,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/sql/oauth_clients.sql" timestamp="1544775913507" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1544534230193">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -20,6 +19,18 @@
         <mark key="." line="60" column="10" />
         <mark key="^" line="60" column="10" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/build.gradle" timestamp="1544805032743">
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="10" />
+        <mark key="^" line="49" column="10" />
+        <mark key="." line="49" column="10" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/build.gradle" timestamp="1544805005347">
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="10" />
+        <mark key="^" line="45" column="10" />
+        <mark key="." line="45" column="10" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1544534386189">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -30,14 +41,25 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification.yml" timestamp="1544605124472">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="25" column="38" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/build.gradle" timestamp="1544805087873">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/test-data/build.gradle" timestamp="1544805100090">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/build.gradle" timestamp="1544805079276">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1544534248711">
         <mark key="[" line="10" column="0" />
@@ -53,6 +75,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/build.gradle" timestamp="1544805074796">
+        <mark key="[" line="65" column="11" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common/build.gradle" timestamp="1544805042418">
+        <mark key="[" line="66" column="15" />
+        <mark key="]" line="66" column="10" />
+        <mark key="^" line="66" column="10" />
+        <mark key="." line="66" column="10" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/build.gradle" timestamp="1544805057609">
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="11" />
+        <mark key="^" line="64" column="15" />
+        <mark key="." line="64" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544802194375">
         <mark key="[" line="8" column="4" />
@@ -70,6 +109,16 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/build.gradle" timestamp="1544805069759">
+        <mark key="[" line="63" column="11" />
+        <mark key="]" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/service-discovery/build.gradle" timestamp="1544805093339">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1544534362674">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -80,16 +129,21 @@
         <mark key="]" line="385" column="0" />
         <mark key="." line="385" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions_v1.sql" timestamp="1544776120157" />
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/0.3.7/a39f81ffa155482b6359053182931a01b6c9bbf9/common-unit-test-0.3.7-sources.jar!/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1544775931429" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/sql/insert_permissions.sql" timestamp="1544775377527" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" timestamp="1544710029633">
-        <mark key="'" line="52" column="4" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/build.gradle" timestamp="1544805084013">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/storage/BucketType.java" timestamp="1544801957415">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1544805018028">
+        <mark key="[" line="55" column="15" />
+        <mark key="]" line="55" column="10" />
+        <mark key="^" line="55" column="10" />
+        <mark key="." line="55" column="10" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
@@ -100,6 +154,14 @@
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-email/build.gradle" timestamp="1544805063987">
+        <mark key="[" line="65" column="11" />
+        <mark key="]" line="65" column="11" />
+        <mark key="." line="65" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/build.gradle" timestamp="1544805022567">
+        <mark key="[" line="47" column="15" />
       </file>
       <file name="/Clipboard.txt" timestamp="1544801237529">
         <mark key="[" line="0" column="0" />
@@ -157,7 +219,7 @@
         <text encoding="base64">ICAgIHN0YXRpYyBkc3NmZnMoKQogICAgewogICAgICAgIFVTRVJfUEhPVE8udmFsdWUKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>location-document</text>
+        <text>y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB0b2tlblNlcnZpY2UuCg==</text>
@@ -184,7 +246,7 @@
         <text encoding="base64">a2E6CiAgY2xpZW50OgogICAgZW5hYmxlZDogZmFsc2UKICAgIHNlcnZpY2VVcmwuZGVmYXVsdFpvbmU6IA==</text>
       </register>
       <register name="-" type="4">
-        <text>location-document</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
