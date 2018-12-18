@@ -8,6 +8,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/sql/oauth_clients.sql" timestamp="1545133085109" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1544534230193">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -94,6 +95,7 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/webhook/description/EventDescriptionsController.java" timestamp="1545133298838" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544802194375">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="19" column="0" />
@@ -115,6 +117,7 @@
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/webhook/registration/WebhookController.java" timestamp="1545133234207" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/service-discovery/build.gradle" timestamp="1544805093339">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
@@ -135,6 +138,7 @@
         <mark key="]" line="48" column="11" />
         <mark key="." line="48" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1545132706792" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/storage/BucketType.java" timestamp="1544801957415">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
@@ -167,7 +171,7 @@
       <file name="/Clipboard.txt" timestamp="1544801237529">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1544451535557">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1545133106550">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
