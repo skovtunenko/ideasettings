@@ -3,53 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1545307294258">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-qa.yml" timestamp="1544534759883">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1545307296846">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1544796595139">
-        <mark key="[" line="60" column="15" />
-        <mark key="]" line="60" column="10" />
-        <mark key="." line="60" column="10" />
-        <mark key="^" line="60" column="10" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/build.gradle" timestamp="1544805032743">
-        <mark key="[" line="49" column="15" />
-        <mark key="]" line="49" column="10" />
-        <mark key="^" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/build.gradle" timestamp="1544805005347">
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="10" />
-        <mark key="^" line="45" column="10" />
-        <mark key="." line="45" column="10" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1545307326331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-prod.yml" timestamp="1545307306454">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/build.gradle" timestamp="1544805087873">
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="51" column="11" />
-        <mark key="." line="51" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-dev.yml" timestamp="1545307283672">
         <mark key="[" line="1" column="0" />
@@ -61,33 +18,10 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/build.gradle" timestamp="1544805079276">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1545307311875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-prod.yml" timestamp="1544534735134">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/schedule-dev.yml" timestamp="1544534654020">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/organization.yml" timestamp="1545306832268">
-        <mark key="[" line="15" column="85" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/build.gradle" timestamp="1544805074796">
         <mark key="[" line="65" column="11" />
@@ -99,63 +33,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common/build.gradle" timestamp="1544805042418">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="10" />
-        <mark key="^" line="66" column="10" />
-        <mark key="." line="66" column="10" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/build.gradle" timestamp="1544805057609">
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="11" />
-        <mark key="^" line="64" column="15" />
-        <mark key="." line="64" column="11" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/BucketType.java" timestamp="1544802194375">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-pre.yml" timestamp="1545307300061">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1545307320243">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-prod.yml" timestamp="1545307322360">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1545307474381">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/build.gradle" timestamp="1544805069759">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/service-discovery/build.gradle" timestamp="1544805093339">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1545307317882">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1544712885434">
-        <mark key="[" line="385" column="0" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/build.gradle" timestamp="1544805084013">
         <mark key="[" line="48" column="11" />
@@ -166,17 +47,6 @@
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1544805018028">
-        <mark key="[" line="55" column="15" />
-        <mark key="]" line="55" column="10" />
-        <mark key="^" line="55" column="10" />
-        <mark key="." line="55" column="10" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
-        <mark key="[" line="26" column="53" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="53" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-prod.yml" timestamp="1544533251377">
         <mark key="[" line="24" column="35" />
@@ -198,11 +68,75 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1545306678085">
-        <mark key="[" line="41" column="45" />
-        <mark key="]" line="41" column="44" />
-        <mark key="^" line="41" column="44" />
-        <mark key="." line="41" column="44" />
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1545307294258">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1545307296846">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-prod.yml" timestamp="1545307306454">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/build.gradle" timestamp="1544805087873">
+        <mark key="[" line="51" column="11" />
+        <mark key="]" line="51" column="11" />
+        <mark key="." line="51" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/build.gradle" timestamp="1544805079276">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-pre.yml" timestamp="1545307300061">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1545307320243">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-prod.yml" timestamp="1545307322360">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545307474381">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/service-discovery/build.gradle" timestamp="1544805093339">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1545307317882">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1544712885434">
+        <mark key="[" line="385" column="0" />
+        <mark key="]" line="385" column="0" />
+        <mark key="." line="385" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
+        <mark key="[" line="26" column="53" />
+        <mark key="]" line="26" column="53" />
+        <mark key="." line="26" column="53" />
       </file>
     </filemarks>
     <jumps>
