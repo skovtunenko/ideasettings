@@ -128,10 +128,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1545133106550">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1545998471524">
+        <mark key="'" line="95" column="20" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="." line="222" column="58" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1545910926232">
         <mark key="'" line="51" column="24" />
@@ -210,6 +211,11 @@
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="45" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="51" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
+      <jump line="188" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
+      <jump line="222" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
+      <jump line="229" column="69" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
+      <jump line="238" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
+      <jump line="95" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -224,7 +230,7 @@
         <text>Added missing email.provider: 'SES' prope</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWFpbFByb3ZpZGVyXD4=</text>
+        <text encoding="base64">XDxFTF9ERVZPUFNPXD4=</text>
       </register>
       <register name="0" type="4">
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
@@ -263,9 +269,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWFpbFByb3ZpZGVyXD4=</last-search>
+      <last-search encoding="base64">XDxFTF9ERVZPUFNPXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWFpbFByb3ZpZGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFTF9ERVZPUFNPXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -273,6 +279,8 @@
       <history-search>
         <entry encoding="base64">XDxBbWF6b25cPg==</entry>
         <entry encoding="base64">XDxlbWFpbFByb3ZpZGVyXD4=</entry>
+        <entry>EL_DEVO</entry>
+        <entry encoding="base64">XDxFTF9ERVZPUFNPXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
