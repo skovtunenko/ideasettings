@@ -93,6 +93,7 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/0.3.20/22a33e7ab2b21f8b6230c1b1708823409c54bd4f/common-unit-test-0.3.20-sources.jar!/com/abcfinancial/api/common/test/crud/TestData.groovy" timestamp="1546282182133" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1545307317882">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -102,6 +103,12 @@
         <mark key="[" line="382" column="0" />
         <mark key="]" line="382" column="0" />
         <mark key="." line="382" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" timestamp="1546282308953">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="67" column="24" />
+        <mark key="]" line="67" column="25" />
+        <mark key="." line="67" column="24" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/storage/BucketType.java" timestamp="1544801957415">
         <mark key="[" line="10" column="24" />
@@ -128,7 +135,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1545998471524">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1546005887571">
         <mark key="'" line="95" column="20" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -216,6 +223,33 @@
       <jump line="229" column="69" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
       <jump line="238" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
       <jump line="95" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" />
+      <jump line="98" column="3" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="60" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="4" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="57" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="67" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="6" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="9" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="13" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="113" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="15" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="16" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="28" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="29" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="30" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="112" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="100" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="99" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="93" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="92" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="80" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="79" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="71" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="70" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="45" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="44" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
+      <jump line="31" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,6 +335,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
