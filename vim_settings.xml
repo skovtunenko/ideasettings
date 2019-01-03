@@ -14,6 +14,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1546514856727">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/catalog.yml" timestamp="1546507640842" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1545307326331">
         <mark key="[" line="1" column="0" />
@@ -35,8 +38,12 @@
         <mark key="]" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" timestamp="1546513874139">
-        <mark key="'" line="55" column="44" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" timestamp="1546515135643">
+        <mark key="'" line="131" column="62" />
+        <mark key="[" line="121" column="5" />
+        <mark key="]" line="123" column="24" />
+        <mark key="^" line="123" column="24" />
+        <mark key="." line="123" column="24" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/test-data/build.gradle" timestamp="1544805100090">
         <mark key="[" line="39" column="11" />
@@ -98,6 +105,11 @@
         <mark key="]" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteVO.java" timestamp="1546514553687">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/service-discovery/build.gradle" timestamp="1544805093339">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
@@ -120,11 +132,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" timestamp="1546282308953">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="67" column="24" />
-        <mark key="]" line="67" column="25" />
-        <mark key="." line="67" column="24" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
+        <mark key="'" line="29" column="16" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/storage/BucketType.java" timestamp="1544801957415">
         <mark key="[" line="10" column="24" />
@@ -152,21 +161,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka-test/2.1.7.RELEASE/ddedb0a0ea0840f758030d0cb397158d44b97e14/spring-kafka-test-2.1.7.RELEASE.jar!/META-INF/spring.factories" timestamp="1546509610838" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1546005887571">
-        <mark key="'" line="95" column="20" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="222" column="58" />
-      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
         <mark key="'" line="81" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="28" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="29" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="30" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="31" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="33" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
@@ -263,15 +262,14 @@
       <jump line="59" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" />
       <jump line="97" column="37" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" />
       <jump line="55" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
+      <jump line="123" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
+      <jump line="119" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
+      <jump line="29" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" />
+      <jump line="129" column="62" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return AmazonSimpleEmailServiceClientBuilder
-                .standard()
-                .withClientConfiguration( clientConfiguration )
-                .withCredentials( new AWSStaticCredentialsProvider( new BasicAWSCredentials( getAws().getAccessKey(), getAws().getSecretKey() ) ) )
-                .withRegion( Regions.fromName( getAws().getRegion() ) )
-                .build();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
       <register name="-" type="4">
         <text>Added missing email.provider: 'SES' prope</text>
@@ -282,16 +280,16 @@
       <register name="0" type="4">
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>return AmazonSimpleEmailServiceClientBuilder
                 .standard()
                 .withClientConfiguration( clientConfiguration )
                 .withCredentials( new AWSStaticCredentialsProvider( new BasicAWSCredentials( getAws().getAccessKey(), getAws().getSecretKey() ) ) )
                 .withRegion( Regions.fromName( getAws().getRegion() ) )
                 .build();</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
@@ -306,10 +304,10 @@
         <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmaWxlOiAuCg==</text>
+        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
+        <text encoding="base64">ICBmaWxlOiAuCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
