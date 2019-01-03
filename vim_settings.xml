@@ -50,6 +50,7 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/build.gradle" timestamp="1546509011479" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1545307311875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -108,6 +109,10 @@
         <mark key="]" line="382" column="0" />
         <mark key="." line="382" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1546510244367">
+        <mark key="'" line="97" column="37" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/test/groovy/com/abcfinancial/api/account/AccountTest.groovy" timestamp="1546509297421" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
@@ -142,6 +147,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka-test/2.1.7.RELEASE/ddedb0a0ea0840f758030d0cb397158d44b97e14/spring-kafka-test-2.1.7.RELEASE.jar!/META-INF/spring.factories" timestamp="1546509610838" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1546005887571">
         <mark key="'" line="95" column="20" />
         <mark key="[" line="53" column="0" />
@@ -161,7 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="21" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="23" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
@@ -261,6 +266,7 @@
       <jump line="91" column="4" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" />
       <jump line="81" column="4" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" />
       <jump line="59" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" />
+      <jump line="97" column="37" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
