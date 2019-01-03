@@ -8,12 +8,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1546438907561" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1546507463195" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1545307296846">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/catalog.yml" timestamp="1546507640842" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1545307326331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -39,7 +40,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1546444704072" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -108,13 +108,9 @@
         <mark key="]" line="382" column="0" />
         <mark key="." line="382" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/ClientAccessTests.groovy" timestamp="1546428457152" />
-      <file name="/UserController.java" timestamp="1546429243328" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1546445135615" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/resources/bootstrap.yml" timestamp="1546428551025" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/role/RoleTestData.groovy" timestamp="1546282308953">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="67" column="24" />
@@ -126,7 +122,6 @@
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1546444520706" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
