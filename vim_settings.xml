@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1545307294258">
@@ -8,7 +8,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1546507463195" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1545307296846">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -17,7 +16,6 @@
       <file name="/a.dummy" timestamp="1546514856727">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/catalog.yml" timestamp="1546507640842" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1545307326331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -50,7 +48,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" timestamp="1546511095901" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -61,7 +58,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/build.gradle" timestamp="1546509011479" />
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1545307311875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -128,7 +124,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1546510244367">
         <mark key="'" line="97" column="37" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/test/groovy/com/abcfinancial/api/account/AccountTest.groovy" timestamp="1546509297421" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
@@ -160,7 +155,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka-test/2.1.7.RELEASE/ddedb0a0ea0840f758030d0cb397158d44b97e14/spring-kafka-test-2.1.7.RELEASE.jar!/META-INF/spring.factories" timestamp="1546509610838" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
         <mark key="'" line="81" column="4" />
       </file>
