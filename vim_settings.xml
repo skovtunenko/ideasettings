@@ -8,6 +8,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1547326272819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-dev.yml" timestamp="1545307296846">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -127,6 +132,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" timestamp="1547326634034">
+        <mark key="'" line="5" column="45" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
       </file>
@@ -140,6 +148,10 @@
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1547326445064">
+        <mark key="[" line="975" column="19" />
+        <mark key="]" line="975" column="19" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-prod.yml" timestamp="1544533251377">
         <mark key="[" line="24" column="35" />
         <mark key="]" line="24" column="35" />
@@ -149,6 +161,9 @@
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="11" />
         <mark key="." line="65" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" timestamp="1547326571751">
+        <mark key="'" line="24" column="4" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-prod.yml" timestamp="1545307289881">
         <mark key="[" line="1" column="0" />
@@ -160,14 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="31" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="33" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="34" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="37" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="38" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="39" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="40" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="42" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="43" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="46" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
@@ -260,33 +267,41 @@
       <jump line="119" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
       <jump line="29" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" />
       <jump line="129" column="62" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" />
+      <jump line="19" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="30" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="36" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="18" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
+      <jump line="24" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
+      <jump line="5" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Added missing email.provider: 'SES' prope</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">bWFwIGprIDxFc2M+Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>return AmazonSimpleEmailServiceClientBuilder
                 .standard()
                 .withClientConfiguration( clientConfiguration )
                 .withCredentials( new AWSStaticCredentialsProvider( new BasicAWSCredentials( getAws().getAccessKey(), getAws().getSecretKey() ) ) )
                 .withRegion( Regions.fromName( getAws().getRegion() ) )
                 .build();</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
@@ -301,17 +316,20 @@
         <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaWxlOiAuCg==</text>
+        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
+        <text encoding="base64">ICBmaWxlOiAuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action GotoDeclaration</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -321,8 +339,16 @@
         <entry>EL_DEVO</entry>
         <entry encoding="base64">XDxFTF9ERVZPUFNPXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>action Replace</entry>
+        <entry>action $SelectAll</entry>
+        <entry>action $Cut</entry>
+        <entry>action GotoDeclaration</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -347,6 +373,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
