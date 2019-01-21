@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-qa.yml" timestamp="1545307294258">
@@ -101,6 +101,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="/application-local.yml" timestamp="1548065510861" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/build.gradle" timestamp="1544805069759">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
@@ -128,6 +129,9 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1546510244367">
         <mark key="'" line="97" column="37" />
+      </file>
+      <file name="/build.gradle" timestamp="1548065746597">
+        <mark key="'" line="89" column="41" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
@@ -173,9 +177,9 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
         <mark key="'" line="81" column="4" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/acceptance-tests/build.gradle" timestamp="1548065924225" />
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="43" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="46" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="47" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
@@ -275,6 +279,7 @@
       <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" />
       <jump line="24" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
       <jump line="5" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
+      <jump line="89" column="41" filename="/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +289,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</text>
+        <text>projectG</text>
       </register>
       <register name="0" type="4">
         <text>@RequestHeader( name = &quot;ABCFS-LOCATION-ID&quot;, required = false ) UUID locationId,</text>
@@ -326,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</last-search>
+      <last-search>projectG</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</last-pattern>
+      <last-pattern>projectG</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -342,6 +347,7 @@
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
+        <entry>projectG</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
