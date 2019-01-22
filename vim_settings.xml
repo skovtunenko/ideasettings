@@ -24,6 +24,13 @@
       <file name="/a.dummy" timestamp="1546514856727">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/BaseAmazonEmailService.java" timestamp="1548168398512">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="163" column="9" />
+        <mark key="]" line="163" column="8" />
+        <mark key="^" line="163" column="8" />
+        <mark key="." line="163" column="8" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-qa.yml" timestamp="1545307326331">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -111,6 +118,7 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientController.java" timestamp="1548168198535" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/build.gradle" timestamp="1544805069759">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
@@ -192,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="46" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="47" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
       <jump line="48" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
@@ -292,6 +299,7 @@
       <jump line="24" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
       <jump line="5" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" />
       <jump line="89" column="41" filename="/build.gradle" />
+      <jump line="161" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/BaseAmazonEmailService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
