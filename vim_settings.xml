@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1546514856727">
@@ -200,11 +200,11 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
         <mark key="'" line="81" column="4" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/provider/AmazonEmailProvider.java" timestamp="1548186371284">
-        <mark key="[" line="21" column="49" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/provider/AmazonEmailProvider.java" timestamp="1548188097882">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -311,7 +311,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">QExhenkK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -323,36 +323,37 @@
         <text>abcfinancial:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">QExhenkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBbWF6b25FbWFpbFByb3ZpZGVyKCBBbWF6b24KICAgICAgICB0aGlzLmFtYXpvblNFUyA9IGFtYXpvblNFUzsKICAgIH0KCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bWFwIGprIDxFc2M+Cg==</text>
+      <register name="3" type="4">
+        <text>SimpleEmailService amazonSES )
+    {</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">QExhenkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">bWFwIGprIDxFc2M+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIEBKc29uSWdub3JlCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>return AmazonSimpleEmailServiceClientBuilder
                 .standard()
                 .withClientConfiguration( clientConfiguration )
                 .withCredentials( new AWSStaticCredentialsProvider( new BasicAWSCredentials( getAws().getAccessKey(), getAws().getSecretKey() ) ) )
                 .withRegion( Regions.fromName( getAws().getRegion() ) )
                 .build();</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBmaWxlOiBzcHJpbmcubG9nCg==</text>
       </register>
       <register name=":" type="4">
         <text>action GotoDeclaration</text>
