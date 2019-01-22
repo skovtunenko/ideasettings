@@ -8,6 +8,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/MemberValidator.java" timestamp="1548155170061">
+        <mark key="[" line="57" column="55" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1547326272819">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -63,12 +66,18 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1548152830906" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1548154824829">
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+        <mark key="." line="53" column="37" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/notification-qa.yml" timestamp="1545307311875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" timestamp="1548155311885" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/build.gradle" timestamp="1544805074796">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="11" />
