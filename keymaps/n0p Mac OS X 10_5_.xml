@@ -1,29 +1,8 @@
 <keymap version="1" name="n0p Mac OS X 10.5+" parent="Mac OS X 10.5+">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="$Cut">
-    <keyboard-shortcut first-keystroke="meta x" />
-    <keyboard-shortcut first-keystroke="shift delete" />
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
-  </action>
-  <action id="$SelectAll">
-    <keyboard-shortcut first-keystroke="ctrl a" />
-    <keyboard-shortcut first-keystroke="meta a" />
-  </action>
-  <action id="$Undo">
-    <keyboard-shortcut first-keystroke="meta z" />
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
@@ -84,20 +63,8 @@
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
-  <action id="Editor Cut">
-    <keyboard-shortcut first-keystroke="ctrl x" />
-  </action>
-  <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
-  </action>
-  <action id="Editor Undo">
-    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement">
     <keyboard-shortcut first-keystroke="shift meta enter" />
@@ -292,6 +259,7 @@
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
   </action>
+  <action id="VimPluginToggle" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocGenerateActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocRemoveActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor" />
