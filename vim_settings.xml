@@ -59,11 +59,13 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
         <mark key="'" line="59" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1548593715086">
-        <mark key="'" line="59" column="8" />
-        <mark key="[" line="84" column="8" />
-        <mark key="]" line="84" column="8" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1548677029679">
+        <mark key="[" line="104" column="35" />
+        <mark key="]" line="104" column="38" />
+        <mark key="^" line="104" column="38" />
+        <mark key="." line="104" column="38" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/RESET_PASSWORD_REQUESTED.mustache" timestamp="1548675783950" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/build.gradle" timestamp="1544805069759">
         <mark key="[" line="63" column="11" />
         <mark key="]" line="63" column="11" />
@@ -218,6 +220,7 @@
       <file name="/build.gradle" timestamp="1548075443013">
         <mark key="'" line="89" column="41" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/billing-qa.yml" timestamp="1548675053371" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemBase.java" timestamp="1548672005841">
         <mark key="'" line="14" column="31" />
       </file>
@@ -349,7 +352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAtIHBhdGg6ICdwcm9jZXNzb3IvZW5kcG9pbnQxJwo=</text>
       </register>
       <register name="-" type="4">
         <text>sadfsadf</text>
@@ -358,7 +361,7 @@
         <text>- path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIHBhdGg6ICdwcm9jZXNzb3IvZW5kcG9pbnQxJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
