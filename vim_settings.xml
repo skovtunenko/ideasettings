@@ -122,6 +122,9 @@
         <mark key="]" line="51" column="11" />
         <mark key="." line="51" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/MemberPhoneVOMapper.java" timestamp="1548757011733">
+        <mark key="'" line="46" column="33" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/bootstrap.yml" timestamp="1544605438260">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -213,6 +216,12 @@
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1548757287617">
+        <mark key="[" line="5" column="137" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
         <mark key="'" line="12" column="47" />
       </file>
@@ -230,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="115" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="114" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="113" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -330,10 +338,11 @@
       <jump line="14" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemBase.java" />
       <jump line="86" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/test/groovy/com/abcfinancial/api/item/ItemTests.groovy" />
       <jump line="12" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" />
+      <jump line="46" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/MemberPhoneVOMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtIHBhdGg6ICdwcm9jZXNzb3IvZW5kcG9pbnQxJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sadfsadf</text>
@@ -345,25 +354,25 @@
         <text encoding="base64">ICAgICAgICAtIHBhdGg6ICdwcm9jZXNzb3IvZW5kcG9pbnQxJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBnbG9iYWxMZXZlbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBnbG9iYWxMZXZlbDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
