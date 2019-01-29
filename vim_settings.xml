@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" timestamp="1548619196783">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="129" column="12" />
-        <mark key="]" line="129" column="12" />
-        <mark key="." line="129" column="12" />
-        <mark key="^" line="129" column="12" />
-      </file>
       <file name="/a.dummy" timestamp="1548189717115">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,13 +15,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationNoteController.java" timestamp="1546515135643">
-        <mark key="'" line="131" column="62" />
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="123" column="24" />
-        <mark key="^" line="123" column="24" />
-        <mark key="." line="123" column="24" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/test-data/build.gradle" timestamp="1544805100090">
         <mark key="[" line="39" column="11" />
@@ -73,7 +59,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/v1_88_0/source/2018_02_07.EINV-1486_add_einvoicing_po_matching_action.xml" timestamp="1548748528043" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" timestamp="1547326634034">
         <mark key="'" line="5" column="45" />
       </file>
@@ -122,13 +107,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/BaseAmazonEmailService.java" timestamp="1548189748555">
-        <mark key="'" line="161" column="4" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="163" column="8" />
-        <mark key="." line="97" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/user/AccessProfileVO.java" timestamp="1548671096351">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -155,11 +133,13 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/v1_88_0/source/2018_02_21.MEXV-4375_Add_bp_user_data_field.xml" timestamp="1548751975381" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/build.gradle" timestamp="1544805079276">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
+      </file>
+      <file name="/a.sql" timestamp="1548755496276">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/employee/AccessProfile.java" timestamp="1548671388257">
         <mark key="[" line="39" column="0" />
@@ -171,6 +151,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1548755791000">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1545307320243">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -181,7 +164,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548184741486">
+      <file name="/Dummy.txt" timestamp="1548755659887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -218,13 +201,20 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/Item.java" timestamp="1548672003423">
         <mark key="'" line="12" column="28" />
       </file>
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/member_phone.sql" timestamp="1548755821026" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
+      </file>
+      <file name="/organization.member_phone [DEV RO]" timestamp="1548755786681">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/conversion.yml" timestamp="1544533260624">
         <mark key="[" line="26" column="53" />
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
+        <mark key="'" line="12" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1548185788799">
         <mark key="[" line="0" column="0" />
@@ -240,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="116" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="115" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="114" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -340,6 +329,7 @@
       <jump line="12" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/Item.java" />
       <jump line="14" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemBase.java" />
       <jump line="86" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/test/groovy/com/abcfinancial/api/item/ItemTests.groovy" />
+      <jump line="12" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
