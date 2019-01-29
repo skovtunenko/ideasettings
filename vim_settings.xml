@@ -1,13 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1548776751782">
-        <mark key="[" line="119" column="60" />
-        <mark key="]" line="119" column="61" />
-        <mark key="^" line="119" column="55" />
-        <mark key="." line="119" column="61" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1548780066428">
+        <mark key="[" line="119" column="31" />
+        <mark key="]" line="119" column="35" />
+        <mark key="^" line="119" column="35" />
+        <mark key="." line="119" column="35" />
       </file>
       <file name="/a.dummy" timestamp="1548189717115">
         <mark key="[" line="0" column="0" />
@@ -26,6 +26,9 @@
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
+      </file>
+      <file name="/authorization.oauth_client [DEV RO]" timestamp="1548779876851">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1548170010046">
         <mark key="[" line="53" column="23" />
@@ -154,6 +157,7 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization.yml" timestamp="1548779413419" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/validator/MemberValidator.java" timestamp="1548760336359" />
       <file name="/a.sql" timestamp="1548755496276">
         <mark key="[" line="0" column="0" />
@@ -168,7 +172,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1548755791000">
+      <file name="/dummy.sql" timestamp="1548779880580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-pre.yml" timestamp="1545307320243">
@@ -196,6 +200,9 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
+      <file name="/authorization.permission [DEV RO]" timestamp="1548779839932">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/organization-dev.yml" timestamp="1545307317882">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -205,6 +212,9 @@
         <mark key="[" line="382" column="0" />
         <mark key="]" line="382" column="0" />
         <mark key="." line="382" column="0" />
+      </file>
+      <file name="/member_phone [DEV RO]" timestamp="1548779839669">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
         <mark key="'" line="420" column="27" />
@@ -230,7 +240,7 @@
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="53" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1548777722279">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1548779169291">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="141" />
         <mark key="]" line="6" column="0" />
@@ -357,10 +367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>organization:admin</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>organization:admin</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>- path</text>
@@ -396,7 +406,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -424,11 +434,11 @@
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
-        <entry>action $SelectAll</entry>
         <entry>action $Cut</entry>
         <entry>action GotoDeclaration</entry>
         <entry>s/- path/ aaa /gc</entry>
         <entry>w</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
