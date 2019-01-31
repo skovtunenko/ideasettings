@@ -47,6 +47,13 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
+        <mark key="'" line="110" column="38" />
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/build.gradle" timestamp="1544805074796">
         <mark key="[" line="65" column="11" />
         <mark key="]" line="65" column="11" />
@@ -263,9 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="110" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="109" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="108" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="107" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="106" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -363,13 +367,16 @@
       <jump line="6" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
       <jump line="52" column="1" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" />
+      <jump line="112" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" />
+      <jump line="110" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" />
+      <jump line="99" column="13" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/web/client/RestTemplateBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>ErrorHandlingAdvic</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ErrorHandlingAdvic</text>
       </register>
       <register name="/" type="4">
         <text>- path</text>
