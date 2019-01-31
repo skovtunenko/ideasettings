@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1548780066428">
@@ -95,6 +95,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" timestamp="1547326571751">
         <mark key="'" line="24" column="4" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1548965875403">
+        <mark key="'" line="52" column="1" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-prod.yml" timestamp="1545307289881">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -122,7 +125,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/util/ScopesAuthoritiesSnippet.groovy" timestamp="1548769625259" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/user/AccessProfileVO.java" timestamp="1548671096351">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -157,8 +159,6 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization.yml" timestamp="1548779413419" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/validator/MemberValidator.java" timestamp="1548760336359" />
       <file name="/a.sql" timestamp="1548755496276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -228,7 +228,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/Item.java" timestamp="1548672003423">
         <mark key="'" line="12" column="28" />
       </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/member_phone.sql" timestamp="1548778111880" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
       </file>
@@ -264,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="111" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="110" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="109" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -364,6 +362,7 @@
       <jump line="420" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" />
       <jump line="6" column="82" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
       <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" />
+      <jump line="52" column="1" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
