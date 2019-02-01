@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1548780066428">
@@ -102,8 +102,10 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" timestamp="1547326571751">
         <mark key="'" line="24" column="4" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1548965875403">
-        <mark key="'" line="52" column="1" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1548967655313">
+        <mark key="'" line="111" column="11" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="169" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/authorization-prod.yml" timestamp="1545307289881">
         <mark key="[" line="1" column="0" />
@@ -270,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="107" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="106" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="105" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -370,13 +371,14 @@
       <jump line="112" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" />
       <jump line="110" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" />
       <jump line="99" column="13" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/web/client/RestTemplateBuilder.java" />
+      <jump line="111" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ErrorHandlingAdvic</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCgkJCQkua2V5U2V0KCkpIHsKCQkJU3RyaW5nIHRlc3RLZXkgPSB0ZXN0QXV0aG9yaXR5LmdldEF1dGhvcml0eSgpOwoJCQlpZiAoKHRlc3RLZXkgIT0gbnVsbCkgJiYgKHRlc3RLZXkuZXF1YWxzKGF1dGhvcml0eS5nZXRBdXRob3JpdHkoKSkpKSB7CgkJCQlyZXR1cm4gdGhpcy5yb2xlc1JlYWNoYWJsZUluT25lT3JNb3JlU3RlcHNNYXAuZ2V0KHRlc3RBdXRob3JpdHkpOwoJCQl9CgkJfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>ErrorHandlingAdvic</text>
+        <text>(testKey != null)</text>
       </register>
       <register name="/" type="4">
         <text>- path</text>
@@ -385,31 +387,31 @@
         <text encoding="base64">ICAgICAgICAtIHBhdGg6ICdwcm9jZXNzb3IvZW5kcG9pbnQxJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCgkJCQkua2V5U2V0KCkpIHsKCQkJU3RyaW5nIHRlc3RLZXkgPSB0ZXN0QXV0aG9yaXR5LmdldEF1dGhvcml0eSgpOwoJCQlpZiAoKHRlc3RLZXkgIT0gbnVsbCkgJiYgKHRlc3RLZXkuZXF1YWxzKGF1dGhvcml0eS5nZXRBdXRob3JpdHkoKSkpKSB7CgkJCQlyZXR1cm4gdGhpcy5yb2xlc1JlYWNoYWJsZUluT25lT3JNb3JlU3RlcHNNYXAuZ2V0KHRlc3RBdXRob3JpdHkpOwoJCQl9CgkJfQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgkJZm9yIChHcmFudGVkQXV0aG9yaXR5IHRlc3RBdXRob3JpdHkgOiB0aGlzLnJvbGVzUmVhY2hhYmxlSW5PbmVPck1vcmVTdGVwc01hcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBnbG9iYWxMZXZlbDsK</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">CS8qKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCgkJCQkua2V5U2V0KCkpIHsKCQkJU3RyaW5nIHRlc3RLZXkgPSB0ZXN0QXV0aG9yaXR5LmdldEF1dGhvcml0eSgpOwoJCQlpZiAoKHRlc3RLZXkgIT0gbnVsbCkgJiYgKHRlc3RLZXkuZXF1YWxzKGF1dGhvcml0eS5nZXRBdXRob3JpdHkoKSkpKSB7CgkJCQlyZXR1cm4gdGhpcy5yb2xlc1JlYWNoYWJsZUluT25lT3JNb3JlU3RlcHNNYXAuZ2V0KHRlc3RBdXRob3JpdHkpOwoJCQl9CgkJfQoKCQlyZXR1cm4gbnVsbDsKCX0KCgkvKioK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCgkJCQkua2V5U2V0KCkpIHsKCQkJU3RyaW5nIHRlc3RLZXkgPSB0ZXN0QXV0aG9yaXR5LmdldEF1dGhvcml0eSgpOwoJCQlpZiAoKHRlc3RLZXkgIT0gbnVsbCkgJiYgKHRlc3RLZXkuZXF1YWxzKGF1dGhvcml0eS5nZXRBdXRob3JpdHkoKSkpKSB7CgkJCQlyZXR1cm4gdGhpcy5yb2xlc1JlYWNoYWJsZUluT25lT3JNb3JlU3RlcHNNYXAuZ2V0KHRlc3RBdXRob3JpdHkpOwoJCQl9CgkJfQoKCQlyZXR1cm4gbnVsbDsKCX0KCgkvKioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBvcmdhbml6YXRpb25BY2Nlc3M7Cg==</text>
+        <text encoding="base64">CQlmb3IgKEdyYW50ZWRBdXRob3JpdHkgdGVzdEF1dGhvcml0eSA6IHRoaXMucm9sZXNSZWFjaGFibGVJbk9uZU9yTW9yZVN0ZXBzTWFwCgkJCQkua2V5U2V0KCkpIHsKCQkJU3RyaW5nIHRlc3RLZXkgPSB0ZXN0QXV0aG9yaXR5LmdldEF1dGhvcml0eSgpOwoJCQlpZiAoKHRlc3RLZXkgIT0gbnVsbCkgJiYgKHRlc3RLZXkuZXF1YWxzKGF1dGhvcml0eS5nZXRBdXRob3JpdHkoKSkpKSB7CgkJCQlyZXR1cm4gdGhpcy5yb2xlc1JlYWNoYWJsZUluT25lT3JNb3JlU3RlcHNNYXAuZ2V0KHRlc3RBdXRob3JpdHkpOwoJCQl9CgkJfQoKCQlyZXR1cm4gbnVsbDsKCX0KCgkvKioK</text>
       </register>
       <register name=":" type="4">
         <text>action $SelectAll</text>
