@@ -30,7 +30,7 @@
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="/authorization.oauth_client [DEV RO]" timestamp="1548779876851">
+      <file name="/authorization.oauth_client [DEV RO]" timestamp="1549290442135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1548170010046">
@@ -94,6 +94,9 @@
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
+      </file>
+      <file name="/authorization.role_permission [DEV RO]" timestamp="1549290442654">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-prod.yml" timestamp="1544533251377">
         <mark key="[" line="24" column="35" />
@@ -283,6 +286,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
         <mark key="'" line="12" column="47" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/Email.java" timestamp="1549290435926" />
       <file name="/fragment.java" timestamp="1548185788799">
         <mark key="[" line="0" column="0" />
       </file>
