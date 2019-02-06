@@ -71,11 +71,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" timestamp="1547326571751">
         <mark key="'" line="24" column="4" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1548967655313">
-        <mark key="'" line="111" column="11" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="169" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/test/groovy/com/abcfinancial/api/item/ItemTests.groovy" timestamp="1548672102768">
         <mark key="'" line="86" column="19" />
       </file>
@@ -173,6 +168,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
         <mark key="'" line="12" column="47" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/resources/application-local.yml" timestamp="1549465794187" />
       <file name="/payment_gateway.nacha_destination [DEV RO]" timestamp="1549441304725">
         <mark key="[" line="0" column="0" />
       </file>
