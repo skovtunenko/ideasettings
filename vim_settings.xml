@@ -137,6 +137,12 @@
       <file name="/authorization.permission [DEV RO]" timestamp="1548779839932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1549473274631">
+        <mark key="'" line="319" column="29" />
+        <mark key="[" line="382" column="0" />
+        <mark key="]" line="382" column="0" />
+        <mark key="." line="382" column="0" />
+      </file>
       <file name="/member_phone [DEV RO]" timestamp="1548779839669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -146,11 +152,15 @@
       <file name="/build.gradle" timestamp="1548075443013">
         <mark key="'" line="89" column="41" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" timestamp="1549473307012" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemBase.java" timestamp="1548672005841">
         <mark key="'" line="14" column="31" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/Item.java" timestamp="1548672003423">
         <mark key="'" line="12" column="28" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1549473262137">
+        <mark key="'" line="273" column="27" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
@@ -186,8 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" />
-      <jump line="40" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" />
       <jump line="46" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" />
       <jump line="55" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" />
       <jump line="57" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/SampleApp/src/main/java/com/abcfinancial/formatters/sample/PaymentRequestsSample.java" />
@@ -286,6 +294,8 @@
       <jump line="85" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" />
       <jump line="83" column="6" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" />
       <jump line="15" column="78" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/mapper/EntityToVOMapperWithDividedVOs.java" />
+      <jump line="273" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
+      <jump line="319" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
