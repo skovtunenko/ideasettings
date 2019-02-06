@@ -51,11 +51,7 @@
         <mark key="^" line="4" column="13" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
-        <mark key="'" line="110" column="38" />
-        <mark key="[" line="58" column="41" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="7" />
-        <mark key="^" line="58" column="7" />
+        <mark key="'" line="112" column="38" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/build.gradle" timestamp="1544805074796">
         <mark key="[" line="65" column="11" />
@@ -97,6 +93,9 @@
       </file>
       <file name="/authorization.role_permission [DEV RO]" timestamp="1549441172835">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" timestamp="1549443472185">
+        <mark key="'" line="18" column="23" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/platform-configs/catalog-prod.yml" timestamp="1544533251377">
         <mark key="[" line="24" column="35" />
@@ -303,11 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="74" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="73" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="72" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
-      <jump line="71" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="70" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="69" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
       <jump line="68" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" />
@@ -403,6 +397,11 @@
       <jump line="54" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="49" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="367" column="56" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.11.Final/b4d2ba5d83739ec3eeba2e78834ff5975ecc5ccb/hibernate-validator-6.0.11.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" />
+      <jump line="73" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
+      <jump line="62" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
+      <jump line="65" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
+      <jump line="15" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
+      <jump line="18" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -412,7 +411,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>- path</text>
+        <text>copyW</text>
       </register>
       <register name="0" type="4">
         <text>SELECT count(*) as 'COUNT', SUm(oi.quantity), AVG(oi.quantity), min(oi.quantity), max(oi.quantity)
@@ -450,9 +449,9 @@ FROM OrderItems as oi;</text>
       </register>
     </registers>
     <search>
-      <last-search>- path</last-search>
+      <last-search>copyW</last-search>
       <last-offset />
-      <last-pattern>- path</last-pattern>
+      <last-pattern>copyW</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>- path</last-substitute>
       <last-dir>1</last-dir>
@@ -471,6 +470,7 @@ FROM OrderItems as oi;</text>
         <entry>projectG</entry>
         <entry>%s</entry>
         <entry>- path</entry>
+        <entry>copyW</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
