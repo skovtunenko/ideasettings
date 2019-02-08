@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/awssimulation/AwsStackCreationSimulation.java" timestamp="1549230371546">
         <mark key="'" line="103" column="10" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1549625569048">
+        <mark key="[" line="39" column="60" />
+        <mark key="]" line="39" column="60" />
+        <mark key="." line="39" column="68" />
+        <mark key="^" line="32" column="68" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1549482668772">
         <mark key="'" line="30" column="11" />
       </file>
@@ -161,7 +167,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549622586747">
+      <file name="/Dummy.txt" timestamp="1549625573998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -339,11 +345,11 @@
       <jump line="28" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>admin</text>
       </register>
       <register name="-" type="4">
-        <text>Only interested only in those who doesn't have topic yet</text>
+        <text>admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
