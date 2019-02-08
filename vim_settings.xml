@@ -105,6 +105,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" timestamp="1549628042726">
         <mark key="'" line="2" column="59" />
       </file>
+      <file name="/UserEmailVerificationEventProcessor.java" timestamp="1549642906757" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" timestamp="1549464196526">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="482" column="63" />
@@ -260,6 +261,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/event/LocationCreatedEvent.java" timestamp="1549640528754">
+        <mark key="'" line="6" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.txt" timestamp="1548779169291">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="141" />
@@ -284,7 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="63" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="61" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="54" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
@@ -384,6 +387,7 @@
       <jump line="76" column="77" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
       <jump line="28" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
       <jump line="2" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" />
+      <jump line="6" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/event/LocationCreatedEvent.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
