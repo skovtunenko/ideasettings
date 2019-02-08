@@ -67,7 +67,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.11.Final/b4d2ba5d83739ec3eeba2e78834ff5975ecc5ccb/hibernate-validator-6.0.11.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" timestamp="1549280047000">
         <mark key="'" line="367" column="56" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/UserEmailValidationRequest.java" timestamp="1549551688219" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" timestamp="1549464196526">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="482" column="63" />
@@ -82,7 +81,6 @@
         <mark key="^" line="10" column="144" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1549550458957" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" timestamp="1549443472185">
         <mark key="'" line="18" column="23" />
       </file>
@@ -119,7 +117,6 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/EmailSendingEventProcessor.java" timestamp="1549551730219" />
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/Util.java" timestamp="1549230546220">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="3" />
@@ -176,6 +173,7 @@
         <mark key="." line="80" column="7" />
         <mark key="^" line="80" column="7" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification.yml" timestamp="1549618554663" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
         <mark key="'" line="420" column="27" />
       </file>
