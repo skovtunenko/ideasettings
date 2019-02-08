@@ -9,15 +9,17 @@
         <mark key="^" line="119" column="35" />
         <mark key="." line="119" column="35" />
       </file>
-      <file name="/notification-dev.yml" timestamp="1549621083801" />
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/awssimulation/AwsStackCreationSimulation.java" timestamp="1549230371546">
         <mark key="'" line="103" column="10" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1549625569048">
-        <mark key="[" line="39" column="60" />
-        <mark key="]" line="39" column="60" />
-        <mark key="." line="39" column="68" />
+        <mark key="[" line="32" column="60" />
+        <mark key="]" line="32" column="60" />
+        <mark key="." line="32" column="68" />
         <mark key="^" line="32" column="68" />
+      </file>
+      <file name="/a.dummy" timestamp="1549637446180">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification-dev.yml" timestamp="1549626642905">
         <mark key="[" line="14" column="70" />
@@ -72,6 +74,12 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549637571791">
+        <mark key="[" line="57" column="73" />
+        <mark key="]" line="57" column="94" />
+        <mark key="." line="57" column="94" />
+        <mark key="^" line="57" column="94" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
         <mark key="'" line="59" column="23" />
@@ -164,7 +172,6 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="54" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization.yml" timestamp="1549634950099" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" timestamp="1549277960420">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="64" column="11" />
@@ -181,7 +188,7 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549634850824">
+      <file name="/Dummy.txt" timestamp="1549637577290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -194,7 +201,6 @@
         <mark key="." line="80" column="7" />
         <mark key="^" line="80" column="7" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification.yml" timestamp="1549620747144" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
         <mark key="'" line="420" column="27" />
       </file>
@@ -380,11 +386,11 @@
       <jump line="2" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># move this after PRD release into schedule.yml and replace existing value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiggU3RyaW5nVXRpbHMuaXNCbGFuayggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKSApCiAgICAgICAgewoKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text># move this after PRD release into schedule.yml and replace existing value</text>
+        <text encoding="base64">bmFtZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmdzXD4=</text>
@@ -393,19 +399,19 @@
         <text encoding="base64">ICAgIGRlZmF1bHQgTGlzdDxSRVNQT05TRV9WTz4gdG9SZXNwb25zZVZPcyggTGlzdDxFTlRJVFk+IGVudGl0aWVzLCBPYmplY3QuLi4gYXJncyApCiAgICB7CiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mTnVsbGFibGUoIGVudGl0aWVzICkKICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlKCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSApCiAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgLm1hcCggZW50aXR5IC0+IHRvUmVzcG9uc2VWTyggZW50aXR5LCBhcmdzICkgKQogICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggU3RyaW5nVXRpbHMuaXNCbGFuayggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKSApCiAgICAgICAgewoKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oICJUZW1wbGF0ZSBuYW1lIGlzIGVtcHR5LCBmYWxsYmFjayB0byBkZWZhdWx0IG9uZS4gS2Fma2EgZXZlbnQgJ3t9JyB3aXRoIHVzZXIgZGV0YWlsczoge30iLCBBVVRIT1JJWkFUSU9OX1VTRVJfVkFMSURBVElPTl9SRVFVRVNURURfVE9QSUMsIGV2ZW50LmdldFVzZXIoKSApOwogICAgICAgICAgICBlbWFpbFZPLnNldFRlbXBsYXRlKCB1c2VyRW1haWxWZXJpZmljYXRpb25FbWFpbFRlbXBsYXRlICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFVzZXJFbWFpbFZlcmlmaWNhdGlvbkVtYWlsRGF0YSBjcmVhdGVGaWxsZWRFbWFpbERhdGEoIFVzZXJFbWFpbFZhbGlkYXRpb25FdmVudCBldmVudCApCiAgICB7CiAgICAgICAgZmluYWwgVXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxEYXRhIGVtYWlsVk8gPSBuZXcgVXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxEYXRhKCk7CiAgICAgICAgZmluYWwgU3RyaW5nIHRlbXBsYXRlTmFtZSA9IE9wdGlvbmFsLm9mTnVsbGFibGUoIGV2ZW50LmdldFRlbXBsYXRlTmFtZSgpICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlR2V0KCAoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZy53YXJuKCAidGVtcGxhdGVOYW1lIGlzIGVtcHR5LCBmYWxsYmFjayB0byBkZWZhdWx0IG9uZS4gS2Fma2EgZXZlbnQgJ3t9JyB3aXRoIHVzZXIgZGV0YWlsczoge30iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVVUSE9SSVpBVElPTl9VU0VSX1ZBTElEQVRJT05fUkVRVUVTVEVEX1RPUElDLCBldmVudC5nZXRVc2VyKCkgKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXJFbWFpbFZlcmlmaWNhdGlvbkVtYWlsVGVtcGxhdGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSApOwogICAgICAgIGVtYWlsVk8uc2V0VGVtcGxhdGUoIHRlbXBsYXRlTmFtZSApOwogICAgICAgIGlmKCBTdHJpbmdVdGlscy5pc0JsYW5rKCBldmVudC5nZXRUZW1wbGF0ZU5hbWUoKSApICkKICAgICAgICB7CiAgICAgICAgICAgIGxvZy53YXJuKCAiVGVtcGxhdGUgbmFtZSBpcyBlbXB0eSwgZmFsbGJhY2sgdG8gZGVmYXVsdCBvbmUuIEthZmthIGV2ZW50ICd7fScgd2l0aCB1c2VyIGRldGFpbHM6IHt9IiwgQVVUSE9SSVpBVElPTl9VU0VSX1ZBTElEQVRJT05fUkVRVUVTVEVEX1RPUElDLCBldmVudC5nZXRVc2VyKCkgKTsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggdXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxUZW1wbGF0ZSApOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBlbWFpbFZPLnNldFRlbXBsYXRlKCBldmVudC5nZXRUZW1wbGF0ZU5hbWUoKSApOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TWlncmF0ZWQgQXV0aG9yaXphdGlvbiB0byBNYXJpYURCIGRyaXZlciBmb3IgUUEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -414,10 +420,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TWlncmF0ZWQgQXV0aG9yaXphdGlvbiB0byBNYXJpYURCIGRyaXZlciBmb3IgUUEuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
