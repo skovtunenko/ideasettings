@@ -75,11 +75,17 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
       </file>
+      <file name="/permission [DEV RO]" timestamp="1549881868057">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549637571791">
         <mark key="[" line="57" column="73" />
         <mark key="]" line="57" column="94" />
         <mark key="." line="57" column="94" />
         <mark key="^" line="57" column="94" />
+      </file>
+      <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
         <mark key="'" line="59" column="23" />
@@ -89,6 +95,12 @@
         <mark key="]" line="104" column="38" />
         <mark key="^" line="104" column="38" />
         <mark key="." line="104" column="38" />
+      </file>
+      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549881876374">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/role [DEV RO]" timestamp="1549881868719">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
         <mark key="'" line="10" column="0" />
@@ -105,7 +117,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" timestamp="1549628042726">
         <mark key="'" line="2" column="59" />
       </file>
-      <file name="/UserEmailVerificationEventProcessor.java" timestamp="1549642906757" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" timestamp="1549464196526">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="482" column="63" />
@@ -188,6 +199,9 @@
         <mark key="]" line="20" column="3" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
+      </file>
+      <file name="/dummy.sql" timestamp="1549882359277">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549637577290">
         <mark key="[" line="0" column="0" />
