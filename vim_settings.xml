@@ -136,8 +136,12 @@
         <mark key="^" line="483" column="11" />
         <mark key="." line="483" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" timestamp="1549917380293">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" timestamp="1549918577451">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="26" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/SesNotificationConfigurerApplication.java" timestamp="1549556577034">
         <mark key="'" line="9" column="45" />
@@ -325,19 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="129" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="41" column="92" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="86" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="44" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="46" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="51" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="53" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="58" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="60" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="77" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
-      <jump line="1" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="23" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="25" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="43" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
@@ -425,6 +416,19 @@
       <jump line="24" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
       <jump line="7" column="101" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="4" column="31" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -443,7 +447,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>kkkkkkkkkk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCZXlvbmRcPg==</text>
@@ -454,26 +458,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">MTM3CiAgIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MDAK</text>
+      </register>
+      <register name="s" type="4">
+        <keys>
+          <key char="111" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLQo=</text>
+        <text encoding="base64">4oCTIEVhc2llciBYTUwgY29uZmlndXJhdGlvbiB0aHJvdWdoIHRoZSB1c2Ugb2YgdGhlIG5ldyBYTUwgU2NoZW1h4oCTYmFzZWQgY29uZmlndXJhdGlvbiByYXRoZXIgdGhhbiB0aGUgRFREIGZvcm1hdC4gTm90YWJsZSBhcmVhcyBvZiBpbXByb3ZlbWVudCBpbmNsdWRlIGJlYW4gZGVmaW5pdGlvbnMsIEFPUCwgYW5kIGRlY2xhcmF0aXZlIHRyYW5zYWN0aW9ucy4KCuKAkyBOZXcgYmVhbiBzY29wZXMgZm9yIHdlYiBhbmQgcG9ydGFsIHVzYWdlIChyZXF1ZXN0LCBzZXNzaW9uLCBhbmQgZ2xvYmFsIHNlc3Npb25zKS4KCuKAkyBAQXNwZWN0SiBhbm5vdGF0aW9uIHN1cHBvcnQgZm9yIEFPUCBkZXZlbG9wbWVudC4KCuKAkyBKYXZhIFBlcnNpc3RlbmNlIEFQSSAoSlBBKSBhYnN0cmFjdGlvbiBsYXllci4KCuKAkyBGdWxsIHN1cHBvcnQgZm9yIGFzeW5jaHJvbm91cyBKTVMgbWVzc2FnZS1kcml2ZW4gUE9KT3MgKGZvciBwbGFpbiBvbGQgSmF2YSBvYmplY3RzKS4KCuKAkyBKREJDIHNpbXBsaWZpY2F0aW9ucyBpbmNsdWRpbmcgU2ltcGxlSmRiY1RlbXBsYXRlIHdoZW4gdXNpbmcgSmF2YSA1Ky4KCuKAkyBKREJDIG5hbWVkIHBhcmFtZXRlciBzdXBwb3J0IChOYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkuCgrigJMgRm9ybSB0YWcgbGlicmFyeSBmb3IgU3ByaW5nIE1WQy4KCuKAkyBJbnRyb2R1Y3Rpb24gb2YgdGhlIFBvcnRsZXQgTVZDIGZyYW1ld29yay4KCuKAkyBEeW5hbWljIGxhbmd1YWdlIHN1cHBvcnQuIEJlYW5zIGNhbiBiZSB3cml0dGVuIGluIEpSdWJ5LCBHcm9vdnksIGFuZCBCZWFuU2hlbGwuCgrigJMgTm90aWZpY2F0aW9uIHN1cHBvcnQgYW5kIGNvbnRyb2xsYWJsZSBNQmVhbiByZWdpc3RyYXRpb24gaW4gSk1YLgoK4oCTIFRhc2tFeGVjdXRvciBhYnN0cmFjdGlvbiBpbnRyb2R1Y2VkIGZvciBzY2hlZHVsaW5nIHRhc2tzLgoK4oCTIEphdmEgNSBhbm5vdGF0aW9uIHN1cHBvcnQsIHNwZWNpZmljYWxseSBmb3IgQFRyYW5zYWN0aW9uYWwsIEBSZXF1aXJlZCwgYW5kIEBBc3BlY3RKLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">4oCTIEVhc2llciBYTUwgY29uZmlndXJhdGlvbiB0aHJvdWdoIHRoZSB1c2Ugb2YgdGhlIG5ldyBYTUwgU2NoZW1h4oCTYmFzZWQgY29uZmlndXJhdGlvbiByYXRoZXIgdGhhbiB0aGUgRFREIGZvcm1hdC4gTm90YWJsZSBhcmVhcyBvZiBpbXByb3ZlbWVudCBpbmNsdWRlIGJlYW4gZGVmaW5pdGlvbnMsIEFPUCwgYW5kIGRlY2xhcmF0aXZlIHRyYW5zYWN0aW9ucy4KCuKAkyBOZXcgYmVhbiBzY29wZXMgZm9yIHdlYiBhbmQgcG9ydGFsIHVzYWdlIChyZXF1ZXN0LCBzZXNzaW9uLCBhbmQgZ2xvYmFsIHNlc3Npb25zKS4KCuKAkyBAQXNwZWN0SiBhbm5vdGF0aW9uIHN1cHBvcnQgZm9yIEFPUCBkZXZlbG9wbWVudC4KCuKAkyBKYXZhIFBlcnNpc3RlbmNlIEFQSSAoSlBBKSBhYnN0cmFjdGlvbiBsYXllci4KCuKAkyBGdWxsIHN1cHBvcnQgZm9yIGFzeW5jaHJvbm91cyBKTVMgbWVzc2FnZS1kcml2ZW4gUE9KT3MgKGZvciBwbGFpbiBvbGQgSmF2YSBvYmplY3RzKS4KCuKAkyBKREJDIHNpbXBsaWZpY2F0aW9ucyBpbmNsdWRpbmcgU2ltcGxlSmRiY1RlbXBsYXRlIHdoZW4gdXNpbmcgSmF2YSA1Ky4KCuKAkyBKREJDIG5hbWVkIHBhcmFtZXRlciBzdXBwb3J0IChOYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZSkuCgrigJMgRm9ybSB0YWcgbGlicmFyeSBmb3IgU3ByaW5nIE1WQy4KCuKAkyBJbnRyb2R1Y3Rpb24gb2YgdGhlIFBvcnRsZXQgTVZDIGZyYW1ld29yay4KCuKAkyBEeW5hbWljIGxhbmd1YWdlIHN1cHBvcnQuIEJlYW5zIGNhbiBiZSB3cml0dGVuIGluIEpSdWJ5LCBHcm9vdnksIGFuZCBCZWFuU2hlbGwuCgrigJMgTm90aWZpY2F0aW9uIHN1cHBvcnQgYW5kIGNvbnRyb2xsYWJsZSBNQmVhbiByZWdpc3RyYXRpb24gaW4gSk1YLgoK4oCTIFRhc2tFeGVjdXRvciBhYnN0cmFjdGlvbiBpbnRyb2R1Y2VkIGZvciBzY2hlZHVsaW5nIHRhc2tzLgoK4oCTIEphdmEgNSBhbm5vdGF0aW9uIHN1cHBvcnQsIHNwZWNpZmljYWxseSBmb3IgQFRyYW5zYWN0aW9uYWwsIEBSZXF1aXJlZCwgYW5kIEBBc3BlY3RKLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rm9ybSB0YWcgbGlicmFyeSBmb3IgU3ByaW5nIE1WQy4KCuKAkyBJbnRyb2R1Y3Rpb24gb2YgdGhlIFBvcnRsZXQgTVZDIGZyYW1ld29yay4KCuKAkyBEeW5hbWljIGxhbmd1YWdlIHN1cHBvcnQuIEJlYW5zIGNhbiBiZSB3cml0dGVuIGluIEpSdWJ5LCBHcm9vdnksIGFuZCBCZWFuU2hlbGwuCgrigJMgTm90aWZpY2F0aW9uIHN1cHBvcnQgYW5kIGNvbnRyb2xsYWJsZSBNQmVhbiByZWdpc3RyYXRpb24gaW4gSk1YLgoK4oCTIFRhc2tFeGVjdXRvciBhYnN0cmFjdGlvbiBpbnRyb2R1Y2VkIGZvciBzY2hlZHVsaW5nIHRhc2tzLgoK4oCTIEphdmEgNSBhbm5vdGF0aW9uIHN1cHBvcnQsIHNwZWNpZmljYWxseSBmb3IgQFRyYW5zYWN0aW9uYWwsIEBSZXF1aXJlZCwgYW5kIEBBc3BlY3RKLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CuKAkyBKYXZhIFBlcnNpc3RlbmNlIEFQSSAoSlBBKSBhYnN0cmFjdGlvbiBsYXllci4K4oCTIEZ1bGwgc3VwcG9ydCBmb3IgYXN5bmNocm9ub3VzIEpNUyBtZXNzYWdlLWRyaXZlbiBQT0pPcyAoZm9yIHBsYWluIG9sZCBKYXZhCiBvYmplY3RzKS4K4oCTIEpEQkMgc2ltcGxpZmljYXRpb25zIGluY2x1ZGluZyBTaW1wbGVKZGJjVGVtcGxhdGUgd2hlbiB1c2luZyBKYXZhIDUrLgrigJMgSkRCQyBuYW1lZCBwYXJhbWV0ZXIgc3VwcG9ydCAoTmFtZWRQYXJhbWV0ZXJKZGJjVGVtcGxhdGUpLgrigJMgRm9ybSB0YWcgbGlicmFyeSBmb3IgU3ByaW5nIE1WQy4K4oCTIEludHJvZHVjdGlvbiBvZiB0aGUgUG9ydGxldCBNVkMgZnJhbWV3b3JrLgrigJMgRHluYW1pYyBsYW5ndWFnZSBzdXBwb3J0LiBCZWFucyBjYW4gYmUgd3JpdHRlbiBpbiBKUnVieSwgR3Jvb3Z5LCBhbmQgQmVhblNoZWxsLgrigJMgTm90aWZpY2F0aW9uIHN1cHBvcnQgYW5kIGNvbnRyb2xsYWJsZSBNQmVhbiByZWdpc3RyYXRpb24gaW4gSk1YLgrigJMgVGFza0V4ZWN1dG9yIGFic3RyYWN0aW9uIGludHJvZHVjZWQgZm9yIHNjaGVkdWxpbmcgdGFza3MuCuKAkyBKYXZhIDUgYW5ub3RhdGlvbiBzdXBwb3J0LCBzcGVjaWZpY2FsbHkgZm9yIEBUcmFuc2FjdGlvbmFsLCBAUmVxdWlyZWQsIGFuZAogQEFzcGVjdEouCuKAogpTcHJpbmcgMi41Lng6IFRoaXMgdmVyc2lvbiBoYXMgdGhlIGZvbGxvd2luZyBmZWF0dXJlczoK4oCTIEEgbmV3IGNvbmZpZ3VyYXRpb24gYW5ub3RhdGlvbiBjYWxsZWQgQEF1dG93aXJlZCBhbmQgc3VwcG9ydCBmb3IgSlNSLTI1MAogYW5ub3RhdGlvbnMgKEBSZXNvdXJjZSwgQFBvc3RDb25zdHJ1Y3QsIEBQcmVEZXN0cm95KQrigJMgTmV3IHN0ZXJlb3R5cGUgYW5ub3RhdGlvbnM6IEBDb21wb25lbnQsIEBSZXBvc2l0b3J5LCBAU2VydmljZSwgQENvbnRyb2xsZXIK4oCTIEF1dG9tYXRpYyBjbGFzc3BhdGgtc2Nhbm5pbmcgc3VwcG9ydCB0byBkZXRlY3QgYW5kIHdpcmUgY2xhc3NlcyBhbm5vdGF0ZWQgd2l0aAogc3RlcmVvdHlwZSBhbm5vdGF0aW9ucwrigJMgQU9QIHVwZGF0ZXMsIGluY2x1ZGluZyBhIG5ldyBiZWFuIHBvaW50Y3V0IGVsZW1lbnQgYW5kIEFzcGVjdEogbG9hZC10aW1lCiB3ZWF2aW5nCuKAkyBGdWxsIFdlYlNwaGVyZSB0cmFuc2FjdGlvbiBtYW5hZ2VtZW50IHN1cHBvcnQ=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
