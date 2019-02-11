@@ -21,6 +21,12 @@
       <file name="/a.dummy" timestamp="1549637446180">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Java Fragment (Lection_1.md:203).java" timestamp="1549915849580">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification-dev.yml" timestamp="1549626642905">
         <mark key="[" line="14" column="70" />
         <mark key="]" line="14" column="161" />
@@ -65,6 +71,12 @@
         <mark key="]" line="15" column="130" />
         <mark key="." line="15" column="130" />
         <mark key="^" line="15" column="130" />
+      </file>
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1549916509742">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1548761398043">
         <mark key="[" line="0" column="0" />
@@ -162,6 +174,11 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/.gitignore" timestamp="1549915082997">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/Util.java" timestamp="1549230546220">
         <mark key="[" line="23" column="4" />
         <mark key="]" line="23" column="3" />
@@ -206,7 +223,7 @@
       <file name="/organization.member [DEV RO]" timestamp="1549883330668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549637577290">
+      <file name="/Dummy.txt" timestamp="1549915085820">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,18 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
-      <jump line="61" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
-      <jump line="54" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
-      <jump line="49" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
-      <jump line="367" column="56" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.11.Final/b4d2ba5d83739ec3eeba2e78834ff5975ecc5ccb/hibernate-validator-6.0.11.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" />
-      <jump line="73" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
-      <jump line="62" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
-      <jump line="65" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
-      <jump line="15" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
-      <jump line="18" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" />
-      <jump line="30" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/S3FileStorageService.java" />
-      <jump line="112" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="98" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="129" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
       <jump line="41" column="92" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchServiceWithDividedVOs.java" />
@@ -405,34 +410,58 @@
       <jump line="28" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
       <jump line="2" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" />
       <jump line="6" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/event/LocationCreatedEvent.java" />
+      <jump line="11" column="1" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="15" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
+      <jump line="7" column="101" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="4" column="31" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
     </jumps>
     <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggU3RyaW5nVXRpbHMuaXNCbGFuayggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKSApCiAgICAgICAgewoKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmFtZSA=</text>
+        <text>kkkkkkkkkk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmdzXD4=</text>
+        <text encoding="base64">XDxCZXlvbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgTGlzdDxSRVNQT05TRV9WTz4gdG9SZXNwb25zZVZPcyggTGlzdDxFTlRJVFk+IGVudGl0aWVzLCBPYmplY3QuLi4gYXJncyApCiAgICB7CiAgICAgICAgcmV0dXJuIE9wdGlvbmFsLm9mTnVsbGFibGUoIGVudGl0aWVzICkKICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlKCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSApCiAgICAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgLm1hcCggZW50aXR5IC0+IHRvUmVzcG9uc2VWTyggZW50aXR5LCBhcmdzICkgKQogICAgICAgICAgICAgICAgICAgICAgIC5jb2xsZWN0KCBDb2xsZWN0b3JzLnRvTGlzdCgpICk7CiAgICB9Cg==</text>
+        <text encoding="base64">Ci0tLS0KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggU3RyaW5nVXRpbHMuaXNCbGFuayggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKSApCiAgICAgICAgewoKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggZXZlbnQuZ2V0VGVtcGxhdGVOYW1lKCkgKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oICJUZW1wbGF0ZSBuYW1lIGlzIGVtcHR5LCBmYWxsYmFjayB0byBkZWZhdWx0IG9uZS4gS2Fma2EgZXZlbnQgJ3t9JyB3aXRoIHVzZXIgZGV0YWlsczoge30iLCBBVVRIT1JJWkFUSU9OX1VTRVJfVkFMSURBVElPTl9SRVFVRVNURURfVE9QSUMsIGV2ZW50LmdldFVzZXIoKSApOwogICAgICAgICAgICBlbWFpbFZPLnNldFRlbXBsYXRlKCB1c2VyRW1haWxWZXJpZmljYXRpb25FbWFpbFRlbXBsYXRlICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFVzZXJFbWFpbFZlcmlmaWNhdGlvbkVtYWlsRGF0YSBjcmVhdGVGaWxsZWRFbWFpbERhdGEoIFVzZXJFbWFpbFZhbGlkYXRpb25FdmVudCBldmVudCApCiAgICB7CiAgICAgICAgZmluYWwgVXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxEYXRhIGVtYWlsVk8gPSBuZXcgVXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxEYXRhKCk7CiAgICAgICAgZmluYWwgU3RyaW5nIHRlbXBsYXRlTmFtZSA9IE9wdGlvbmFsLm9mTnVsbGFibGUoIGV2ZW50LmdldFRlbXBsYXRlTmFtZSgpICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlR2V0KCAoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZy53YXJuKCAidGVtcGxhdGVOYW1lIGlzIGVtcHR5LCBmYWxsYmFjayB0byBkZWZhdWx0IG9uZS4gS2Fma2EgZXZlbnQgJ3t9JyB3aXRoIHVzZXIgZGV0YWlsczoge30iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQVVUSE9SSVpBVElPTl9VU0VSX1ZBTElEQVRJT05fUkVRVUVTVEVEX1RPUElDLCBldmVudC5nZXRVc2VyKCkgKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHVzZXJFbWFpbFZlcmlmaWNhdGlvbkVtYWlsVGVtcGxhdGU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSApOwogICAgICAgIGVtYWlsVk8uc2V0VGVtcGxhdGUoIHRlbXBsYXRlTmFtZSApOwogICAgICAgIGlmKCBTdHJpbmdVdGlscy5pc0JsYW5rKCBldmVudC5nZXRUZW1wbGF0ZU5hbWUoKSApICkKICAgICAgICB7CiAgICAgICAgICAgIGxvZy53YXJuKCAiVGVtcGxhdGUgbmFtZSBpcyBlbXB0eSwgZmFsbGJhY2sgdG8gZGVmYXVsdCBvbmUuIEthZmthIGV2ZW50ICd7fScgd2l0aCB1c2VyIGRldGFpbHM6IHt9IiwgQVVUSE9SSVpBVElPTl9VU0VSX1ZBTElEQVRJT05fUkVRVUVTVEVEX1RPUElDLCBldmVudC5nZXRVc2VyKCkgKTsKICAgICAgICAgICAgZW1haWxWTy5zZXRUZW1wbGF0ZSggdXNlckVtYWlsVmVyaWZpY2F0aW9uRW1haWxUZW1wbGF0ZSApOwogICAgICAgIH0KICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBlbWFpbFZPLnNldFRlbXBsYXRlKCBldmVudC5nZXRUZW1wbGF0ZU5hbWUoKSApOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -444,16 +473,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWlncmF0ZWQgQXV0aG9yaXphdGlvbiB0byBNYXJpYURCIGRyaXZlciBmb3IgUUEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmdzXD4=</last-search>
+      <last-search encoding="base64">XDxCZXlvbmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmdzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCZXlvbmRcPg==</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>-1</last-dir>
@@ -474,6 +503,7 @@
         <entry>- path</entry>
         <entry>copyW</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxCZXlvbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
