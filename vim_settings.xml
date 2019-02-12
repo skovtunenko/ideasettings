@@ -19,7 +19,7 @@
         <mark key="." line="32" column="68" />
         <mark key="^" line="32" column="68" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/README.md" timestamp="1549979222489" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/README.md" timestamp="1549979981481" />
       <file name="/a.dummy" timestamp="1549637446180">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +58,9 @@
         <mark key="]" line="10" column="157" />
         <mark key="." line="10" column="157" />
         <mark key="^" line="10" column="157" />
+      </file>
+      <file name="/authorization.oauth_client [DEV RO]" timestamp="1549980036465">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/authorization-qa.yml" timestamp="1549626470851">
         <mark key="[" line="17" column="119" />
@@ -102,7 +105,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
       </file>
-      <file name="/permission [DEV RO]" timestamp="1549881868057">
+      <file name="/permission [DEV RO]" timestamp="1549980028084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549637571791">
@@ -124,7 +127,7 @@
         <mark key="^" line="104" column="38" />
         <mark key="." line="104" column="38" />
       </file>
-      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549883315270">
+      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549980028583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/role [DEV RO]" timestamp="1549881868719">
@@ -146,6 +149,9 @@
         <mark key="'" line="2" column="59" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1549967218361" />
+      <file name="/authorization.role [DEV RO]" timestamp="1549980028911">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" timestamp="1549464196526">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="482" column="63" />
@@ -261,10 +267,10 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="/dummy.sql" timestamp="1549883794600">
+      <file name="/dummy.sql" timestamp="1549980041696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/organization.member [DEV RO]" timestamp="1549883330668">
+      <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1549922225612">
