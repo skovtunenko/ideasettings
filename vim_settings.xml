@@ -229,6 +229,9 @@
         <mark key="^" line="0" column="53" />
         <mark key="." line="0" column="54" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" timestamp="1549967852103">
+        <mark key="'" line="53" column="59" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" timestamp="1549277960420">
         <mark key="'" line="49" column="0" />
         <mark key="[" line="64" column="11" />
@@ -302,6 +305,9 @@
         <mark key="^" line="268" column="62" />
         <mark key="." line="268" column="62" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" timestamp="1549967853822">
+        <mark key="'" line="7" column="12" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/configuration/AmazonConfiguration.java" timestamp="1549554422507">
         <mark key="'" line="50" column="21" />
       </file>
@@ -351,9 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
-      <jump line="175" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
-      <jump line="45" column="104" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
       <jump line="70" column="13" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.5.1/893f21873cb3548cc4caea549d5c0826a54cdea5/common-core-6.5.1-sources.jar!/com/abcfinancial/api/common/service/CrudService.java" />
       <jump line="47" column="42" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
       <jump line="13" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/UserWithPasswordVO.java" />
@@ -451,6 +454,9 @@
       <jump line="91" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="65" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
       <jump line="63" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
+      <jump line="35" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
+      <jump line="53" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
+      <jump line="7" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
