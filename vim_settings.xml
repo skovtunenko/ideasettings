@@ -33,12 +33,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550006015764">
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550007840220">
         <mark key="'" line="463" column="55" />
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="478" column="30" />
-        <mark key="^" line="478" column="30" />
-        <mark key="." line="478" column="30" />
+        <mark key="[" line="528" column="0" />
+        <mark key="]" line="528" column="0" />
+        <mark key="^" line="528" column="136" />
+        <mark key="." line="528" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
@@ -317,13 +317,13 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amoK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -351,7 +351,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgPGFzZD48L2FzZD4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
