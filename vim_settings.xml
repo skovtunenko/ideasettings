@@ -33,6 +33,13 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1549997431558">
+        <mark key="'" line="34" column="77" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
       </file>
@@ -168,8 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="90" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="60" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
       <jump line="109" column="54" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="80" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="106" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
@@ -245,10 +250,8 @@
       <jump line="41" column="40" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
       <jump line="119" column="353" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
       <jump line="103" column="4" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="31" column="8" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -268,6 +271,10 @@
       <jump line="97" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
       <jump line="65" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="2" column="2" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="13" column="28" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="31" column="77" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -282,26 +289,27 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlYy5hbmQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb2xsb3dpbmdcPg==</text>
+        <text>DI</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>Inversion of control concepts:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlYy5hbmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>However, other than the first few, 
+the remainder of the sample code provided in this chapter focuses on using</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -317,34 +325,34 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmFubm90YXRlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3BlYy5hbmQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hcHJlc3MucHJvc3ByaW5nNS5jaDIuZGVjb3VwbGVkLkhlbGxvV29ybGRNZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUmVuZGVyZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5TdGFuZGFyZE91dE1lc3NhZ2VSZW5kZXJlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5Db25maWd1cmF0aW9uOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmFubm90YXRlZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMjIEludmVyc2lvbiBvZiBDb250cm9sIGluIFNwcmluZwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hcHJlc3MucHJvc3ByaW5nNS5jaDIuZGVjb3VwbGVkLkhlbGxvV29ybGRNZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUmVuZGVyZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5TdGFuZGFyZE91dE1lc3NhZ2VSZW5kZXJlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5Db25maWd1cmF0aW9uOwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci0tLS0KVGhlIFNwcmluZyBGcmFtZXdvcmsgb3JpZ2luYXRlZCBmcm9tIHRoZSBib29rIEV4cGVydCBPbmUtb24tT25lOiBKMkVFIERlc2lnbiBhbmQgRGV2ZWxvcG1lbnQgYnkgUm9kIEpvaG5zb24gKFdyb3gsIDIwMDIpLiBPdmVyIHRoZSBsYXN0IGRlY2FkZSwgdGhlIFNwcmluZyBGcmFtZXdvcmsgaGFzIGdyb3duIGRyYW1hdGljYWxseSBpbiBjb3JlIGZ1bmN0aW9uYWxpdHksIGFzc29jaWF0ZWQgcHJvamVjdHMsIGFuZCBjb21tdW5pdHkgc3VwcG9ydC4gV2l0aCB0aGUgbmV3IG1ham9yIHJlbGVhc2Ugb2YgdGhlIFNwcmluZyBGcmFtZXdvcmssIGl04oCZcyB3b3J0aHdoaWxlIHRvIHRha2UgYSBxdWljayBsb29rIGJhY2sgYXQgaW1wb3J0YW50IGZlYXR1cmVzIHRoYXQgaGF2ZSBjb21lIGFsb25nIHdpdGggZWFjaCBtaWxlc3RvbmUgcmVsZWFzZSBvZiBTcHJpbmcsIGxlYWRpbmcgdXAgdG8gU3ByaW5nIEZyYW1ld29yayA1LjAuCkZpZ3VyZSAxLTEuCk92ZXJ2aWV3IG9mIHRoZSBTcHJpbmcgRnJhbWV3b3JrLCB2ZXJzaW9uIDEueArigJMgU3ByaW5nIENvcmU6IEJlYW4gY29udGFpbmVyIGFuZCBzdXBwb3J0aW5nIHV0aWxpdGllcwrigJMgU3ByaW5nIENvbnRleHQ6IEFwcGxpY2F0aW9uQ29udGV4dCwgVUksIHZhbGlkYXRpb24sIEpOREksIEVudGVycHJpc2UgSmF2YUJlYW5zIChFSkIpLCByZW1vdGluZywgYW5kIG1haWwgc3VwcG9ydArigJMgU3ByaW5nIERBTzogVHJhbnNhY3Rpb24gaW5mcmFzdHJ1Y3R1cmUsIEphdmEgRGF0YWJhc2UgQ29ubmVjdGl2aXR5IChKREJDKSwgYW5kIGRhdGEgYWNjZXNzIG9iamVjdCAoREFPKSBzdXBwb3J0CuKAkyBTcHJpbmcgT1JNOiBIaWJlcm5hdGUsIGlCQVRJUywgYW5kIEphdmEgRGF0YSBPYmplY3RzIChKRE8pIHN1cHBvcnQK4oCTIFNwcmluZyBBT1A6IEFuIEFPUCBBbGxpYW5jZeKAk2NvbXBsaWFudCBhc3BlY3Qtb3JpZW50ZWQgcHJvZ3JhbW1pbmcgKEFPUCkKaW1wbGVtZW50YXRpb24K4oCTIFNwcmluZyBXZWI6IEJhc2ljIGludGVncmF0aW9uIGZlYXR1cmVzIHN1Y2ggYXMgbXVsdGlwYXJ0IGZ1bmN0aW9uYWxpdHksIGNvbnRleHQgaW5pdGlhbGl6YXRpb24gdGhyb3VnaCBzZXJ2bGV0IGxpc3RlbmVycywgYW5kIGEgd2ViLW9yaWVudGVkIGFwcGxpY2F0aW9uIGNvbnRleHQK4oCTIFNwcmluZyBXZWIgTVZDOiBXZWItYmFzZWQgTW9kZWwtVmlldy1Db250cm9sbGVyIChNVkMpIGZyYW1ld29yawpTcHJpbmcgMi54OiBUaGlzIGlzIGNvbXBvc2VkIG9mIHRoZSBzaXggbW9kdWxlcyBzaG93biBpbiBGaWd1cmUgMS0yLiBUaGUgU3ByaW5nIENvbnRleHQgbW9kdWxlIGlzIG5vdyBpbmNsdWRlZCBpbiBTcHJpbmcgQ29yZSwgYW5kIGFsbCBTcHJpbmcgd2ViIGNvbXBvbmVudHMgaGF2ZSBiZWVuIHJlcHJlc2VudGVkIGhlcmUgYnkgYSBzaW5nbGUgaXRlbS4K4oCiCuKAogpTcHJpbmcgMC45OiBUaGlzIGlzIHRoZSBmaXJzdCBwdWJsaWMgcmVsZWFzZSBvZiB0aGUgZnJhbWV3b3JrLCBiYXNlZCBvbiB0aGUgYm9vayBFeHBlcnQgT25lLW9uLU9uZTogSjJFRSBEZXNpZ24gYW5kIERldmVsb3BtZW50LCB0aGF0IG9mZmVyZWQgYSBiZWFuIGNvbmZpZ3VyYXRpb24gZm91bmRhdGlvbiwgQU9QIHN1cHBvcnQsIGEgSkRCQyBhYnN0cmFjdGlvbiBmcmFtZXdvcmssIGFic3RyYWN0IHRyYW5zYWN0aW9uIHN1cHBvcnQsIGFuZCBzbyBvbi4gVGhpcyB2ZXJzaW9uIGRvZXMgbm90IGhhdmUgb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24sIGJ1dCB5b3UgY2FuIGZpbmQgdGhlIGV4aXN0aW5nIHNvdXJjZXMgYW5kIGRvY3VtZW50YXRpb24gb24gU291cmNlRm9yZ2UuMQpTcHJpbmcgMS54OiBUaGlzIGlzIHRoZSBmaXJzdCB2ZXJzaW9uIHJlbGVhc2VkIHdpdGggb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24uIEl0IGlzIGNvbXBvc2VkIG9mIHRoZSBzZXZlbiBtb2R1bGVzIHNob3duIGluIEZpZ3VyZSAxLTEuCgo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb2xsb3dpbmdcPg==</last-search>
+      <last-search>DI</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb2xsb3dpbmdcPg==</last-pattern>
+      <last-pattern>DI</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -364,6 +372,8 @@
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry encoding="base64">XDxCZXlvbmRcPg==</entry>
         <entry encoding="base64">XDxmb2xsb3dpbmdcPg==</entry>
+        <entry encoding="base64">XDxJbnZlcnNpb25cPg==</entry>
+        <entry>DI</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
