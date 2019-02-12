@@ -12,6 +12,7 @@
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/awssimulation/AwsStackCreationSimulation.java" timestamp="1549230371546">
         <mark key="'" line="103" column="10" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusUserDetailsChecker.java" timestamp="1549966680126" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1549625569048">
         <mark key="[" line="32" column="60" />
         <mark key="]" line="32" column="60" />
@@ -35,6 +36,12 @@
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1549482668772">
         <mark key="'" line="30" column="11" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" timestamp="1549967377881">
+        <mark key="'" line="63" column="19" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" timestamp="1549482813839">
         <mark key="'" line="42" column="117" />
@@ -100,6 +107,7 @@
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/e706bafb61d43ec405cce5fa927b465d14a140a9/spring-security-core-5.0.11.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class" timestamp="1549966497561" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
         <mark key="'" line="59" column="23" />
       </file>
@@ -130,6 +138,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" timestamp="1549628042726">
         <mark key="'" line="2" column="59" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1549967218361" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudServiceWithDividedVOs.java" timestamp="1549464196526">
         <mark key="'" line="83" column="6" />
         <mark key="[" line="482" column="63" />
@@ -184,6 +193,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="52" column="13" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1549966815795">
+        <mark key="'" line="91" column="61" />
+        <mark key="[" line="91" column="74" />
+        <mark key="]" line="92" column="101" />
+        <mark key="^" line="92" column="101" />
+        <mark key="." line="92" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/.gitignore" timestamp="1549922201488">
         <mark key="[" line="40" column="0" />
@@ -320,6 +336,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
         <mark key="'" line="12" column="47" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java" timestamp="1549966832043" />
       <file name="/fragment.java" timestamp="1549634850814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -334,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
-      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
-      <jump line="138" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
       <jump line="172" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
       <jump line="175" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
       <jump line="45" column="104" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
@@ -434,6 +448,9 @@
       <jump line="48" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="91" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
+      <jump line="65" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
+      <jump line="63" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,8 +465,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dCB0byA8YmVhbiBpZD0icHJvdmlkZXIiIGNsYXNzPSIuLiIvPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dCB0byA8YmVhbiBpZD0icHJvdmlkZXIiIGNsYXNzPSIuLiIvPg==</text>
@@ -461,13 +478,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmFubm90YXRlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hcHJlc3MucHJvc3ByaW5nNS5jaDIuZGVjb3VwbGVkLkhlbGxvV29ybGRNZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUmVuZGVyZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5TdGFuZGFyZE91dE1lc3NhZ2VSZW5kZXJlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5Db25maWd1cmF0aW9uOwoK</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmFubm90YXRlZDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -483,22 +500,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hcHJlc3MucHJvc3ByaW5nNS5jaDIuZGVjb3VwbGVkLkhlbGxvV29ybGRNZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUmVuZGVyZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5TdGFuZGFyZE91dE1lc3NhZ2VSZW5kZXJlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5Db25maWd1cmF0aW9uOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMjIEludmVyc2lvbiBvZiBDb250cm9sIGluIFNwcmluZwo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci0tLS0KVGhlIFNwcmluZyBGcmFtZXdvcmsgb3JpZ2luYXRlZCBmcm9tIHRoZSBib29rIEV4cGVydCBPbmUtb24tT25lOiBKMkVFIERlc2lnbiBhbmQgRGV2ZWxvcG1lbnQgYnkgUm9kIEpvaG5zb24gKFdyb3gsIDIwMDIpLiBPdmVyIHRoZSBsYXN0IGRlY2FkZSwgdGhlIFNwcmluZyBGcmFtZXdvcmsgaGFzIGdyb3duIGRyYW1hdGljYWxseSBpbiBjb3JlIGZ1bmN0aW9uYWxpdHksIGFzc29jaWF0ZWQgcHJvamVjdHMsIGFuZCBjb21tdW5pdHkgc3VwcG9ydC4gV2l0aCB0aGUgbmV3IG1ham9yIHJlbGVhc2Ugb2YgdGhlIFNwcmluZyBGcmFtZXdvcmssIGl04oCZcyB3b3J0aHdoaWxlIHRvIHRha2UgYSBxdWljayBsb29rIGJhY2sgYXQgaW1wb3J0YW50IGZlYXR1cmVzIHRoYXQgaGF2ZSBjb21lIGFsb25nIHdpdGggZWFjaCBtaWxlc3RvbmUgcmVsZWFzZSBvZiBTcHJpbmcsIGxlYWRpbmcgdXAgdG8gU3ByaW5nIEZyYW1ld29yayA1LjAuCkZpZ3VyZSAxLTEuCk92ZXJ2aWV3IG9mIHRoZSBTcHJpbmcgRnJhbWV3b3JrLCB2ZXJzaW9uIDEueArigJMgU3ByaW5nIENvcmU6IEJlYW4gY29udGFpbmVyIGFuZCBzdXBwb3J0aW5nIHV0aWxpdGllcwrigJMgU3ByaW5nIENvbnRleHQ6IEFwcGxpY2F0aW9uQ29udGV4dCwgVUksIHZhbGlkYXRpb24sIEpOREksIEVudGVycHJpc2UgSmF2YUJlYW5zIChFSkIpLCByZW1vdGluZywgYW5kIG1haWwgc3VwcG9ydArigJMgU3ByaW5nIERBTzogVHJhbnNhY3Rpb24gaW5mcmFzdHJ1Y3R1cmUsIEphdmEgRGF0YWJhc2UgQ29ubmVjdGl2aXR5IChKREJDKSwgYW5kIGRhdGEgYWNjZXNzIG9iamVjdCAoREFPKSBzdXBwb3J0CuKAkyBTcHJpbmcgT1JNOiBIaWJlcm5hdGUsIGlCQVRJUywgYW5kIEphdmEgRGF0YSBPYmplY3RzIChKRE8pIHN1cHBvcnQK4oCTIFNwcmluZyBBT1A6IEFuIEFPUCBBbGxpYW5jZeKAk2NvbXBsaWFudCBhc3BlY3Qtb3JpZW50ZWQgcHJvZ3JhbW1pbmcgKEFPUCkKaW1wbGVtZW50YXRpb24K4oCTIFNwcmluZyBXZWI6IEJhc2ljIGludGVncmF0aW9uIGZlYXR1cmVzIHN1Y2ggYXMgbXVsdGlwYXJ0IGZ1bmN0aW9uYWxpdHksIGNvbnRleHQgaW5pdGlhbGl6YXRpb24gdGhyb3VnaCBzZXJ2bGV0IGxpc3RlbmVycywgYW5kIGEgd2ViLW9yaWVudGVkIGFwcGxpY2F0aW9uIGNvbnRleHQK4oCTIFNwcmluZyBXZWIgTVZDOiBXZWItYmFzZWQgTW9kZWwtVmlldy1Db250cm9sbGVyIChNVkMpIGZyYW1ld29yawpTcHJpbmcgMi54OiBUaGlzIGlzIGNvbXBvc2VkIG9mIHRoZSBzaXggbW9kdWxlcyBzaG93biBpbiBGaWd1cmUgMS0yLiBUaGUgU3ByaW5nIENvbnRleHQgbW9kdWxlIGlzIG5vdyBpbmNsdWRlZCBpbiBTcHJpbmcgQ29yZSwgYW5kIGFsbCBTcHJpbmcgd2ViIGNvbXBvbmVudHMgaGF2ZSBiZWVuIHJlcHJlc2VudGVkIGhlcmUgYnkgYSBzaW5nbGUgaXRlbS4K4oCiCuKAogpTcHJpbmcgMC45OiBUaGlzIGlzIHRoZSBmaXJzdCBwdWJsaWMgcmVsZWFzZSBvZiB0aGUgZnJhbWV3b3JrLCBiYXNlZCBvbiB0aGUgYm9vayBFeHBlcnQgT25lLW9uLU9uZTogSjJFRSBEZXNpZ24gYW5kIERldmVsb3BtZW50LCB0aGF0IG9mZmVyZWQgYSBiZWFuIGNvbmZpZ3VyYXRpb24gZm91bmRhdGlvbiwgQU9QIHN1cHBvcnQsIGEgSkRCQyBhYnN0cmFjdGlvbiBmcmFtZXdvcmssIGFic3RyYWN0IHRyYW5zYWN0aW9uIHN1cHBvcnQsIGFuZCBzbyBvbi4gVGhpcyB2ZXJzaW9uIGRvZXMgbm90IGhhdmUgb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24sIGJ1dCB5b3UgY2FuIGZpbmQgdGhlIGV4aXN0aW5nIHNvdXJjZXMgYW5kIGRvY3VtZW50YXRpb24gb24gU291cmNlRm9yZ2UuMQpTcHJpbmcgMS54OiBUaGlzIGlzIHRoZSBmaXJzdCB2ZXJzaW9uIHJlbGVhc2VkIHdpdGggb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24uIEl0IGlzIGNvbXBvc2VkIG9mIHRoZSBzZXZlbiBtb2R1bGVzIHNob3duIGluIEZpZ3VyZSAxLTEuCgo=</text>
+        <text encoding="base64">CiMjIEludmVyc2lvbiBvZiBDb250cm9sIGluIFNwcmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0tLS0KVGhlIFNwcmluZyBGcmFtZXdvcmsgb3JpZ2luYXRlZCBmcm9tIHRoZSBib29rIEV4cGVydCBPbmUtb24tT25lOiBKMkVFIERlc2lnbiBhbmQgRGV2ZWxvcG1lbnQgYnkgUm9kIEpvaG5zb24gKFdyb3gsIDIwMDIpLiBPdmVyIHRoZSBsYXN0IGRlY2FkZSwgdGhlIFNwcmluZyBGcmFtZXdvcmsgaGFzIGdyb3duIGRyYW1hdGljYWxseSBpbiBjb3JlIGZ1bmN0aW9uYWxpdHksIGFzc29jaWF0ZWQgcHJvamVjdHMsIGFuZCBjb21tdW5pdHkgc3VwcG9ydC4gV2l0aCB0aGUgbmV3IG1ham9yIHJlbGVhc2Ugb2YgdGhlIFNwcmluZyBGcmFtZXdvcmssIGl04oCZcyB3b3J0aHdoaWxlIHRvIHRha2UgYSBxdWljayBsb29rIGJhY2sgYXQgaW1wb3J0YW50IGZlYXR1cmVzIHRoYXQgaGF2ZSBjb21lIGFsb25nIHdpdGggZWFjaCBtaWxlc3RvbmUgcmVsZWFzZSBvZiBTcHJpbmcsIGxlYWRpbmcgdXAgdG8gU3ByaW5nIEZyYW1ld29yayA1LjAuCkZpZ3VyZSAxLTEuCk92ZXJ2aWV3IG9mIHRoZSBTcHJpbmcgRnJhbWV3b3JrLCB2ZXJzaW9uIDEueArigJMgU3ByaW5nIENvcmU6IEJlYW4gY29udGFpbmVyIGFuZCBzdXBwb3J0aW5nIHV0aWxpdGllcwrigJMgU3ByaW5nIENvbnRleHQ6IEFwcGxpY2F0aW9uQ29udGV4dCwgVUksIHZhbGlkYXRpb24sIEpOREksIEVudGVycHJpc2UgSmF2YUJlYW5zIChFSkIpLCByZW1vdGluZywgYW5kIG1haWwgc3VwcG9ydArigJMgU3ByaW5nIERBTzogVHJhbnNhY3Rpb24gaW5mcmFzdHJ1Y3R1cmUsIEphdmEgRGF0YWJhc2UgQ29ubmVjdGl2aXR5IChKREJDKSwgYW5kIGRhdGEgYWNjZXNzIG9iamVjdCAoREFPKSBzdXBwb3J0CuKAkyBTcHJpbmcgT1JNOiBIaWJlcm5hdGUsIGlCQVRJUywgYW5kIEphdmEgRGF0YSBPYmplY3RzIChKRE8pIHN1cHBvcnQK4oCTIFNwcmluZyBBT1A6IEFuIEFPUCBBbGxpYW5jZeKAk2NvbXBsaWFudCBhc3BlY3Qtb3JpZW50ZWQgcHJvZ3JhbW1pbmcgKEFPUCkKaW1wbGVtZW50YXRpb24K4oCTIFNwcmluZyBXZWI6IEJhc2ljIGludGVncmF0aW9uIGZlYXR1cmVzIHN1Y2ggYXMgbXVsdGlwYXJ0IGZ1bmN0aW9uYWxpdHksIGNvbnRleHQgaW5pdGlhbGl6YXRpb24gdGhyb3VnaCBzZXJ2bGV0IGxpc3RlbmVycywgYW5kIGEgd2ViLW9yaWVudGVkIGFwcGxpY2F0aW9uIGNvbnRleHQK4oCTIFNwcmluZyBXZWIgTVZDOiBXZWItYmFzZWQgTW9kZWwtVmlldy1Db250cm9sbGVyIChNVkMpIGZyYW1ld29yawpTcHJpbmcgMi54OiBUaGlzIGlzIGNvbXBvc2VkIG9mIHRoZSBzaXggbW9kdWxlcyBzaG93biBpbiBGaWd1cmUgMS0yLiBUaGUgU3ByaW5nIENvbnRleHQgbW9kdWxlIGlzIG5vdyBpbmNsdWRlZCBpbiBTcHJpbmcgQ29yZSwgYW5kIGFsbCBTcHJpbmcgd2ViIGNvbXBvbmVudHMgaGF2ZSBiZWVuIHJlcHJlc2VudGVkIGhlcmUgYnkgYSBzaW5nbGUgaXRlbS4K4oCiCuKAogpTcHJpbmcgMC45OiBUaGlzIGlzIHRoZSBmaXJzdCBwdWJsaWMgcmVsZWFzZSBvZiB0aGUgZnJhbWV3b3JrLCBiYXNlZCBvbiB0aGUgYm9vayBFeHBlcnQgT25lLW9uLU9uZTogSjJFRSBEZXNpZ24gYW5kIERldmVsb3BtZW50LCB0aGF0IG9mZmVyZWQgYSBiZWFuIGNvbmZpZ3VyYXRpb24gZm91bmRhdGlvbiwgQU9QIHN1cHBvcnQsIGEgSkRCQyBhYnN0cmFjdGlvbiBmcmFtZXdvcmssIGFic3RyYWN0IHRyYW5zYWN0aW9uIHN1cHBvcnQsIGFuZCBzbyBvbi4gVGhpcyB2ZXJzaW9uIGRvZXMgbm90IGhhdmUgb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24sIGJ1dCB5b3UgY2FuIGZpbmQgdGhlIGV4aXN0aW5nIHNvdXJjZXMgYW5kIGRvY3VtZW50YXRpb24gb24gU291cmNlRm9yZ2UuMQpTcHJpbmcgMS54OiBUaGlzIGlzIHRoZSBmaXJzdCB2ZXJzaW9uIHJlbGVhc2VkIHdpdGggb2ZmaWNpYWwgcmVmZXJlbmNlIGRvY3VtZW50YXRpb24uIEl0IGlzIGNvbXBvc2VkIG9mIHRoZSBzZXZlbiBtb2R1bGVzIHNob3duIGluIEZpZ3VyZSAxLTEuCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAgIFRvIHNwZWNpZnkgdGhlIGFjdHVhbCBjbGFzcyBjb250YWluaW5nIHRoZSBgc3RhdGljYCBmYWN0b3J5IG1ldGhvZCB0aGF0IGlzIGludm9rZWQgdG8gY3JlYXRlIHRoZSBvYmplY3QsIGluIHRoZSBsZXNzIGNvbW1vbiBjYXNlIHdoZXJlIHRoZSBjb250YWluZXIgaW52b2tlcyBhIGBzdGF0aWNgIGZhY3RvcnkgbWV0aG9kIG9uIGEgY2xhc3MgdG8gY3JlYXRlIHRoZSBiZWFuLiBUaGUgb2JqZWN0IHR5cGUgcmV0dXJuZWQgZnJvbSB0aGUgaW52b2NhdGlvbiBvZiB0aGUgYHN0YXRpY2AgZmFjdG9yeSBtZXRob2QgbWF5IGJlIHRoZSBzYW1lIGNsYXNzIG9yIGFub3RoZXIgY2xhc3MgZW50aXJlbHkuCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
