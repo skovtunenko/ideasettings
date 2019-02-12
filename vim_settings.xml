@@ -33,12 +33,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1549997431558">
-        <mark key="'" line="34" column="77" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550003318548">
+        <mark key="'" line="393" column="0" />
+        <mark key="[" line="451" column="4" />
+        <mark key="]" line="452" column="3" />
+        <mark key="^" line="452" column="3" />
+        <mark key="." line="452" column="3" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
@@ -128,6 +128,9 @@
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550003035921">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
         <mark key="'" line="420" column="27" />
       </file>
@@ -175,10 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="54" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="80" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="106" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="96" column="66" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="30" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" />
       <jump line="99" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="235" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
@@ -275,6 +274,10 @@
       <jump line="13" column="28" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="31" column="77" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="34" column="77" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="398" column="9" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="393" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="409" column="266" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,8 +292,20 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="107" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -299,7 +314,7 @@
         <text>DI</text>
       </register>
       <register name="0" type="4">
-        <text>Inversion of control concepts:</text>
+        <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -307,9 +322,8 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>However, other than the first few, 
-the remainder of the sample code provided in this chapter focuses on using</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -325,22 +339,22 @@ the remainder of the sample code provided in this chapter focuses on using</text
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlYy5hbmQoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgPGFzZD48L2FzZD4gCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmFubm90YXRlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hcHJlc3MucHJvc3ByaW5nNS5jaDIuZGVjb3VwbGVkLkhlbGxvV29ybGRNZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUHJvdmlkZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5NZXNzYWdlUmVuZGVyZXI7CmltcG9ydCBjb20uYXByZXNzLnByb3NwcmluZzUuY2gyLmRlY291cGxlZC5TdGFuZGFyZE91dE1lc3NhZ2VSZW5kZXJlcjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmNvbnRleHQuYW5ub3RhdGlvbi5Db25maWd1cmF0aW9uOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24KcHVibGljIGNsYXNzIEhlbGxvV29ybGRDb25maWd1cmF0aW9uIHsKICAgICAgICAvLyBlcXVpdmFsZW50IHRvIDxiZWFuIGlkPSJwcm92aWRlciIgY2xhc3M9Ii4uIi8+CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgTWVzc2FnZVByb3ZpZGVyIHByb3ZpZGVyKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBIZWxsb1dvcmxkTWVzc2FnZVByb3ZpZGVyKCk7Cn0KICAgICAgICAvLyBlcXVpdmFsZW50IHRvICA8YmVhbiBpZD0icmVuZGVyZXIiIGNsYXNzPSIuLiIvPgogICAgICAgIEBCZWFuCiAgICAgICAgcHVibGljIE1lc3NhZ2VSZW5kZXJlciByZW5kZXJlcigpewogICAgICAgICAgICAgICAgTWVzc2FnZVJlbmRlcmVyIHJlbmRlcmVyID0gbmV3IFN0YW5kYXJkT3V0TWVzc2FnZVJlbmRlcmVyKCk7CiAgICAgICAgICAgICAgICByZW5kZXJlci5zZXRNZXNzYWdlUHJvdmlkZXIocHJvdmlkZXIoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVuZGVyZXI7Cn0gfQpgYGAKCg==</text>
+        <text encoding="base64">VG8gZmFjaWxpdGF0ZSB5b3VyIHVuZGVyc3RhbmRpbmcgb2YgYm90aCB0aGUgWE1MIGFuZCBhbm5vdGF0aW9uIGNvbmZpZ3VyYXRpb24sIHdlIHByb3ZpZGUgc2FtcGxlIGNvZGUgZm9yIFhNTCBhbmQgYW5ub3RhdGlvbnMgc2lkZSBieSBzaWRlIHdoZW5ldmVyIGFwcHJvcHJpYXRlLCBidXQgdGhlIGZvY3VzIG9mIHRoaXMgYm9vayB3aWxsIGJlIG9uIGFubm90YXRpb25zIGFuZCBKYXZhIGNvbmZpZ3VyYXRpb24sIGFzIFhNTCB3YXMgYWxyZWFkeSBjb3ZlcmVkIGluIHRoZSBwcmV2aW91cyBlZGl0aW9ucyBvZiB0aGlzIGJvb2suCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
