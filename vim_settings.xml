@@ -3,37 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1548780066428">
-        <mark key="[" line="119" column="31" />
-        <mark key="]" line="119" column="35" />
-        <mark key="^" line="119" column="35" />
-        <mark key="." line="119" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/awssimulation/AwsStackCreationSimulation.java" timestamp="1549230371546">
         <mark key="'" line="103" column="10" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusUserDetailsChecker.java" timestamp="1549966680126" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1549625569048">
-        <mark key="[" line="32" column="60" />
-        <mark key="]" line="32" column="60" />
-        <mark key="." line="32" column="68" />
-        <mark key="^" line="32" column="68" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/README.md" timestamp="1549979981481" />
       <file name="/a.dummy" timestamp="1549637446180">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Java Fragment (Lection_1.md:203).java" timestamp="1549915849580">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification-dev.yml" timestamp="1549626642905">
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="14" column="161" />
-        <mark key="." line="14" column="161" />
-        <mark key="^" line="14" column="161" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1549482668772">
         <mark key="'" line="30" column="11" />
@@ -47,41 +23,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" timestamp="1549482813839">
         <mark key="'" line="42" column="117" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/catalog-qa.yml" timestamp="1549626411512">
-        <mark key="[" line="10" column="71" />
-        <mark key="]" line="10" column="71" />
-        <mark key="." line="10" column="71" />
-        <mark key="^" line="10" column="112" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/schedule-qa.yml" timestamp="1549626783884">
-        <mark key="[" line="10" column="71" />
-        <mark key="]" line="10" column="157" />
-        <mark key="." line="10" column="157" />
-        <mark key="^" line="10" column="157" />
-      </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1549980036465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/authorization-qa.yml" timestamp="1549626470851">
-        <mark key="[" line="17" column="119" />
-        <mark key="]" line="17" column="131" />
-        <mark key="." line="17" column="131" />
-        <mark key="^" line="17" column="131" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1548170010046">
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="37" />
-        <mark key="^" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549552568926">
         <mark key="'" line="45" column="20" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification-qa.yml" timestamp="1549626648735">
-        <mark key="[" line="15" column="119" />
-        <mark key="]" line="15" column="130" />
-        <mark key="." line="15" column="130" />
-        <mark key="^" line="15" column="130" />
       </file>
       <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1549959795959">
         <mark key="'" line="9" column="0" />
@@ -96,23 +42,11 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1548761398043">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
       </file>
       <file name="/permission [DEV RO]" timestamp="1549980028084">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549637571791">
-        <mark key="[" line="57" column="73" />
-        <mark key="]" line="57" column="94" />
-        <mark key="." line="57" column="94" />
-        <mark key="^" line="57" column="94" />
       </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
         <mark key="[" line="0" column="0" />
@@ -121,13 +55,10 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
         <mark key="'" line="59" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1549551908741">
-        <mark key="[" line="104" column="35" />
-        <mark key="]" line="104" column="38" />
-        <mark key="^" line="104" column="38" />
-        <mark key="." line="104" column="38" />
-      </file>
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549980028583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/organization.organization [DEV RO]" timestamp="1549983452905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/role [DEV RO]" timestamp="1549881868719">
@@ -173,6 +104,9 @@
         <mark key="^" line="10" column="144" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549983499330">
+        <mark key="." line="19" column="175" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" timestamp="1549443472185">
         <mark key="'" line="18" column="23" />
       </file>
@@ -188,18 +122,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/ConfigurableService.java" timestamp="1549554833842">
         <mark key="'" line="9" column="17" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/location/LocationService.java" timestamp="1549556670999">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1548619674110">
-        <mark key="[" line="2" column="66" />
-        <mark key="]" line="2" column="66" />
-        <mark key="." line="2" column="66" />
-        <mark key="^" line="2" column="56" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" timestamp="1549556718813">
         <mark key="'" line="28" column="18" />
         <mark key="[" line="23" column="0" />
@@ -214,18 +136,6 @@
         <mark key="^" line="92" column="101" />
         <mark key="." line="92" column="101" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/.gitignore" timestamp="1549922201488">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="39" column="7" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/Util.java" timestamp="1549230546220">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/MemberPhoneVOMapper.java" timestamp="1548757011733">
         <mark key="'" line="46" column="33" />
       </file>
@@ -235,12 +145,6 @@
         <mark key="]" line="69" column="7" />
         <mark key="^" line="69" column="7" />
         <mark key="." line="69" column="7" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.txt" timestamp="1548626009572">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="53" />
-        <mark key="." line="0" column="54" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" timestamp="1549967852103">
         <mark key="'" line="53" column="59" />
@@ -261,23 +165,11 @@
         <mark key="]" line="32" column="73" />
         <mark key="." line="32" column="73" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/organization/OrganizationService.java" timestamp="1549556712294">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
-      <file name="/dummy.sql" timestamp="1549980041696">
+      <file name="/dummy.sql" timestamp="1549983477468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549922225612">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="33" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1549552550042">
         <mark key="'" line="336" column="21" />
@@ -295,11 +187,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/UserWithPasswordVO.java" timestamp="1549482375654">
         <mark key="'" line="13" column="40" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/catalog-dev.yml" timestamp="1549626400722">
-        <mark key="[" line="10" column="97" />
-        <mark key="]" line="10" column="100" />
-        <mark key="." line="10" column="100" />
-        <mark key="^" line="10" column="100" />
+      <file name="/organization.location [DEV RO]" timestamp="1549983172180">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" timestamp="1549552728328">
         <mark key="'" line="52" column="19" />
@@ -330,20 +219,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/configuration/AmazonConfiguration.java" timestamp="1549554422507">
         <mark key="'" line="50" column="21" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/authorization-dev.yml" timestamp="1549626753523">
-        <mark key="[" line="17" column="70" />
-        <mark key="]" line="17" column="162" />
-        <mark key="^" line="17" column="162" />
-        <mark key="." line="17" column="162" />
-      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.5.1/893f21873cb3548cc4caea549d5c0826a54cdea5/common-core-6.5.1-sources.jar!/com/abcfinancial/api/common/service/CrudService.java" timestamp="1549482268567">
         <mark key="'" line="70" column="13" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/schedule-dev.yml" timestamp="1549626775934">
-        <mark key="[" line="10" column="119" />
-        <mark key="]" line="10" column="126" />
-        <mark key="." line="10" column="126" />
-        <mark key="^" line="10" column="126" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
         <mark key="'" line="29" column="16" />
@@ -367,12 +244,6 @@
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
         <mark key="'" line="81" column="4" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/provider/AmazonEmailProvider.java" timestamp="1548189684657">
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="36" />
-        <mark key="^" line="83" column="26" />
-        <mark key="." line="83" column="27" />
       </file>
     </filemarks>
     <jumps>
