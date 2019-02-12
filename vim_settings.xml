@@ -33,12 +33,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550003318548">
-        <mark key="'" line="393" column="0" />
-        <mark key="[" line="451" column="4" />
-        <mark key="]" line="452" column="3" />
-        <mark key="^" line="452" column="3" />
-        <mark key="." line="452" column="3" />
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550006015764">
+        <mark key="'" line="463" column="55" />
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="478" column="30" />
+        <mark key="^" line="478" column="30" />
+        <mark key="." line="478" column="30" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
         <mark key="'" line="112" column="38" />
@@ -128,7 +128,7 @@
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550003035921">
+      <file name="/Dummy.txt" timestamp="1550005649101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
@@ -178,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" />
-      <jump line="99" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="235" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="42" column="117" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
       <jump line="10" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/UserValidationEvent.java" />
       <jump line="308" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
@@ -278,6 +275,9 @@
       <jump line="398" column="9" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="393" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="409" column="266" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="471" column="40" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="455" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="463" column="55" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -292,8 +292,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -317,7 +317,7 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -345,16 +345,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgPGFzZD48L2FzZD4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgPGFzZD48L2FzZD4gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VG8gZmFjaWxpdGF0ZSB5b3VyIHVuZGVyc3RhbmRpbmcgb2YgYm90aCB0aGUgWE1MIGFuZCBhbm5vdGF0aW9uIGNvbmZpZ3VyYXRpb24sIHdlIHByb3ZpZGUgc2FtcGxlIGNvZGUgZm9yIFhNTCBhbmQgYW5ub3RhdGlvbnMgc2lkZSBieSBzaWRlIHdoZW5ldmVyIGFwcHJvcHJpYXRlLCBidXQgdGhlIGZvY3VzIG9mIHRoaXMgYm9vayB3aWxsIGJlIG9uIGFubm90YXRpb25zIGFuZCBKYXZhIGNvbmZpZ3VyYXRpb24sIGFzIFhNTCB3YXMgYWxyZWFkeSBjb3ZlcmVkIGluIHRoZSBwcmV2aW91cyBlZGl0aW9ucyBvZiB0aGlzIGJvb2suCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
