@@ -104,7 +104,7 @@
         <mark key="^" line="10" column="144" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549983499330">
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549988206748">
         <mark key="." line="19" column="175" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" timestamp="1549443472185">
@@ -156,6 +156,9 @@
         <mark key="." line="64" column="11" />
         <mark key="^" line="64" column="11" />
       </file>
+      <file name="/authorization.user_detail [DEV RO]" timestamp="1549988212280">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/S3FileStorageService.java" timestamp="1549451138539">
         <mark key="'" line="30" column="17" />
       </file>
@@ -165,7 +168,7 @@
         <mark key="]" line="32" column="73" />
         <mark key="." line="32" column="73" />
       </file>
-      <file name="/dummy.sql" timestamp="1549983477468">
+      <file name="/dummy.sql" timestamp="1549988216154">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
@@ -340,13 +343,13 @@
       <jump line="67" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="91" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="65" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
       <jump line="63" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
       <jump line="35" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
       <jump line="53" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
       <jump line="7" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" />
       <jump line="32" column="74" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudService.java" />
       <jump line="97" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="65" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
