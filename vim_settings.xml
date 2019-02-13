@@ -12,6 +12,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550068717544">
         <mark key="'" line="70" column="8" />
       </file>
+      <file name="/db.changelog-user.yaml" timestamp="1550074411951" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1550069083960">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,6 +58,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
       </file>
+      <file name="/UserTests.groovy" timestamp="1550074242594" />
+      <file name="/SecurityConfiguration.java" timestamp="1550075082504" />
       <file name="/organization.location [DEV RO]" timestamp="1550069083987">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,6 +77,12 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/LockAwarePostAuthenticationUserDetailsChecker.java" timestamp="1550074860441">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="/Clipboard.txt" timestamp="1549964114748">
         <mark key="[" line="0" column="0" />
@@ -198,7 +207,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>wopy</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -213,7 +222,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>wopy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1iZXJJZFw+</text>
