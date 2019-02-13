@@ -1,16 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/awssimulation/AwsStackCreationSimulation.java" timestamp="1549230371546">
-        <mark key="'" line="103" column="10" />
-      </file>
       <file name="/a.dummy" timestamp="1549637446180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/crypto/password/PasswordEncoder.java" timestamp="1549482668772">
-        <mark key="'" line="30" column="11" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
+        <mark key="'" line="137" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" timestamp="1549989426019">
         <mark key="'" line="63" column="19" />
@@ -18,103 +15,35 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" timestamp="1549482813839">
-        <mark key="'" line="42" column="117" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/http/PreferHeaderResolver.java" timestamp="1550053470865">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
       </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1549980036465">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" timestamp="1549552568926">
-        <mark key="'" line="45" column="20" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" timestamp="1549968705726">
-        <mark key="'" line="97" column="22" />
-        <mark key="[" line="78" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" timestamp="1550053294453">
+        <mark key="'" line="19" column="63" />
+        <mark key="[" line="19" column="75" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550007840220">
-        <mark key="'" line="463" column="55" />
-        <mark key="[" line="528" column="0" />
-        <mark key="]" line="528" column="0" />
-        <mark key="^" line="528" column="136" />
-        <mark key="." line="528" column="0" />
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1550011612621">
+        <mark key="'" line="315" column="8" />
+        <mark key="[" line="668" column="0" />
+        <mark key="]" line="668" column="0" />
+        <mark key="^" line="666" column="52" />
+        <mark key="." line="668" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/WebConfiguration.java" timestamp="1548966772500">
-        <mark key="'" line="112" column="38" />
+      <file name="/authorization.user_detail [DEV RO]" timestamp="1549988212280">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/permission [DEV RO]" timestamp="1549980028084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/client/filter/OAuth2ClientContextFilter.java" timestamp="1546440206074">
-        <mark key="'" line="59" column="23" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549980028583">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.organization [DEV RO]" timestamp="1549983452905">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/role [DEV RO]" timestamp="1549881868719">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1546439795152">
-        <mark key="'" line="10" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/EmailService.java" timestamp="1549555490565">
-        <mark key="'" line="9" column="25" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/WebClientConfiguration.java" timestamp="1547326634034">
-        <mark key="'" line="5" column="45" />
-      </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate.validator/hibernate-validator/6.0.11.Final/b4d2ba5d83739ec3eeba2e78834ff5975ecc5ccb/hibernate-validator-6.0.11.Final-sources.jar!/org/hibernate/validator/internal/metadata/core/ConstraintHelper.java" timestamp="1549280047000">
-        <mark key="'" line="367" column="56" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" timestamp="1549628042726">
-        <mark key="'" line="2" column="59" />
-      </file>
-      <file name="/authorization.role [DEV RO]" timestamp="1549980028911">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549988206748">
-        <mark key="." line="19" column="175" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/util/CopyUtil.java" timestamp="1549443472185">
-        <mark key="'" line="18" column="23" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/NoteDataVO.java" timestamp="1547326571751">
-        <mark key="'" line="24" column="4" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1549964114748">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/test/groovy/com/abcfinancial/api/item/ItemTests.groovy" timestamp="1548672102768">
-        <mark key="'" line="86" column="19" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/ConfigurableService.java" timestamp="1549554833842">
-        <mark key="'" line="9" column="17" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1549989155252">
-        <mark key="'" line="91" column="61" />
-        <mark key="[" line="91" column="74" />
-        <mark key="]" line="92" column="101" />
-        <mark key="^" line="92" column="101" />
-        <mark key="." line="92" column="101" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/MemberPhoneVOMapper.java" timestamp="1548757011733">
-        <mark key="'" line="46" column="33" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" timestamp="1549967852103">
-        <mark key="'" line="53" column="59" />
-      </file>
-      <file name="/authorization.user_detail [DEV RO]" timestamp="1549988212280">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/S3FileStorageService.java" timestamp="1549451138539">
-        <mark key="'" line="30" column="17" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/CrudService.java" timestamp="1549968595654">
         <mark key="'" line="32" column="74" />
@@ -125,141 +54,51 @@
       <file name="/dummy.sql" timestamp="1549988216154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549980028583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/organization.organization [DEV RO]" timestamp="1549983452905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550005649101">
+      <file name="/Dummy.txt" timestamp="1550011614203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1548766592461">
-        <mark key="'" line="420" column="27" />
+      <file name="/role [DEV RO]" timestamp="1549881868719">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/build.gradle" timestamp="1548075443013">
-        <mark key="'" line="89" column="41" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
+        <mark key="'" line="62" column="29" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/UserWithPasswordVO.java" timestamp="1549482375654">
-        <mark key="'" line="13" column="40" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchEntityService.java" timestamp="1550053361926">
+        <mark key="'" line="81" column="38" />
+        <mark key="[" line="51" column="106" />
+        <mark key="]" line="51" column="106" />
+        <mark key="^" line="51" column="106" />
+        <mark key="." line="51" column="106" />
       </file>
       <file name="/organization.location [DEV RO]" timestamp="1549983172180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" timestamp="1549552728328">
-        <mark key="'" line="52" column="19" />
+      <file name="/authorization.role [DEV RO]" timestamp="1549980028911">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemBase.java" timestamp="1548672005841">
-        <mark key="'" line="14" column="31" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
+        <mark key="'" line="14" column="33" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/Item.java" timestamp="1548672003423">
-        <mark key="'" line="12" column="28" />
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549988206748">
+        <mark key="." line="19" column="175" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" timestamp="1549967853822">
-        <mark key="'" line="7" column="12" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/configuration/AmazonConfiguration.java" timestamp="1549554422507">
-        <mark key="'" line="50" column="21" />
-      </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.5.1/893f21873cb3548cc4caea549d5c0826a54cdea5/common-core-6.5.1-sources.jar!/com/abcfinancial/api/common/service/CrudService.java" timestamp="1549482268567">
-        <mark key="'" line="70" column="13" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/LocationNoteVO.java" timestamp="1546514516128">
-        <mark key="'" line="29" column="16" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/event/LocationCreatedEvent.java" timestamp="1549640528754">
-        <mark key="'" line="6" column="4" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberPhone.java" timestamp="1548755128508">
-        <mark key="'" line="12" column="47" />
+      <file name="/Clipboard.txt" timestamp="1549964114748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1549634850814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-jwt/1.0.9.RELEASE/52d4dcf258ca9dc97de3daab0a063e20af51f703/spring-security-jwt-1.0.9.RELEASE-sources.jar!/org/springframework/security/jwt/JwtHelper.java" timestamp="1546440008353">
-        <mark key="'" line="81" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="117" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleController.java" />
-      <jump line="10" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/UserValidationEvent.java" />
-      <jump line="308" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="32" column="52" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="321" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="55" column="50" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/token/TokenService.java" />
-      <jump line="65" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" />
-      <jump line="53" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" />
-      <jump line="52" column="89" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" />
-      <jump line="22" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" />
-      <jump line="65" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" />
-      <jump line="256" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
-      <jump line="306" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="29" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" />
-      <jump line="24" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/EmailSendingEventProcessor.java" />
-      <jump line="45" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/verification/user/UserEmailVerificationEventProcessor.java" />
-      <jump line="273" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
-      <jump line="319" column="49" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="287" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
-      <jump line="336" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="52" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/EventService.java" />
-      <jump line="21" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/UserValidationEvent.java" />
-      <jump line="9" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/SesNotificationConfigurerApplication.java" />
-      <jump line="50" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/configuration/AmazonConfiguration.java" />
-      <jump line="18" column="50" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/AmazonEmailService.java" />
-      <jump line="72" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
-      <jump line="9" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/ConfigurableService.java" />
-      <jump line="41" column="99" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="7" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/ConfigurableService.java" />
-      <jump line="68" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="15" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/SesNotificationConfigurerApplication.java" />
-      <jump line="74" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="9" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/EmailService.java" />
-      <jump line="80" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="85" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/AmazonEmailService.java" />
-      <jump line="76" column="77" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="28" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-util-ses-notification-configurer/src/main/java/com/abcfinancial/util/sesnotificationconfigurer/email/BounceEmailNotificationConfigurer.java" />
-      <jump line="2" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/repository/local/LocalFileStorageRepository.java" />
-      <jump line="6" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-notification/src/main/java/com/abcfinancial/api/notification/event/LocationCreatedEvent.java" />
-      <jump line="11" column="1" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/README.md" />
-      <jump line="7" column="101" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="4" column="31" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="5" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="14" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="41" column="40" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="119" column="353" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_2/Lection_2.md" />
-      <jump line="103" column="4" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="22" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="91" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="63" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" />
       <jump line="35" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
       <jump line="53" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
       <jump line="7" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" />
@@ -277,7 +116,89 @@
       <jump line="409" column="266" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="471" column="40" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="455" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="613" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="463" column="55" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="632" column="58" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="640" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="309" column="10" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="315" column="8" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="63" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="116" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="93" column="6" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="86" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="122" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="79" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="67" column="3" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="62" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" />
+      <jump line="192" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="98" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="73" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="159" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="189" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="179" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="169" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="160" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="148" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="126" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="34" column="17" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="114" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="88" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="65" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="72" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="81" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="90" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="97" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="107" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="116" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="125" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="137" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" />
+      <jump line="20" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="79" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="90" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="89" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="76" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="62" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="48" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="28" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="22" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="19" column="63" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchService.java" />
+      <jump line="56" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchEntityService.java" />
+      <jump line="72" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchEntityService.java" />
+      <jump line="29" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchEntityService.java" />
+      <jump line="81" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/service/SearchEntityService.java" />
+      <jump line="86" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="40" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="70" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="246" column="42" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="17" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="251" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="250" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="242" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="241" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="239" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="238" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="185" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="184" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="183" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="182" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="176" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="175" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="172" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="169" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="162" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="152" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="149" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="145" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="137" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="125" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="119" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="112" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="105" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="103" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="100" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="30" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="22" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
+      <jump line="21" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -293,7 +214,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -308,10 +229,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>DI</text>
+        <text encoding="base64">XDxDT01QSUxFXD4=</text>
       </register>
       <register name="0" type="4">
         <text>Dependency pull via JNDI lookup</text>
@@ -320,10 +241,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIFVzaW5nIE1ldGhvZCBJbmplY3Rpb24gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">amoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -345,10 +266,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -361,19 +282,16 @@
       </register>
     </registers>
     <search>
-      <last-search>DI</last-search>
+      <last-search encoding="base64">XDxDT01QSUxFXD4=</last-search>
       <last-offset />
-      <last-pattern>DI</last-pattern>
+      <last-pattern encoding="base64">XDxDT01QSUxFXD4=</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBbWF6b25cPg==</entry>
-        <entry encoding="base64">XDxlbWFpbFByb3ZpZGVyXD4=</entry>
-        <entry>EL_DEVO</entry>
         <entry encoding="base64">XDxFTF9ERVZPUFNPXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
@@ -388,6 +306,12 @@
         <entry encoding="base64">XDxmb2xsb3dpbmdcPg==</entry>
         <entry encoding="base64">XDxJbnZlcnNpb25cPg==</entry>
         <entry>DI</entry>
+        <entry encoding="base64">XDzigKJcPg==</entry>
+        <entry encoding="base64">XDxlc2NhcGVkXD4=</entry>
+        <entry encoding="base64">XDxSRVNFUlZFRFw+</entry>
+        <entry>isLi</entry>
+        <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
+        <entry encoding="base64">XDxDT01QSUxFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
