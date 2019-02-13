@@ -46,6 +46,9 @@
       <file name="/permission [DEV RO]" timestamp="1549980028084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/MemberDocumentController.java" timestamp="1550064928959">
+        <mark key="'" line="151" column="78" />
+      </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,6 +61,7 @@
       <file name="/dummy.sql" timestamp="1549988216154">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/MemberDocumentService.java" timestamp="1550065378723" />
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1549980028583">
         <mark key="[" line="0" column="0" />
       </file>
@@ -67,7 +71,7 @@
       <file name="/organization.member [DEV RO]" timestamp="1549980028631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550011614203">
+      <file name="/Dummy.txt" timestamp="1550065509728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/role [DEV RO]" timestamp="1549881868719">
@@ -87,15 +91,17 @@
       <file name="/organization.location [DEV RO]" timestamp="1549983172180">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ArchivedMemberDocumentService.java" timestamp="1550065156701" />
       <file name="/authorization.role [DEV RO]" timestamp="1549980028911">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ArchivedMemberDocumentController.java" timestamp="1550064837581">
+        <mark key="'" line="77" column="49" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1549988206748">
-        <mark key="." line="19" column="175" />
-      </file>
+      <file name="/Scope.java" timestamp="1550065524482" />
       <file name="/Clipboard.txt" timestamp="1549964114748">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,10 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="31" column="77" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="34" column="77" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="398" column="9" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="393" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="409" column="266" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="471" column="40" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -205,6 +207,10 @@
       <jump line="1" column="0" filename="/UserLockService.java" />
       <jump line="9" column="0" filename="/UserLockService.java" />
       <jump line="11" column="0" filename="/UserLockService.java" />
+      <jump line="32" column="32" filename="/ArchivedMemberDocumentController.java" />
+      <jump line="77" column="49" filename="/ArchivedMemberDocumentController.java" />
+      <jump line="150" column="95" filename="/MemberDocumentController.java" />
+      <jump line="151" column="78" filename="/MemberDocumentController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -238,7 +244,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT01QSUxFXD4=</text>
+        <text encoding="base64">XDxtZW1iZXJJZFw+</text>
       </register>
       <register name="0" type="4">
         <text>Dependency pull via JNDI lookup</text>
@@ -288,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT01QSUxFXD4=</last-search>
+      <last-search encoding="base64">XDxtZW1iZXJJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT01QSUxFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZW1iZXJJZFw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
@@ -298,8 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFTF9ERVZPUFNPXD4=</entry>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
@@ -318,6 +322,8 @@
         <entry>isLi</entry>
         <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDxDT01QSUxFXD4=</entry>
+        <entry>MEMBER_ID_DOCU</entry>
+        <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
