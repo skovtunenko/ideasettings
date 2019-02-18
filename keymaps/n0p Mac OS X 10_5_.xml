@@ -80,10 +80,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt r" />
   </action>
   <action id="EditorCutLineEnd" />
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
@@ -96,17 +92,18 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
-  </action>
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
   </action>
@@ -116,6 +113,7 @@
   </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
@@ -123,11 +121,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt o" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="meta g" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="shift meta g" />
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="FindUsages">
@@ -146,6 +142,7 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
   </action>
+  <action id="GotoBookmark2" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
@@ -161,6 +158,9 @@
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
@@ -169,6 +169,9 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="NextOccurence" />
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt p" />
@@ -190,6 +193,9 @@
     <keyboard-shortcut first-keystroke="shift alt c" />
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="RemoveFromFavorites" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
@@ -198,6 +204,9 @@
   <action id="Run" />
   <action id="Scala.CreateScalaDocStub" />
   <action id="Scala.RenameJavaToScala" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="SendEOF" />
   <action id="ShowBookmarks" />
   <action id="ShowIntentionActions">
@@ -241,6 +250,8 @@
   <action id="ThePlugin.ShowHideMainToolWindow" />
   <action id="ThePlugin.ShowProjectSettings" />
   <action id="ToggleBookmark" />
+  <action id="ToggleBookmark2" />
+  <action id="ToggleBookmark6" />
   <action id="ToggleBookmarkWithMnemonic" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt g" />
@@ -250,8 +261,11 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
   </action>
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt x" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift meta g" />
   </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt j" />
@@ -259,6 +273,9 @@
   <action id="Vcs.RollbackChangedLines">
     <keyboard-shortcut first-keystroke="meta alt z" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="shift ctrl meta alt h" />
