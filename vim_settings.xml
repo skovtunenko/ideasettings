@@ -49,7 +49,7 @@
       <file name="/organization.member [DEV RO]" timestamp="1550069084073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550073523344">
+      <file name="/Dummy.txt" timestamp="1550077746842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/role [DEV RO]" timestamp="1549881868719">
@@ -77,12 +77,6 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/LockAwarePostAuthenticationUserDetailsChecker.java" timestamp="1550074860441">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="15" column="2" />
-        <mark key="." line="15" column="2" />
       </file>
       <file name="/Clipboard.txt" timestamp="1549964114748">
         <mark key="[" line="0" column="0" />
@@ -206,8 +200,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>wopy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogcGFzdGUgZnJvbSAgZXhjZXB0IHRoZSBsYXN0IGxpbmUuCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -222,7 +216,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>wopy</text>
+        <text>org.springframework.security.authentication.AccountStatusUserDetailsChecker</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW1iZXJJZFw+</text>
@@ -231,13 +225,13 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogcGFzdGUgZnJvbSAgZXhjZXB0IHRoZSBsYXN0IGxpbmUuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIFVzaW5nIE1ldGhvZCBJbmplY3Rpb24gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIFVzaW5nIE1ldGhvZCBJbmplY3Rpb24gCg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -259,19 +253,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action $SelectAll</text>
       </register>
     </registers>
     <search>
@@ -311,12 +305,12 @@
         <entry>action $Cut</entry>
         <entry>action GotoDeclaration</entry>
         <entry>s/- path/ aaa /gc</entry>
-        <entry>action $SelectAll</entry>
         <entry>action MethodUp</entry>
         <entry>action MethodDown</entry>
         <entry>w</entry>
         <entry>listactions</entry>
         <entry>actionlist</entry>
+        <entry>action $SelectAll</entry>
       </history-cmd>
       <history-expr />
       <history-input />
