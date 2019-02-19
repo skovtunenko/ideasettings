@@ -1,4 +1,9 @@
 <code_scheme name="GHX_CodeStyle_IntelliJ_v1" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="TAB_SIZE" value="8" />
+    </value>
+  </option>
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="IMPORT_LAYOUT_TABLE">
