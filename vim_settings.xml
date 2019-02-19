@@ -1,12 +1,18 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1549637446180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/index.txt" timestamp="1550591545326" />
+      <file name="$USER_HOME$/Downloads/index.txt" timestamp="1550603739155">
+        <mark key="'" line="971" column="0" />
+        <mark key="[" line="1242" column="0" />
+        <mark key="]" line="1242" column="0" />
+        <mark key="^" line="845" column="0" />
+        <mark key="." line="1101" column="60" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
@@ -108,11 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="514" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="519" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="520" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="521" column="38" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="528" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="529" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="530" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -208,6 +209,11 @@
       <jump line="724" column="43" filename="/UserTests.groovy" />
       <jump line="397" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
       <jump line="1609" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" />
+      <jump line="282" column="59" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="312" column="0" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="298" column="0" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="993" column="34" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="971" column="0" filename="$USER_HOME$/Downloads/index.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -222,8 +228,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">fDpzY3JpcHRlbmNvZGluZ3wg</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -238,7 +244,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text encoding="base64">fDpzY3JpcHRlbmNvZGluZ3wg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2tlblw+</text>
@@ -247,13 +253,13 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">Cgp2aW06dHc9Nzg6dHM9ODpub2V0OmZ0PWhlbHA6bm9ybDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogcGFzdGUgZnJvbSAgZXhjZXB0IHRoZSBsYXN0IGxpbmUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WW91IGZvdW5kIGl0LCBBcnRodXIhCQkJCSpob2x5LWdyYWlsKgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -269,7 +275,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIFVzaW5nIE1ldGhvZCBJbmplY3Rpb24gCg==</text>
+        <text encoding="base64">ampqago=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -281,13 +287,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">CgoKCgoKCgoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICB9Cg==</text>
+        <text encoding="base64">fCBDVFJMLVwgQ1RSTC1OCWdvIHRvIE5vcm1hbCBtb2RlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist *setting*</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -328,7 +334,6 @@
         <entry>action GotoDeclaration</entry>
         <entry>s/- path/ aaa /gc</entry>
         <entry>action MethodDown</entry>
-        <entry>w</entry>
         <entry>listactions</entry>
         <entry>action $SelectAll</entry>
         <entry>action MethodUp</entry>
@@ -336,6 +341,7 @@
         <entry>actionlist *class*</entry>
         <entry>action</entry>
         <entry>actionlist *setting*</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
