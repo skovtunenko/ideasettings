@@ -18,15 +18,11 @@
         <mark key="]" line="27" column="14" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="/authorization.oauth_client [DEV RO]" timestamp="1550069083960">
+      <file name="/authorization.oauth_client [DEV RO]" timestamp="1550574537343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/validator/ItemValidator.java" timestamp="1550076619322">
         <mark key="'" line="33" column="27" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/util/Date.java" timestamp="1550522839937">
-        <mark key="[" line="130" column="13" />
-        <mark key="]" line="130" column="13" />
       </file>
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
@@ -38,10 +34,10 @@
         <mark key="^" line="664" column="1" />
         <mark key="." line="664" column="1" />
       </file>
-      <file name="/authorization.user_detail [DEV RO]" timestamp="1550069084049">
+      <file name="/authorization.user_detail [DEV RO]" timestamp="1550574537092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/permission [DEV RO]" timestamp="1550069083441">
+      <file name="/permission [DEV RO]" timestamp="1550573637555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/MemberDocumentController.java" timestamp="1550064928959">
@@ -56,14 +52,17 @@
       <file name="/dummy.sql" timestamp="1550069097523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1550069083926">
+      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1550574537365">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.organization [DEV RO]" timestamp="1549983452905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/organization.member [DEV RO]" timestamp="1550069084073">
+      <file name="/organization.member [DEV RO]" timestamp="1550574536820">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
+        <mark key="'" line="1609" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1550077746842">
         <mark key="[" line="0" column="0" />
@@ -74,14 +73,20 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/com/skovtunenko/pet/jooqtest/fixturetemplates/DbTemplateLoader.java" timestamp="1550522782914">
-        <mark key="'" line="18" column="13" />
-        <mark key="m" line="23" column="16" />
-      </file>
-      <file name="/organization.location [DEV RO]" timestamp="1550069083987">
+      <file name="/authorization.permission [DEV RO]" timestamp="1550574537599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/organization.location_document [DEV RO]" timestamp="1550069093818">
+      <file name="/UserTests.groovy" timestamp="1550573486617">
+        <mark key="'" line="724" column="43" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
+        <mark key="'" line="397" column="45" />
+      </file>
+      <file name="/UserService.java" timestamp="1550573335042" />
+      <file name="/organization.location [DEV RO]" timestamp="1550574537323">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/organization.location_document [DEV RO]" timestamp="1550574536857">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1550069925808">
@@ -93,9 +98,12 @@
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/ContactEntity.java" timestamp="1550522838391">
         <mark key="'" line="29" column="12" />
       </file>
-      <file name="/authorization.role [DEV RO]" timestamp="1550069084097">
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/authorization/table/user_detail.sql" timestamp="1550573675349" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1550573996001" />
+      <file name="/authorization.role [DEV RO]" timestamp="1550574536787">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1550573946769" />
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550064837581">
         <mark key="'" line="77" column="49" />
       </file>
@@ -110,18 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="482" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="483" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="484" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="485" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="486" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="487" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="488" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="489" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="490" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="497" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="498" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="513" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="514" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="519" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -210,6 +206,18 @@
       <jump line="415" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="419" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="434" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
+      <jump line="708" column="14" filename="/UserTests.groovy" />
+      <jump line="709" column="8" filename="/UserTests.groovy" />
+      <jump line="710" column="8" filename="/UserTests.groovy" />
+      <jump line="711" column="8" filename="/UserTests.groovy" />
+      <jump line="712" column="8" filename="/UserTests.groovy" />
+      <jump line="714" column="48" filename="/UserTests.groovy" />
+      <jump line="718" column="70" filename="/UserTests.groovy" />
+      <jump line="722" column="59" filename="/UserTests.groovy" />
+      <jump line="730" column="63" filename="/UserTests.groovy" />
+      <jump line="724" column="43" filename="/UserTests.groovy" />
+      <jump line="397" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
+      <jump line="1609" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -243,7 +251,7 @@
         <text>D</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW1iZXJJZFw+</text>
+        <text encoding="base64">XDx0b2tlblw+</text>
       </register>
       <register name="0" type="4">
         <text>Dependency pull via JNDI lookup</text>
@@ -293,17 +301,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW1iZXJJZFw+</last-search>
+      <last-search encoding="base64">XDx0b2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW1iZXJJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
         <entry>projectG</entry>
@@ -323,6 +330,7 @@
         <entry encoding="base64">XDxDT01QSUxFXD4=</entry>
         <entry>MEMBER_ID_DOCU</entry>
         <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
