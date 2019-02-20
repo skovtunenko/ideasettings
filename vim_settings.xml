@@ -3,11 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/BrandingVO.java" timestamp="1550687386319" />
       <file name="/a.dummy" timestamp="1550688062966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/OrganizationService.java" timestamp="1550687518359" />
+      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/normal_mode.txt" timestamp="1550691643053">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/visual_mode.txt" timestamp="1550691691770">
+        <mark key="'" line="87" column="53" />
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
@@ -23,20 +32,29 @@
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/BrandingVOMapper.java" timestamp="1550687939849" />
       <file name="/MemberDocumentController.java" timestamp="1550665289098">
         <mark key="'" line="151" column="78" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/organization/BrandingVO.java" timestamp="1550687251904" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemCategoryController.java" timestamp="1550067827923">
         <mark key="'" line="46" column="116" />
       </file>
-      <file name="/OrganizationVOMapper.java" timestamp="1550687812664" />
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.2.3/3946f6c8ab7c28e1045128cc49e82391686228fa/logback-classic-1.2.3.jar!/com/fasterxml/jackson/core/type/TypeReference.class" timestamp="1550688045171" />
+      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/insert_mode.txt" timestamp="1550691457382">
+        <mark key="'" line="110" column="36" />
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="26" />
+        <mark key="." line="93" column="26" />
+        <mark key="^" line="93" column="26" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550688200926">
+      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/commandline_editing.txt" timestamp="1550691738825">
+        <mark key="'" line="71" column="37" />
+        <mark key="[" line="5" column="65" />
+        <mark key="]" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550692199709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
@@ -72,14 +90,14 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
-      <file name="/EmployeeService.java" timestamp="1550687714272" />
+      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/ex_commands.txt" timestamp="1550691811083">
+        <mark key="'" line="531" column="41" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="." line="208" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="537" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="538" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="543" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="544" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="545" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="546" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="547" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="551" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -175,6 +193,11 @@
       <jump line="187" column="109" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
       <jump line="178" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
       <jump line="78" column="49" filename="/DocumentService.java" />
+      <jump line="19" column="27" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="111" column="36" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/insert_mode.txt" />
+      <jump line="87" column="53" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/visual_mode.txt" />
+      <jump line="71" column="37" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/commandline_editing.txt" />
+      <jump line="532" column="41" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/ex_commands.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -189,8 +212,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>~</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -205,7 +228,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getTotalAmount</text>
+        <text>~</text>
       </register>
       <register name="/" type="4">
         <text>createDocu</text>
@@ -214,10 +237,10 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">CgoKCgoKCgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgp2aW06dHc9Nzg6dHM9ODpub2V0OmZ0PWhlbHA6bm9ybDoK</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -236,10 +259,10 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WW91IGZvdW5kIGl0LCBBcnRodXIhCQkJCSpob2x5LWdyYWlsKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ampqago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -251,7 +274,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
