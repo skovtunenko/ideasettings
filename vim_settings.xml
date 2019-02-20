@@ -3,78 +3,59 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1549637446180">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/index.txt" timestamp="1550603739155">
-        <mark key="'" line="971" column="0" />
-        <mark key="[" line="1242" column="0" />
-        <mark key="]" line="1242" column="0" />
-        <mark key="^" line="845" column="0" />
-        <mark key="." line="1101" column="60" />
-      </file>
+      <file name="/index.adoc" timestamp="1550665419600" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
+      <file name="/ArchivedDocumentService.java" timestamp="1550664907922" />
+      <file name="/MemberDocumentController.java" timestamp="1550665289098">
+        <mark key="'" line="151" column="78" />
+      </file>
+      <file name="/ArchivedLocationDocumentController.java" timestamp="1550665373149" />
+      <file name="/DocumentTests.groovy" timestamp="1550665455702" />
+      <file name="/LocationDocumentController.java" timestamp="1550665179184" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
+        <mark key="'" line="62" column="29" />
+      </file>
+      <file name="/DocumentService.java" timestamp="1550664777927">
+        <mark key="'" line="78" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/ContactEntity.java" timestamp="1550522838391">
+        <mark key="'" line="29" column="12" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
+        <mark key="'" line="14" column="33" />
+      </file>
+      <file name="/DocumentData.java" timestamp="1550663422671" />
+      <file name="/ArchivedLocationDocumentTests.groovy" timestamp="1550665541844" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550076700616">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="/authorization.oauth_client [DEV RO]" timestamp="1550574537343">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/ArchivedLocationDocumentService.java" timestamp="1550664951077" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/validator/ItemValidator.java" timestamp="1550076619322">
         <mark key="'" line="33" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Dev/DELME/configs/.gitignore" timestamp="1550585090572">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="4" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" timestamp="1550663120774">
+        <mark key="'" line="178" column="33" />
       </file>
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/authorization.user_detail [DEV RO]" timestamp="1550574537092">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/permission [DEV RO]" timestamp="1550573637555">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/MemberDocumentController.java" timestamp="1550064928959">
-        <mark key="'" line="151" column="78" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1549882351924">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemCategoryController.java" timestamp="1550067827923">
         <mark key="'" line="46" column="116" />
       </file>
-      <file name="/dummy.sql" timestamp="1550069097523">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1550574537365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.organization [DEV RO]" timestamp="1549983452905">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.member [DEV RO]" timestamp="1550574536820">
-        <mark key="[" line="0" column="0" />
+      <file name="/LocationDocumentBase.java" timestamp="1550663481139" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationDocumentController.java" timestamp="1550665262953" />
+      <file name="/LocationDocumentService.java" timestamp="1550664994503" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/subscription/SubscriptionEmailEventProcessor.java" timestamp="1550663053711">
+        <mark key="'" line="79" column="63" />
+        <mark key="[" line="83" column="82" />
+        <mark key="]" line="83" column="86" />
+        <mark key="." line="83" column="86" />
+        <mark key="^" line="83" column="86" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1550585287499">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/role [DEV RO]" timestamp="1549881868719">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
-        <mark key="'" line="62" column="29" />
-      </file>
-      <file name="/authorization.permission [DEV RO]" timestamp="1550574537599">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
         <mark key="'" line="724" column="43" />
@@ -83,46 +64,19 @@
         <mark key="'" line="397" column="45" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/statements/domain/Type.java" timestamp="1550652449540" />
-      <file name="/organization.location [DEV RO]" timestamp="1550574537323">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.location_document [DEV RO]" timestamp="1550574536857">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/OrganizationDocumentController.java" timestamp="1550665201021" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1550069925808">
         <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/HobbyEntity.java" timestamp="1550522856552">
         <mark key="'" line="20" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/ContactEntity.java" timestamp="1550522838391">
-        <mark key="'" line="29" column="12" />
-      </file>
-      <file name="/authorization.role [DEV RO]" timestamp="1550574536787">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550064837581">
         <mark key="'" line="77" column="49" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
-        <mark key="'" line="14" column="33" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/document/LocationDocumentService.java" timestamp="1550653114830" />
-      <file name="/Clipboard.txt" timestamp="1550570268147">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1549634850814">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="529" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="530" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="531" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="532" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="533" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="534" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="537" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="538" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="543" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -216,6 +170,13 @@
       <jump line="298" column="0" filename="$USER_HOME$/Downloads/index.txt" />
       <jump line="993" column="34" filename="$USER_HOME$/Downloads/index.txt" />
       <jump line="971" column="0" filename="$USER_HOME$/Downloads/index.txt" />
+      <jump line="99" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/subscription/SubscriptionEmailEventProcessor.java" />
+      <jump line="48" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/subscription/SubscriptionEmailEventProcessor.java" />
+      <jump line="79" column="63" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/subscription/SubscriptionEmailEventProcessor.java" />
+      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
+      <jump line="187" column="109" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
+      <jump line="178" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
+      <jump line="78" column="49" filename="/DocumentService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -231,7 +192,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">fDpzY3JpcHRlbmNvZGluZ3wg</text>
+        <text>getTotalAmount</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -246,10 +207,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">fDpzY3JpcHRlbmNvZGluZ3wg</text>
+        <text>getTotalAmount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlblw+</text>
+        <text>createDocu</text>
       </register>
       <register name="0" type="4">
         <text>Dependency pull via JNDI lookup</text>
@@ -299,18 +260,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2tlblw+</last-search>
+      <last-search>createDocu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
+      <last-pattern>createDocu</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwoXD4=</entry>
-        <entry encoding="base64">XDxKYXZhVGltZU1vZHVsZVw+</entry>
         <entry>projectG</entry>
         <entry>%s</entry>
         <entry>- path</entry>
@@ -329,6 +288,8 @@
         <entry>MEMBER_ID_DOCU</entry>
         <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
+        <entry>{{</entry>
+        <entry>createDocu</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
