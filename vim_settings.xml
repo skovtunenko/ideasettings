@@ -82,7 +82,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
         <mark key="'" line="397" column="45" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/statements/domain/Type.java" timestamp="1550651036348" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/statements/domain/Type.java" timestamp="1550652449540" />
       <file name="/organization.location [DEV RO]" timestamp="1550574537323">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,6 +107,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/document/LocationDocumentService.java" timestamp="1550653114830" />
       <file name="/Clipboard.txt" timestamp="1550570268147">
         <mark key="[" line="0" column="0" />
       </file>
