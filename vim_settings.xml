@@ -99,14 +99,15 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="208" column="54" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" timestamp="1550740017163">
+        <mark key="'" line="52" column="3" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="49" column="14" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="551" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="552" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="557" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="558" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="559" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="560" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="561" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="569" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="570" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -201,6 +202,12 @@
       <jump line="532" column="41" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/ex_commands.txt" />
       <jump line="57" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/EmployeeService.java" />
       <jump line="90" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/EmployeeController.java" />
+      <jump line="132" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="120" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="7" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="0" column="69" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="137" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="48" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -215,8 +222,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -234,19 +241,19 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>createDocu</text>
+        <text encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</text>
       </register>
       <register name="0" type="4">
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCgoKCgoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iRWRpdG9yQ29tcGxldGVTdGF0ZW1lbnQiPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9InNoaWZ0IG1ldGEgZW50ZXIiIC8+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0iY3RybCBlbnRlciIgLz4KICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -265,36 +272,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iTWV0aG9kSGllcmFyY2h5Ij4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJzaGlmdCBtZXRhIGgiIC8+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0ic2hpZnQgY3RybCBtZXRhIGFsdCBjIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iVHlwZUhpZXJhcmNoeSI+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0iY3RybCBoIiAvPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9InNoaWZ0IGN0cmwgbWV0YSBhbHQgeCIgLz4KICAgIDwvYWN0aW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9hPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>createDocu</last-search>
+      <last-search encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</last-search>
       <last-offset />
-      <last-pattern>createDocu</last-pattern>
+      <last-pattern encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>projectG</entry>
         <entry>%s</entry>
         <entry>- path</entry>
         <entry>copyW</entry>
@@ -314,6 +320,7 @@
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry>{{</entry>
         <entry>createDocu</entry>
+        <entry encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Replace</entry>
@@ -331,6 +338,7 @@
         <entry>actionlist</entry>
         <entry>action AceAction</entry>
         <entry>action Forward</entry>
+        <entry>action Find</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
