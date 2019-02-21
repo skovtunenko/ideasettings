@@ -57,6 +57,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt t" />
   </action>
   <action id="Debug" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
@@ -185,7 +187,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta alt w" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl j" />
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt e" />
   </action>
@@ -245,6 +246,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Switcher" />
   <action id="ThePlugin.Bamboo.ShowHideBambooTab" />
   <action id="ThePlugin.JIRA.ShowHideJIRATab" />
   <action id="ThePlugin.ShowHideMainToolWindow" />

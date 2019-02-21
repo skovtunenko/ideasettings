@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/a.dummy" timestamp="1550688062966">
@@ -69,6 +69,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
         <mark key="'" line="397" column="45" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/EmployeeController.java" timestamp="1550735498984">
+        <mark key="'" line="90" column="35" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1550069925808">
         <mark key="'" line="25" column="0" />
       </file>
@@ -81,11 +84,11 @@
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550064837581">
         <mark key="'" line="77" column="49" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/EmployeeService.java" timestamp="1550687701773">
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="72" column="11" />
-        <mark key="." line="72" column="11" />
-        <mark key="^" line="72" column="11" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/EmployeeService.java" timestamp="1550735394175">
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
+        <mark key="^" line="324" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
@@ -98,8 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="546" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="547" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="551" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="552" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="557" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -198,6 +199,8 @@
       <jump line="87" column="53" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/visual_mode.txt" />
       <jump line="71" column="37" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/commandline_editing.txt" />
       <jump line="532" column="41" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/ex_commands.txt" />
+      <jump line="57" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/EmployeeService.java" />
+      <jump line="90" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/EmployeeController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -213,7 +216,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>~</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -228,7 +231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>~</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>createDocu</text>
@@ -277,7 +280,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>actionlist</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -326,6 +329,9 @@
         <entry>actionlist *setting*</entry>
         <entry>w</entry>
         <entry>actionlist</entry>
+        <entry>action AceAction</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
