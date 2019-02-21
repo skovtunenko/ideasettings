@@ -277,7 +277,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
@@ -321,11 +321,11 @@
         <entry>listactions</entry>
         <entry>action $SelectAll</entry>
         <entry>action MethodUp</entry>
-        <entry>actionlist</entry>
         <entry>actionlist *class*</entry>
         <entry>action</entry>
         <entry>actionlist *setting*</entry>
         <entry>w</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
