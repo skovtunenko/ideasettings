@@ -32,7 +32,7 @@
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/MemberDocumentController.java" timestamp="1550665289098">
+      <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemCategoryController.java" timestamp="1550067827923">
@@ -54,7 +54,7 @@
         <mark key="]" line="5" column="65" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550692199709">
+      <file name="/Dummy.txt" timestamp="1550741197277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
@@ -69,6 +69,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
         <mark key="'" line="397" column="45" />
       </file>
+      <file name="/OrganizationDocumentController.java" timestamp="1550741308098" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/EmployeeController.java" timestamp="1550735498984">
         <mark key="'" line="90" column="35" />
       </file>
@@ -99,18 +100,16 @@
         <mark key="]" line="5" column="37" />
         <mark key="." line="208" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" timestamp="1550740017163">
-        <mark key="'" line="52" column="3" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="49" column="14" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" timestamp="1550741121548">
+        <mark key="a" line="30" column="4" />
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="101" column="13" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="134" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="569" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="570" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="571" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="574" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="575" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -206,8 +205,11 @@
       <jump line="120" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
       <jump line="7" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
       <jump line="0" column="69" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
-      <jump line="137" column="8" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
       <jump line="48" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="137" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="102" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="95" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
+      <jump line="103" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -223,7 +225,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iU2hvd0ludGVudGlvbkFjdGlvbnMiPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9ImFsdCBlbnRlciIgLz4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJtZXRhIGVudGVyIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -247,13 +249,13 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iU2hvd0ludGVudGlvbkFjdGlvbnMiPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9ImFsdCBlbnRlciIgLz4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJtZXRhIGVudGVyIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGFjdGlvbiBpZD0iRWRpdG9yQ29tcGxldGVTdGF0ZW1lbnQiPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9InNoaWZ0IG1ldGEgZW50ZXIiIC8+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0iY3RybCBlbnRlciIgLz4KICAgIDwvYWN0aW9uPgo=</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iVmNzLlJvbGxiYWNrQ2hhbmdlZExpbmVzIj4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJtZXRhIGFsdCB6IiAvPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9ImN0cmwgYWx0IHciIC8+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -269,25 +271,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iVmNzLlNob3dUYWJiZWRGaWxlSGlzdG9yeSI+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0ic2hpZnQgY3RybCBtZXRhIGFsdCBoIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PGFjdGlvbiBpZD0iTWV0aG9kSGllcmFyY2h5Ij4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJzaGlmdCBtZXRhIGgiIC8+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0ic2hpZnQgY3RybCBtZXRhIGFsdCBjIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iVmNzLlF1aWNrTGlzdFBvcHVwQWN0aW9uIj4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJzaGlmdCBjdHJsIG1ldGEgYWx0IGoiIC8+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iRmlsZVN0cnVjdHVyZVBvcHVwIj4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJtZXRhIGYxMiIgLz4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJzaGlmdCBjdHJsIG1ldGEgYWx0IG8iIC8+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGFjdGlvbiBpZD0iVHlwZUhpZXJhcmNoeSI+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0iY3RybCBoIiAvPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9InNoaWZ0IGN0cmwgbWV0YSBhbHQgeCIgLz4KICAgIDwvYWN0aW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9hPgo=</text>
+        <text encoding="base64">ICAgIDxhY3Rpb24gaWQ9IkdpdC5TdGFzaCI+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0ic2hpZnQgY3RybCBtZXRhIGFsdCBrIiAvPgogICAgPC9hY3Rpb24+CiAgICA8YWN0aW9uIGlkPSJHaXQuVW5zdGFzaCI+CiAgICAgICAgPGtleWJvYXJkLXNob3J0Y3V0IGZpcnN0LWtleXN0cm9rZT0ic2hpZnQgY3RybCBtZXRhIGFsdCBsIiAvPgogICAgPC9hY3Rpb24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGE+Cg==</text>
+        <text encoding="base64">PGFjdGlvbiBpZD0iRWRpdG9yQ29udGV4dEluZm8iPgogICAgICAgIDxrZXlib2FyZC1zaG9ydGN1dCBmaXJzdC1rZXlzdHJva2U9InNoaWZ0IGN0cmwgcSIgLz4KICAgICAgICA8a2V5Ym9hcmQtc2hvcnRjdXQgZmlyc3Qta2V5c3Ryb2tlPSJzaGlmdCBjdHJsIG1ldGEgYWx0IHIiIC8+CiAgICA8L2FjdGlvbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -337,9 +339,9 @@
         <entry>w</entry>
         <entry>actionlist</entry>
         <entry>action AceAction</entry>
-        <entry>action Forward</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
