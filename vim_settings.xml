@@ -5,7 +5,7 @@
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/v1_89_0/source/2018_03_01.EINV-1471_add_new_XRechnung_delivery_format.xml" timestamp="1550747199079" />
       <file name="$USER_HOME$/Documents/Dev/DELME/configs/SELECT_t___FROM_authorization_DATABASECH.sql" timestamp="1550747641462" />
-      <file name="/a.dummy" timestamp="1550742071981">
+      <file name="/a.dummy" timestamp="1550768655082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/db.changelog-master.xml" timestamp="1550747445116" />
@@ -78,12 +78,12 @@
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" timestamp="1550756053124">
-        <mark key="'" line="21" column="20" />
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="27" column="126" />
-        <mark key="^" line="27" column="126" />
-        <mark key="." line="27" column="126" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" timestamp="1550768702826">
+        <mark key="'" line="46" column="60" />
+        <mark key="[" line="46" column="79" />
+        <mark key="]" line="46" column="79" />
+        <mark key="^" line="46" column="80" />
+        <mark key="." line="46" column="79" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/Sort.java" timestamp="1550752204063" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemCategoryController.java" timestamp="1550067827923">
@@ -92,20 +92,13 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1550754404770">
         <mark key="'" line="43" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/insert_mode.txt" timestamp="1550691457382">
-        <mark key="'" line="110" column="36" />
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="93" column="26" />
-        <mark key="." line="93" column="26" />
-        <mark key="^" line="93" column="26" />
-      </file>
       <file name="/dummy.sql" timestamp="1550747653452">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550753513834">
+      <file name="/Dummy.txt" timestamp="1550768778733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
@@ -163,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="280" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="286" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -263,6 +255,7 @@
       <jump line="95" column="21" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="70" column="8" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="301" column="18" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" />
+      <jump line="46" column="60" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -278,7 +271,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -293,7 +286,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRVc2VyRm9yT3JnYW5pemF0aW9uXD4=</text>
