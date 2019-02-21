@@ -48,6 +48,12 @@
         <mark key="'" line="14" column="33" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/v1_30_0/source/2015_10_12.EGXTM-41.xml" timestamp="1550745866631" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" timestamp="1550770592071">
+        <mark key="a" line="49" column="4" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="0" />
+        <mark key="." line="143" column="0" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/tenancy/OrganizationDomainObject.java" timestamp="1550754656009" />
       <file name="/Volumes/DEV/GitCheckouts/GHX_from_develop/all/trading-partner-mgmt/release/v1_30_0/changelog.xml" timestamp="1550746180670" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1550746570081" />
@@ -270,8 +276,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -295,13 +301,13 @@
         <text>Dependency pull via JNDI lookup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -317,22 +323,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRjaCggRXhjZXB0aW9uIGV4Y2VwdGlvbiApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3VtZXIuYWNjZXB0KCBtZXNzYWdlICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
