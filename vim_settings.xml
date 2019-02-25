@@ -49,6 +49,13 @@
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" timestamp="1551090065003">
+        <mark key="'" line="80" column="21" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" timestamp="1550768702826">
         <mark key="'" line="46" column="60" />
         <mark key="[" line="46" column="79" />
@@ -71,6 +78,9 @@
         <mark key="]" line="31" column="30" />
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" timestamp="1551089879820">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="/dummy.sql" timestamp="1550747653452">
         <mark key="[" line="0" column="0" />
@@ -163,14 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="349" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="351" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="353" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="355" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="357" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="360" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="362" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="364" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="375" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="377" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -263,6 +265,14 @@
       <jump line="31" column="16" filename="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/regexvalidation/RegexValidationApp.java" />
       <jump line="84" column="17" filename="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/regexvalidation/RegexValidationApp.java" />
       <jump line="30" column="19" filename="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/regexvalidation/RegexValidationApp.java" />
+      <jump line="18" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="14" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" />
+      <jump line="31" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="42" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="46" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="33" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="80" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -299,7 +309,7 @@
         <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>pojo</text>
+        <text encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHNkYXNkb2pvID0gbmV3IFBvam8oIkFsZXgiLCAiSXZhbm92IiwgMjVMLCBuZXcgQmlnRGVjaW1hbCgiMjUuMiIpKTsK</text>
@@ -345,21 +355,20 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickJavaDoc</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search>pojo</last-search>
+      <last-search encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</last-search>
       <last-offset />
-      <last-pattern>pojo</last-pattern>
+      <last-pattern encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCZXlvbmRcPg==</entry>
         <entry encoding="base64">XDxmb2xsb3dpbmdcPg==</entry>
         <entry encoding="base64">XDxJbnZlcnNpb25cPg==</entry>
         <entry>DI</entry>
@@ -379,13 +388,13 @@
         <entry encoding="base64">XDxvXD4=</entry>
         <entry encoding="base64">XDxnZXRVc2VyRm9yT3JnYW5pemF0aW9uXD4=</entry>
         <entry>pojo</entry>
+        <entry encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoDeclaration</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">YWN0aW9uIA==</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action ShowUsages</entry>
         <entry>e ~/.ideavimrc</entry>
@@ -401,6 +410,7 @@
         <entry>action GotoImplementation</entry>
         <entry>action QuickImplementations</entry>
         <entry>action QuickJavaDoc</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
