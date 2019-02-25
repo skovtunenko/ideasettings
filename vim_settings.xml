@@ -19,14 +19,6 @@
       <file name="/a.dummy" timestamp="1550768655082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationContextHelper.java" timestamp="1550755965036">
-        <mark key="'" line="47" column="26" />
-        <mark key="[" line="51" column="0" />
-        <mark key="m" line="30" column="26" />
-        <mark key="]" line="52" column="23" />
-        <mark key="^" line="52" column="23" />
-        <mark key="." line="52" column="23" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
@@ -49,19 +41,18 @@
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" timestamp="1551090065003">
-        <mark key="'" line="80" column="21" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="15" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" timestamp="1551091399178">
+        <mark key="'" line="81" column="21" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" timestamp="1550768702826">
-        <mark key="'" line="46" column="60" />
-        <mark key="[" line="46" column="79" />
-        <mark key="]" line="46" column="79" />
-        <mark key="^" line="46" column="80" />
-        <mark key="." line="46" column="79" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" timestamp="1551091471862">
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="20" column="79" />
+        <mark key="]" line="20" column="79" />
+        <mark key="^" line="20" column="80" />
+        <mark key="." line="20" column="79" />
       </file>
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
@@ -141,12 +132,6 @@
         <mark key="." line="324" column="0" />
         <mark key="^" line="324" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigService.java" timestamp="1550754412946">
-        <mark key="'" line="65" column="89" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="86" column="87" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
@@ -163,17 +148,20 @@
         <mark key="." line="96" column="32" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" timestamp="1550756313670">
-        <mark key="[" line="32" column="97" />
-        <mark key="]" line="32" column="98" />
-        <mark key="^" line="32" column="97" />
-        <mark key="." line="32" column="98" />
+        <mark key="[" line="33" column="97" />
+        <mark key="]" line="33" column="98" />
+        <mark key="^" line="33" column="97" />
+        <mark key="." line="33" column="98" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
+        <mark key="'" line="27" column="34" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551091727193" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1550746639888">
         <mark key="'" line="5" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="364" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="375" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="377" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
       <jump line="380" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
@@ -253,7 +241,6 @@
       <jump line="95" column="21" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="70" column="8" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="301" column="18" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" />
-      <jump line="46" column="60" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
       <jump line="31" column="29" filename="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/com/skovtunenko/pet/jooqtest/App.java" />
       <jump line="99" column="23" filename="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/regexvalidation/RegexValidationApp.java" />
       <jump line="32" column="12" filename="$USER_HOME$/Documents/Dev/Java/LocalPrj/java8testing/src/main/java/com/exadel/skovtunenko/pet/regexvalidation/RegexValidationApp.java" />
@@ -273,6 +260,8 @@
       <jump line="33" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
       <jump line="80" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
+      <jump line="46" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
+      <jump line="27" column="34" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -287,8 +276,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -315,13 +304,13 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHNkYXNkb2pvID0gbmV3IFBvam8oIkFsZXgiLCAiSXZhbm92IiwgMjVMLCBuZXcgQmlnRGVjaW1hbCgiMjUuMiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -337,22 +326,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHBvam8gPSBuZXcgUG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1TLXNwYWNlPiA6YWN0aW9uIENvZGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHBvam8gPSBuZXcgUG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1zcGFjZT4gOmFjdGlvbiBTbWFydFR5cGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">bm9yZW1hcCA8Qy1TLXNwYWNlPiA6YWN0aW9uIENvZGVDb21wbGV0aW9uPENSPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bm9yZW1hcCA8Qy1zcGFjZT4gOmFjdGlvbiBTbWFydFR5cGVDb21wbGV0aW9uPENSPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
