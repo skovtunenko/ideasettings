@@ -47,6 +47,9 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/EmployeeRepository.java" timestamp="1551102583113">
+        <mark key="'" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/ContactEntity.java" timestamp="1550522838391">
         <mark key="'" line="29" column="12" />
       </file>
@@ -63,10 +66,6 @@
         <mark key="'" line="27" column="34" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/README.md" timestamp="1551097890749" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Number.class" timestamp="1550783561269">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-      </file>
       <file name="/RepositoryUserDetailsService.java" timestamp="1550753517811">
         <mark key="'" line="28" column="61" />
       </file>
@@ -111,7 +110,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551096335698">
+      <file name="/Dummy.txt" timestamp="1551102718388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
@@ -158,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="711" column="8" filename="/UserTests.groovy" />
       <jump line="712" column="8" filename="/UserTests.groovy" />
       <jump line="714" column="48" filename="/UserTests.groovy" />
       <jump line="718" column="70" filename="/UserTests.groovy" />
@@ -258,6 +256,7 @@
       <jump line="101" column="32" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" />
       <jump line="239" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
       <jump line="256" column="15" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="16" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/EmployeeRepository.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
