@@ -16,7 +16,10 @@
         <mark key="^" line="30" column="81" />
         <mark key="." line="30" column="81" />
       </file>
-      <file name="/ClientService.java" timestamp="1551093855345" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/src/main/java/com/abcfinancial/api/common/storage/configuration/properties/FileStorageProperties.java" timestamp="1551097891030" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" timestamp="1551098231344">
+        <mark key="'" line="177" column="28" />
+      </file>
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
@@ -27,7 +30,6 @@
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/6afce1bfdddbd2c461ed23c681f6d31a9807b69b/s3mock-2.0.7.jar!/META-INF/maven/com.adobe.testing/s3mock/pom.xml" timestamp="1551086327801" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
       </file>
@@ -36,10 +38,6 @@
       </file>
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1550746969978">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/EmployeeController.java" timestamp="1550761173593">
-        <mark key="'" line="90" column="35" />
-        <mark key="." line="114" column="89" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
@@ -55,18 +53,16 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1550757022099">
         <mark key="'" line="70" column="8" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" timestamp="1551096661132">
+        <mark key="'" line="4" column="39" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.xml" timestamp="1550770592071">
-        <mark key="a" line="49" column="4" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-storage/README.md" timestamp="1551097890749" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Number.class" timestamp="1550783561269">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="12" />
@@ -74,15 +70,10 @@
       <file name="/RepositoryUserDetailsService.java" timestamp="1550753517811">
         <mark key="'" line="28" column="61" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1550783386468">
-        <mark key="[" line="183" column="18" />
-        <mark key="]" line="183" column="18" />
-        <mark key="." line="183" column="18" />
-        <mark key="^" line="183" column="18" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550076700616">
         <mark key="'" line="32" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/test/resources/application-local.yml" timestamp="1551097954039" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/validator/ItemValidator.java" timestamp="1550076619322">
         <mark key="'" line="33" column="27" />
       </file>
@@ -120,7 +111,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551094045351">
+      <file name="/Dummy.txt" timestamp="1551096335698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
@@ -129,8 +120,20 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
         <mark key="'" line="397" column="45" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/3.0.1/a55063f11dd444c9ed358f50e9d5c27b011268cb/common-unit-test-3.0.1-sources.jar!/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1551097997229">
+        <mark key="[" line="99" column="43" />
+        <mark key="]" line="99" column="42" />
+        <mark key="^" line="99" column="42" />
+        <mark key="." line="99" column="42" />
+      </file>
       <file name="/DATABASECHANGELOG [DEV RO]" timestamp="1550761577887">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" timestamp="1551098284804">
+        <mark key="'" line="101" column="32" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" timestamp="1551098315122">
+        <mark key="'" line="256" column="15" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" timestamp="1550757448875">
         <mark key="'" line="301" column="18" />
@@ -144,45 +147,17 @@
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550741777786">
         <mark key="'" line="77" column="49" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/EmployeeService.java" timestamp="1550735394175">
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="324" column="0" />
-        <mark key="." line="324" column="0" />
-        <mark key="^" line="324" column="0" />
+      <file name="/fragment.java" timestamp="1551096335689">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationController.java" timestamp="1550757487214">
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="96" column="32" />
-        <mark key="^" line="96" column="32" />
-        <mark key="." line="96" column="32" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" timestamp="1550756313670">
-        <mark key="[" line="33" column="97" />
-        <mark key="]" line="33" column="98" />
-        <mark key="^" line="33" column="97" />
-        <mark key="." line="33" column="98" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551091727193" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1550746639888">
         <mark key="'" line="5" column="32" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/document/DocumentTests.groovy" timestamp="1551097727698">
+        <mark key="'" line="103" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="375" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="377" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="380" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="383" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="391" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="394" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="398" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="411" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="413" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="415" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="419" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="434" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" />
-      <jump line="708" column="14" filename="/UserTests.groovy" />
-      <jump line="709" column="8" filename="/UserTests.groovy" />
-      <jump line="710" column="8" filename="/UserTests.groovy" />
       <jump line="711" column="8" filename="/UserTests.groovy" />
       <jump line="712" column="8" filename="/UserTests.groovy" />
       <jump line="714" column="48" filename="/UserTests.groovy" />
@@ -268,6 +243,21 @@
       <jump line="80" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyAwareRepository.java" />
       <jump line="46" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
       <jump line="27" column="34" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" />
+      <jump line="20" column="46" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/document/DocumentTests.groovy" />
+      <jump line="4" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" />
+      <jump line="178" column="13" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="117" column="50" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="120" column="10" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="132" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="151" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="176" column="10" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="61" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/document/DocumentTests.groovy" />
+      <jump line="103" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/document/DocumentTests.groovy" />
+      <jump line="177" column="28" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" />
+      <jump line="89" column="45" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" />
+      <jump line="101" column="32" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" />
+      <jump line="239" column="11" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
+      <jump line="256" column="15" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -350,7 +340,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action MethodHierarchy</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -400,12 +390,12 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action QuickImplementations</entry>
         <entry>action QuickJavaDoc</entry>
-        <entry>action Back</entry>
         <entry>action ShowUsages</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action CallHierarchy</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action MethodHierarchy</entry>
+        <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
