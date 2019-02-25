@@ -75,6 +75,7 @@
       <file name="/dummy.sql" timestamp="1550747653452">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/6afce1bfdddbd2c461ed23c681f6d31a9807b69b/s3mock-2.0.7.jar!/META-INF/maven/com.adobe.testing/s3mock/pom.xml" timestamp="1551086327801" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
@@ -354,7 +355,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
