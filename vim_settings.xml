@@ -16,7 +16,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" timestamp="1551098231344">
         <mark key="'" line="177" column="28" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/EmptyInterceptor.java" timestamp="1551104575330" />
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection_1.md" timestamp="1551113220477">
+        <mark key="[" line="668" column="0" />
+        <mark key="]" line="668" column="0" />
+        <mark key="." line="668" column="0" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/EmptyInterceptor.java" timestamp="1551113194304" />
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
@@ -255,7 +260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFBhZ2U8Q2xpZW50PiBmaW5kQnlTcGVjRW50aXRpZXMoU3RyaW5nIHByZWRpY2F0ZSwgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZmluZEJ5U3BlY0VudGl0aWVzKHByZWRpY2F0ZSwgcGFnZWFibGUpOwogICAgfQoK</text>
+        <text encoding="base64">IyMjIFVuZGVyc3RhbmRpbmcgQmVhbiBOYW1pbmcgCgojIyMgVW5kZXJzdGFuZGluZyBCZWFuIEluc3RhbnRpYXRpb24gTW9kZQoKLS0tLQoKIyMgUmVzb2x2aW5nIERlcGVuZGVuY2llcwoKLS0tLQoKIyMgQXV0b3dpcmluZyBZb3VyIEJlYW4KCiMjIyBXaGVuIHRvIFVzZSBBdXRvd2lyaW5nCgotLS0tCgojIyBTZXR0aW5nIEJlYW4gSW5oZXJpdGFuY2UKCi0tLS0KCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -282,13 +287,13 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHNkYXNkb2pvID0gbmV3IFBvam8oIkFsZXgiLCAiSXZhbm92IiwgMjVMLCBuZXcgQmlnRGVjaW1hbCgiMjUuMiIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFBhZ2U8Q2xpZW50PiBmaW5kQnlTcGVjRW50aXRpZXMoU3RyaW5nIHByZWRpY2F0ZSwgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZmluZEJ5U3BlY0VudGl0aWVzKHByZWRpY2F0ZSwgcGFnZWFibGUpOwogICAgfQoK</text>
+        <text encoding="base64">IyMjIFVuZGVyc3RhbmRpbmcgQmVhbiBOYW1pbmcgCgojIyMgVW5kZXJzdGFuZGluZyBCZWFuIEluc3RhbnRpYXRpb24gTW9kZQoKLS0tLQoKIyMgUmVzb2x2aW5nIERlcGVuZGVuY2llcwoKLS0tLQoKIyMgQXV0b3dpcmluZyBZb3VyIEJlYW4KCiMjIyBXaGVuIHRvIFVzZSBBdXRvd2lyaW5nCgotLS0tCgojIyBTZXR0aW5nIEJlYW4gSW5oZXJpdGFuY2UKCi0tLS0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFBhZ2U8Q2xpZW50PiBmaW5kQnlTcGVjRW50aXRpZXMoU3RyaW5nIHByZWRpY2F0ZSwgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZmluZEJ5U3BlY0VudGl0aWVzKHByZWRpY2F0ZSwgcGFnZWFibGUpOwogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -307,19 +312,19 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHBvam8gPSBuZXcgUG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1TLXNwYWNlPiA6YWN0aW9uIENvZGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHBvam8gPSBuZXcgUG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1zcGFjZT4gOmFjdGlvbiBTbWFydFR5cGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">bm9yZW1hcCA8Qy1TLXNwYWNlPiA6YWN0aW9uIENvZGVDb21wbGV0aW9uPENSPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bm9yZW1hcCA8Qy1zcGFjZT4gOmFjdGlvbiBTbWFydFR5cGVDb21wbGV0aW9uPENSPgo=</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
