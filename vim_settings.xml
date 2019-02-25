@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1550768655082">
+      <file name="/a.dummy" timestamp="1551117943422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
@@ -11,6 +11,18 @@
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.0.12.RELEASE/e6c36de7e04059f142eeaa38ab3fadddd05e3428/spring-orm-5.0.12.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java" timestamp="1551104370239">
         <mark key="'" line="248" column="28" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RefreshTokenUserDetailsService.java" timestamp="1551117271151">
+        <mark key="[" line="19" column="68" />
+        <mark key="]" line="19" column="68" />
+        <mark key="^" line="19" column="99" />
+        <mark key="." line="19" column="68" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" timestamp="1551117139317">
+        <mark key="[" line="31" column="67" />
+        <mark key="]" line="32" column="11" />
+        <mark key="^" line="32" column="11" />
+        <mark key="." line="32" column="11" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.adobe.testing/s3mock/2.0.7/7a3f9c68da2828436f23a1d4cb454586872fe9ad/s3mock-2.0.7-sources.jar!/com/adobe/testing/s3mock/S3MockApplication.java" timestamp="1551098231344">
         <mark key="'" line="177" column="28" />
@@ -20,9 +32,13 @@
         <mark key="]" line="668" column="0" />
         <mark key="." line="668" column="0" />
       </file>
-      <file name="/LdapAttribute.java" timestamp="1551115264644" />
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/permission/PermissionVOMapper.java" timestamp="1551118335557">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
@@ -54,12 +70,35 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
       </file>
-      <file name="/RefreshTokenUserDetailsService.java" timestamp="1551116048417" />
-      <file name="/RepositoryUserDetailsService.java" timestamp="1550753517811">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ArchivedClientController.java" timestamp="1551116941434">
+        <mark key="[" line="59" column="25" />
+        <mark key="]" line="59" column="25" />
+        <mark key="." line="59" column="25" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1551126579450">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/RefreshTokenUserDetailsService.java" timestamp="1551117220203">
+        <mark key="[" line="19" column="60" />
+      </file>
+      <file name="/RepositoryUserDetailsService.java" timestamp="1551117282084">
         <mark key="'" line="28" column="61" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/cfg/Configuration.java" timestamp="1551104372714">
         <mark key="'" line="636" column="16" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1551118190827">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="177" column="142" />
+        <mark key="]" line="171" column="162" />
+        <mark key="^" line="171" column="162" />
+        <mark key="." line="177" column="114" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1551127311088">
+        <mark key="[" line="219" column="10" />
+        <mark key="]" line="219" column="10" />
+        <mark key="." line="219" column="10" />
+        <mark key="^" line="219" column="10" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550076700616">
         <mark key="'" line="32" column="0" />
@@ -75,6 +114,13 @@
       </file>
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RepositoryUserDetailsService.java" timestamp="1551117318702">
+        <mark key="'" line="30" column="51" />
+        <mark key="[" line="20" column="60" />
+        <mark key="]" line="27" column="118" />
+        <mark key="^" line="27" column="118" />
+        <mark key="." line="20" column="61" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/context/spi/CurrentTenantIdentifierResolver.java" timestamp="1551104295696">
         <mark key="'" line="15" column="32" />
@@ -94,14 +140,17 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551115057999">
+      <file name="/Dummy.txt" timestamp="1551127411486">
+        <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
         <mark key="'" line="724" column="43" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1550573517237">
-        <mark key="'" line="397" column="45" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1551118058828">
+        <mark key="'" line="207" column="114" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/3.0.1/a55063f11dd444c9ed358f50e9d5c27b011268cb/common-unit-test-3.0.1-sources.jar!/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1551097997229">
         <mark key="[" line="99" column="43" />
@@ -121,14 +170,31 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" timestamp="1550757448875">
         <mark key="'" line="301" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.txt" timestamp="1551127214470">
+        <mark key="[" line="1050" column="31" />
+        <mark key="]" line="1050" column="31" />
+        <mark key="." line="1050" column="31" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1550069925808">
         <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/HobbyEntity.java" timestamp="1550522856552">
         <mark key="'" line="20" column="32" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/profile/ArchivedUserProfileController.java" timestamp="1551126509176">
+        <mark key="'" line="31" column="51" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550741777786">
         <mark key="'" line="77" column="49" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/LockAwareDaoAuthenticationProvider.java" timestamp="1551117209294">
+        <mark key="[" line="19" column="128" />
+        <mark key="]" line="19" column="158" />
+        <mark key="^" line="19" column="158" />
+        <mark key="." line="19" column="158" />
       </file>
       <file name="/fragment.java" timestamp="1551096335689">
         <mark key="[" line="0" column="0" />
@@ -141,13 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="730" column="63" filename="/UserTests.groovy" />
-      <jump line="724" column="43" filename="/UserTests.groovy" />
-      <jump line="397" column="45" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
-      <jump line="1609" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" />
-      <jump line="282" column="59" filename="$USER_HOME$/Downloads/index.txt" />
-      <jump line="312" column="0" filename="$USER_HOME$/Downloads/index.txt" />
-      <jump line="298" column="0" filename="$USER_HOME$/Downloads/index.txt" />
       <jump line="993" column="34" filename="$USER_HOME$/Downloads/index.txt" />
       <jump line="971" column="0" filename="$USER_HOME$/Downloads/index.txt" />
       <jump line="99" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/processor/subscription/SubscriptionEmailEventProcessor.java" />
@@ -241,6 +300,13 @@
       <jump line="248" column="28" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.0.12.RELEASE/e6c36de7e04059f142eeaa38ab3fadddd05e3428/spring-orm-5.0.12.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java" />
       <jump line="636" column="16" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/cfg/Configuration.java" />
       <jump line="59" column="94" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" />
+      <jump line="30" column="51" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RepositoryUserDetailsService.java" />
+      <jump line="89" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
+      <jump line="276" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
+      <jump line="424" column="55" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
+      <jump line="44" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
+      <jump line="207" column="114" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" />
+      <jump line="31" column="51" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/profile/ArchivedUserProfileController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -255,8 +321,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIFVuZGVyc3RhbmRpbmcgQmVhbiBOYW1pbmcgCgojIyMgVW5kZXJzdGFuZGluZyBCZWFuIEluc3RhbnRpYXRpb24gTW9kZQoKLS0tLQoKIyMgUmVzb2x2aW5nIERlcGVuZGVuY2llcwoKLS0tLQoKIyMgQXV0b3dpcmluZyBZb3VyIEJlYW4KCiMjIyBXaGVuIHRvIFVzZSBBdXRvd2lyaW5nCgotLS0tCgojIyBTZXR0aW5nIEJlYW4gSW5oZXJpdGFuY2UKCi0tLS0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>gc</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -274,22 +340,22 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>gc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</text>
+        <text encoding="base64">XDxVU0VSX0lERU5USVRZX1VQREFURV9OT1RfQUxMT1dFRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHNkYXNkb2pvID0gbmV3IFBvam8oIkFsZXgiLCAiSXZhbm92IiwgMjVMLCBuZXcgQmlnRGVjaW1hbCgiMjUuMiIpKTsK</text>
+        <text encoding="base64">bm5vcmVtYXAgXGcgOmFjdGlvbiBHaXRodWIuVmlldy5QdWxsLlJlcXVlc3Q8Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIFVuZGVyc3RhbmRpbmcgQmVhbiBOYW1pbmcgCgojIyMgVW5kZXJzdGFuZGluZyBCZWFuIEluc3RhbnRpYXRpb24gTW9kZQoKLS0tLQoKIyMgUmVzb2x2aW5nIERlcGVuZGVuY2llcwoKLS0tLQoKIyMgQXV0b3dpcmluZyBZb3VyIEJlYW4KCiMjIyBXaGVuIHRvIFVzZSBBdXRvd2lyaW5nCgotLS0tCgojIyBTZXR0aW5nIEJlYW4gSW5oZXJpdGFuY2UKCi0tLS0KCg==</text>
+        <text encoding="base64">R2l0aHViLlZpZXcuUHVsbC5SZXF1ZXN0ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFBhZ2U8Q2xpZW50PiBmaW5kQnlTcGVjRW50aXRpZXMoU3RyaW5nIHByZWRpY2F0ZSwgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZmluZEJ5U3BlY0VudGl0aWVzKHByZWRpY2F0ZSwgcGFnZWFibGUpOwogICAgfQoK</text>
+        <text encoding="base64">bm5vcmVtYXAgXGcgOmFjdGlvbiA8Q1I+CiAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">IiBOYXZpZ2F0aW9uIChleHRyYWN0ZWQgZnJvbSBteSBjb25maWcpCm5ub3JlbWFwIDxsZWFkZXI+YSA6YWN0aW9uIFNob3dVc2FnZXM8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+QSA6YWN0aW9uIEZpbmRVc2FnZXM8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+YiA6YWN0aW9uIEdvdG9JbXBsZW1lbnRhdGlvbjxDUj4Kbm5vcmVtYXAgPGxlYWRlcj5qIDphY3Rpb24gR290b0ltcGxlbWVudGF0aW9uPENSPgpubm9yZW1hcCA8bGVhZGVyPnUgOmFjdGlvbiBHb3RvU3VwZXJNZXRob2Q8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+ayA6YWN0aW9uIEdvdG9TdXBlck1ldGhvZDxDUj4KCiIgUXVpY2sgSW5mbyAoZXh0cmFjdGVkIGZyb20gbXkgY29uZmlnKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -305,31 +371,31 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNeVBvam8gbXlQb2pvID0gbmV3IE15UG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIiksIEJvb2xlYW4uVFJVRSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGFzU3RyaW5nKCBMaXN0PFN0cmluZz4gc3RyaW5ncyApCiAgICB7CiAgICAgICAgaWYoIHN0cmluZ3MgPT0gbnVsbCApCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFN0cmluZy5qb2luKCAiLCIsIHN0cmluZ3MgKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQb2pvIHBvam8gPSBuZXcgUG9qbygiQWxleCIsICJJdmFub3YiLCAyNUwsIG5ldyBCaWdEZWNpbWFsKCIyNS4yIikpOwo=</text>
+        <text encoding="base64">UkVMMS02NTk4OiBBZGRlZCBkZXByZWNhdGlvbiB3YXJuaW5ncyBhbmQgcmVtb3ZlZCB1bnVzZWQgY29kZS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1TLXNwYWNlPiA6YWN0aW9uIENvZGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">IyMjIFVuZGVyc3RhbmRpbmcgQmVhbiBOYW1pbmcgCgojIyMgVW5kZXJzdGFuZGluZyBCZWFuIEluc3RhbnRpYXRpb24gTW9kZQoKLS0tLQoKIyMgUmVzb2x2aW5nIERlcGVuZGVuY2llcwoKLS0tLQoKIyMgQXV0b3dpcmluZyBZb3VyIEJlYW4KCiMjIyBXaGVuIHRvIFVzZSBBdXRvd2lyaW5nCgotLS0tCgojIyBTZXR0aW5nIEJlYW4gSW5oZXJpdGFuY2UKCi0tLS0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9yZW1hcCA8Qy1zcGFjZT4gOmFjdGlvbiBTbWFydFR5cGVDb21wbGV0aW9uPENSPgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIFBhZ2U8Q2xpZW50PiBmaW5kQnlTcGVjRW50aXRpZXMoU3RyaW5nIHByZWRpY2F0ZSwgUGFnZWFibGUgcGFnZWFibGUpIHsKICAgICAgICByZXR1cm4gc3VwZXIuZmluZEJ5U3BlY0VudGl0aWVzKHByZWRpY2F0ZSwgcGFnZWFibGUpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action ChooseDebugConfiguration</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</last-search>
+      <last-search encoding="base64">XDxVU0VSX0lERU5USVRZX1VQREFURV9OT1RfQUxMT1dFRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxVU0VSX0lERU5USVRZX1VQREFURV9OT1RfQUxMT1dFRFw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb2xsb3dpbmdcPg==</entry>
         <entry encoding="base64">XDxJbnZlcnNpb25cPg==</entry>
         <entry>DI</entry>
         <entry encoding="base64">XDzigKJcPg==</entry>
@@ -357,17 +422,9 @@
         <entry encoding="base64">XDxnZXRVc2VyRm9yT3JnYW5pemF0aW9uXD4=</entry>
         <entry>pojo</entry>
         <entry encoding="base64">XDxtYXRjaGVzVGVuYW5jeVw+</entry>
+        <entry encoding="base64">XDxVU0VSX0lERU5USVRZX1VQREFURV9OT1RfQUxMT1dFRFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">YWN0aW9uIA==</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action Find</entry>
-        <entry>e ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz46c291cmNlIH4vLmlkZWF2aW1yYzxDUj4=</entry>
-        <entry encoding="base64">OnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+OnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+OnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+</entry>
-        <entry encoding="base64">c291cmNlIH4vLmlkZWF2aW1yYzxDUj4=</entry>
-        <entry>action ChooseDebugConfiguration</entry>
         <entry>action ChooseRunConfiguration</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action QuickImplementations</entry>
@@ -379,6 +436,15 @@
         <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>action Forward</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>action Compare.SameVersion</entry>
+        <entry>action CompareClipboardWithSelection</entry>
+        <entry>actionlist</entry>
+        <entry>action Find</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action Github.PullRequest.Branch.Create</entry>
+        <entry>action Github.View.Pull.Request</entry>
+        <entry>action ChooseDebugConfiguration</entry>
       </history-cmd>
       <history-expr />
       <history-input />
