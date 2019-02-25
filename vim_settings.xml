@@ -26,16 +26,12 @@
       <file name="/DocumentService.java" timestamp="1550742122817">
         <mark key="'" line="78" column="49" />
       </file>
+      <file name="/OrganizationOwnerGreetingEmailData.java" timestamp="1551106524890" />
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1550746969978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551094191319">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/EmployeeRepository.java" timestamp="1551102583113">
         <mark key="'" line="16" column="26" />
@@ -88,13 +84,15 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" timestamp="1551089879820">
         <mark key="'" line="14" column="38" />
       </file>
+      <file name="/LocationOwnerGreetingEmailData.java" timestamp="1551106509027" />
       <file name="/dummy.sql" timestamp="1550747653452">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/OrganizationOwnerGreetingEmailEventProcessor.java" timestamp="1551106578226" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551102718388">
+      <file name="/Dummy.txt" timestamp="1551106461178">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
