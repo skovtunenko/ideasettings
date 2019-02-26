@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/DefaultUniqueNumberService.java" timestamp="1551177911350" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
         <mark key="'" line="4" column="17" />
       </file>
@@ -39,14 +38,11 @@
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1551199104106" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/src/main/java/com/abcfinancial/api/sdk/util/LogInterceptor.java" timestamp="1551197532337" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/permission/PermissionVOMapper.java" timestamp="1551118335557">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.1.4.RELEASE/33e5d4fa21de0e2d920663baf32fa339488ed093/spring-tx-5.1.4.RELEASE-sources.jar!/org/springframework/transaction/annotation/EnableTransactionManagement.java" timestamp="1551166834865" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
       </file>
@@ -62,7 +58,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyConfiguration.java" timestamp="1551164787746" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551166141407">
         <mark key="'" line="0" column="0" />
       </file>
@@ -81,7 +76,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
-      <file name="/LocationNoteService.java" timestamp="1551198354156" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/NotFoundResponseError.java" timestamp="1551199484214">
         <mark key="'" line="51" column="15" />
       </file>
@@ -93,7 +87,6 @@
         <mark key="]" line="59" column="25" />
         <mark key="." line="59" column="25" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1551175934106" />
       <file name="/RepositoryUserDetailsService.java" timestamp="1551117282084">
         <mark key="'" line="28" column="61" />
       </file>
@@ -106,7 +99,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550076700616">
         <mark key="'" line="32" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/amazon/BaseAmazonEmailService.java" timestamp="1551177529949" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/validator/ItemValidator.java" timestamp="1550076619322">
         <mark key="'" line="33" column="27" />
       </file>
@@ -126,13 +118,19 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/8d6b98f21262995489a8418fff8da992d7e25c1e/commons-io-2.2-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1551176724612">
         <mark key="'" line="255" column="10" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/document/OrganizationDocumentTests.groovy" timestamp="1551204570622">
+        <mark key="'" line="88" column="56" />
+        <mark key="[" line="88" column="53" />
+        <mark key="]" line="88" column="58" />
+        <mark key="." line="88" column="58" />
+        <mark key="^" line="88" column="58" />
+      </file>
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/BaseDomainObject.java" timestamp="1551178513894">
         <mark key="'" line="24" column="42" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" timestamp="1551197324918" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.3.7.Final/26585924d06c52b66e5917ceb314b005ec73b389/hibernate-core-5.3.7.Final-sources.jar!/org/hibernate/context/spi/CurrentTenantIdentifierResolver.java" timestamp="1551104295696">
         <mark key="'" line="15" column="32" />
       </file>
@@ -142,14 +140,13 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1550754404770">
         <mark key="'" line="43" column="40" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/web/ErrorHandlingAdvice.java" timestamp="1551176119645" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" timestamp="1551089879820">
         <mark key="'" line="14" column="38" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551200106352">
+      <file name="/Dummy.txt" timestamp="1551204653295">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -195,12 +192,9 @@
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550741777786">
         <mark key="'" line="77" column="49" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/blacklist/BlacklistedEmailAddressService.java" timestamp="1551199701570" />
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.11.0/cf16b99519850b1adc3b259c90fd8566a0f592f3/okhttp-3.11.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197549516" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197480045">
         <mark key="'" line="146" column="46" />
       </file>
-      <file name="/AlertService.java" timestamp="1551199065980" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551200078015">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="70" />
@@ -216,10 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationContextHelper.java" />
-      <jump line="49" column="9" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
-      <jump line="26" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/SubscriptionBillingEventHandler.java" />
-      <jump line="26" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" />
       <jump line="24" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" />
       <jump line="23" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" />
       <jump line="20" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/alert/BillingEventTopics.java" />
@@ -316,6 +306,10 @@
       <jump line="88" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
       <jump line="89" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
+      <jump line="80" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/document/OrganizationDocumentTests.groovy" />
+      <jump line="100" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/document/OrganizationDocumentTests.groovy" />
+      <jump line="87" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/document/OrganizationDocumentTests.groovy" />
+      <jump line="88" column="56" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/document/OrganizationDocumentTests.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,8 +324,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isNotFound</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -349,7 +343,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isNotFound</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbnRpdHlOYW1lXD4=</text>
@@ -408,7 +402,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -446,13 +440,13 @@
         <entry>action EditorContextInfo</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Forward</entry>
         <entry>action ShowUsages</entry>
         <entry>action QuickImplementations</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>action Find</entry>
         <entry>action QuickJavaDoc</entry>
+        <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
