@@ -41,6 +41,9 @@
         <mark key="'" line="147" column="61" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyConfiguration.java" timestamp="1551164787746" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551166141407">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/EmployeeRepository.java" timestamp="1551102583113">
         <mark key="'" line="16" column="26" />
       </file>
@@ -182,8 +185,8 @@
       <file name="/fragment.java" timestamp="1551096335689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551128652501">
-        <mark key="'" line="108" column="21" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551166065980">
+        <mark key="'" line="39" column="26" />
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="^" line="110" column="21" />
@@ -197,10 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" />
-      <jump line="78" column="49" filename="/DocumentService.java" />
-      <jump line="19" column="27" filename="$USER_HOME$/Downloads/index.txt" />
-      <jump line="111" column="36" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/insert_mode.txt" />
       <jump line="87" column="53" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/visual_mode.txt" />
       <jump line="71" column="37" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/commandline_editing.txt" />
       <jump line="532" column="41" filename="$USER_HOME$/Documents/Dev/DELME/configs/legacy/vim/vim_commands/ex_commands.txt" />
@@ -297,6 +296,10 @@
       <jump line="85" column="69" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
       <jump line="108" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
       <jump line="197" column="8" filename="/OrganizationService.java" />
+      <jump line="39" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" />
+      <jump line="34" column="71" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" />
+      <jump line="232" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" />
+      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -379,7 +382,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoImplementation</text>
+        <text>action Forward</text>
       </register>
     </registers>
     <search>
@@ -429,12 +432,12 @@
         <entry>action ChooseDebugConfiguration</entry>
         <entry>action EditorContextInfo</entry>
         <entry>action QuickImplementations</entry>
-        <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action ShowUsages</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action GotoImplementation</entry>
+        <entry>action Back</entry>
+        <entry>action Forward</entry>
       </history-cmd>
       <history-expr />
       <history-input />
