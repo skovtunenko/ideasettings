@@ -88,6 +88,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemCategoryService.java" timestamp="1550076700616">
         <mark key="'" line="32" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/amazon/BaseAmazonEmailService.java" timestamp="1551215687513">
+        <mark key="'" line="141" column="15" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/listener/ItemVersionListener.java" timestamp="1551207245418">
         <mark key="'" line="14" column="19" />
       </file>
@@ -202,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="15" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
-      <jump line="95" column="21" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="70" column="8" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="301" column="18" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" />
       <jump line="31" column="29" filename="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/com/skovtunenko/pet/jooqtest/App.java" />
@@ -302,6 +303,8 @@
       <jump line="22" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/repository/ItemRepository.java" />
       <jump line="8" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/gradle.properties" />
       <jump line="9" column="69" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/CatalogApplication.java" />
+      <jump line="106" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/amazon/BaseAmazonEmailService.java" />
+      <jump line="141" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/service/amazon/BaseAmazonEmailService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -338,7 +341,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRpdHlOYW1lXD4=</text>
+        <text encoding="base64">XDx0aHJlYWRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bm5vcmVtYXAgXGcgOmFjdGlvbiBHaXRodWIuVmlldy5QdWxsLlJlcXVlc3Q8Q1I+Cg==</text>
@@ -388,9 +391,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRpdHlOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDx0aHJlYWRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRpdHlOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aHJlYWRzXD4=</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
@@ -398,8 +401,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlc2NhcGVkXD4=</entry>
-        <entry encoding="base64">XDxSRVNFUlZFRFw+</entry>
         <entry>isLi</entry>
         <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDxDT01QSUxFXD4=</entry>
@@ -418,6 +419,8 @@
         <entry encoding="base64">XDxnZXRMb2dvVXJpXD4=</entry>
         <entry encoding="base64">XDxmaW5hbFw+</entry>
         <entry encoding="base64">XDxlbnRpdHlOYW1lXD4=</entry>
+        <entry encoding="base64">XDxUaHJlYWRcPg==</entry>
+        <entry encoding="base64">XDx0aHJlYWRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CallHierarchy</entry>
