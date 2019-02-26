@@ -12,6 +12,9 @@
         <mark key="^" line="281" column="11" />
         <mark key="." line="281" column="71" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/gradle.properties" timestamp="1551211417210">
+        <mark key="'" line="8" column="21" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
@@ -140,7 +143,7 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551207772287">
+      <file name="/Dummy.txt" timestamp="1551211449911">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -198,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="61" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" />
       <jump line="318" column="27" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" />
       <jump line="108" column="15" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
       <jump line="95" column="21" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" />
@@ -298,6 +300,7 @@
       <jump line="216" column="50" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" />
       <jump line="140" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" />
       <jump line="22" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/repository/ItemRepository.java" />
+      <jump line="8" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/gradle.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
