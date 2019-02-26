@@ -40,6 +40,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyConfiguration.java" timestamp="1551164787746" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/EmployeeRepository.java" timestamp="1551102583113">
         <mark key="'" line="16" column="26" />
       </file>
@@ -55,7 +56,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
-      <file name="/LocationNoteService.java" timestamp="1551129057241" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
       </file>
@@ -389,7 +389,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
