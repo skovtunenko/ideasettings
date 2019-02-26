@@ -84,6 +84,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
+      <file name="/LocationNoteService.java" timestamp="1551195687364" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
       </file>
@@ -128,7 +129,7 @@
         <mark key="'" line="59" column="94" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1551189027322">
-        <mark key="'" line="356" column="40" />
+        <mark key="'" line="355" column="40" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/8d6b98f21262995489a8418fff8da992d7e25c1e/commons-io-2.2-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1551176724612">
         <mark key="'" line="255" column="10" />
@@ -162,7 +163,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551191838788">
+      <file name="/Dummy.txt" timestamp="1551196030564">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
