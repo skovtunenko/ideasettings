@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
@@ -77,14 +77,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" timestamp="1551096661132">
-        <mark key="'" line="4" column="39" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" timestamp="1551299256123">
+        <mark key="'" line="4" column="38" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/search/rsql/GenericRsqlSpecification.java" timestamp="1550053942008">
         <mark key="'" line="14" column="33" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/NotFoundResponseError.java" timestamp="1551199484214">
         <mark key="'" line="51" column="15" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/AddressCrudTest.groovy" timestamp="1551299221999">
+        <mark key="'" line="15" column="39" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
@@ -214,8 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" />
-      <jump line="98" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" />
       <jump line="91" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" />
       <jump line="88" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" />
       <jump line="82" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" />
@@ -314,6 +318,8 @@
       <jump line="27" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/ErrorResponse.java" />
       <jump line="256" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.415/ec4e5926c74157770b5dcc5959f3aa5bc78d1771/aws-java-sdk-core-1.11.415-sources.jar!/com/amazonaws/AmazonServiceException.java" />
       <jump line="2126" column="21" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.415/3560662546cf0397a830245bc987a62e793451f4/aws-java-sdk-s3-1.11.415-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" />
+      <jump line="15" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/AddressCrudTest.groovy" />
+      <jump line="4" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -328,8 +334,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -347,7 +353,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVGhyb3dhYmxlIGNhdXNlID0gKCkgZXguZ2V0Q2F1c2UoKQ==</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSRVFVSVJFU19ORVdcPg==</text>
@@ -396,7 +402,7 @@
         <text encoding="base64">IiBFZGl0IGFuZCByZWxvYWQgaWRlYXZpbSBjb25maWcKbm5vcmVtYXAgPGxlYWRlcj5ldiA6ZSB+Ly5pZGVhdmltcmM8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+c3YgOnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickImplementations</text>
+        <text>action TypeHierarchy</text>
       </register>
     </registers>
     <search>
@@ -448,10 +454,10 @@
         <entry>action GotoSuperMethod</entry>
         <entry>action MethodDown</entry>
         <entry>action ShowUsages</entry>
-        <entry>action TypeHierarchy</entry>
         <entry>action Back</entry>
         <entry>action GotoImplementation</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action TypeHierarchy</entry>
       </history-cmd>
       <history-expr />
       <history-input />
