@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
@@ -39,7 +39,6 @@
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.8.RELEASE/63ad6ae49bfab563b551afb66dc56644dc1485d5/spring-boot-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" timestamp="1551279543267" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
       </file>
@@ -49,7 +48,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/ErrorResponse.java" timestamp="1551273751047">
         <mark key="'" line="27" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1551266138832" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
       </file>
@@ -73,6 +71,11 @@
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java" timestamp="1550757022099">
         <mark key="'" line="70" column="8" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/.gitignore" timestamp="1551287740710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/OrganizationBaseTest.groovy" timestamp="1551096661132">
         <mark key="'" line="4" column="39" />
@@ -155,7 +158,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551261879600">
+      <file name="/Dummy.txt" timestamp="1551287841541">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -176,7 +179,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" timestamp="1550757448875">
         <mark key="'" line="301" column="18" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/groovy/com/abcfinancial/api/common/test/BaseTest.groovy" timestamp="1551255117978" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/2.0.8.RELEASE/28591fe0467d0ae1b7533f79bef2cb2112a2c5d4/spring-boot-actuator-2.0.8.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1551218313950">
         <mark key="'" line="36" column="17" />
       </file>
@@ -204,7 +206,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197480045">
         <mark key="'" line="146" column="46" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1551273032386" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1550746639888">
         <mark key="'" line="5" column="32" />
       </file>
@@ -327,8 +328,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVGhyb3dhYmxlIGNhdXNlID0gKCkgZXguZ2V0Q2F1c2UoKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -355,13 +356,13 @@
         <text encoding="base64">bm5vcmVtYXAgXGcgOmFjdGlvbiBHaXRodWIuVmlldy5QdWxsLlJlcXVlc3Q8Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZSggY2F1c2UgKQogICAgICAgICAgICAgICAgICAgIC5tYXAoICApCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZSggY2F1c2UgKQogICAgICAgICAgICAgICAgICAgIC5tYXAoICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -377,22 +378,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ewogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCggImRpc2tTcGFjZUhlYWx0aEluZGljYXRvciIsIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuKCBEaXNrU3BhY2VIZWFsdGhJbmRpY2F0b3IuY2xhc3MgKS5oZWFsdGgoKSApOwogICAgICAgICAgICAgICAgcHV0KCAicmVmcmVzaFNjb3BlSGVhbHRoSW5kaWNhdG9yIiwgYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oIFJlZnJlc2hTY29wZUhlYWx0aEluZGljYXRvci5jbGFzcyApLmhlYWx0aCgpICk7CiAgICAgICAgICAgICAgICBwdXQoICJkaXNjb3ZlcnlDb21wb3NpdGVIZWFsdGhJbmRpY2F0b3IiLCBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbiggRGlzY292ZXJ5Q29tcG9zaXRlSGVhbHRoSW5kaWNhdG9yLmNsYXNzICkuaGVhbHRoKCkgKTsK</text>
+        <text encoding="base64">ewogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPGxlYWRlcj5lIDphY3Rpb24gUXVpY2tKYXZhRG9jPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCggImRpc2tTcGFjZUhlYWx0aEluZGljYXRvciIsIGFwcGxpY2F0aW9uQ29udGV4dC5nZXRCZWFuKCBEaXNrU3BhY2VIZWFsdGhJbmRpY2F0b3IuY2xhc3MgKS5oZWFsdGgoKSApOwogICAgICAgICAgICAgICAgcHV0KCAicmVmcmVzaFNjb3BlSGVhbHRoSW5kaWNhdG9yIiwgYXBwbGljYXRpb25Db250ZXh0LmdldEJlYW4oIFJlZnJlc2hTY29wZUhlYWx0aEluZGljYXRvci5jbGFzcyApLmhlYWx0aCgpICk7CiAgICAgICAgICAgICAgICBwdXQoICJkaXNjb3ZlcnlDb21wb3NpdGVIZWFsdGhJbmRpY2F0b3IiLCBhcHBsaWNhdGlvbkNvbnRleHQuZ2V0QmVhbiggRGlzY292ZXJ5Q29tcG9zaXRlSGVhbHRoSW5kaWNhdG9yLmNsYXNzICkuaGVhbHRoKCkgKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPGxlYWRlcj5lIDphY3Rpb24gUXVpY2tKYXZhRG9jPENSPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IiBFZGl0IGFuZCByZWxvYWQgaWRlYXZpbSBjb25maWcKbm5vcmVtYXAgPGxlYWRlcj5ldiA6ZSB+Ly5pZGVhdmltcmM8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+c3YgOnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IiBFZGl0IGFuZCByZWxvYWQgaWRlYXZpbSBjb25maWcKbm5vcmVtYXAgPGxlYWRlcj5ldiA6ZSB+Ly5pZGVhdmltcmM8Q1I+Cm5ub3JlbWFwIDxsZWFkZXI+c3YgOnNvdXJjZSB+Ly5pZGVhdmltcmM8Q1I+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickImplementations</text>
@@ -405,7 +406,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
