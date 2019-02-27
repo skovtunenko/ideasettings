@@ -76,6 +76,9 @@
       <file name="/DocumentService.java" timestamp="1550742122817">
         <mark key="'" line="78" column="49" />
       </file>
+      <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1551266819294">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/java-sdk/gradle.properties" timestamp="1551217050477">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="9" column="19" />
@@ -179,6 +182,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" timestamp="1551089879820">
         <mark key="'" line="14" column="38" />
       </file>
+      <file name="/dummy.sql" timestamp="1551266834772">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
@@ -214,12 +220,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/2.0.8.RELEASE/28591fe0467d0ae1b7533f79bef2cb2112a2c5d4/spring-boot-actuator-2.0.8.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1551218313950">
         <mark key="'" line="36" column="17" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" timestamp="1551212324741">
-        <mark key="'" line="140" column="35" />
-        <mark key="[" line="194" column="4" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1550069925808">
         <mark key="'" line="25" column="0" />
       </file>
@@ -234,6 +234,9 @@
       </file>
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550741777786">
         <mark key="'" line="77" column="49" />
+      </file>
+      <file name="/authorization.oauth_client [QA RO]" timestamp="1551266831157">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197480045">
         <mark key="'" line="146" column="46" />
