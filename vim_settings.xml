@@ -179,7 +179,7 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551217558195">
+      <file name="/Dummy.txt" timestamp="1551254416356">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -191,7 +191,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1551118058828">
         <mark key="'" line="207" column="114" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator-autoconfigure/2.0.8.RELEASE/bd55a86b8d2292caa803891f7e827ab4d79e61b6/spring-boot-actuator-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/actuate/autoconfigure/system/DiskSpaceHealthIndicatorAutoConfiguration.java" timestamp="1551217465498" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" timestamp="1551098284804">
         <mark key="'" line="101" column="32" />
       </file>
@@ -433,7 +432,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute>copyW</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
