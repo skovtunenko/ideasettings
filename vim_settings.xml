@@ -42,7 +42,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" timestamp="1551262208540">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/java/com/abcfinancial/api/ScheduleApplication.java" timestamp="1551301679822" />
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
@@ -116,7 +115,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1551302589463">
         <mark key="'" line="2" column="24" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1551303553118" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientBase.java" timestamp="1551343890607">
+        <mark key="'" line="164" column="15" />
+      </file>
       <file name="/OrganizationService.java" timestamp="1551129102033">
         <mark key="'" line="197" column="8" />
       </file>
@@ -135,7 +136,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" timestamp="1550663120774">
         <mark key="'" line="178" column="33" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.7.1/113c861343e7baad7a36e60966383d6cced492e5/common-core-6.7.1-sources.jar!/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1551301794096" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" timestamp="1551116001229">
         <mark key="'" line="59" column="94" />
       </file>
@@ -188,7 +188,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551303536619">
+      <file name="/Dummy.txt" timestamp="1551343849974">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -215,6 +215,9 @@
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.0.13.RELEASE/577fc31e6675d47ac9d644b47bdf1a6013981a4/spring-data-commons-2.0.13.RELEASE-sources.jar!/org/springframework/data/web/PageableHandlerMethodArgumentResolver.java" timestamp="1550757448875">
         <mark key="'" line="301" column="18" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOMapper.java" timestamp="1551343859308">
+        <mark key="'" line="16" column="59" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/2.0.8.RELEASE/28591fe0467d0ae1b7533f79bef2cb2112a2c5d4/spring-boot-actuator-2.0.8.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1551218313950">
         <mark key="'" line="36" column="17" />
@@ -254,8 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="70" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="72" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="74" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="80" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
@@ -354,6 +355,8 @@
       <jump line="12" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/Processor.java" />
       <jump line="2" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/resources/db/changelog/db.changelog-master.yaml" />
       <jump line="10" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/RemovedProcessor.java" />
+      <jump line="16" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOMapper.java" />
+      <jump line="164" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientBase.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -436,7 +439,7 @@
         <text encoding="base64">ewogICAgICAgICAgICB7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action ShowUsages</text>
       </register>
     </registers>
     <search>
@@ -446,7 +449,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -486,12 +489,12 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>action GotoSuperMethod</entry>
         <entry>action MethodDown</entry>
-        <entry>action ShowUsages</entry>
         <entry>action QuickImplementations</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
+        <entry>action ShowUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
