@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
@@ -219,7 +219,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserService.java" timestamp="1551118058828">
         <mark key="'" line="207" column="114" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/member/MemberTests.groovy" timestamp="1551360110506" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.0.8.RELEASE/84f2aa7e5630cb6a65db3841ecc09e0aeec40e32/spring-boot-2.0.8.RELEASE-sources.jar!/org/springframework/boot/builder/SpringApplicationBuilder.java" timestamp="1551098284804">
         <mark key="'" line="101" column="32" />
       </file>
