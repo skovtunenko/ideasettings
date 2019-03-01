@@ -74,9 +74,15 @@
       <file name="/authorization.token [QA RO]" timestamp="1551344893464">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/catalog-pre.yml" timestamp="1551455634091">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-qa.yml" timestamp="1551455788859" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551166141407">
         <mark key="'" line="0" column="0" />
       </file>
@@ -177,13 +183,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/mapper/AlertVOMapper.java" timestamp="1551089879820">
         <mark key="'" line="14" column="38" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" timestamp="1551303442505">
-        <mark key="'" line="21" column="19" />
-        <mark key="[" line="33" column="12" />
-        <mark key="]" line="33" column="12" />
-        <mark key="." line="33" column="12" />
-        <mark key="^" line="31" column="23" />
-      </file>
       <file name="/dummy.sql" timestamp="1551345482356">
         <mark key="[" line="0" column="0" />
       </file>
@@ -193,18 +192,11 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551358379856">
+      <file name="/Dummy.txt" timestamp="1551456340581">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" timestamp="1551302184169">
-        <mark key="'" line="19" column="1" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
       </file>
       <file name="/UserTests.groovy" timestamp="1550573486617">
         <mark key="'" line="724" column="43" />
@@ -233,6 +225,11 @@
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/HobbyEntity.java" timestamp="1550522856552">
         <mark key="'" line="20" column="32" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-pre.yml" timestamp="1551455803800">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationLogoController.java" timestamp="1551128407162">
         <mark key="'" line="34" column="27" />
       </file>
@@ -256,6 +253,11 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/Entity.java" timestamp="1551302276939">
         <mark key="'" line="11" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/schedule-pre.yml" timestamp="1551455871031">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/oauth_client [QA RO]" timestamp="1551450368357">
         <mark key="[" line="0" column="0" />
@@ -413,10 +415,10 @@
         <text encoding="base64">c3ByaW5nOgogIGthZmthOgogICAgYm9vdHN0cmFwU2VydmVyczogJ2NwLWthZmthLTAuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MixjcC1rYWZrYS0xLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMi5jcC1rYWZrYS1oZWFkbGVzczo5MDkyJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5FeGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIGxpcXVpYmFzZTogV0FSTgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5FeGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGU6IFdBUk4K</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -432,22 +434,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5FeGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIGNvbS56YXh4ZXI6IFdBUk4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5FeGNsdWRlCg==</text>
+        <text encoding="base64">ICAgIG9yZy5hcGFjaGU6IFdBUk4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcms6IFdBUk4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZSggY2F1c2UgKQogICAgICAgICAgICAgICAgICAgIC5tYXAoICApCg==</text>
+        <text encoding="base64">ICAgIGNvbS5uZXRmbGl4OiBXQVJOCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgIGNvbS5hYmNmaW5hbmNpYWw6IERFQlVHCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXZlbDoK</text>
       </register>
       <register name=":" type="4">
         <text>action QuickImplementations</text>
