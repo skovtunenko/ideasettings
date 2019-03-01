@@ -386,8 +386,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXV0aG9yaXpzYXRpb24udXJpLmFub3RoZXJrZXk6IHZhbHVlCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -411,7 +411,7 @@
         <text>%s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RJbXBsZW1lbnRhdGlvbignb3JnLmF3YWl0aWxpdHk6YXdhaXRpbGl0eS1ncm9vdnk6My4xLjInKQo=</text>
+        <text encoding="base64">YXV0aG9yaXpzYXRpb24udXJpLmFub3RoZXJrZXk6IHZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5FeGNsdWRlCg==</text>
