@@ -137,6 +137,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientBase.java" timestamp="1551344814281">
         <mark key="'" line="164" column="15" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1551702807533" />
       <file name="/OrganizationService.java" timestamp="1551129102033">
         <mark key="'" line="197" column="8" />
       </file>
@@ -267,7 +268,7 @@
         <mark key="'" line="59" column="30" />
       </file>
       <file name="/db.changelog-master.yaml" timestamp="1551698855768" />
-      <file name="/authorization.oauth_client [QA RO]" timestamp="1551344887918">
+      <file name="/authorization.oauth_client [QA RO]" timestamp="1551703294077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197480045">
