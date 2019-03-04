@@ -50,6 +50,11 @@
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190301.REL1-6838.add-missing-scope-for-biling.yaml" timestamp="1551694119222">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
       </file>
@@ -166,6 +171,9 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.415/3560662546cf0397a830245bc987a62e793451f4/aws-java-sdk-s3-1.11.415-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1551274180084">
         <mark key="'" line="2126" column="21" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" timestamp="1551693057075">
+        <mark key="'" line="91" column="52" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/RemovedProcessor.java" timestamp="1551303433279">
         <mark key="'" line="10" column="44" />
       </file>
@@ -274,8 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="130" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="135" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="139" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="142" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
@@ -374,6 +380,8 @@
       <jump line="223" column="2" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="213" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="212" column="145" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="55" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
+      <jump line="91" column="52" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +418,7 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdHJ1Y3Rvclw+</text>
+        <text encoding="base64">XDxoaWVyYXJjaHlQYXR0ZXJuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXV0aG9yaXpzYXRpb24udXJpLmFub3RoZXJrZXk6IHZhbHVlCg==</text>
@@ -456,21 +464,20 @@
         <text encoding="base64">ICAgIGNvbS5hYmNmaW5hbmNpYWw6IERFQlVHCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickImplementations</text>
+        <text>action ShowUsages</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zdHJ1Y3Rvclw+</last-search>
+      <last-search encoding="base64">XDxoaWVyYXJjaHlQYXR0ZXJuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdHJ1Y3Rvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxoaWVyYXJjaHlQYXR0ZXJuXD4=</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>{{</entry>
         <entry>createDocu</entry>
         <entry encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</entry>
         <entry encoding="base64">XDxvXD4=</entry>
@@ -490,6 +497,7 @@
         <entry>%s</entry>
         <entry encoding="base64">XDxDb25zdHJ1Y3Rvclw+</entry>
         <entry encoding="base64">XDxjb25zdHJ1Y3Rvclw+</entry>
+        <entry encoding="base64">XDxoaWVyYXJjaHlQYXR0ZXJuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Compare.SameVersion</entry>
@@ -508,10 +516,10 @@
         <entry>action GotoImplementation</entry>
         <entry>action Find</entry>
         <entry>action Back</entry>
-        <entry>action ShowUsages</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action ShowUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
