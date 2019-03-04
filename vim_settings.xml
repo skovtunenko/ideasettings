@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
@@ -82,7 +82,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.4.RELEASE/a42beaa91e810d6f81524d8f9d8b47165eb68463/spring-data-commons-2.1.4.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java" timestamp="1550756763326">
         <mark key="'" line="147" column="61" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-qa.yml" timestamp="1551455788859" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551166141407">
         <mark key="'" line="0" column="0" />
       </file>
@@ -140,13 +139,18 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/listener/ItemVersionListener.java" timestamp="1551207245418">
         <mark key="'" line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" timestamp="1551556258852">
+        <mark key="'" line="212" column="145" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/validator/ItemValidator.java" timestamp="1550076619322">
         <mark key="'" line="33" column="27" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" timestamp="1550663120774">
         <mark key="'" line="178" column="33" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization.yml" timestamp="1551451522245" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOValidator.java" timestamp="1551116001229">
         <mark key="'" line="59" column="94" />
       </file>
@@ -270,13 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="92" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="98" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="107" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="109" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="114" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="117" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="124" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="130" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="135" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
@@ -370,6 +367,13 @@
       <jump line="89" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/BaseClientDetails.java" />
       <jump line="73" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/location/LocationTests.groovy" />
       <jump line="59" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationController.java" />
+      <jump line="211" column="2" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="256" column="133" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="248" column="109" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="225" column="27" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="223" column="2" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="213" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
+      <jump line="212" column="145" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -385,7 +389,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGthZmthOgogICAgYm9vdHN0cmFwU2VydmVyczogJ2NwLWthZmthLTAuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MixjcC1rYWZrYS0xLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMi5jcC1rYWZrYS1oZWFkbGVzczo5MDkyJwo=</text>
+        <text encoding="base64">ICAgICAgICBhcyAtPiBhZHNmID0+IGFzZGtmamtzZGYgPT0gPT09IGRzZiA9PT0gc2FkZiAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -406,19 +410,19 @@
         <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text>%s</text>
+        <text encoding="base64">XDxjb25zdHJ1Y3Rvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXV0aG9yaXpzYXRpb24udXJpLmFub3RoZXJrZXk6IHZhbHVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGthZmthOgogICAgYm9vdHN0cmFwU2VydmVyczogJ2NwLWthZmthLTAuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MixjcC1rYWZrYS0xLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMi5jcC1rYWZrYS1oZWFkbGVzczo5MDkyJwo=</text>
+        <text encoding="base64">ICAgICAgICBhcyAtPiBhZHNmID0+IGFzZGtmamtzZGYgPT0gPT09IGRzZiA9PT0gc2FkZiAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpcXVpYmFzZTogV0FSTgo=</text>
+        <text encoding="base64">c3ByaW5nOgogIGthZmthOgogICAgYm9vdHN0cmFwU2VydmVyczogJ2NwLWthZmthLTAuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MixjcC1rYWZrYS0xLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMi5jcC1rYWZrYS1oZWFkbGVzczo5MDkyJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGU6IFdBUk4K</text>
+        <text encoding="base64">ICAgIGxpcXVpYmFzZTogV0FSTgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -434,40 +438,38 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbS56YXh4ZXI6IFdBUk4K</text>
+        <text encoding="base64">ICAgIG9yZy5oaWJlcm5hdGU6IFdBUk4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9yZy5hcGFjaGU6IFdBUk4K</text>
+        <text encoding="base64">ICAgIGNvbS56YXh4ZXI6IFdBUk4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcms6IFdBUk4K</text>
+        <text encoding="base64">ICAgIG9yZy5hcGFjaGU6IFdBUk4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbS5uZXRmbGl4OiBXQVJOCg==</text>
+        <text encoding="base64">ICAgIG9yZy5zcHJpbmdmcmFtZXdvcms6IFdBUk4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbS5hYmNmaW5hbmNpYWw6IERFQlVHCg==</text>
+        <text encoding="base64">ICAgIGNvbS5uZXRmbGl4OiBXQVJOCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXZlbDoK</text>
+        <text encoding="base64">ICAgIGNvbS5hYmNmaW5hbmNpYWw6IERFQlVHCg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickImplementations</text>
       </register>
     </registers>
     <search>
-      <last-search>%s</last-search>
+      <last-search encoding="base64">XDxjb25zdHJ1Y3Rvclw+</last-search>
       <last-offset />
-      <last-pattern>%s</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdHJ1Y3Rvclw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZW1iZXJJZFw+</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry>{{</entry>
         <entry>createDocu</entry>
         <entry encoding="base64">XDxDYWxsSGllcmFyY2h5XD4=</entry>
@@ -486,6 +488,8 @@
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
         <entry encoding="base64">XDxFbnRpdHlcPg==</entry>
         <entry>%s</entry>
+        <entry encoding="base64">XDxDb25zdHJ1Y3Rvclw+</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3Rvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action Compare.SameVersion</entry>
