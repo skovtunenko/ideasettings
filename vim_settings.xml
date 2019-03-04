@@ -113,6 +113,9 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/AddressCrudTest.groovy" timestamp="1551299221999">
         <mark key="'" line="15" column="39" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberDocumentController.java" timestamp="1551699491970">
+        <mark key="'" line="149" column="36" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocationRepository.java" timestamp="1551091510888">
         <mark key="'" line="27" column="34" />
       </file>
@@ -207,7 +210,10 @@
         <mark key="'" line="1609" column="17" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" timestamp="1551695590404" />
-      <file name="/Dummy.txt" timestamp="1551456340581">
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/http/HeaderPreferSwitch.java" timestamp="1551699495355">
+        <mark key="'" line="141" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551699417857">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -260,6 +266,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationController.java" timestamp="1551360486831">
         <mark key="'" line="59" column="30" />
       </file>
+      <file name="/db.changelog-master.yaml" timestamp="1551698855768" />
       <file name="/authorization.oauth_client [QA RO]" timestamp="1551344887918">
         <mark key="[" line="0" column="0" />
       </file>
@@ -285,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
-      <jump line="139" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="142" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="147" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
       <jump line="149" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
@@ -385,6 +390,8 @@
       <jump line="212" column="145" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="55" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
       <jump line="91" column="52" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/security/AbcPreAuthorizeBasedRoleHierarchy.java" />
+      <jump line="149" column="36" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberDocumentController.java" />
+      <jump line="141" column="26" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/http/HeaderPreferSwitch.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
