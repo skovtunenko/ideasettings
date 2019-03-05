@@ -47,7 +47,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationCleanUpServiceImpl.java" timestamp="1551262208540">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="/BaseTest.groovy" timestamp="1551709330051" />
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
@@ -65,7 +64,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/ErrorResponse.java" timestamp="1551273751047">
         <mark key="'" line="27" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1551696701899" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/organization.yml" timestamp="1551792272824" />
       <file name="/authorization.user_detail [QA RO]" timestamp="1551344918658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,7 +74,6 @@
       <file name="/DocumentService.java" timestamp="1550742122817">
         <mark key="'" line="78" column="49" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/application.yml" timestamp="1551697372239" />
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1551344887525">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,7 +136,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientBase.java" timestamp="1551344814281">
         <mark key="'" line="164" column="15" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1551708680100" />
       <file name="/OrganizationService.java" timestamp="1551129102033">
         <mark key="'" line="197" column="8" />
       </file>
@@ -211,7 +208,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" timestamp="1551716629240" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/http/HeaderPreferSwitch.java" timestamp="1551699495355">
         <mark key="'" line="141" column="26" />
       </file>
@@ -268,7 +264,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationController.java" timestamp="1551709275757">
         <mark key="'" line="59" column="30" />
       </file>
-      <file name="/db.changelog-master.yaml" timestamp="1551698855768" />
       <file name="/authorization.oauth_client [QA RO]" timestamp="1551703294077">
         <mark key="[" line="0" column="0" />
       </file>
