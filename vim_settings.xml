@@ -18,6 +18,7 @@
       <file name="/a.dummy" timestamp="1551302437072">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.336/4f5641cedcb5131fa8fd9d787be7370571968b46/aws-java-sdk-core-1.11.336-sources.jar!/com/amazonaws/auth/InstanceProfileCredentialsProvider.java" timestamp="1551949818552" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-pre.yml" timestamp="1551454764334">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -224,7 +225,6 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="/Jenkinsfile" timestamp="1551889305863" />
       <file name="/UserTests.groovy" timestamp="1550573486617">
         <mark key="'" line="724" column="43" />
       </file>
@@ -246,7 +246,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/2.0.8.RELEASE/28591fe0467d0ae1b7533f79bef2cb2112a2c5d4/spring-boot-actuator-2.0.8.RELEASE-sources.jar!/org/springframework/boot/actuate/system/DiskSpaceHealthIndicator.java" timestamp="1551218313950">
         <mark key="'" line="36" column="17" />
       </file>
-      <file name="/LocationTenancyTests.groovy" timestamp="1551873356567" />
       <file name="$USER_HOME$/Documents/Dev/Java/IDEA_Workspaces/liquibasetest/src/main/java/ru/javastudy/hibernate/dao/HobbyEntity.java" timestamp="1550522856552">
         <mark key="'" line="20" column="32" />
       </file>
