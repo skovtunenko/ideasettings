@@ -33,7 +33,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/ErrorResponse.java" timestamp="1551273751047">
         <mark key="'" line="27" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1551964680428" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1551970792828">
+        <mark key="[" line="293" column="19" />
+        <mark key="]" line="293" column="19" />
+        <mark key="." line="293" column="19" />
+        <mark key="^" line="293" column="51" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
       </file>
@@ -86,7 +91,7 @@
       <file name="/OrganizationService.java" timestamp="1551129102033">
         <mark key="'" line="197" column="8" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/gradle/wrapper/gradle-wrapper.properties" timestamp="1551968510363" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/gradle/wrapper/gradle-wrapper.properties" timestamp="1551970219769" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/listener/ItemVersionListener.java" timestamp="1551207245418">
         <mark key="'" line="14" column="19" />
       </file>
@@ -255,7 +260,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551962182828">
+      <file name="/Dummy.txt" timestamp="1551970779901">
         <mark key="e" line="0" column="26" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -417,8 +422,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -436,22 +441,22 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+      <register name="0" type="4">
+        <text>http://uno-app:8080</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtZW1iZXJTZXJ2aWNlLmdldAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9jYXRpb25DbGVhblVwU2VydmljZSBsb2NhdGlvbkNsZWFuVXBTZXJ2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -467,22 +472,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBtZW1iZXJTZXJ2aWNlLmdldAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9jYXRpb25DbGVhblVwU2VydmljZSBsb2NhdGlvbkNsZWFuVXBTZXJ2aWNlOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlcXVpcmVkQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
