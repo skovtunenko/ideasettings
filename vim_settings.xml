@@ -33,11 +33,11 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.11.2/e4bb1d54a922053bb0b938a39d3d2c0b983a11db/common-core-6.11.2-sources.jar!/com/abcfinancial/api/common/domain/ErrorResponse.java" timestamp="1551273751047">
         <mark key="'" line="27" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1551970792828">
-        <mark key="[" line="293" column="19" />
-        <mark key="]" line="293" column="19" />
-        <mark key="." line="293" column="19" />
-        <mark key="^" line="293" column="51" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1551982523785">
+        <mark key="[" line="275" column="23" />
+        <mark key="]" line="275" column="46" />
+        <mark key="." line="275" column="46" />
+        <mark key="^" line="275" column="46" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/main/java/cz/jirutka/rsql/parser/RSQLParser.java" timestamp="1550052859733">
         <mark key="'" line="62" column="29" />
@@ -260,9 +260,9 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551970779901">
+      <file name="/Dummy.txt" timestamp="1551982541971">
         <mark key="e" line="0" column="26" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
