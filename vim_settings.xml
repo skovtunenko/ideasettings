@@ -132,7 +132,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-storage/1.3.2/a674463cd91f620f397f2454f666cf5e1ac54e81/common-storage-1.3.2-sources.jar!/com/abcfinancial/api/common/storage/repository/amazon/AmazonS3FileStorageRepository.java" timestamp="1551273467903">
         <mark key="'" line="73" column="32" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1552332853464" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1552333521173" />
       <file name="/RepositoryUserDetailsService.java" timestamp="1551117282084">
         <mark key="'" line="28" column="61" />
       </file>
