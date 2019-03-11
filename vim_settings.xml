@@ -15,12 +15,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.0.12.RELEASE/e6c36de7e04059f142eeaa38ab3fadddd05e3428/spring-orm-5.0.12.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java" timestamp="1551104370239">
         <mark key="'" line="248" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1552312580767">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="32" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1552314621119">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="24" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
@@ -173,12 +173,10 @@
       <file name="/MemberDocumentController.java" timestamp="1550741279222">
         <mark key="'" line="151" column="78" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1552311339799">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="67" column="43" />
-        <mark key="." line="65" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1552314225205">
+        <mark key="]" line="89" column="3" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="89" column="3" />
       </file>
       <file name="/DocumentService.java" timestamp="1550742122817">
         <mark key="'" line="78" column="49" />
@@ -228,15 +226,15 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1550754404770">
         <mark key="'" line="43" column="40" />
       </file>
-      <file name="/dummy.sql" timestamp="1552312466560">
+      <file name="/dummy.sql" timestamp="1552314095486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
         <mark key="'" line="1609" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551982541971">
+      <file name="/Dummy.txt" timestamp="1552315192221">
         <mark key="e" line="0" column="26" />
-        <mark key="[" line="0" column="1" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
@@ -255,15 +253,14 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" timestamp="1551953624395">
         <mark key="'" line="156" column="24" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" timestamp="1551953807895">
-        <mark key="'" line="138" column="54" />
-        <mark key="[" line="69" column="31" />
-        <mark key="]" line="69" column="80" />
-        <mark key="^" line="69" column="80" />
-        <mark key="." line="69" column="80" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationLogoController.java" timestamp="1551128407162">
         <mark key="'" line="34" column="27" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Scope.java" timestamp="1552315163948">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="80" column="14" />
       </file>
       <file name="/ArchivedMemberDocumentController.java" timestamp="1550741777786">
         <mark key="'" line="77" column="49" />
@@ -282,8 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
-      <jump line="33" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
       <jump line="39" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
       <jump line="45" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
       <jump line="53" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
@@ -382,6 +377,8 @@
       <jump line="18" column="104" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="21" column="42" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="28" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+      <jump line="37" column="392" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+      <jump line="48" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -397,7 +394,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAscGF5bWVudC1tZXJjaGFudC1jbGllbnQ6d3JpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -415,22 +412,22 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>,subscription:read</text>
+        <text>write</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aG9yaXphdGlvbiIsInNjaGVkdWxlIiwibm90aWZpY2F0aW9uIiwiY2F0YWxvZyIsIm9yZ2FuaXphdGlvbiIsInB1cmNoYXNlIiwiYmlsbGluZyIsImNvbnZlcnNpb24iXSwiX3QiOiJDTElFTlRfT05MWSIsInNjb3BlIjpbInBsYXRmb3JtOnByb3RlY3RlZCIsInBheW1lbnQtYWNjb3VudDp3cml0ZSIsInBheW1lbnQtYWNjb3VudDpyZWFkIiwidGF4LXJhdGU6d3JpdGUiLCJzdWJzY3JpcHRpb246d3JpdGUiLCJ0YXgtcmF0ZTpyZWFkIiwiYXBwbGljYXRpb246cmVhZCIsInBlcm1pc3Npb246d3JpdGUiLCJwcmljaW5nOndyaXRlIiwic3Vic2NyaXB0aW9uOnJlYWQiLCJwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZSJdLCJleHAiOjE1NTIzOTgxODAsImF1dGhvcml0aWVzIjpbIm9yZ2FuaXphdGlvbjpjbGllbnQtYWRtaW4iLCJzdWJzY3JpcHRpb24tcGxhbjpjbGllbnQtYWRtaW4iLCJ1c2VyOmNsaWVudC1hZG1pbiIsInJvbGU6Y2xpZW50LWFkbWluIiwibG9jYXRpb246Y2xpZW50LWFkbWluIiwidGVtcGxhdGU6Y2xpZW50LWFkbWluIiwiY2hlY2tpbjpjbGllbnQtYWRtaW4iLCJ3ZWJob29rOmNsaWVudC1yZWFkIiwiZW1haWwtbm90aWZpY2F0aW9uOmNsaWVudC1hZG1pbiIsImFwcGxpY2F0aW9uOmNsaWVudC1hZG1pbiIsImNhdGFsb2ctaXRlbS1jYXRlZ29yeTpjbGllbnQtYWRtaW4iLCJjbGllbnQ6Y2xpZW50LWFkbWluIiwiY2F0YWxvZy1pdGVtOmNsaWVudC1hZG1pbiIsIm1lbWJlcjpjbGllbnQtYWRtaW4iLCJlbXBsb3llZTpjbGllbnQtYWRtaW4iLCJkZXZlbG9wZXI6Y2xpZW50LWFkbWluIl0sImp0aSI6IjU0ODVmNjJlLWRmMTAtNGEyZC1iZmJhLTFjMzQyN2FiZTI4MyIsImNsaWVudF9pZCI6IkFVVE9NQVRFRF9URVNUSU5HIn0.r3Pno1wub1yJ5B8rJrmpA1j5AgZs0xeEttp2Ry5c8a2KEmUSq88okJr5ePKwhjTOBTDEn5syKsKuApMy9vj0cNOx1J3ejWEaMvmFVR8EUfWgzOfFskbqLGXKNdkmmLe_T2v-qT81XY2RlKH7rbkPSvIZnbawJEtF-5zZQNsB9-2UJGI82FWLeZpCCTdpGLWOw5k1rht7PVPvOfb2hBdb8Zll5nv4gKFbXm-BSQLNyY8o5wXjOCMlvmR1VEfW0LUMkx53SAf6gEdjDG0ACOcBkK2sy1ZDoYp0wVWClneW1dBvMNtQCh4StWOEgTVyn65rKdDn-Y7x7vAGW_pU1cY8WA</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFBBWU1FTlRfTUVSQ0hBTlRfQ0xJRU5UX1dSSVRFKCJwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZSIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAscGF5bWVudC1tZXJjaGFudC1jbGllbnQ6d3JpdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwbGF0Zm9ybTpwcm90ZWN0ZWQiCg==</text>
+        <text encoding="base64">ICAgIFBBWU1FTlRfTUVSQ0hBTlRfQ0xJRU5UX1JFQUQoInBheW1lbnQtbWVyY2hhbnQtY2xpZW50OnJlYWQiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJkeW5hZm9ybXMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -446,22 +443,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhdXRob3JpemF0aW9uIiwK</text>
+        <text encoding="base64">ICAgIFBBWU1FTlRfTUVSQ0hBTlRfQ0xJRU5UX1BST1RFQ1RFRCgicGF5bWVudC1tZXJjaGFudC1jbGllbnQ6cHJvdGVjdGVkIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UG9zdG1hbi1Ub2tlbjogNGQ3YjA4YTEtNzRjYS00NTU1LTk1ZDEtY2Q0MGM1YWMxOWI0Cg==</text>
+        <text encoding="base64">ICAgIFBBWU1FTlRfTUVSQ0hBTlRfQ0xJRU5UX0FETUlOKCJwYXltZW50LW1lcmNoYW50LWNsaWVudDphZG1pbiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SG9zdDogZGV2LjMwcHJlcHJvZC5jb20K</text>
+        <text encoding="base64">ICAgIFNVQlNDUklQVElPTl9SRUFEKCAic3Vic2NyaXB0aW9uOnJlYWQiICk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UE9TVCBodHRwczovL2Rldi4zMHByZXByb2QuY29tL2FwaS9jbGllbnQK</text>
+        <text encoding="base64">ICAgICJzdWJzY3JpcHRpb246cmVhZCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UE9TVCAvYXBpL2NsaWVudCBIVFRQLzEuMQo=</text>
+        <text encoding="base64">ICAgICJ0YXgtcmF0ZTp3cml0ZSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ImV5SmhiR2NpT2lKU1V6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpoZFdRaU9sc2lZWFYwYUc5eWFYcGhkR2x2YmlJc0luTmphR1ZrZFd4bElpd2libTkwYVdacFkyRjBhVzl1SWl3aVkyRjBZV3h2WnlJc0ltOXlaMkZ1YVhwaGRHbHZiaUlzSW5CMWNtTm9ZWE5sSWl3aVltbHNiR2x1WnlJc0ltTnZiblpsY25OcGIyNGlYU3dpWDNRaU9pSkRURWxGVGxSZlQwNU1XU0lzSW5OamIzQmxJanBiSW5Cc1lYUm1iM0p0T25CeWIzUmxZM1JsWkNJc0luQmhlVzFsYm5RdFlXTmpiM1Z1ZERwM2NtbDBaU0lzSW5CaGVXMWxiblF0WVdOamIzVnVkRHB5WldGa0lpd2lkR0Y0TFhKaGRHVTZkM0pwZEdVaUxDSnpkV0p6WTNKcGNIUnBiMjQ2ZDNKcGRHVWlMQ0owWVhndGNtRjBaVHB5WldGa0lpd2lZWEJ3YkdsallYUnBiMjQ2Y21WaFpDSXNJbkJsY20xcGMzTnBiMjQ2ZDNKcGRHVWlMQ0p3Y21samFXNW5PbmR5YVhSbElpd2ljM1ZpYzJOeWFYQjBhVzl1T25KbFlXUWlMQ0p3WVhsdFpXNTBMVzFsY21Ob1lXNTBMV05zYVdWdWREcDNjbWwwWlNKZExDSmxlSEFpT2pFMU5USXpPVGd4T0RBc0ltRjFkR2h2Y21sMGFXVnpJanBiSW05eVoyRnVhWHBoZEdsdmJqcGpiR2xsYm5RdFlXUnRhVzRpTENKemRXSnpZM0pwY0hScGIyNHRjR3hoYmpwamJHbGxiblF0WVdSdGFXNGlMQ0oxYzJWeU9tTnNhV1Z1ZEMxaFpHMXBiaUlzSW5KdmJHVTZZMnhwWlc1MExXRmtiV2x1SWl3aWJHOWpZWFJwYjI0NlkyeHBaVzUwTFdGa2JXbHVJaXdpZEdWdGNHeGhkR1U2WTJ4cFpXNTBMV0ZrYldsdUlpd2lZMmhsWTJ0cGJqcGpiR2xsYm5RdFlXUnRhVzRpTENKM1pXSm9iMjlyT21Oc2FXVnVkQzF5WldGa0lpd2laVzFoYVd3dGJtOTBhV1pwWTJGMGFXOXVPbU5zYVdWdWRDMWhaRzFwYmlJc0ltRndjR3hwWTJGMGFXOXVPbU5zYVdWdWRDMWhaRzFwYmlJc0ltTmhkR0ZzYjJjdGFYUmxiUzFqWVhSbFoyOXllVHBqYkdsbGJuUXRZV1J0YVc0aUxDSmpiR2xsYm5RNlkyeHBaVzUwTFdGa2JXbHVJaXdpWTJGMFlXeHZaeTFwZEdWdE9tTnNhV1Z1ZEMxaFpHMXBiaUlzSW0xbGJXSmxjanBqYkdsbGJuUXRZV1J0YVc0aUxDSmxiWEJzYjNsbFpUcGpiR2xsYm5RdFlXUnRhVzRpTENKa1pYWmxiRzl3WlhJNlkyeHBaVzUwTFdGa2JXbHVJbDBzSW1wMGFTSTZJalUwT0RWbU5qSmxMV1JtTVRBdE5HRXlaQzFpWm1KaExURmpNelF5TjJGaVpUSTRNeUlzSW1Oc2FXVnVkRjlwWkNJNklrRlZWRTlOUVZSRlJGOVVSVk5VU1U1SEluMC5yM1BubzF3dWIxeUo1QjhySnJtcEExajVBZ1pzMHhlRXR0cDJSeTVjOGEyS0VtVVNxODhva0pyNWVQS3doalRPQlRERW41c3lLc0t1QXBNeTl2ajBjTk94MUozZWpXRWFNdm1GVlI4RVVmV2d6T2ZGc2ticUxHWEtOZGttbUxlX1Qydi1xVDgxWFkyUmxLSDdyYmtQU3ZJWm5iYXdKRXRGLTV6WlFOc0I5LTJVSkdJODJGV0xlWnBDQ1RkcEdMV093NWsxcmh0N1BWUHZPZmIyaEJkYjhabGw1bnY0Z0tGYlhtLUJTUUxOeVk4bzV3WGpPQ01sdm1SMVZFZlcwTFVNa3g1M1NBZjZnRWRqREcwQUNPY0JrSzJzeTFaRG9ZcDB3VldDbG5lVzFkQnZNTnRRQ2g0U3RXT0VnVFZ5bjY1cktkRG4tWTd4N3ZBR1dfcFUxY1k4V0EiLAo=</text>
+        <text encoding="base64">SG9zdDogCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
