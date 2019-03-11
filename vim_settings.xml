@@ -15,12 +15,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.0.12.RELEASE/e6c36de7e04059f142eeaa38ab3fadddd05e3428/spring-orm-5.0.12.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java" timestamp="1551104370239">
         <mark key="'" line="248" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1552314621119">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="34" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1552317419689">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="13" column="1588" />
+        <mark key="^" line="13" column="1588" />
+        <mark key="." line="13" column="1588" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
@@ -226,7 +226,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigController.java" timestamp="1550754404770">
         <mark key="'" line="43" column="40" />
       </file>
-      <file name="/dummy.sql" timestamp="1552314095486">
+      <file name="/dummy.sql" timestamp="1552317448128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-s3/1.11.336/1cff3ffddc015729a7fa153f38902ea8a5fb0558/aws-java-sdk-s3-1.11.336-sources.jar!/com/amazonaws/services/s3/AmazonS3Client.java" timestamp="1550574383469">
@@ -393,8 +393,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aG9yaXphdGlvbiIsInNjaGVkdWxlIiwibm90aWZpY2F0aW9uIiwiY2F0YWxvZyIsIm9yZ2FuaXphdGlvbiIsInB1cmNoYXNlIiwiYmlsbGluZyIsImNvbnZlcnNpb24iXSwiX3QiOiJDTElFTlRfT05MWSIsInNjb3BlIjpbInBsYXRmb3JtOnByb3RlY3RlZCIsInBheW1lbnQtYWNjb3VudDp3cml0ZSIsInBheW1lbnQtYWNjb3VudDpyZWFkIiwidGF4LXJhdGU6d3JpdGUiLCJzdWJzY3JpcHRpb246d3JpdGUiLCJ0YXgtcmF0ZTpyZWFkIiwiYXBwbGljYXRpb246cmVhZCIsInBlcm1pc3Npb246d3JpdGUiLCJwcmljaW5nOndyaXRlIiwic3Vic2NyaXB0aW9uOnJlYWQiLCJwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZSJdLCJleHAiOjE1NTIzOTgxODAsImF1dGhvcml0aWVzIjpbIm9yZ2FuaXphdGlvbjpjbGllbnQtYWRtaW4iLCJzdWJzY3JpcHRpb24tcGxhbjpjbGllbnQtYWRtaW4iLCJ1c2VyOmNsaWVudC1hZG1pbiIsInJvbGU6Y2xpZW50LWFkbWluIiwibG9jYXRpb246Y2xpZW50LWFkbWluIiwidGVtcGxhdGU6Y2xpZW50LWFkbWluIiwiY2hlY2tpbjpjbGllbnQtYWRtaW4iLCJ3ZWJob29rOmNsaWVudC1yZWFkIiwiZW1haWwtbm90aWZpY2F0aW9uOmNsaWVudC1hZG1pbiIsImFwcGxpY2F0aW9uOmNsaWVudC1hZG1pbiIsImNhdGFsb2ctaXRlbS1jYXRlZ29yeTpjbGllbnQtYWRtaW4iLCJjbGllbnQ6Y2xpZW50LWFkbWluIiwiY2F0YWxvZy1pdGVtOmNsaWVudC1hZG1pbiIsIm1lbWJlcjpjbGllbnQtYWRtaW4iLCJlbXBsb3llZTpjbGllbnQtYWRtaW4iLCJkZXZlbG9wZXI6Y2xpZW50LWFkbWluIl0sImp0aSI6IjU0ODVmNjJlLWRmMTAtNGEyZC1iZmJhLTFjMzQyN2FiZTI4MyIsImNsaWVudF9pZCI6IkFVVE9NQVRFRF9URVNUSU5HIn0.r3Pno1wub1yJ5B8rJrmpA1j5AgZs0xeEttp2Ry5c8a2KEmUSq88okJr5ePKwhjTOBTDEn5syKsKuApMy9vj0cNOx1J3ejWEaMvmFVR8EUfWgzOfFskbqLGXKNdkmmLe_T2v-qT81XY2RlKH7rbkPSvIZnbawJEtF-5zZQNsB9-2UJGI82FWLeZpCCTdpGLWOw5k1rht7PVPvOfb2hBdb8Zll5nv4gKFbXm-BSQLNyY8o5wXjOCMlvmR1VEfW0LUMkx53SAf6gEdjDG0ACOcBkK2sy1ZDoYp0wVWClneW1dBvMNtQCh4StWOEgTVyn65rKdDn-Y7x7vAGW_pU1cY8WA</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -412,7 +412,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>write</text>
+        <text>eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiYXV0aG9yaXphdGlvbiIsInNjaGVkdWxlIiwibm90aWZpY2F0aW9uIiwiY2F0YWxvZyIsIm9yZ2FuaXphdGlvbiIsInB1cmNoYXNlIiwiYmlsbGluZyIsImNvbnZlcnNpb24iXSwiX3QiOiJDTElFTlRfT05MWSIsInNjb3BlIjpbInBsYXRmb3JtOnByb3RlY3RlZCIsInBheW1lbnQtYWNjb3VudDp3cml0ZSIsInBheW1lbnQtYWNjb3VudDpyZWFkIiwidGF4LXJhdGU6d3JpdGUiLCJzdWJzY3JpcHRpb246d3JpdGUiLCJ0YXgtcmF0ZTpyZWFkIiwiYXBwbGljYXRpb246cmVhZCIsInBlcm1pc3Npb246d3JpdGUiLCJwcmljaW5nOndyaXRlIiwic3Vic2NyaXB0aW9uOnJlYWQiLCJwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZSJdLCJleHAiOjE1NTIzOTgxODAsImF1dGhvcml0aWVzIjpbIm9yZ2FuaXphdGlvbjpjbGllbnQtYWRtaW4iLCJzdWJzY3JpcHRpb24tcGxhbjpjbGllbnQtYWRtaW4iLCJ1c2VyOmNsaWVudC1hZG1pbiIsInJvbGU6Y2xpZW50LWFkbWluIiwibG9jYXRpb246Y2xpZW50LWFkbWluIiwidGVtcGxhdGU6Y2xpZW50LWFkbWluIiwiY2hlY2tpbjpjbGllbnQtYWRtaW4iLCJ3ZWJob29rOmNsaWVudC1yZWFkIiwiZW1haWwtbm90aWZpY2F0aW9uOmNsaWVudC1hZG1pbiIsImFwcGxpY2F0aW9uOmNsaWVudC1hZG1pbiIsImNhdGFsb2ctaXRlbS1jYXRlZ29yeTpjbGllbnQtYWRtaW4iLCJjbGllbnQ6Y2xpZW50LWFkbWluIiwiY2F0YWxvZy1pdGVtOmNsaWVudC1hZG1pbiIsIm1lbWJlcjpjbGllbnQtYWRtaW4iLCJlbXBsb3llZTpjbGllbnQtYWRtaW4iLCJkZXZlbG9wZXI6Y2xpZW50LWFkbWluIl0sImp0aSI6IjU0ODVmNjJlLWRmMTAtNGEyZC1iZmJhLTFjMzQyN2FiZTI4MyIsImNsaWVudF9pZCI6IkFVVE9NQVRFRF9URVNUSU5HIn0.r3Pno1wub1yJ5B8rJrmpA1j5AgZs0xeEttp2Ry5c8a2KEmUSq88okJr5ePKwhjTOBTDEn5syKsKuApMy9vj0cNOx1J3ejWEaMvmFVR8EUfWgzOfFskbqLGXKNdkmmLe_T2v-qT81XY2RlKH7rbkPSvIZnbawJEtF-5zZQNsB9-2UJGI82FWLeZpCCTdpGLWOw5k1rht7PVPvOfb2hBdb8Zll5nv4gKFbXm-BSQLNyY8o5wXjOCMlvmR1VEfW0LUMkx53SAf6gEdjDG0ACOcBkK2sy1ZDoYp0wVWClneW1dBvMNtQCh4StWOEgTVyn65rKdDn-Y7x7vAGW_pU1cY8WA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
