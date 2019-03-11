@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HttpRequestTenancyExtractor.java" timestamp="1551178627351">
@@ -133,6 +133,7 @@
         <mark key="'" line="73" column="32" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1552333521173" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1552335252760" />
       <file name="/RepositoryUserDetailsService.java" timestamp="1551117282084">
         <mark key="'" line="28" column="61" />
       </file>
