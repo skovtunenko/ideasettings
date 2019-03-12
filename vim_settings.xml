@@ -19,7 +19,7 @@
         <mark key="'" line="256" column="23" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/OAuth2FeignClientConfiguration.java" timestamp="1552385518067" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/Member.java" timestamp="1551951857863">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/Member.java" timestamp="1552387532615">
         <mark key="'" line="10" column="28" />
       </file>
       <file name="/metadata [DEV RO]" timestamp="1552322105576">
@@ -28,6 +28,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/gradle.properties" timestamp="1551211417210">
         <mark key="'" line="8" column="21" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberBase.java" timestamp="1552387579704" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" timestamp="1551959723239">
         <mark key="'" line="6" column="0" />
       </file>
@@ -182,8 +183,8 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/8d6b98f21262995489a8418fff8da992d7e25c1e/commons-io-2.2-sources.jar!/org/apache/commons/io/IOUtils.java" timestamp="1551176724612">
         <mark key="'" line="255" column="10" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1551262572122">
-        <mark key="'" line="343" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1552387668504">
+        <mark key="'" line="114" column="41" />
       </file>
       <file name="/UserLockService.java" timestamp="1550060004898">
         <mark key="'" line="11" column="0" />
@@ -296,19 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="1" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/EntityBase.java" />
-      <jump line="22" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="25" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="33" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="39" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="45" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="19" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/ProcessorBase.java" />
-      <jump line="11" column="13" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/Entity.java" />
-      <jump line="11" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/Processor.java" />
-      <jump line="12" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/Processor.java" />
-      <jump line="2" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/resources/db/changelog/db.changelog-master.yaml" />
-      <jump line="10" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/dynamic-forms-blueprint/src/main/java/com/abcfinancial/api/dynaforms/domain/RemovedProcessor.java" />
-      <jump line="16" column="59" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOMapper.java" />
       <jump line="164" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientBase.java" />
       <jump line="89" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/client/BaseClientDetails.java" />
       <jump line="73" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/location/LocationTests.groovy" />
@@ -341,7 +329,6 @@
       <jump line="14" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="26" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="29" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/MemberCleanUpService.java" />
-      <jump line="10" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/Member.java" />
       <jump line="29" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/LocationCleanUpService.java" />
       <jump line="15" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="16" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
@@ -396,6 +383,20 @@
       <jump line="15" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="87" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="95" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+      <jump line="10" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/Member.java" />
+      <jump line="52" column="13" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="376" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="369" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="366" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="364" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="358" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="352" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="349" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="345" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="335" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="329" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="323" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="114" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -478,7 +479,7 @@
         <text encoding="base64">SG9zdDogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action GotoImplementation</text>
       </register>
     </registers>
     <search>
@@ -525,15 +526,15 @@
         <entry>action QuickJavaDoc</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>e ~/.ideavimrc</entry>
-        <entry>action GotoSuperMethod</entry>
         <entry>action MethodDown</entry>
         <entry>action MethodUp</entry>
-        <entry>action QuickImplementations</entry>
-        <entry>action ShowUsages</entry>
         <entry>action TypeHierarchy</entry>
-        <entry>action GotoImplementation</entry>
         <entry>action Back</entry>
         <entry>action Find</entry>
+        <entry>action QuickImplementations</entry>
+        <entry>action ShowUsages</entry>
+        <entry>action GotoSuperMethod</entry>
+        <entry>action GotoImplementation</entry>
       </history-cmd>
       <history-expr />
       <history-input />
