@@ -15,7 +15,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/5.0.12.RELEASE/e6c36de7e04059f142eeaa38ab3fadddd05e3428/spring-orm-5.0.12.RELEASE-sources.jar!/org/springframework/orm/hibernate5/LocalSessionFactoryBuilder.java" timestamp="1551104370239">
         <mark key="'" line="248" column="28" />
       </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/address.sql" timestamp="1552395315749" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/GrantType.java" timestamp="1551166908323">
         <mark key="'" line="9" column="12" />
       </file>
@@ -49,7 +48,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/common/AddressCrudTest.groovy" timestamp="1551299221999">
         <mark key="'" line="15" column="39" />
       </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/organization/table/location.sql" timestamp="1552395291065" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberDocumentController.java" timestamp="1551699491970">
         <mark key="'" line="149" column="36" />
       </file>
@@ -107,7 +105,6 @@
       <file name="/organization.alert [DEV RO]" timestamp="1552395404707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="786ed0da-8fde-4af1-9913-2a47324033d9/schema/organization/table/location.sql" timestamp="1552397452077" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/client/ClientVOMapper.java" timestamp="1551343859308">
         <mark key="'" line="16" column="59" />
       </file>
@@ -123,7 +120,6 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-storage/1.3.2/a674463cd91f620f397f2454f666cf5e1ac54e81/common-storage-1.3.2-sources.jar!/com/abcfinancial/api/common/storage/S3FileStorageService.java" timestamp="1551273444134">
         <mark key="'" line="69" column="30" />
       </file>
-      <file name="786ed0da-8fde-4af1-9913-2a47324033d9/schema/catalog/table/subscription_plan_item.sql" timestamp="1552396903955" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/e99b7b608968f16b07104b93e62cb90701174d0/okhttp-3.10.0-sources.jar!/okhttp3/internal/http/RealInterceptorChain.java" timestamp="1551197480045">
         <mark key="'" line="146" column="46" />
       </file>
@@ -139,14 +135,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.415/ec4e5926c74157770b5dcc5959f3aa5bc78d1771/aws-java-sdk-core-1.11.415-sources.jar!/com/amazonaws/AmazonServiceException.java" timestamp="1551273864587">
         <mark key="'" line="256" column="23" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/OAuth2FeignClientConfiguration.java" timestamp="1552385518067" />
       <file name="/metadata [DEV RO]" timestamp="1552322105576">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/gradle.properties" timestamp="1551211417210">
         <mark key="'" line="8" column="21" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberBase.java" timestamp="1552387579704" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/rsql-parser/src/test/groovy/cz/jirutka/rsql/parser/RSQLParserTest.groovy" timestamp="1550053559380">
         <mark key="'" line="137" column="0" />
       </file>
@@ -174,7 +168,6 @@
       <file name="/catalog.subscription_plan_item [QA RO]" timestamp="1552396750761">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientController.java" timestamp="1552385809282" />
       <file name="/DocumentService.java" timestamp="1550742122817">
         <mark key="'" line="78" column="49" />
       </file>
@@ -184,7 +177,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/ClientService.java" timestamp="1551166141407">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/billing.yml" timestamp="1552385556456" />
       <file name="/organization.location [QA RO]" timestamp="1552397445948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -197,8 +189,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/SubscriptionPlanService.java" timestamp="1552397158321">
         <mark key="'" line="40" column="18" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1552385860805" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1552385630908" />
       <file name="/dynaforms.sequence_data [DEV RO]" timestamp="1552321277011">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,6 +203,13 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/LocationCleanUpService.java" timestamp="1551954419660">
         <mark key="'" line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" timestamp="1552467833358">
+        <mark key="'" line="366" column="81" />
+        <mark key="[" line="366" column="76" />
+        <mark key="]" line="366" column="79" />
+        <mark key="." line="366" column="80" />
+        <mark key="^" line="174" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/email-templates/generated-templates/EMPLOYEE_UPDATE_EMAIL_CONFIRMATION.mustache" timestamp="1550663120774">
         <mark key="'" line="178" column="33" />
@@ -268,7 +265,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" timestamp="1551953624395">
         <mark key="'" line="156" column="24" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/billing-qa.yml" timestamp="1552385521747" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/test/groovy/com/abcfinancial/api/scheduler/JobTest.groovy" timestamp="1552407497201">
         <mark key="'" line="20" column="46" />
         <mark key="[" line="28" column="0" />
@@ -298,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="109" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="225" column="27" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="223" column="2" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="213" column="0" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
@@ -398,6 +393,7 @@
       <jump line="14" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/test/groovy/com/abcfinancial/api/scheduler/JobTest.groovy" />
       <jump line="19" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/scheduler/jobs/DepositSchedulerJob.java" />
       <jump line="20" column="46" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/test/groovy/com/abcfinancial/api/scheduler/JobTest.groovy" />
+      <jump line="366" column="81" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,8 +408,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KiA=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -431,7 +427,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>active</text>
+        <text encoding="base64">KiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -443,10 +439,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -462,19 +458,19 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZvaWQgZ2V0RGVwb3NpdEpvYlRlc3QoKQo=</text>
+        <text encoding="base64">cHVibGljIHZvaWQgbWFpbigpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KHByaW9yaXR5ID0gMikK</text>
+        <text encoding="base64">YGBgamF2YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JEZXRhaWwgam9iRGV0YWlsID0gam9iU2VydmljZS5nZXRKb2JEYXRhKCJEZXBvc2l0U2NoZWR1bGVyVGFzayIsICJERUZBVUxUIik7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhqb2JEZXRhaWwuZ2V0Sm9iQ2xhc3MoKSwgRGVwb3NpdFNjaGVkdWxlckpvYi5jbGFzcyk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhqb2JEZXRhaWwuY29uY3VycmVudEV4ZWN0aW9uRGlzYWxsb3dlZCwgdHJ1ZSkKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGpvYkRldGFpbC5wZXJzaXN0Sm9iRGF0YUFmdGVyRXhlY3V0aW9uLCBmYWxzZSkKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGpvYkRldGFpbC5pc0R1cmFibGUoKSwgdHJ1ZSkKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGpvYkRldGFpbC5yZXF1ZXN0c1JlY292ZXJ5KCksIGZhbHNlKQo=</text>
+        <text encoding="base64">a2sK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
