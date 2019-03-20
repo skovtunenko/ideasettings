@@ -3,23 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/ItemId.java" timestamp="1552492734581" />
-      <file name="/ItemMapping.java" timestamp="1552492802406" />
-      <file name="/SubscriptionPlanItemId.java" timestamp="1552492927281" />
-      <file name="/SubscriptionPlanVOMapper.java" timestamp="1552493541631" />
-      <file name="/SubscriptionPlanMapping.java" timestamp="1552493035372" />
-      <file name="/SubscriptionPlan.java" timestamp="1552492757257" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/scheduler/schedules/SubscriptionExpired.java" timestamp="1552579000316" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/SubscriptionPlanService.java" timestamp="1552491190930">
         <mark key="'" line="40" column="18" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/SubscriptionPlanId.java" timestamp="1552491642180" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/entity/SubscriptionPlanItemId.java" timestamp="1552491531254" />
-      <file name="/ItemId.java" timestamp="1552492738684" />
-      <file name="/RemovedItemRepository.java" timestamp="1552493208831" />
-      <file name="/SubscriptionPlanItem.java" timestamp="1552492865811" />
-      <file name="/SubscriptionPlanItemRepository.java" timestamp="1552493307458" />
-      <file name="/SubscriptionPlanId.java" timestamp="1552491643496" />
-      <file name="/SubscriptionPlanRepository.java" timestamp="1552493459851" />
     </filemarks>
     <jumps>
       <jump line="225" column="27" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
