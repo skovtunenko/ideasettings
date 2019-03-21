@@ -6,7 +6,7 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553187867394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/application-local.yml" timestamp="1553185226639">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/application-local.yml" timestamp="1553200359623">
         <mark key="[" line="100" column="38" />
         <mark key="]" line="101" column="7" />
         <mark key="." line="101" column="7" />
@@ -19,6 +19,7 @@
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1553098516472">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/admin/processor/ProcessorConfController.java" timestamp="1553200694101" />
       <file name="/ProcessorConfController.java" timestamp="1553184984709" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/90e03b5cec4d45d6051bf18cfdddfdc2d72dc925/mysql-connector-java-5.1.47-sources.jar!/com/mysql/fabric/jdbc/FabricMySQLDriver.java" timestamp="1553184852563">
         <mark key="'" line="96" column="53" />
@@ -26,7 +27,7 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1553187892530">
+      <file name="/dummy.sql" timestamp="1553200333902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1553197140412">
@@ -47,8 +48,14 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/90e03b5cec4d45d6051bf18cfdddfdc2d72dc925/mysql-connector-java-5.1.47-sources.jar!/com/mysql/jdbc/Driver.java" timestamp="1553184499197">
         <mark key="'" line="48" column="35" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/admin/originator/nacha/domain/NachaOriginator.java" timestamp="1553200529894" />
       <file name="7796661d-fda3-4ce9-9051-c8eed7f1a920/schema/payment_gateway/table/company.sql" timestamp="1553187890928" />
-      <file name="/ProcessorConf.java" timestamp="1553184703465" />
+      <file name="/ProcessorConf.java" timestamp="1553200238031" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/admin/processor/domain/ProcessorFormatDetail.java" timestamp="1553200167732">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -58,7 +65,7 @@
         <mark key="^" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="/db.changelog-master.yaml" timestamp="1553184957291" />
+      <file name="/db.changelog-master.yaml" timestamp="1553200189523" />
       <file name="/ProcessConfService.java" timestamp="1553185028379" />
       <file name="/ProcessorConfResponseVO.java" timestamp="1553197042309" />
       <file name="/ProcessorConfMapper.java" timestamp="1553197055506" />
@@ -181,7 +188,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ym9vdEphciB7CiAgICBkZXBlbmRzT24gYXNjaWlkb2N0b3IKICAgIGZyb20oIiR7YXNjaWlkb2N0b3Iub3V0cHV0RGlyfS9odG1sNSIpIHsKICAgICAgICBpbnRvICdzdGF0aWMvZG9jcycKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9pc19hY3RpdmUiICkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -199,7 +206,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudWxsXD4=</text>
@@ -208,13 +215,13 @@
         <text encoding="base64">ICAgIC8vIFdlIGRvbid0IG5lZWQgYWN0dWF0b3IsIHNsZXV0aCBhbmQgemlwa2luIGR1cmluZyB0ZXN0cyBiZWNhdXNlIHRoZWlyIGF1dG9jb25maWd1cmF0aW9uIHNsb3dzIFNwcmluZyBjb250ZXh0IGxvYWRpbmcgKGFuZCB0aGVyZWZvcmUgdGVzdHMpIGRvd24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ym9vdEphciB7CiAgICBkZXBlbmRzT24gYXNjaWlkb2N0b3IKICAgIGZyb20oIiR7YXNjaWlkb2N0b3Iub3V0cHV0RGlyfS9odG1sNSIpIHsKICAgICAgICBpbnRvICdzdGF0aWMvZG9jcycKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9pc19hY3RpdmUiICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNvbmFycXViZSB7Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9maWxlX2V4dGVudGlvbiIgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9vCg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9maWxlX2Zvcm1hdCIgKQo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -229,28 +236,23 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="4">
-        <text>tJar {
-    dependsOn asciidoctor
-    from(&quot;${asciidoctor.outputDir}/html5&quot;) {
-        into 'static/docs'
-    }
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBFbnVtZXJhdGVkKCBFbnVtVHlwZS5TVFJJTkcgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9maWxlX3R5cGUiICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6IENMT0IK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogUHJvY2Vzc29yRm9ybWF0RGV0YWlsIElkCiAgICAgKi8KICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKCBnZW5lcmF0b3IgPSAidXVpZDIiICkKICAgIEBHZW5lcmljR2VuZXJhdG9yKCBuYW1lID0gInV1aWQyIiwgc3RyYXRlZ3kgPSAidXVpZDIiICkKICAgIEBDb2x1bW4oIG5hbWUgPSAicHJmZF9pZCIsIGNvbHVtbkRlZmluaXRpb24gPSAiQklOQVJZKDE2KSIgKQogICAgcHJpdmF0ZSBVVUlEIGlkOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFRhYmxlKCBuYW1lID0gInByb2Nlc3Nvcl9mb3JtYXRfZGV0YWlsIiApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVudGl0eUxpc3RlbmVycyggQXVkaXRpbmdFbnRpdHlMaXN0ZW5lci5jbGFzcyApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrZXktdXJpOiAnaHR0cDovL2xvY2FsaG9zdDo4MzgwL3Rva2VuS2V5Jwo=</text>
+        <text encoding="base64">QEVudGl0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
