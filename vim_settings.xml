@@ -19,12 +19,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554063551027">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="333" />
-        <mark key="^" line="33" column="333" />
-        <mark key="." line="33" column="333" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554064644494">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="34" column="19" />
+        <mark key="^" line="34" column="19" />
+        <mark key="." line="34" column="19" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1553811993551">
         <mark key="'" line="42" column="69" />
@@ -57,7 +57,7 @@
         <mark key="." line="103" column="34" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1553205402997">
+      <file name="/dummy.sql" timestamp="1554064351666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/company [@localhost]" timestamp="1553266556031">
@@ -96,10 +96,10 @@
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554063505122">
-        <mark key="[" line="0" column="306" />
-        <mark key="]" line="0" column="306" />
-        <mark key="." line="0" column="306" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554064523846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/bank/vo/BankRequestVo.java" timestamp="1553811848287">
         <mark key="'" line="13" column="13" />
@@ -110,6 +110,9 @@
       <file name="/payment_gateway.processor [@localhost]" timestamp="1553205041994">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/authorization.oauth_client [QA RO]" timestamp="1554064346265">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1553202203887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,9 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" />
-      <jump line="37" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="14" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="26" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="29" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/MemberCleanUpService.java" />
       <jump line="29" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/LocationCleanUpService.java" />
@@ -218,6 +218,9 @@
       <jump line="23" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
       <jump line="20" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" />
+      <jump line="17" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" />
+      <jump line="38" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -228,8 +231,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLAoKcGF5bWVudC1jb21tYW5kOnVwZGF0ZSwKCnBheW1lbnQtY29tcGFueTpwcm90ZWN0ZWQsCnBheW1lbnQtY29tcGFueTpyZWFkLApwYXltZW50LWNvbXBhbnk6dXBkYXRlLApwYXltZW50LWNvbXBhbnk6d3JpdGUsCgpwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCwKcGF5bWVudC1kZXN0aW5hdGlvbjpyZWFkLApwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwKcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQsCnBheW1lbnQtbWVyY2hhbnQ6cmVhZCwKcGF5bWVudC1tZXJjaGFudDp1cGRhdGUsCnBheW1lbnQtbWVyY2hhbnQ6d3JpdGUsCgpwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLApwYXltZW50LW9yaWdpbmF0b3I6cmVhZCwKcGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSwKcGF5bWVudC1vcmlnaW5hdG9yOndyaXRlLAoKcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLApwYXltZW50LXByb2Nlc3NvcjpyZWFkLApwYXltZW50LXByb2Nlc3Nvcjp1cGRhdGUsCnBheW1lbnQtcHJvY2Vzc29yOndyaXRlLAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -247,7 +250,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>email-notification:client-admin,organization:client-admin,subscription-plan:client-admin,user:client-admin,role:client-admin,location:client-admin,template:client-admin,checkin:client-admin,webhook:client-read,application:client-admin,catalog-item-category:client-admin,client:client-admin,catalog-item:client-admin,member:client-admin,employee:client-admin,developer:client-admin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnRNYXRjaGVyc1w+</text>
@@ -256,10 +259,10 @@
         <text>payment-merchant-client:write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGF5bWVudC1jb21wYW55OndyaXRlLAo=</text>
+        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLAoKcGF5bWVudC1jb21tYW5kOnVwZGF0ZSwKCnBheW1lbnQtY29tcGFueTpwcm90ZWN0ZWQsCnBheW1lbnQtY29tcGFueTpyZWFkLApwYXltZW50LWNvbXBhbnk6dXBkYXRlLApwYXltZW50LWNvbXBhbnk6d3JpdGUsCgpwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCwKcGF5bWVudC1kZXN0aW5hdGlvbjpyZWFkLApwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwKcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQsCnBheW1lbnQtbWVyY2hhbnQ6cmVhZCwKcGF5bWVudC1tZXJjaGFudDp1cGRhdGUsCnBheW1lbnQtbWVyY2hhbnQ6d3JpdGUsCgpwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLApwYXltZW50LW9yaWdpbmF0b3I6cmVhZCwKcGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSwKcGF5bWVudC1vcmlnaW5hdG9yOndyaXRlLAoKcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLApwYXltZW50LXByb2Nlc3NvcjpyZWFkLApwYXltZW50LXByb2Nlc3Nvcjp1cGRhdGUsCnBheW1lbnQtcHJvY2Vzc29yOndyaXRlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGF5bWVudC1jb21wYW55OnJlYWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">cGF5bWVudC1kZXN0aW5hdGlvbjp3cml0ZSwK</text>
@@ -278,22 +281,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGF5bWVudC1kZXN0aW5hdGlvbjpyZWFkLAo=</text>
+        <text encoding="base64">ZW1haWwtbm90aWZpY2F0aW9uOmNsaWVudC1hZG1pbixvcmdhbml6YXRpb246Y2xpZW50LWFkbWluLHN1YnNjcmlwdGlvbi1wbGFuOmNsaWVudC1hZG1pbix1c2VyOmNsaWVudC1hZG1pbixyb2xlOmNsaWVudC1hZG1pbixsb2NhdGlvbjpjbGllbnQtYWRtaW4sdGVtcGxhdGU6Y2xpZW50LWFkbWluLGNoZWNraW46Y2xpZW50LWFkbWluLHdlYmhvb2s6Y2xpZW50LXJlYWQsYXBwbGljYXRpb246Y2xpZW50LWFkbWluLGNhdGFsb2ctaXRlbS1jYXRlZ29yeTpjbGllbnQtYWRtaW4sY2xpZW50OmNsaWVudC1hZG1pbixjYXRhbG9nLWl0ZW06Y2xpZW50LWFkbWluLG1lbWJlcjpjbGllbnQtYWRtaW4sZW1wbG95ZWU6Y2xpZW50LWFkbWluLGRldmVsb3BlcjpjbGllbnQtYWRtaW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGF5bWVudC1tZXJjaGFudDp3cml0ZSwK</text>
+        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLHBheW1lbnQtY29tbWFuZDp1cGRhdGUscGF5bWVudC1jb21wYW55OnByb3RlY3RlZCxwYXltZW50LWNvbXBhbnk6dXBkYXRlLHBheW1lbnQtZGVzdGluYXRpb246cHJvdGVjdGVkLHBheW1lbnQtZGVzdGluYXRpb246dXBkYXRlLHBheW1lbnQtbWVyY2hhbnQ6cHJvdGVjdGVkLHBheW1lbnQtbWVyY2hhbnQ6dXBkYXRlLHBheW1lbnQtb3JpZ2luYXRvcjpwcm90ZWN0ZWQscGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSxwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGF5bWVudC1tZXJjaGFudDpyZWFkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGF5bWVudC1vcmlnaW5hdG9yOndyaXRlLAo=</text>
+        <text encoding="base64">cGF5bWVudC1jb21wYW55OndyaXRlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGF5bWVudC1vcmlnaW5hdG9yOnJlYWQsCg==</text>
+        <text encoding="base64">cGF5bWVudC1jb21wYW55OnJlYWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGF5bWVudC1wcm9jZXNzb3I6d3JpdGUsCg==</text>
+        <text encoding="base64">cGF5bWVudC1kZXN0aW5hdGlvbjp3cml0ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>action Find</text>
