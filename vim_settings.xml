@@ -19,8 +19,8 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554112672485" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554111735777">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554113348627" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554114125335">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="33" column="28" />
         <mark key="]" line="34" column="19" />
@@ -68,6 +68,7 @@
         <mark key="." line="103" column="34" />
         <mark key="^" line="25" column="19" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1554114193871" />
       <file name="/dummy.sql" timestamp="1554111278381">
         <mark key="[" line="0" column="0" />
       </file>
@@ -77,6 +78,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/MerchantService.java" timestamp="1554112462315">
         <mark key="'" line="47" column="68" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1554114135236" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/billing-dev.yml" timestamp="1554113872603" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1553812818262">
         <mark key="[" line="4566" column="22" />
         <mark key="]" line="4566" column="21" />
