@@ -19,12 +19,19 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554064644494">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554112672485" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554111735777">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="33" column="28" />
         <mark key="]" line="34" column="19" />
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/AccountService.java" timestamp="1554112450739">
+        <mark key="'" line="180" column="67" />
+      </file>
+      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1553811993551">
         <mark key="'" line="42" column="69" />
@@ -33,6 +40,7 @@
         <mark key="." line="66" column="48" />
         <mark key="^" line="66" column="48" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/token/TokenTests.groovy" timestamp="1554112716125" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1553098516472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,17 +59,23 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/AccountController.java" timestamp="1554112442594">
+        <mark key="'" line="79" column="88" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/admin/processor/domain/ProcessorConf.java" timestamp="1553205540696">
         <mark key="[" line="103" column="34" />
         <mark key="]" line="25" column="19" />
         <mark key="." line="103" column="34" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="/dummy.sql" timestamp="1554064351666">
+      <file name="/dummy.sql" timestamp="1554111278381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/company [@localhost]" timestamp="1553266556031">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/MerchantService.java" timestamp="1554112462315">
+        <mark key="'" line="47" column="68" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1553812818262">
         <mark key="[" line="4566" column="22" />
@@ -93,6 +107,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/domain/PaymentMethodUpdateVO.java" timestamp="1553811775976">
         <mark key="'" line="11" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.yml" timestamp="1554112069590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,9 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="29" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="29" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/MemberCleanUpService.java" />
-      <jump line="29" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/LocationCleanUpService.java" />
       <jump line="15" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="16" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="18" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
@@ -221,6 +237,9 @@
       <jump line="17" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" />
       <jump line="38" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
+      <jump line="79" column="88" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/AccountController.java" />
+      <jump line="180" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/AccountService.java" />
+      <jump line="47" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/MerchantService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -232,7 +251,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLAoKcGF5bWVudC1jb21tYW5kOnVwZGF0ZSwKCnBheW1lbnQtY29tcGFueTpwcm90ZWN0ZWQsCnBheW1lbnQtY29tcGFueTpyZWFkLApwYXltZW50LWNvbXBhbnk6dXBkYXRlLApwYXltZW50LWNvbXBhbnk6d3JpdGUsCgpwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCwKcGF5bWVudC1kZXN0aW5hdGlvbjpyZWFkLApwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwKcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQsCnBheW1lbnQtbWVyY2hhbnQ6cmVhZCwKcGF5bWVudC1tZXJjaGFudDp1cGRhdGUsCnBheW1lbnQtbWVyY2hhbnQ6d3JpdGUsCgpwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLApwYXltZW50LW9yaWdpbmF0b3I6cmVhZCwKcGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSwKcGF5bWVudC1vcmlnaW5hdG9yOndyaXRlLAoKcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLApwYXltZW50LXByb2Nlc3NvcjpyZWFkLApwYXltZW50LXByb2Nlc3Nvcjp1cGRhdGUsCnBheW1lbnQtcHJvY2Vzc29yOndyaXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlJwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -259,13 +278,13 @@
         <text>payment-merchant-client:write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLAoKcGF5bWVudC1jb21tYW5kOnVwZGF0ZSwKCnBheW1lbnQtY29tcGFueTpwcm90ZWN0ZWQsCnBheW1lbnQtY29tcGFueTpyZWFkLApwYXltZW50LWNvbXBhbnk6dXBkYXRlLApwYXltZW50LWNvbXBhbnk6d3JpdGUsCgpwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCwKcGF5bWVudC1kZXN0aW5hdGlvbjpyZWFkLApwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwKcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQsCnBheW1lbnQtbWVyY2hhbnQ6cmVhZCwKcGF5bWVudC1tZXJjaGFudDp1cGRhdGUsCnBheW1lbnQtbWVyY2hhbnQ6d3JpdGUsCgpwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLApwYXltZW50LW9yaWdpbmF0b3I6cmVhZCwKcGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSwKcGF5bWVudC1vcmlnaW5hdG9yOndyaXRlLAoKcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLApwYXltZW50LXByb2Nlc3NvcjpyZWFkLApwYXltZW50LXByb2Nlc3Nvcjp1cGRhdGUsCnBheW1lbnQtcHJvY2Vzc29yOndyaXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLHBheW1lbnQtb3JpZ2luYXRvcjp1cGRhdGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGF5bWVudC1kZXN0aW5hdGlvbjp3cml0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW1lcmNoYW50OnByb3RlY3RlZCxwYXltZW50LW1lcmNoYW50OnVwZGF0ZSwK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -281,25 +300,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZW1haWwtbm90aWZpY2F0aW9uOmNsaWVudC1hZG1pbixvcmdhbml6YXRpb246Y2xpZW50LWFkbWluLHN1YnNjcmlwdGlvbi1wbGFuOmNsaWVudC1hZG1pbix1c2VyOmNsaWVudC1hZG1pbixyb2xlOmNsaWVudC1hZG1pbixsb2NhdGlvbjpjbGllbnQtYWRtaW4sdGVtcGxhdGU6Y2xpZW50LWFkbWluLGNoZWNraW46Y2xpZW50LWFkbWluLHdlYmhvb2s6Y2xpZW50LXJlYWQsYXBwbGljYXRpb246Y2xpZW50LWFkbWluLGNhdGFsb2ctaXRlbS1jYXRlZ29yeTpjbGllbnQtYWRtaW4sY2xpZW50OmNsaWVudC1hZG1pbixjYXRhbG9nLWl0ZW06Y2xpZW50LWFkbWluLG1lbWJlcjpjbGllbnQtYWRtaW4sZW1wbG95ZWU6Y2xpZW50LWFkbWluLGRldmVsb3BlcjpjbGllbnQtYWRtaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCxwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGF5bWVudC1hdWRpdDpyZWFkLHBheW1lbnQtY29tbWFuZDp1cGRhdGUscGF5bWVudC1jb21wYW55OnByb3RlY3RlZCxwYXltZW50LWNvbXBhbnk6dXBkYXRlLHBheW1lbnQtZGVzdGluYXRpb246cHJvdGVjdGVkLHBheW1lbnQtZGVzdGluYXRpb246dXBkYXRlLHBheW1lbnQtbWVyY2hhbnQ6cHJvdGVjdGVkLHBheW1lbnQtbWVyY2hhbnQ6dXBkYXRlLHBheW1lbnQtb3JpZ2luYXRvcjpwcm90ZWN0ZWQscGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSxwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbXBhbnk6cHJvdGVjdGVkLHBheW1lbnQtY29tcGFueTp1cGRhdGUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbW1hbmQ6dXBkYXRlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGF5bWVudC1jb21wYW55OndyaXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWF1ZGl0OnJlYWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGF5bWVudC1jb21wYW55OnJlYWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGF5bWVudC1kZXN0aW5hdGlvbjp3cml0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiBvY19hdXRob3JpdGllcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Find</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -352,9 +371,9 @@
         <entry>action QuickImplementations</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowUsages</entry>
+        <entry>action Find</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>action Find</entry>
       </history-cmd>
       <history-expr />
       <history-input />
