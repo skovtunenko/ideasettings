@@ -8,12 +8,12 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/resources/application-local.yml" timestamp="1554120945713" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1554121153639" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554114125335">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554128723456">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="33" column="28" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="34" column="19" />
-        <mark key="." line="34" column="19" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/token/TokenTests.groovy" timestamp="1554112716125" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554127261171">
@@ -35,12 +35,6 @@
         <mark key="^" line="4566" column="21" />
         <mark key="." line="4566" column="21" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/destination/nacha/DestinationController.java" timestamp="1553903285647">
-        <mark key="[" line="28" column="94" />
-        <mark key="]" line="28" column="94" />
-        <mark key="^" line="28" column="94" />
-        <mark key="." line="28" column="94" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.yml" timestamp="1554112069590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -54,23 +48,17 @@
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554127608632">
-        <mark key="[" line="2" column="65" />
-        <mark key="]" line="5" column="160" />
-        <mark key="." line="5" column="160" />
-        <mark key="^" line="5" column="160" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554128885320">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1553202203887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/application-local.yml" timestamp="1553200359623">
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="100" column="7" />
-        <mark key="." line="100" column="7" />
-        <mark key="^" line="100" column="7" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554113348627" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1554120861060" />
@@ -85,12 +73,6 @@
         <mark key="^" line="81" column="43" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/ArchivedOrganizationTests.groovy" timestamp="1554120753125" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/admin/processor/domain/ProcessorConf.java" timestamp="1553205540696">
-        <mark key="[" line="103" column="34" />
-        <mark key="]" line="25" column="19" />
-        <mark key="." line="103" column="34" />
-        <mark key="^" line="25" column="19" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1554114193871" />
       <file name="/dummy.sql" timestamp="1554127777515">
         <mark key="[" line="0" column="0" />
@@ -100,12 +82,6 @@
       </file>
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentmethod/domain/PaymentMethodResponseVO.java" timestamp="1553210099178">
-        <mark key="[" line="17" column="5" />
-        <mark key="]" line="15" column="91" />
-        <mark key="^" line="15" column="91" />
-        <mark key="." line="15" column="91" />
       </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
