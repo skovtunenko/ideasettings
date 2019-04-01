@@ -6,13 +6,6 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554134460834">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="72" />
-        <mark key="]" line="40" column="73" />
-        <mark key="^" line="33" column="68" />
-        <mark key="." line="40" column="73" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessorBusinessLogic.java" timestamp="1554137143392">
         <mark key="'" line="60" column="35" />
       </file>
@@ -21,6 +14,13 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/AccountService.java" timestamp="1554112450739">
         <mark key="'" line="180" column="67" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/CatalogApplication.java" timestamp="1554150607094">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="39" />
       </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554141248356">
         <mark key="[" line="0" column="0" />
@@ -47,16 +47,6 @@
         <mark key="^" line="22" column="45" />
         <mark key="." line="22" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.yml" timestamp="1554112069590">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConf.java" timestamp="1554137700227">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,15 +63,9 @@
         <mark key="[" line="7" column="1" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1554146898494" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554150492940" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1554121258590">
-        <mark key="'" line="42" column="69" />
-        <mark key="[" line="78" column="30" />
-        <mark key="]" line="78" column="43" />
-        <mark key="." line="78" column="43" />
-        <mark key="^" line="78" column="43" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/bank/BankController.java" timestamp="1553811794812">
         <mark key="'" line="18" column="13" />
@@ -107,6 +91,7 @@
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/BillingApplication.java" timestamp="1554149615884" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,22 +119,17 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554146332913">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/PaymentGatewayApplication.java" timestamp="1554148233413" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554146403836">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/PaymentGatewayApplication.java" timestamp="1554149901940" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554150151643">
         <mark key="[" line="0" column="100" />
         <mark key="]" line="0" column="76" />
         <mark key="." line="0" column="76" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554142807562">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="38" column="40" />
-        <mark key="]" line="38" column="80" />
-        <mark key="^" line="38" column="80" />
-        <mark key="." line="38" column="80" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="37" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" />
       <jump line="26" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationDocumentCleanUpService.java" />
       <jump line="27" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="29" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
@@ -249,6 +229,7 @@
       <jump line="131" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/company/service/CompanyBusinessLogic.java" />
       <jump line="38" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
       <jump line="24" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="28" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/CatalogApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -259,8 +240,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,,catalog,schedule,purchase,billing,conversion,notification</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -278,7 +259,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>,,catalog,schedule,purchase,billing,conversion,notification</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnRNYXRjaGVyc1w+</text>
@@ -287,13 +268,13 @@
         <text>payment-merchant-client:write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhYmxlTmFtZTogb2F1dGhfY2xpZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIHRhYmxlTmFtZTogb2F1dGhfY2xpZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFuZ2VzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRhYmxlTmFtZTogb2F1dGhfY2xpZW50Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -309,25 +290,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIGluc2VydDoKICAgICAgICAgICAgdGFibGVOYW1lOiBvYXV0aF9jbGllbnQKICAgICAgICAgICAgY29sdW1uczoKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfaWQKICAgICAgICAgICAgICAgICAgdmFsdWVDb21wdXRlZDogJHt1dWlkX2Z1bmN0aW9ufQogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19jbGllbnRfaWQKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdQQVlNRU5UX0dBVEVXQVlfQVBQJwogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19zZWNyZXQKICAgICAgICAgICAgICAgICAgdmFsdWU6ICckMmEkMTEka2lneXF3SmxMSS8vWVQ0N3pvcFFLZUNQT2RUMVIyQUZzcjRKUUtCaHdBbkpTaHhhWkFDbXEnICMgdDNzdEBsbHRoM3RoMW5ncwogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19yZXNvdXJjZV9pZHMKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdhdXRob3JpemF0aW9uLHBheW1lbnQtZ2F0ZXdheScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2Nfc2NvcGUKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdwbGF0Zm9ybTpwcm90ZWN0ZWQscGF5bWVudDphdXRodXNlcixwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfYXV0aG9yaXplZF9ncmFudF90eXBlcwogICAgICAgICAgICAgICAgICB2YWx1ZTogJ3Bhc3N3b3JkLHJlZnJlc2hfdG9rZW4sY2xpZW50X2NyZWRlbnRpYWxzLGF1dGhvcml6YXRpb25fY29kZScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfYXV0aG9yaXRpZXMKICAgICAgICAgICAgICAgICAgdmFsdWU6ICJyb2xlOmNsaWVudC13cml0ZSx1c2VyOmNsaWVudC1wcm90ZWN0ZWQsXAogICAgICAgICAgICAgICAgICAgIHBheW1lbnQtYXVkaXQ6cmVhZCxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1jb21tYW5kOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1jb21wYW55OnByb3RlY3RlZCxwYXltZW50LWNvbXBhbnk6dXBkYXRlLFwKICAgICAgICAgICAgICAgICAgICBwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCxwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQscGF5bWVudC1tZXJjaGFudDp1cGRhdGUsXAogICAgICAgICAgICAgICAgICAgIHBheW1lbnQtb3JpZ2luYXRvcjpwcm90ZWN0ZWQscGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLHBheW1lbnQtcHJvY2Vzc29yOnVwZGF0ZSIKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2Nfd2ViX3NlcnZlcl9yZWRpcmVjdF91cmkKICAgICAgICAgICAgICAgICAgdmFsdWU6ICcnCiAgICAgICAgICAgICAgLSBjb2x1bW46CiAgICAgICAgICAgICAgICAgIG5hbWU6IG9jX2FjY2Vzc190b2tlbl9leHBpcmF0aW9uCiAgICAgICAgICAgICAgICAgIHZhbHVlOiA5MDAKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfcmVmcmVzaF90b2tlbl9leHBpcmF0aW9uCiAgICAgICAgICAgICAgICAgIHZhbHVlOiA4NjQwMAogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19hdXRvX2FwcHJvdmUKICAgICAgICAgICAgICAgICAgdmFsdWU6ICcqJwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFuZ2VzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3FsOiBzZWxlY3QgY291bnQoKikgZnJvbSBvYXV0aF9jbGllbnQgd2hlcmUgb2NfY2xpZW50X2lkID0gJ1BBWU1FTlRfR0FURVdBWV9BUFAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIGluc2VydDoKICAgICAgICAgICAgdGFibGVOYW1lOiBvYXV0aF9jbGllbnQKICAgICAgICAgICAgY29sdW1uczoKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfaWQKICAgICAgICAgICAgICAgICAgdmFsdWVDb21wdXRlZDogJHt1dWlkX2Z1bmN0aW9ufQogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19jbGllbnRfaWQKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdQQVlNRU5UX0dBVEVXQVlfQVBQJwogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19zZWNyZXQKICAgICAgICAgICAgICAgICAgdmFsdWU6ICckMmEkMTEka2lneXF3SmxMSS8vWVQ0N3pvcFFLZUNQT2RUMVIyQUZzcjRKUUtCaHdBbkpTaHhhWkFDbXEnICMgdDNzdEBsbHRoM3RoMW5ncwogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19yZXNvdXJjZV9pZHMKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdhdXRob3JpemF0aW9uLHBheW1lbnQtZ2F0ZXdheScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2Nfc2NvcGUKICAgICAgICAgICAgICAgICAgdmFsdWU6ICdwbGF0Zm9ybTpwcm90ZWN0ZWQscGF5bWVudDphdXRodXNlcixwYXltZW50LW1lcmNoYW50LWNsaWVudDp3cml0ZScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfYXV0aG9yaXplZF9ncmFudF90eXBlcwogICAgICAgICAgICAgICAgICB2YWx1ZTogJ3Bhc3N3b3JkLHJlZnJlc2hfdG9rZW4sY2xpZW50X2NyZWRlbnRpYWxzLGF1dGhvcml6YXRpb25fY29kZScKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfYXV0aG9yaXRpZXMKICAgICAgICAgICAgICAgICAgdmFsdWU6ICJyb2xlOmNsaWVudC13cml0ZSx1c2VyOmNsaWVudC1wcm90ZWN0ZWQsXAogICAgICAgICAgICAgICAgICAgIHBheW1lbnQtYXVkaXQ6cmVhZCxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1jb21tYW5kOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1jb21wYW55OnByb3RlY3RlZCxwYXltZW50LWNvbXBhbnk6dXBkYXRlLFwKICAgICAgICAgICAgICAgICAgICBwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCxwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1tZXJjaGFudDpwcm90ZWN0ZWQscGF5bWVudC1tZXJjaGFudDp1cGRhdGUsXAogICAgICAgICAgICAgICAgICAgIHBheW1lbnQtb3JpZ2luYXRvcjpwcm90ZWN0ZWQscGF5bWVudC1vcmlnaW5hdG9yOnVwZGF0ZSxcCiAgICAgICAgICAgICAgICAgICAgcGF5bWVudC1wcm9jZXNzb3I6cHJvdGVjdGVkLHBheW1lbnQtcHJvY2Vzc29yOnVwZGF0ZSIKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2Nfd2ViX3NlcnZlcl9yZWRpcmVjdF91cmkKICAgICAgICAgICAgICAgICAgdmFsdWU6ICcnCiAgICAgICAgICAgICAgLSBjb2x1bW46CiAgICAgICAgICAgICAgICAgIG5hbWU6IG9jX2FjY2Vzc190b2tlbl9leHBpcmF0aW9uCiAgICAgICAgICAgICAgICAgIHZhbHVlOiA5MDAKICAgICAgICAgICAgICAtIGNvbHVtbjoKICAgICAgICAgICAgICAgICAgbmFtZTogb2NfcmVmcmVzaF90b2tlbl9leHBpcmF0aW9uCiAgICAgICAgICAgICAgICAgIHZhbHVlOiA4NjQwMAogICAgICAgICAgICAgIC0gY29sdW1uOgogICAgICAgICAgICAgICAgICBuYW1lOiBvY19hdXRvX2FwcHJvdmUKICAgICAgICAgICAgICAgICAgdmFsdWU6ICcqJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRSZXN1bHQ6IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3FsOiBzZWxlY3QgY291bnQoKikgZnJvbSBvYXV0aF9jbGllbnQgd2hlcmUgb2NfY2xpZW50X2lkID0gJ1BBWU1FTlRfR0FURVdBWV9BUFAnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIHNxbENoZWNrOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhwZWN0ZWRSZXN1bHQ6IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIG9uRmFpbDogTUFSS19SQU4K</text>
+        <text encoding="base64">ICAgICAgICAtIHNxbENoZWNrOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJlQ29uZGl0aW9uczoK</text>
+        <text encoding="base64">ICAgICAgICAtIG9uRmFpbDogTUFSS19SQU4K</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action QuickImplementations</text>
       </register>
     </registers>
     <search>
@@ -381,8 +362,8 @@
         <entry>action ShowUsages</entry>
         <entry>action Find</entry>
         <entry>action Forward</entry>
-        <entry>action QuickImplementations</entry>
         <entry>action Back</entry>
+        <entry>action QuickImplementations</entry>
       </history-cmd>
       <history-expr />
       <history-input />
