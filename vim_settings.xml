@@ -8,12 +8,12 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/resources/application-local.yml" timestamp="1554120945713" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1554121153639" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554132418854">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554134460834">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="33" column="67" />
-        <mark key="." line="15" column="20" />
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="73" />
+        <mark key="^" line="33" column="68" />
+        <mark key="." line="40" column="73" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/token/TokenTests.groovy" timestamp="1554112716125" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554127261171">
@@ -75,10 +75,10 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/ArchivedOrganizationTests.groovy" timestamp="1554120753125" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1554114193871" />
-      <file name="/dummy.sql" timestamp="1554132331839">
+      <file name="/dummy.sql" timestamp="1554134555276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554132427980">
+      <file name="/Dummy.txt" timestamp="1554134601230">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -87,6 +87,7 @@
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/setup-env.sh" timestamp="1554134340836" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,10 +95,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/catalog/table/item.sql" timestamp="1554127804877" />
+      <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554134439201">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.processor [@localhost]" timestamp="1553205041994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [QA RO]" timestamp="1554126923083">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.oauth_client [@localhost]" timestamp="1554134555156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554127604219" />
