@@ -12,14 +12,9 @@
         <mark key="." line="100" column="7" />
         <mark key="^" line="100" column="7" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.txt" timestamp="1554063417011">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="23" column="0" />
-      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/resources/application-local.yml" timestamp="1554120945713" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554113348627" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1554121153639" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554114125335">
         <mark key="'" line="39" column="19" />
         <mark key="[" line="33" column="28" />
@@ -27,20 +22,22 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1554120861060" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/AccountService.java" timestamp="1554112450739">
         <mark key="'" line="180" column="67" />
       </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1553811993551">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1554121258590">
         <mark key="'" line="42" column="69" />
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="66" column="48" />
-        <mark key="." line="66" column="48" />
-        <mark key="^" line="66" column="48" />
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="43" />
+        <mark key="." line="81" column="43" />
+        <mark key="^" line="81" column="43" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/token/TokenTests.groovy" timestamp="1554112716125" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/ArchivedOrganizationTests.groovy" timestamp="1554120753125" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1553098516472">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +50,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/domain/PaymentMethodRequestVO.java" timestamp="1553811760477">
         <mark key="'" line="37" column="6" />
       </file>
+      <file name="/ProcessorConfController.java" timestamp="1554121033058" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/kafka/producer/FreezeSubscriptionGenerator.java" timestamp="1553268880519">
         <mark key="'" line="48" column="57" />
       </file>
@@ -80,17 +78,11 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1554114135236" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/billing-dev.yml" timestamp="1554113872603" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1553812818262">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554121046897">
         <mark key="[" line="4566" column="22" />
         <mark key="]" line="4566" column="21" />
         <mark key="^" line="4566" column="21" />
         <mark key="." line="4566" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1553812020489">
-        <mark key="'" line="0" column="25" />
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
@@ -115,13 +107,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConf.java" timestamp="1554121200211">
+        <mark key="[" line="113" column="44" />
+        <mark key="]" line="113" column="49" />
+        <mark key="^" line="113" column="49" />
+        <mark key="." line="113" column="49" />
+      </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554064523846">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/bank/vo/BankRequestVo.java" timestamp="1553811848287">
         <mark key="'" line="13" column="13" />
@@ -253,8 +246,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlJwo=</text>
+      <register name="&quot;" type="4">
+        <text>( Optional.of( PaymentMethod.EFT ) )</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -272,7 +265,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>email-notification:client-admin,organization:client-admin,subscription-plan:client-admin,user:client-admin,role:client-admin,location:client-admin,template:client-admin,checkin:client-admin,webhook:client-read,application:client-admin,catalog-item-category:client-admin,client:client-admin,catalog-item:client-admin,member:client-admin,employee:client-admin,developer:client-admin</text>
+        <text>( Optional.of( PaymentMethod.EFT ) )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnRNYXRjaGVyc1w+</text>
@@ -281,13 +274,13 @@
         <text>payment-merchant-client:write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlJwo=</text>
+        <text encoding="base64">ICAgIEBWYWxpZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLHBheW1lbnQtb3JpZ2luYXRvcjp1cGRhdGUsCg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsKCBtZXNzYWdlID0gImlzIG5vdCBhbGxvd2VkIGZvciB0aGUgb2JqZWN0IDogcHJvY2Vzc29yRm9ybWF0RGV0YWlsIiApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW1lcmNoYW50OnByb3RlY3RlZCxwYXltZW50LW1lcmNoYW50OnVwZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LXByb2Nlc3Nvcjpwcm90ZWN0ZWQscGF5bWVudC1wcm9jZXNzb3I6dXBkYXRlJwo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -303,25 +296,25 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCxwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW9yaWdpbmF0b3I6cHJvdGVjdGVkLHBheW1lbnQtb3JpZ2luYXRvcjp1cGRhdGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbXBhbnk6cHJvdGVjdGVkLHBheW1lbnQtY29tcGFueTp1cGRhdGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LW1lcmNoYW50OnByb3RlY3RlZCxwYXltZW50LW1lcmNoYW50OnVwZGF0ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbW1hbmQ6dXBkYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWRlc3RpbmF0aW9uOnByb3RlY3RlZCxwYXltZW50LWRlc3RpbmF0aW9uOnVwZGF0ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWF1ZGl0OnJlYWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbXBhbnk6cHJvdGVjdGVkLHBheW1lbnQtY29tcGFueTp1cGRhdGUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZTogJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbW1hbmQ6dXBkYXRlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYW1lOiBvY19hdXRob3JpdGllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWF1ZGl0OnJlYWQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action QuickImplementations</text>
       </register>
     </registers>
     <search>
@@ -371,12 +364,12 @@
         <entry>action MethodUp</entry>
         <entry>action TypeHierarchy</entry>
         <entry>action GotoSuperMethod</entry>
-        <entry>action QuickImplementations</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowUsages</entry>
         <entry>action Find</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
+        <entry>action QuickImplementations</entry>
       </history-cmd>
       <history-expr />
       <history-input />
