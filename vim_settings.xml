@@ -15,13 +15,28 @@
         <mark key="^" line="33" column="68" />
         <mark key="." line="40" column="73" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessorBusinessLogic.java" timestamp="1554137143392">
+        <mark key="'" line="60" column="35" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/company/service/CompanyBusinessLogic.java" timestamp="1554137740986">
+        <mark key="'" line="131" column="53" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/AccountService.java" timestamp="1554112450739">
+        <mark key="'" line="180" column="67" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/token/TokenTests.groovy" timestamp="1554112716125" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554127261171">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/PaymentGatewayApplication.java" timestamp="1553205650732">
+        <mark key="'" line="44" column="13" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1554123916103" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/domain/PaymentMethodRequestVO.java" timestamp="1553811760477">
+        <mark key="'" line="37" column="6" />
+      </file>
       <file name="/ProcessorConfController.java" timestamp="1554121033058" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554132066150" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554136962323" />
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,7 +56,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConf.java" timestamp="1554122694202">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConf.java" timestamp="1554137700227">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
@@ -54,6 +69,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/bank/vo/BankRequestVo.java" timestamp="1553811848287">
+        <mark key="'" line="13" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/db/changelog/webhook/db.changelog-webhook-event-type.yaml" timestamp="1553811869440">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Clipboard.txt" timestamp="1553202203887">
         <mark key="[" line="0" column="0" />
@@ -74,6 +95,12 @@
         <mark key="^" line="81" column="43" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/test/groovy/com/abcfinancial/api/organization/ArchivedOrganizationTests.groovy" timestamp="1554120753125" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/bank/BankController.java" timestamp="1553811794812">
+        <mark key="'" line="18" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/kafka/producer/FreezeSubscriptionGenerator.java" timestamp="1553268880519">
+        <mark key="'" line="48" column="57" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1554114193871" />
       <file name="/dummy.sql" timestamp="1554134555276">
         <mark key="[" line="0" column="0" />
@@ -87,12 +114,26 @@
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/payment_gateway/table/processor.sql" timestamp="1554137529338" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/setup-env.sh" timestamp="1554134340836" />
+      <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/domain/PaymentMethodUpdateVO.java" timestamp="1553811775976">
+        <mark key="'" line="11" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/bootstrap.yml" timestamp="1554137027851" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/company/CompanyController.java" timestamp="1554137728601">
+        <mark key="'" line="79" column="84" />
+      </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorController.java" timestamp="1554137111104">
+        <mark key="'" line="53" column="39" />
       </file>
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/catalog/table/item.sql" timestamp="1554127804877" />
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554134439201">
@@ -110,10 +151,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554127604219" />
     </filemarks>
     <jumps>
-      <jump line="16" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="18" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="58" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/LocationCleanUpService.java" />
-      <jump line="131" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
       <jump line="138" column="54" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/controller/ItemController.java" />
       <jump line="156" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/ItemService.java" />
       <jump line="70" column="37" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" />
@@ -210,6 +247,10 @@
       <jump line="47" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/account/service/MerchantService.java" />
       <jump line="34" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" />
+      <jump line="53" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorController.java" />
+      <jump line="60" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessorBusinessLogic.java" />
+      <jump line="79" column="84" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/company/CompanyController.java" />
+      <jump line="131" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/company/service/CompanyBusinessLogic.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -288,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXltZW50LWNvbW1hbmQ6dXBkYXRlLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickImplementations</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -342,8 +383,8 @@
         <entry>action ShowUsages</entry>
         <entry>action Find</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
