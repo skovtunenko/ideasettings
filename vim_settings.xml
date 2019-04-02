@@ -14,6 +14,7 @@
         <mark key="." line="29" column="43" />
         <mark key="^" line="29" column="39" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1554215379713" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554190603083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,7 +24,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554196482442" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554214910253" />
       <file name="/ProcessorConfController.java" timestamp="1554197296128" />
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/authorization/table/oauth_client.sql" timestamp="1554199484871" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1554203667244">
