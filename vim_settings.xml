@@ -7,14 +7,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190329.REL1-7851.add-PAYMENT-GATEWAY-APP-client.yaml" timestamp="1554200919115" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/CatalogApplication.java" timestamp="1554199941400">
-        <mark key="'" line="30" column="27" />
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="39" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="39" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1554215379713" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/organization/Organization.java" timestamp="1554222214612">
+        <mark key="'" line="12" column="39" />
+      </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554190603083">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,6 +56,9 @@
         <mark key="[" line="7" column="1" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1554188739146" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
+        <mark key="'" line="35" column="20" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/resources/bootstrap.yml" timestamp="1554196139133" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1554153051016">
         <mark key="'" line="201" column="47" />
@@ -72,7 +71,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/BillingApplication.java" timestamp="1554190585893" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/ResourceServerSecurityConfigurer.java" timestamp="1554196761977">
+        <mark key="'" line="173" column="17" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/organization/OrganizationBase.java" timestamp="1554222262466">
+        <mark key="'" line="31" column="47" />
+      </file>
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/payment_gateway/table/webhook_event_type.sql" timestamp="1554220508129" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocation.java" timestamp="1554222387998">
+        <mark key="'" line="23" column="25" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1554203695245">
         <mark key="'" line="492" column="23" />
       </file>
@@ -101,6 +109,9 @@
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.12.6/9351a49048df03dadcbfe1418c66629632b7f7d3/common-core-6.12.6-sources.jar!/com/abcfinancial/api/common/tenancy/OrganizationDomainObject.java" timestamp="1554222233197">
+        <mark key="'" line="12" column="58" />
+      </file>
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554190595600">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,10 +132,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554200752963" />
     </filemarks>
     <jumps>
-      <jump line="25" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/DeveloperCleanUpService.java" />
-      <jump line="27" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/DeveloperCleanUpService.java" />
-      <jump line="30" column="49" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/BaseDomainObject.java" />
-      <jump line="34" column="30" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="16" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="1" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
@@ -221,6 +228,10 @@
       <jump line="125" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" />
       <jump line="492" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
       <jump line="836" column="27" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/engine/spi/SessionDelegatorBaseImpl.java" />
+      <jump line="12" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/organization/Organization.java" />
+      <jump line="31" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/organization/OrganizationBase.java" />
+      <jump line="12" column="58" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.12.6/9351a49048df03dadcbfe1418c66629632b7f7d3/common-core-6.12.6-sources.jar!/com/abcfinancial/api/common/tenancy/OrganizationDomainObject.java" />
+      <jump line="23" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocation.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
