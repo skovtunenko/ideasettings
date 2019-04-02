@@ -14,12 +14,6 @@
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554190603083">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/PaymentGatewayApplication.java" timestamp="1554151360705">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554219185093" />
       <file name="/ProcessorConfController.java" timestamp="1554197296128" />
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/authorization/table/oauth_client.sql" timestamp="1554199484871" />
@@ -29,15 +23,8 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/company [@localhost]" timestamp="1553266556031">
+      <file name="/company [@localhost]" timestamp="1554223283128">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190401.REL1-7932.added-missing-payment-gateway-resourceId.yaml" timestamp="1554201276984">
-        <mark key="i" line="20" column="34" />
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="22" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/application.yml" timestamp="1554200689356" />
       <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554220483610">
@@ -60,12 +47,6 @@
         <mark key="'" line="35" column="20" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/resources/bootstrap.yml" timestamp="1554196139133" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1554153051016">
-        <mark key="'" line="201" column="47" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConfMapper.java" timestamp="1554197404286" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
@@ -87,12 +68,17 @@
       <file name="/dummy.sql" timestamp="1554220512774">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/webhook/event/domain/WebhookEventType.java" timestamp="1554224473744">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/Session.java" timestamp="1554203756449" />
-      <file name="/Dummy.txt" timestamp="1554201014635">
+      <file name="/Dummy.txt" timestamp="1554224006580">
         <mark key="'" line="0" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/test/groovy/com/abcfinancial/api/BaseTest.groovy" timestamp="1554190734824" />
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
@@ -128,6 +114,11 @@
         <mark key="[" line="0" column="100" />
         <mark key="]" line="0" column="76" />
         <mark key="." line="0" column="76" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/webhook/domain/WebhookBase.java" timestamp="1554223853065">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554200752963" />
     </filemarks>
@@ -243,7 +234,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>authorization,organization</text>
+        <text>wr</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -261,7 +252,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>authorization,organization</text>
+        <text>wr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnRNYXRjaGVyc1w+</text>
@@ -270,13 +261,13 @@
         <text>payment-merchant-client:write</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMucmVzb3VyY2VJZCggIm9yZ2FuaXphdGlvbiIgKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkRpc2NyaW1pbmF0b3JWYWx1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hYmNmaW5hbmNpYWwuYXBpLnBheW1lbnRnYXRld2F5LndlYmhvb2suZXZlbnQuZG9tYWluLldlYmhvb2tFdmVudFR5cGVCYXNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXMucmVzb3VyY2VJZCggIm9yZ2FuaXphdGlvbiIgKTsK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -295,19 +286,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIk9BdXRoMiByZXNvdXJjZUlkOiBcInt9XCIiLCByZXNvdXJjZUlkICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlc291cmNlSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIk9BdXRoMiByZXNvdXJjZUlkOiBcInt9XCIiLCByZXNvdXJjZUlkICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSggIiR7c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWV9IiApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
