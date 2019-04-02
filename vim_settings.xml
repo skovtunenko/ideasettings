@@ -116,6 +116,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1554188739146" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554151883857">
         <mark key="[" line="0" column="100" />
         <mark key="]" line="0" column="76" />
