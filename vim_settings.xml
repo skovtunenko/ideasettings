@@ -36,11 +36,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/20190401.REL1-7932.added-missing-payment-gateway-resourceId.yaml" timestamp="1554201276984">
-        <mark key="i" line="21" column="34" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
+        <mark key="i" line="20" column="34" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="22" />
         <mark key="^" line="20" column="27" />
-        <mark key="." line="21" column="22" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/application.yml" timestamp="1554200689356" />
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
@@ -74,7 +74,7 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1554203695245">
         <mark key="'" line="492" column="23" />
       </file>
-      <file name="/dummy.sql" timestamp="1554199486218">
+      <file name="/dummy.sql" timestamp="1554206419181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/Session.java" timestamp="1554203756449" />
