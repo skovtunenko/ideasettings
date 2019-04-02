@@ -6,19 +6,8 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/resources/application-local.yml" timestamp="1554151628869">
-        <mark key="[" line="99" column="8" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/resources/bootstrap.yml" timestamp="1554196139133" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1554153051016">
-        <mark key="'" line="201" column="47" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
-      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/ProcessorConfMapper.java" timestamp="1554197404286" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/CatalogApplication.java" timestamp="1554190567793">
         <mark key="'" line="30" column="27" />
         <mark key="[" line="29" column="42" />
@@ -29,26 +18,19 @@
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" timestamp="1554197337255">
+        <mark key="'" line="65" column="34" />
+      </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554190603083">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/PaymentGatewayApplication.java" timestamp="1554151360705">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="/BillingApplication.java" timestamp="1554190585893" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/ResourceServerSecurityConfigurer.java" timestamp="1554196761977">
         <mark key="'" line="173" column="17" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/schedule/src/main/java/com/abcfinancial/api/ScheduleApplication.java" timestamp="1554153596968">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554196482442" />
+      <file name="/ProcessorConfController.java" timestamp="1554197296128" />
+      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/authorization/table/oauth_client.sql" timestamp="1554197391046" />
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -57,12 +39,6 @@
       </file>
       <file name="/dummy.sql" timestamp="1554196488139">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554151327893">
-        <mark key="'" line="0" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/test/groovy/com/abcfinancial/api/BaseTest.groovy" timestamp="1554190734824" />
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
@@ -85,12 +61,6 @@
       </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1554128885320">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/NotificationApplication.java" timestamp="1554190775391">
         <mark key="[" line="12" column="0" />
@@ -120,15 +90,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
         <mark key="'" line="35" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554151883857">
-        <mark key="[" line="0" column="100" />
-        <mark key="]" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessConfService.java" timestamp="1554197342621">
+        <mark key="'" line="158" column="71" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="33" column="41" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="25" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="26" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/MemberCleanUpService.java" />
       <jump line="23" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
@@ -227,6 +193,8 @@
       <jump line="193" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="35" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" />
       <jump line="173" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/ResourceServerSecurityConfigurer.java" />
+      <jump line="65" column="34" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" />
+      <jump line="158" column="71" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessConfService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
