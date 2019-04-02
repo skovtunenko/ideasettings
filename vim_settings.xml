@@ -26,6 +26,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554196482442" />
       <file name="/ProcessorConfController.java" timestamp="1554197296128" />
       <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/authorization/table/oauth_client.sql" timestamp="1554199484871" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1554203667244">
+        <mark key="'" line="125" column="40" />
+      </file>
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,6 +46,9 @@
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/engine/spi/SessionDelegatorBaseImpl.java" timestamp="1554203768505">
+        <mark key="'" line="836" column="27" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1553202203887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,9 +56,6 @@
         <mark key="[" line="7" column="1" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/client/db.changelog-client.yaml" timestamp="1554188739146" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
-        <mark key="'" line="35" column="20" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/resources/bootstrap.yml" timestamp="1554196139133" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1554153051016">
         <mark key="'" line="201" column="47" />
@@ -68,12 +71,13 @@
         <mark key="'" line="65" column="34" />
       </file>
       <file name="/BillingApplication.java" timestamp="1554190585893" />
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/ResourceServerSecurityConfigurer.java" timestamp="1554196761977">
-        <mark key="'" line="173" column="17" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1554203695245">
+        <mark key="'" line="492" column="23" />
       </file>
       <file name="/dummy.sql" timestamp="1554199486218">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/Session.java" timestamp="1554203756449" />
       <file name="/Dummy.txt" timestamp="1554201014635">
         <mark key="'" line="0" column="25" />
         <mark key="[" line="0" column="0" />
@@ -87,6 +91,7 @@
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.2.Final/604e1101cb261c61200bfd655dfc1aa5aeca36d6/hibernate-jpa-2.1-api-1.0.2.Final-sources.jar!/javax/persistence/EntityManager.java" timestamp="1554203716097" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,9 +121,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554200752963" />
     </filemarks>
     <jumps>
-      <jump line="25" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
-      <jump line="26" column="31" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/MemberCleanUpService.java" />
-      <jump line="23" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/OrganizationCleanUpService.java" />
       <jump line="25" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/DeveloperCleanUpService.java" />
       <jump line="27" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/clean/DeveloperCleanUpService.java" />
       <jump line="30" column="49" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/BaseDomainObject.java" />
@@ -216,6 +218,9 @@
       <jump line="173" column="17" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/ResourceServerSecurityConfigurer.java" />
       <jump line="65" column="34" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorConfController.java" />
       <jump line="158" column="71" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/service/ProcessConfService.java" />
+      <jump line="125" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" />
+      <jump line="492" column="23" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" />
+      <jump line="836" column="27" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.2.17.Final/c21082f4888449976adb58eb25cfbe090cf3afa5/hibernate-core-5.2.17.Final-sources.jar!/org/hibernate/engine/spi/SessionDelegatorBaseImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,7 +335,6 @@
         <entry encoding="base64">XDxhbnRNYXRjaGVyc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>action Compare.SameVersion</entry>
         <entry>action CompareClipboardWithSelection</entry>
         <entry>actionlist</entry>
         <entry>action Github.PullRequest.Branch.Create</entry>
@@ -349,6 +353,7 @@
         <entry>action Find</entry>
         <entry>action Forward</entry>
         <entry>action QuickImplementations</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gQmFjaw==</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
