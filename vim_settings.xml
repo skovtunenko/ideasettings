@@ -6,6 +6,10 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="786ed0da-8fde-4af1-9913-2a47324033d9/schema/payment_gateway/table/processor.sql" timestamp="1554308634870" />
+      <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
