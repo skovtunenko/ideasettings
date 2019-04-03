@@ -120,12 +120,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554284864815">
-        <mark key="'" line="29" column="50" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554288181644">
+        <mark key="'" line="32" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="1" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="3" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="39" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
@@ -225,6 +224,7 @@
       <jump line="12" column="58" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/6.12.6/9351a49048df03dadcbfe1418c66629632b7f7d3/common-core-6.12.6-sources.jar!/com/abcfinancial/api/common/tenancy/OrganizationDomainObject.java" />
       <jump line="23" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocation.java" />
       <jump line="29" column="50" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="32" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
     </jumps>
     <registers>
       <register name="a" type="4">
