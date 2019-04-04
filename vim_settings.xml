@@ -9,6 +9,9 @@
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554359240225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,7 +51,7 @@
       <file name="/company [@localhost]" timestamp="1554350962654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554303143189">
+      <file name="/dummy.sql" timestamp="1554359245679">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554290060146">
