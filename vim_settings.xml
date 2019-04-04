@@ -6,7 +6,6 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="786ed0da-8fde-4af1-9913-2a47324033d9/schema/payment_gateway/table/processor.sql" timestamp="1554308634870" />
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,7 +45,7 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/company [@localhost]" timestamp="1554296017307">
+      <file name="/company [@localhost]" timestamp="1554350962654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1554303143189">
