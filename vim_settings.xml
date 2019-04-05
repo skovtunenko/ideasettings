@@ -39,12 +39,6 @@
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/permission/20190329.REL1-7665.remove-webhook-permissions.yaml" timestamp="1554290030509">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="2" column="71" />
-        <mark key="^" line="2" column="71" />
-        <mark key="." line="2" column="71" />
-      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.0.13.RELEASE/3e0ba96ba680a152c8fee73d55c1f53bd0824ae3/spring-data-jpa-2.0.13.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java" timestamp="1554203695245">
         <mark key="'" line="492" column="23" />
       </file>
@@ -118,6 +112,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
         <mark key="'" line="35" column="20" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/devtools/infrastructure/build-run-local.sh" timestamp="1554469317974" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554289997277">
         <mark key="'" line="29" column="53" />
       </file>
