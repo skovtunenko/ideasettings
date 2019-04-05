@@ -51,7 +51,7 @@
       <file name="/company [@localhost]" timestamp="1554350962654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554359245679">
+      <file name="/dummy.sql" timestamp="1554395143417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554290060146">
@@ -72,6 +72,7 @@
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1554395100192" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -93,7 +94,7 @@
       <file name="/payment_gateway.processor [@localhost]" timestamp="1553205041994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/authorization.oauth_client [QA RO]" timestamp="1554303137100">
+      <file name="/authorization.oauth_client [QA RO]" timestamp="1554394975969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
@@ -111,6 +112,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
         <mark key="'" line="35" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554395083121" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554289997277">
         <mark key="'" line="29" column="53" />
       </file>
