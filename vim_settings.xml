@@ -29,6 +29,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/organization/OrganizationBase.java" timestamp="1554222262466">
         <mark key="'" line="31" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1554464904199" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/LocationNoteService.java" timestamp="1554203667244">
         <mark key="'" line="125" column="40" />
       </file>
@@ -99,7 +100,7 @@
       <file name="/payment_gateway.processor [@localhost]" timestamp="1553205041994">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/authorization.oauth_client [QA RO]" timestamp="1554394975969">
+      <file name="/authorization.oauth_client [QA RO]" timestamp="1554464431833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
