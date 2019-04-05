@@ -6,6 +6,7 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Client.java" timestamp="1554454130065" />
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,12 +73,14 @@
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1554395100192" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Client.java" timestamp="1554454171703">
+        <mark key="'" line="12" column="32" />
       </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
@@ -112,13 +115,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/ABCResourceServerConfiguration.java" timestamp="1554196737842">
         <mark key="'" line="35" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554395083121" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1554289997277">
         <mark key="'" line="29" column="53" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="3" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="39" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
       <jump line="31" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/DomainObjectTenancyHelper.java" />
@@ -218,6 +219,7 @@
       <jump line="23" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/event/config/EmailConfigLocation.java" />
       <jump line="32" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
       <jump line="29" column="53" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="12" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Client.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
