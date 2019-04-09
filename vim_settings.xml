@@ -12,7 +12,6 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/organization/OrganizationBaseVO.java" timestamp="1554751736330" />
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,11 +29,12 @@
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/BlacklistedEmailAddressService.java" timestamp="1554752233794" />
+      <file name="/processor [@localhost]" timestamp="1554838302198">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/OrganizationVOMapper.java" timestamp="1554750929638" />
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
