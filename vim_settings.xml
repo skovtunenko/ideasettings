@@ -50,7 +50,7 @@
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554893609258">
+      <file name="/dummy.sql" timestamp="1554894600805">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1554890302662">
@@ -79,6 +79,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
