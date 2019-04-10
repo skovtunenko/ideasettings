@@ -26,7 +26,7 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554359240225">
+      <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554888645169">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
@@ -47,7 +47,7 @@
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554471451914">
+      <file name="/dummy.sql" timestamp="1554888650812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1554840983432">
@@ -307,7 +307,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
