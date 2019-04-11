@@ -6,10 +6,7 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
-        <mark key="'" line="21" column="18" />
-      </file>
-      <file name="/a.dummy" timestamp="1554969715120">
+      <file name="/a.dummy" timestamp="1554974709859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
@@ -18,8 +15,10 @@
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" timestamp="1554974714655">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
@@ -29,9 +28,6 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/OrganizationWebConfiguration.java" timestamp="1554913642720">
         <mark key="'" line="10" column="13" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
@@ -49,9 +45,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/EmailService.java" timestamp="1554914383702">
         <mark key="'" line="7" column="17" />
       </file>
-      <file name="/dummy.sql" timestamp="1554894600805">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1554890302662">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,22 +52,62 @@
         <mark key="'" line="27" column="12" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/src/main/java/com/abcfinancial/api/common/report/pdf/PdfReportGenerator.java" timestamp="1554962562902" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/scheduler/EmailVerificationJob.java" timestamp="1554914378032">
+        <mark key="'" line="21" column="12" />
+      </file>
+      <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1554973588219" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1554973772643" />
+      <file name="/organization.location [QA RO]" timestamp="1553098453920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java" timestamp="1554973928871" />
+      <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1554915422091">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
+        <mark key="[" line="7" column="1" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/location/LocationBaseVO.java" timestamp="1554751011481">
+        <mark key="'" line="64" column="12" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberNumber.java" timestamp="1554969853079">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="50" />
+        <mark key="^" line="26" column="50" />
+        <mark key="." line="26" column="50" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1554914521508">
+        <mark key="'" line="39" column="15" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554974687277" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
+        <mark key="'" line="21" column="18" />
+      </file>
+      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1554894600805">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1554970249029">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/scheduler/EmailVerificationJob.java" timestamp="1554914378032">
-        <mark key="'" line="21" column="12" />
-      </file>
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" timestamp="1554914461598">
@@ -95,12 +128,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/Permission.java" timestamp="1554751756677">
         <mark key="'" line="14" column="32" />
       </file>
-      <file name="/organization.location [QA RO]" timestamp="1553098453920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554303107042">
         <mark key="[" line="0" column="0" />
       </file>
@@ -113,25 +140,7 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1554915422091">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
-        <mark key="[" line="7" column="1" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/gradle.properties" timestamp="1554962485448" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/location/LocationBaseVO.java" timestamp="1554751011481">
-        <mark key="'" line="64" column="12" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberNumber.java" timestamp="1554969853079">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1554914521508">
-        <mark key="'" line="39" column="15" />
-      </file>
       <file name="/fragment.java" timestamp="1554471106197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,8 +256,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIGxkYXBfY3JlZGVudGlhbHMgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJMREFQX0NSRURFTlRJQUxTIiApOwo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -266,7 +275,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>bbb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpb25cPg==</text>
@@ -275,13 +284,13 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIGxkYXBfY3JlZGVudGlhbHMgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoICJMREFQX0NSRURFTlRJQUxTIiApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -297,22 +306,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggZm91bmRNZW1iZXJOdW1iZXIuaXNQcmVzZW50KCkgKQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiggZm91bmRNZW1iZXJOdW1iZXIuaXNQcmVzZW50KCkgKQogICAgICAgIHsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiggZm91bmRNZW1iZXJOdW1iZXIuaXNQcmVzZW50KCkgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action QuickImplementations</text>
