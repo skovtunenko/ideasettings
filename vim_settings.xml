@@ -34,12 +34,7 @@
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" timestamp="1554977490385">
-        <mark key="'" line="65" column="40" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/build.gradle" timestamp="1554998408784" />
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
@@ -66,6 +61,7 @@
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/jpa/JpaWebConverter.java" timestamp="1554998351112" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java" timestamp="1554973588219" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1554986387253" />
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
@@ -85,12 +81,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/location/LocationBaseVO.java" timestamp="1554751011481">
         <mark key="'" line="64" column="12" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/entity/member/MemberNumber.java" timestamp="1554976983342">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="50" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1554914521508">
         <mark key="'" line="39" column="15" />
       </file>
@@ -99,12 +89,15 @@
         <mark key="'" line="20" column="63" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554974687277" />
+      <file name="/EntitySearchUtilTest.groovy" timestamp="1554998179996" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
         <mark key="'" line="21" column="18" />
       </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/UserProfileCrudTest.groovy" timestamp="1554997733528" />
+      <file name="/EntitySearchUtil.java" timestamp="1554998092976" />
       <file name="/DocumentationUtil.java" timestamp="1554996241162" />
       <file name="/DefaultEventService.java" timestamp="1554996719630" />
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
@@ -116,6 +109,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/rsql/snippet/RsqlSearchableFieldsSnippet.java" timestamp="1554996368437">
         <mark key="'" line="53" column="49" />
       </file>
+      <file name="/application-local.yml" timestamp="1554997837149" />
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
