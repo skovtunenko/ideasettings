@@ -15,6 +15,7 @@
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/service/MerchantService.java" timestamp="1554975581753" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" timestamp="1554974714655">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -88,6 +89,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1554914521508">
         <mark key="'" line="39" column="15" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1554975475782" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554974687277" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
         <mark key="'" line="21" column="18" />
@@ -107,6 +109,7 @@
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/controller/MerchantController.java" timestamp="1554975439596" />
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
