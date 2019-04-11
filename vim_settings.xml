@@ -36,13 +36,6 @@
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" timestamp="1554970211664">
-        <mark key="'" line="113" column="70" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="70" />
-        <mark key="^" line="46" column="70" />
-        <mark key="." line="46" column="70" />
-      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" timestamp="1554922873392">
         <mark key="'" line="133" column="106" />
         <mark key="[" line="129" column="85" />
