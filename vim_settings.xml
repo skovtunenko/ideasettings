@@ -12,24 +12,25 @@
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/kafka/snippet/KafkaMessageSnippet.java" timestamp="1554996314489">
+        <mark key="'" line="72" column="67" />
+      </file>
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/service/MerchantService.java" timestamp="1554975581753" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/User.java" timestamp="1554974714655">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
+      <file name="/ConcreteClass1.java" timestamp="1554996660959" />
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/UserProfileService.java" timestamp="1554996776047" />
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/OrganizationWebConfiguration.java" timestamp="1554913642720">
         <mark key="'" line="10" column="13" />
       </file>
+      <file name="/RsqlSearchableFieldsSnippet.java" timestamp="1554996003141" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -38,10 +39,6 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
-      </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" timestamp="1554922873392">
-        <mark key="'" line="133" column="106" />
-        <mark key="[" line="129" column="85" />
       </file>
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
@@ -59,6 +56,7 @@
         <mark key="'" line="27" column="12" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/src/main/java/com/abcfinancial/api/common/report/pdf/PdfReportGenerator.java" timestamp="1554962562902" />
+      <file name="/RsqlSearchableDocumentationWriter.java" timestamp="1554996207984" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/scheduler/EmailVerificationJob.java" timestamp="1554914378032">
         <mark key="'" line="21" column="12" />
       </file>
@@ -77,7 +75,8 @@
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1554915422091">
+      <file name="/IEventService.java" timestamp="1554996691942" />
+      <file name="/Clipboard.txt" timestamp="1554996374789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
@@ -96,6 +95,9 @@
         <mark key="'" line="39" column="15" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1554975475782" />
+      <file name="/RsqlSearchableAutoSectionSnippet.java" timestamp="1554996079148">
+        <mark key="'" line="20" column="63" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1554974687277" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
         <mark key="'" line="21" column="18" />
@@ -103,14 +105,16 @@
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/DocumentationUtil.java" timestamp="1554996241162" />
+      <file name="/DefaultEventService.java" timestamp="1554996719630" />
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1554894600805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554970249029">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/rsql/snippet/RsqlSearchableFieldsSnippet.java" timestamp="1554996368437">
+        <mark key="'" line="53" column="49" />
       </file>
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
@@ -120,6 +124,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-staging.yml" timestamp="1554994517710" />
+      <file name="/ConcreteClass2.java" timestamp="1554996653602" />
+      <file name="/UserService.java" timestamp="1554996954284" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" timestamp="1554914461598">
         <mark key="'" line="19" column="100" />
       </file>
@@ -129,6 +135,7 @@
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/DocumentationUtil.java" timestamp="1554996392430" />
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,16 +158,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-report/gradle.properties" timestamp="1554962485448" />
+      <file name="/KafkaEventService.java" timestamp="1554996682923" />
       <file name="/fragment.java" timestamp="1554977428486">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/service/SubscriptionPlanService.java" />
-      <jump line="14" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/test/groovy/com/abcfinancial/api/scheduler/JobTest.groovy" />
-      <jump line="19" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/main/java/com/abcfinancial/api/scheduler/jobs/DepositSchedulerJob.java" />
-      <jump line="20" column="46" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/test/groovy/com/abcfinancial/api/scheduler/JobTest.groovy" />
-      <jump line="366" column="81" filename="$USER_HOME$/Documents/ExadelCources/exadelSpringCources/lection_1/Lection.md" />
       <jump line="48" column="35" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/90e03b5cec4d45d6051bf18cfdddfdc2d72dc925/mysql-connector-java-5.1.47-sources.jar!/com/mysql/jdbc/Driver.java" />
       <jump line="1" column="32" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/9de4159aaf2d08817a276610b8114a825fca6cfd/mysql-connector-java-5.1.47.jar!/META-INF/services/java.sql.Driver" />
       <jump line="96" column="53" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.47/90e03b5cec4d45d6051bf18cfdddfdc2d72dc925/mysql-connector-java-5.1.47-sources.jar!/com/mysql/fabric/jdbc/FabricMySQLDriver.java" />
@@ -256,6 +259,11 @@
       <jump line="116" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="112" column="70" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="65" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
+      <jump line="28" column="11" filename="/RsqlSearchableAutoSectionSnippet.java" />
+      <jump line="18" column="13" filename="/RsqlSearchableAutoSectionSnippet.java" />
+      <jump line="20" column="63" filename="/RsqlSearchableAutoSectionSnippet.java" />
+      <jump line="72" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/kafka/snippet/KafkaMessageSnippet.java" />
+      <jump line="53" column="49" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/rsql/snippet/RsqlSearchableFieldsSnippet.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -288,7 +296,7 @@
         <text>bbb</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxSc3FsU2VhcmNoYWJsZUF1dG9TZWN0aW9uU25pcHBldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICIiIDoge30K</text>
@@ -338,17 +346,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxSc3FsU2VhcmNoYWJsZUF1dG9TZWN0aW9uU25pcHBldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSc3FsU2VhcmNoYWJsZUF1dG9TZWN0aW9uU25pcHBldFw+</last-pattern>
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRMb2dvVXJpXD4=</entry>
         <entry encoding="base64">XDxmaW5hbFw+</entry>
         <entry encoding="base64">XDxlbnRpdHlOYW1lXD4=</entry>
         <entry encoding="base64">XDxUaHJlYWRcPg==</entry>
@@ -368,6 +375,7 @@
         <entry encoding="base64">XDxUcmFuc2FjdGlvblRlbXBsYXRlXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvbk1hbmFnZXJcPg==</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxSc3FsU2VhcmNoYWJsZUF1dG9TZWN0aW9uU25pcHBldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
