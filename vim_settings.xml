@@ -33,6 +33,7 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RepositoryUserDetailsService.java" timestamp="1555080770218" />
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,6 +64,7 @@
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/LockAwarePostAuthenticationUserDetailsChecker.java" timestamp="1555080763278" />
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,12 +77,16 @@
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/AbcTokenEnhancer.java" timestamp="1555080702515" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/BaseUserVOMapper.java" timestamp="1555080872897" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ExpiringUserDetails.java" timestamp="1555080753676" />
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserBase.java" timestamp="1555080959399" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.java" timestamp="1555079991324">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="7" column="28" />
@@ -93,6 +99,7 @@
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/ExpiringUserDetailsService.java" timestamp="1555080605156" />
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554303107042">
         <mark key="[" line="0" column="0" />
       </file>
