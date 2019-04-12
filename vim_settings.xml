@@ -6,7 +6,7 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/StubEventService.java" timestamp="1555072285262" />
+      <file name="/StubEventService.java" timestamp="1555073594595" />
       <file name="/a.dummy" timestamp="1554974709859">
         <mark key="[" line="0" column="0" />
       </file>
@@ -72,6 +72,7 @@
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/SecurityConfiguration.java" timestamp="1555074090455" />
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,6 +97,7 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/KafkaEventService.java" timestamp="1555073796388" />
       <file name="/fragment.java" timestamp="1554977428486">
         <mark key="[" line="0" column="0" />
       </file>
