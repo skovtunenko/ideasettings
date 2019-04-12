@@ -6,14 +6,12 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/StubEventService.java" timestamp="1555072285262" />
       <file name="/a.dummy" timestamp="1554974709859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/kafka/snippet/KafkaMessageSnippet.java" timestamp="1554996314489">
-        <mark key="'" line="72" column="67" />
       </file>
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
@@ -27,9 +25,6 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/OrganizationWebConfiguration.java" timestamp="1554913642720">
-        <mark key="'" line="10" column="13" />
-      </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,17 +34,8 @@
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/EmailService.java" timestamp="1554914383702">
-        <mark key="'" line="7" column="17" />
-      </file>
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1554890302662">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/scheduler/OrganizationEmailEmailVerificationService.java" timestamp="1554914381958">
-        <mark key="'" line="27" column="12" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/scheduler/EmailVerificationJob.java" timestamp="1554914378032">
-        <mark key="'" line="21" column="12" />
       </file>
       <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
         <mark key="[" line="0" column="0" />
@@ -71,18 +57,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/location/LocationBaseVO.java" timestamp="1554751011481">
-        <mark key="'" line="64" column="12" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" timestamp="1554914521508">
-        <mark key="'" line="39" column="15" />
-      </file>
-      <file name="/RsqlSearchableAutoSectionSnippet.java" timestamp="1554996079148">
-        <mark key="'" line="20" column="63" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" timestamp="1554914475469">
-        <mark key="'" line="21" column="18" />
-      </file>
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,17 +66,14 @@
       <file name="/dummy.sql" timestamp="1554894600805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/documentation/rsql/snippet/RsqlSearchableFieldsSnippet.java" timestamp="1554996368437">
-        <mark key="'" line="53" column="49" />
+      <file name="/Dummy.txt" timestamp="1555072200946">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" timestamp="1554914461598">
-        <mark key="'" line="19" column="100" />
       </file>
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
@@ -112,12 +83,6 @@
       </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Client.java" timestamp="1554751746970">
-        <mark key="'" line="12" column="32" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/Permission.java" timestamp="1554751756677">
-        <mark key="'" line="14" column="32" />
       </file>
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554303107042">
         <mark key="[" line="0" column="0" />
