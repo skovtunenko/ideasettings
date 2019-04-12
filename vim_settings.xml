@@ -6,7 +6,6 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/StubEventService.java" timestamp="1555073594595" />
       <file name="/a.dummy" timestamp="1554974709859">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,6 +13,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
@@ -25,6 +27,9 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,46 +39,28 @@
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dummy.sql" timestamp="1554894600805">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1554890302662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555072200946">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1555077042942">
+        <mark key="[" line="2" column="49" />
+      </file>
+      <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/email/configuration/EmailConfiguration.java" timestamp="1555070132041" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/main/java/com/abcfinancial/api/notification/configuration/NonLocalProviderCondition.java" timestamp="1555070120652" />
-      <file name="/organization.location [QA RO]" timestamp="1553098453920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1554996374789">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
-        <mark key="[" line="7" column="1" />
-      </file>
-      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1554894600805">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1555072200946">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/SecurityConfiguration.java" timestamp="1555074090455" />
-      <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
@@ -83,6 +70,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/organization.location [QA RO]" timestamp="1553098453920">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554303107042">
@@ -97,7 +90,12 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KafkaEventService.java" timestamp="1555073796388" />
+      <file name="/Clipboard.txt" timestamp="1554996374789">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
+        <mark key="[" line="7" column="1" />
+      </file>
       <file name="/fragment.java" timestamp="1554977428486">
         <mark key="[" line="0" column="0" />
       </file>
