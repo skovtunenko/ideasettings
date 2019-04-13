@@ -9,10 +9,15 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/generalledger/invoice/valueobject/PayorInvoiceRequestVO.java" timestamp="1555079849755">
         <mark key="'" line="73" column="31" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/EventConfiguration.java" timestamp="1555169554224">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/generalledger/invoice/InvoiceController.java" timestamp="1555079847370">
         <mark key="'" line="79" column="127" />
       </file>
-      <file name="/a.dummy" timestamp="1555079966615">
+      <file name="/a.dummy" timestamp="1555169305643">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
@@ -250,7 +255,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QmFua2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -268,7 +273,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LSA=</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSc3FsU2VhcmNoYWJsZUF1dG9TZWN0aW9uU25pcHBldFw+</text>
@@ -277,13 +282,13 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmFua2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXV0bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q29tbXVuaWNhdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -299,22 +304,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RmluYW5jZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIGxvYWRlZENsYXNzIGluc3RhbmNlb2YgQ2xhc3M8RXZlbnRTZXJ2aWNlPiApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RmludGVjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2VuZXJpY1R5cGVSZXNvbHZlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RmluYW5jaWFsIFNlcnZpY2VzCg==</text>
+        <text encoding="base64">QmFua2luZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SGktdGVjaAo=</text>
+        <text encoding="base64">QXV0bwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">SWdhbWluZwo=</text>
+        <text encoding="base64">Q29tbXVuaWNhdGlvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TWVkaWEK</text>
+        <text encoding="base64">RmluYW5jZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action QuickImplementations</text>
