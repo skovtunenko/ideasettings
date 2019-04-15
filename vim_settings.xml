@@ -6,7 +6,6 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1555342474540" />
       <file name="/a.dummy" timestamp="1555176630115">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,6 +117,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification.yml" timestamp="1555350366808" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1555326975539">
         <mark key="'" line="139" column="19" />
         <mark key="[" line="383" column="0" />
@@ -152,6 +152,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1555350392491">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="/dummy.sql" timestamp="1555165870147">
         <mark key="[" line="0" column="0" />
