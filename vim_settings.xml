@@ -24,8 +24,8 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1555174186263">
-        <mark key="[" line="46" column="6" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1555332145883">
+        <mark key="[" line="1" column="2" />
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="6" />
       </file>
@@ -41,11 +41,8 @@
       <file name="/organization.QRTZ_LOCKS [QA RO]" timestamp="1555331084219">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AuthorizationServer.java" timestamp="1555175382000">
-        <mark key="'" line="185" column="33" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="1" />
-        <mark key="." line="50" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/mysql/container/DatabaseContainerApplication.java" timestamp="1555332563700">
+        <mark key="'" line="81" column="38" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RefreshTokenBasedTenantIdProvider.java" timestamp="1555175719098">
         <mark key="[" line="8" column="0" />
@@ -203,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/client/Client.java" />
       <jump line="14" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/Permission.java" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/docs/asciidoc/index.adoc" />
       <jump line="1521" column="3" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-payment-gateway/src/docs/asciidoc/index.adoc" />
@@ -303,6 +299,7 @@
       <jump line="35" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="41" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="139" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
+      <jump line="81" column="38" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/mysql/container/DatabaseContainerApplication.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
