@@ -6,13 +6,13 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/OrganizationController.java" timestamp="1555341804255" />
       <file name="/a.dummy" timestamp="1555176630115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/build.gradle" timestamp="1555339948347" />
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,7 +64,6 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1555331158534" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -83,8 +82,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1555077042942">
         <mark key="[" line="2" column="49" />
       </file>
-      <file name="/DatabaseContainerApplication.java" timestamp="1555338887933" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/build.gradle" timestamp="1555335871749" />
       <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +125,6 @@
         <mark key="." line="384" column="13" />
         <mark key="^" line="384" column="13" />
       </file>
-      <file name="/KafkaEventDocumentationWriter.java" timestamp="1555329865618" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,7 +145,6 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/SpelDocumentationResolver.java" timestamp="1555330270311" />
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -401,7 +396,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxFbnRpdHlcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
