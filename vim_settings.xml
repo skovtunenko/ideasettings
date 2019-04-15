@@ -32,20 +32,13 @@
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" timestamp="1555175289430">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="6" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="21" column="6" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcLdapAuthoritiesPopulator.java" timestamp="1555175687132">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="6" />
         <mark key="^" line="20" column="6" />
         <mark key="." line="20" column="6" />
       </file>
-      <file name="/organization.QRTZ_LOCKS [QA RO]" timestamp="1555165857984">
+      <file name="/organization.QRTZ_LOCKS [QA RO]" timestamp="1555331084219">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AuthorizationServer.java" timestamp="1555175382000">
@@ -63,6 +56,7 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1555331158534" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -116,13 +110,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/EventConfiguration.java" timestamp="1555173627039">
-        <mark key="'" line="19" column="12" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="35" />
-        <mark key="." line="43" column="35" />
-        <mark key="^" line="43" column="35" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1555326975539">
         <mark key="'" line="139" column="19" />
