@@ -106,6 +106,11 @@
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/kafka/KafkaEventService.java" timestamp="1555316976379">
+        <mark key="[" line="61" column="68" />
+        <mark key="]" line="61" column="68" />
+        <mark key="." line="61" column="68" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1554996374789">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,6 +153,11 @@
       </file>
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/stub/StubEventService.java" timestamp="1555317068463">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1555165870147">
         <mark key="[" line="0" column="0" />
@@ -315,7 +325,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -333,7 +343,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGFzc1w+</text>
@@ -342,10 +352,10 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5Ob0FyZ3NDb25zdHJ1Y3RvcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTbGY0ago=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVXNlclJlcG9zaXRvcnkgdXNlclJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIEBTbGY0ago=</text>
@@ -364,22 +374,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKCBjYWxsU3VwZXIgPSBmYWxzZSApCg==</text>
+        <text encoding="base64">ICAgIEBTbGY0ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKCBjYWxsU3VwZXIgPSBmYWxzZSApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXg7IC8vIGZhc3QgZmFpbCBhcHBsaWNhdGlvbiBzdGFydHVwCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCAiRXZlbnRTZXJ2aWNlIGNvbmZpZ3VyYXRpb24gJ3QgY3JlYXRlIGluc3RhbmNlIG9mIGNsYXNzOiAne30nLiBDaGVjayB7fSBjb25maWd1cmF0aW9uIiwgY2xhenoudG9TdHJpbmcoKSwgRVZFTlRfU0VSVklDRV9DTEFTU19OQU1FX1BST1BFUlRZLCBleCApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZXg7IC8vIGZhc3QgZmFpbCBhcHBsaWNhdGlvbiBzdGFydHVwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCAiRXZlbnRTZXJ2aWNlIGNvbmZpZ3VyYXRpb24gJ3QgY3JlYXRlIGluc3RhbmNlIG9mIGNsYXNzOiAne30nLiBDaGVjayB7fSBjb25maWd1cmF0aW9uIiwgY2xhenoudG9TdHJpbmcoKSwgRVZFTlRfU0VSVklDRV9DTEFTU19OQU1FX1BST1BFUlRZLCBleCApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
