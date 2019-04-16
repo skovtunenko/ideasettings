@@ -9,6 +9,9 @@
       <file name="/a.dummy" timestamp="1555409868426">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/authorization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1555430242099">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -29,6 +32,9 @@
         <mark key="[" line="1" column="2" />
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="6" />
+      </file>
+      <file name="/QRTZ_LOCKS [QA RO]" timestamp="1555430193452">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
@@ -115,7 +121,10 @@
         <mark key="]" line="39" column="6" />
         <mark key="." line="39" column="6" />
       </file>
-      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
+      <file name="/a.sql" timestamp="1555430204522">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1555430246469">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/stub/StubEventService.java" timestamp="1555317068463">
@@ -128,7 +137,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1555165870147">
+      <file name="/dummy.sql" timestamp="1555430249879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/EncryptionService.java" timestamp="1555406636106" />
