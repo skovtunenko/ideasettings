@@ -18,6 +18,7 @@
       <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/MockEncryptionService.java" timestamp="1555405860021" />
       <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,7 +61,7 @@
         <mark key="^" line="81" column="37" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/KafkaConfiguration.java" timestamp="1555402125536" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/configuration/KafkaConfiguration.java" timestamp="1555405644066" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/RefreshTokenBasedTenantIdProvider.java" timestamp="1555175719098">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="6" />
@@ -107,6 +108,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="/MemberVOMapper.java" timestamp="1555405827598" />
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
@@ -129,6 +131,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
+      <file name="/VaultEncryptionService.java" timestamp="1555405730137" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/annotation/AbcService.java" timestamp="1555402087910" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1555326975539">
         <mark key="'" line="139" column="19" />
@@ -173,6 +176,7 @@
       <file name="/dummy.sql" timestamp="1555165870147">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/EncryptionService.java" timestamp="1555406636106" />
       <file name="/Dummy.txt" timestamp="1555174546728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="104" />
@@ -184,12 +188,14 @@
       <file name="/DATABASECHANGELOG [QA RO]" timestamp="1555165836715">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/MemberPersonalDataBase.java" timestamp="1555406312186" />
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1554137353410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/EncryptionConfiguration.java" timestamp="1555405893062" />
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
@@ -208,6 +214,7 @@
         <mark key="^" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
+      <file name="/20190311.REL1-7011.vault-encryption.yaml" timestamp="1555405838826" />
       <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1554303107042">
         <mark key="[" line="0" column="0" />
       </file>
@@ -223,6 +230,7 @@
       <file name="/fragment.java" timestamp="1555176632829">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/OrganizationLogoService.java" timestamp="1555407049663" />
     </filemarks>
     <jumps>
       <jump line="25" column="16" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" />
