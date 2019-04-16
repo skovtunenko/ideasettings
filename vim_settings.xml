@@ -20,6 +20,16 @@
       <file name="/organization.QRTZ_JOB_DETAILS [QA RO]" timestamp="1555165846648">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/gradle.properties" timestamp="1555421270502">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1555332145883">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="6" />
+      </file>
       <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,8 +66,18 @@
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1555146435730">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/DATABASECHANGELOGLOCK [QA RO]" timestamp="1555165836365">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServer.java" timestamp="1555176368700">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/MemberVOMapper.java" timestamp="1555405827598" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/OrganizationWebConfiguration.java" timestamp="1555409890240" />
@@ -66,6 +86,16 @@
       </file>
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1555361633094">
+        <mark key="[" line="66" column="64" />
+        <mark key="]" line="66" column="65" />
+        <mark key="." line="66" column="65" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/kafka/KafkaEventService.java" timestamp="1555316976379">
+        <mark key="[" line="61" column="68" />
+        <mark key="]" line="61" column="68" />
+        <mark key="." line="61" column="68" />
       </file>
       <file name="/Clipboard.txt" timestamp="1554996374789">
         <mark key="[" line="0" column="0" />
@@ -80,13 +110,33 @@
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-dev.yml" timestamp="1555174198324">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="6" />
+      </file>
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1554303106595">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/stub/StubEventService.java" timestamp="1555317068463">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1555350392491">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="/dummy.sql" timestamp="1555165870147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/EncryptionService.java" timestamp="1555406636106" />
+      <file name="/Dummy.txt" timestamp="1555174546728">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="104" />
+        <mark key="." line="0" column="104" />
+      </file>
       <file name="/EnvVariableTokenConvertConfiguration.java" timestamp="1555409801724" />
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
