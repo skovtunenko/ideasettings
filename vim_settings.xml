@@ -82,14 +82,7 @@
       </file>
       <file name="/VaultEncryptionService.java" timestamp="1555405730137" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/annotation/AbcService.java" timestamp="1555402087910" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" timestamp="1555409841850">
-        <mark key="'" line="139" column="19" />
-        <mark key="[" line="170" column="7" />
-        <mark key="]" line="171" column="9" />
-        <mark key="." line="171" column="9" />
-        <mark key="^" line="171" column="9" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1555415600227" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/build.gradle" timestamp="1555419701385" />
       <file name="/AuthorizationServer.java" timestamp="1555409708801" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
