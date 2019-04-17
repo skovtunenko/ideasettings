@@ -6,7 +6,6 @@
       <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/EncryptionConfiguration.java" timestamp="1555506485307" />
       <file name="/a.dummy" timestamp="1555409868426">
         <mark key="[" line="0" column="0" />
       </file>
@@ -50,7 +49,7 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-vault-config/2.0.2.RELEASE/2387054f1b00ce6258f78768f45e93ad05e66e78/spring-cloud-vault-config-2.0.2.RELEASE.jar!/org/springframework/cloud/vault/config/VaultBootstrapConfiguration.class" timestamp="1555506743610" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleService.java" timestamp="1555533883375" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,6 +150,8 @@
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1555434639712">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/RoleController.java" timestamp="1555533675955" />
+      <file name="/UserService.java" timestamp="1555534264827" />
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -172,9 +173,11 @@
       <file name="/authorization.oauth_client [QA RO]" timestamp="1554464431833">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/RoleService.java" timestamp="1555534061928" />
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/KafkaEventService.java" timestamp="1555533358719" />
       <file name="/fragment.java" timestamp="1555409868430">
         <mark key="[" line="0" column="0" />
       </file>
