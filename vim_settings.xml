@@ -55,7 +55,6 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/subscription/domain/Subscription.java" timestamp="1555594733147" />
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -115,7 +114,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/role/company/CompanyRoleBase.java" timestamp="1555594468043" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,6 +161,9 @@
       <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" timestamp="1555622626869">
+        <mark key="'" line="35" column="23" />
+      </file>
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -184,11 +185,8 @@
       <file name="/fragment.java" timestamp="1555409868430">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1555592631084" />
     </filemarks>
     <jumps>
-      <jump line="15" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" />
-      <jump line="19" column="100" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" />
       <jump line="21" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailService.java" />
       <jump line="80" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="39" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
@@ -287,6 +285,8 @@
       <jump line="169" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/mysql/container/DatabaseContainerApplication.java" />
       <jump line="93" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/src/main/java/com/abcfinancial/api/common/test/mysql/container/DatabaseContainerApplication.java" />
       <jump line="48" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" />
+      <jump line="188" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
+      <jump line="35" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,7 +365,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action QuickImplementations</text>
       </register>
     </registers>
     <search>
@@ -419,8 +419,8 @@
         <entry>action ShowUsages</entry>
         <entry>action Forward</entry>
         <entry>action Find</entry>
-        <entry>action QuickImplementations</entry>
         <entry>action Back</entry>
+        <entry>action QuickImplementations</entry>
       </history-cmd>
       <history-expr />
       <history-input />
