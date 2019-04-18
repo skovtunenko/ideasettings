@@ -34,7 +34,7 @@
       <file name="/QRTZ_LOCKS [QA RO]" timestamp="1555430193452">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/authorization.oauth_client [DEV RO]" timestamp="1554303106940">
+      <file name="/authorization.oauth_client [DEV RO]" timestamp="1555592439687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/organization.QRTZ_LOCKS [QA RO]" timestamp="1555331084219">
@@ -49,7 +49,6 @@
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/RoleService.java" timestamp="1555533883375" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,13 +86,18 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1555592666200">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/UserProfileVOMapper.java" timestamp="1555538595311" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1555361633094">
         <mark key="[" line="66" column="64" />
         <mark key="]" line="66" column="65" />
@@ -134,7 +138,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1555434644184">
+      <file name="/dummy.sql" timestamp="1555592445210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1555506183102">
@@ -148,12 +152,9 @@
       <file name="/DATABASECHANGELOG [QA RO]" timestamp="1555165836715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/UserProfileRequestVO.java" timestamp="1555538671806" />
-      <file name="/payment_gateway.processor [DEV RO]" timestamp="1555434639712">
+      <file name="/payment_gateway.processor [DEV RO]" timestamp="1555592417491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/RoleController.java" timestamp="1555533675955" />
-      <file name="/UserService.java" timestamp="1555534264827" />
       <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,26 +164,25 @@
       <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/payment_gateway.DATABASECHANGELOG [@localhost]" timestamp="1555431049366">
+      <file name="/payment_gateway.DATABASECHANGELOG [@localhost]" timestamp="1555592417017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1555430979816">
+      <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1555592416423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/payment_gateway.processor [@localhost]" timestamp="1555434371772">
+      <file name="/payment_gateway.processor [@localhost]" timestamp="1555592417238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [QA RO]" timestamp="1554464431833">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/RoleService.java" timestamp="1555534061928" />
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/KafkaEventService.java" timestamp="1555533358719" />
       <file name="/fragment.java" timestamp="1555409868430">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1555592631084" />
     </filemarks>
     <jumps>
       <jump line="15" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/email/AmazonEmailProvider.java" />
