@@ -55,6 +55,7 @@
       <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/billing/src/main/java/com/abcfinancial/api/billing/subscription/domain/Subscription.java" timestamp="1555594733147" />
       <file name="/company [@localhost]" timestamp="1554470546595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,6 +115,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
         <mark key="[" line="7" column="1" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/permission/role/company/CompanyRoleBase.java" timestamp="1555594468043" />
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,7 +140,7 @@
         <mark key="]" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="/dummy.sql" timestamp="1555592445210">
+      <file name="/dummy.sql" timestamp="1555593683601">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1555506183102">
