@@ -21,16 +21,6 @@
       <file name="/organization.QRTZ_JOB_DETAILS [QA RO]" timestamp="1555165846648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-unit-test/gradle.properties" timestamp="1555421270502">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-local.yml" timestamp="1555596158176">
-        <mark key="[" line="1" column="2" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="6" />
-      </file>
       <file name="/QRTZ_LOCKS [QA RO]" timestamp="1555430193452">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,15 +33,11 @@
       <file name="/catalog.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1555623268755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1555506426322">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="/processor [@localhost]" timestamp="1554896718376">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/UserRequestVO.java" timestamp="1555669972260" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/7.4.1/f41984fb75009285a22fdaae8ff7e4af55e9a7f/common-core-7.4.1-sources.jar!/com/abcfinancial/api/common/annotation/ValidPassword.java" timestamp="1555670042971" />
       <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -79,41 +65,14 @@
       <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1555146435730">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/DATABASECHANGELOGLOCK [QA RO]" timestamp="1555165836365">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServer.java" timestamp="1555176368700">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/db/changelog/item-category/20190416.REL1-8385-change-request-body-for-item-category-controller-update.yaml" timestamp="1555655206916" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" timestamp="1555592666200">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/organization.location [QA RO]" timestamp="1553098453920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1555361633094">
-        <mark key="[" line="66" column="64" />
-        <mark key="]" line="66" column="65" />
-        <mark key="." line="66" column="65" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/kafka/KafkaEventService.java" timestamp="1555316976379">
-        <mark key="[" line="61" column="68" />
-        <mark key="]" line="61" column="68" />
-        <mark key="." line="61" column="68" />
       </file>
       <file name="/Clipboard.txt" timestamp="1554996374789">
         <mark key="[" line="0" column="0" />
@@ -124,11 +83,6 @@
       <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/resources/application-dev.yml" timestamp="1555174198324">
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="39" column="6" />
-        <mark key="." line="39" column="6" />
-      </file>
       <file name="/a.sql" timestamp="1555430957280">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,24 +92,11 @@
       <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1555430246469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/stub/StubEventService.java" timestamp="1555317068463">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="2ad7ee3c-ebb8-48db-a029-407ec9800268/schema/catalog/table/item_category.sql" timestamp="1555655196745" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/bootstrap.yml" timestamp="1555350392491">
-        <mark key="[" line="1" column="35" />
-        <mark key="]" line="1" column="35" />
-        <mark key="." line="1" column="35" />
-      </file>
       <file name="/dummy.sql" timestamp="1555655900920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555506183102">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="104" />
-        <mark key="." line="0" column="104" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/ResetPasswordVO.java" timestamp="1555669990849">
+        <mark key="'" line="11" column="11" />
       </file>
       <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
         <mark key="[" line="0" column="0" />
@@ -202,13 +143,11 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="0f5cd13c-95f3-4ee3-ba18-7eb5588853bf/schema/catalog/table/item_category.sql" timestamp="1555654588847" />
       <file name="/fragment.java" timestamp="1555409868430">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="39" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="20" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="121" column="77" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
@@ -308,6 +247,7 @@
       <jump line="188" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
       <jump line="35" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
       <jump line="23" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="11" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/ResetPasswordVO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
