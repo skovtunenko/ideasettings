@@ -3,150 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/payment_gateway.company [@localhost]" timestamp="1553208876621">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/20190426.REL1-6273.create-action_code-table.yaml" timestamp="1556811718874" />
-      <file name="/a.dummy" timestamp="1555409868426">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1555430242099">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.processor [QA RO]" timestamp="1554308621031">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/ActionCodeRepository.java" timestamp="1556812105239" />
       <file name="/index.adoc" timestamp="1556811478663" />
-      <file name="/organization.DATABASECHANGELOGLOCK [QA RO]" timestamp="1554893605322">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.QRTZ_JOB_DETAILS [QA RO]" timestamp="1555165846648">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/QRTZ_LOCKS [QA RO]" timestamp="1555430193452">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.oauth_client [DEV RO]" timestamp="1555623243496">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.QRTZ_LOCKS [QA RO]" timestamp="1555331084219">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/catalog.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1555623268755">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/processor [@localhost]" timestamp="1554896718376">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOG [DEV RO]" timestamp="1554890309479">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.processor_format_detail [@localhost]" timestamp="1553185856324">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/ActionCodeCrudTest.groovy" timestamp="1556812439277" />
+      <file name="/ActionCodeValidator.java" timestamp="1556812190402" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" timestamp="1556808371990" />
-      <file name="/company [@localhost]" timestamp="1554470546595">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOGLOCK [DEV RO]" timestamp="1554890302662">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.QRTZ_CRON_TRIGGERS [QA RO]" timestamp="1555165865780">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1555077042942">
-        <mark key="[" line="2" column="49" />
-      </file>
-      <file name="/catalog.DATABASECHANGELOG [@localhost]" timestamp="1555654470195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.webhook_event_type [DEV RO]" timestamp="1554303105204">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [DEV RO]" timestamp="1554284705823">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/DATABASECHANGELOGLOCK [QA RO]" timestamp="1555165836365">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.location [QA RO]" timestamp="1553098453920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/webhook_event_type [DEV RO]" timestamp="1554284691641">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/RemovedActionCodeRepository.java" timestamp="1556812123936" />
+      <file name="/ArchivedActionCodeCrudTest.groovy" timestamp="1556812617817" />
       <file name="/ActionCodeController.java" timestamp="1556811881384" />
-      <file name="/Clipboard.txt" timestamp="1554996374789">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.QRTZ_JOB_DETAILS [@localhost]" timestamp="1554111276724">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1555430957280">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ArchivedActionCodeController.java" timestamp="1556811912276" />
-      <file name="/catalog.DATABASECHANGELOG [DEV RO]" timestamp="1555653552246">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [QA RO]" timestamp="1555430246469">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/ActionCodeTestDataGenerator.groovy" timestamp="1556812588532" />
+      <file name="/ArchivedActionCodeController.java" timestamp="1556812415520" />
       <file name="/ActionCodeBase.java" timestamp="1556812031382" />
-      <file name="/dummy.sql" timestamp="1555655900920">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/ResetPasswordVO.java" timestamp="1555669990849">
-        <mark key="'" line="11" column="11" />
-      </file>
-      <file name="/payment_gateway.command [@localhost]" timestamp="1553185504297">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/DATABASECHANGELOG [QA RO]" timestamp="1555165836715">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1555623721891">
-        <mark key="'" line="23" column="68" />
-      </file>
-      <file name="/payment_gateway.processor [DEV RO]" timestamp="1555623243466">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/catalog.item_category [@localhost]" timestamp="1555655900757">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/organization.DATABASECHANGELOG [QA RO]" timestamp="1554894596700">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.user_profile [QA RO]" timestamp="1554126927561">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/catalog.item [DEV RO]" timestamp="1554127773458">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.DATABASECHANGELOG [@localhost]" timestamp="1555623243265">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.DATABASECHANGELOG [@localhost]" timestamp="1555623242869">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.processor [@localhost]" timestamp="1555623243421">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.oauth_client [QA RO]" timestamp="1554464431833">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/catalog.item_category [DEV RO]" timestamp="1555655890033">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/authorization.oauth_client [@localhost]" timestamp="1554303106826">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1554063601383">
-        <mark key="[" line="7" column="1" />
-      </file>
-      <file name="/fragment.java" timestamp="1555409868430">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/ActionCodeBaseVO.java" timestamp="1556812155155" />
+      <file name="/ArchivedActionCodeTest.groovy" timestamp="1556812635444" />
+      <file name="/ActionCodeTests.groovy" timestamp="1556812600581" />
+      <file name="/ActionCodeService.java" timestamp="1556812384963" />
     </filemarks>
     <jumps>
       <jump line="39" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
