@@ -27,6 +27,7 @@
       <file name="/RequestContextExtractor.java" timestamp="1556896261652" />
       <file name="/RequestContextMatcher.java" timestamp="1556894901006" />
       <file name="/RequestContextInterceptor.java" timestamp="1556896080817" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/WebSecurityConfiguration.java" timestamp="1556899093835" />
       <file name="/LocationRequestContextMatcher.java" timestamp="1556894946556" />
       <file name="/DomainObjectTenancyHelper.java" timestamp="1556896623592" />
       <file name="/RequestContextAspect.java" timestamp="1556895090043" />
