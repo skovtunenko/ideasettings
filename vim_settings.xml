@@ -3,28 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/LocationRequestContextExtractor.java" timestamp="1556893472609" />
-      <file name="/RequestContextHeaders.java" timestamp="1556893504763" />
+      <file name="/LocationContextObject.java" timestamp="1556894957234" />
       <file name="/RequestContextType.java" timestamp="1556893539977" />
       <file name="/db.changelog-location-documents.yaml" timestamp="1556874468347" />
-      <file name="/LocationFeignRequestContextInjector.java" timestamp="1556893749161" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1556873459521">
-        <mark key="'" line="106" column="23" />
-      </file>
       <file name="/AbcService.java" timestamp="1556893149438" />
-      <file name="/RequestContextConfiguration.java" timestamp="1556893237988" />
-      <file name="/OrganizationRequestContextExtractor.java" timestamp="1556893520692" />
-      <file name="/RequestContextExtractor.java" timestamp="1556893452090" />
-      <file name="/RequestContextInterceptor.java" timestamp="1556893335752" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" timestamp="1556873491427">
-        <mark key="'" line="66" column="27" />
-      </file>
+      <file name="/RequestContextConfiguration.java" timestamp="1556895736328" />
+      <file name="/OrganizationRequestContextMatcher.java" timestamp="1556894931944" />
+      <file name="/OrganizationRequestContextExtractor.java" timestamp="1556896104768" />
       <file name="/FeignRequestContextInjector.java" timestamp="1556893593686" />
       <file name="/RequestContextAwareOAuth2FeignClientInterceptor.java" timestamp="1556893895423" />
+      <file name="/LocationRequestContextInjector.java" timestamp="1556894674640" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/extractor/HeadersHttpRequestTenancyExtractor.java" timestamp="1556895723863" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/feign/TenancyAwareOAuth2FeignClientInterceptor.java" timestamp="1556895566531" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/tenancy/TenancyConfiguration.java" timestamp="1556895616413" />
+      <file name="/OrganizationContextObject.java" timestamp="1556896598965" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/domain/ConflictResponseError.java" timestamp="1556873557432" />
       <file name="/OrganizationFeignRequestContextInjector.java" timestamp="1556893769039" />
       <file name="/DocType.java" timestamp="1556871001506" />
+      <file name="/LocationRequestContextExtractor.java" timestamp="1556893472609" />
+      <file name="/RequestContextHeaders.java" timestamp="1556893504763" />
+      <file name="/LocationFeignRequestContextInjector.java" timestamp="1556893749161" />
+      <file name="/RequestContextAwareRepository.java" timestamp="1556896549172" />
+      <file name="/RequestContextExtractor.java" timestamp="1556896261652" />
+      <file name="/RequestContextMatcher.java" timestamp="1556894901006" />
+      <file name="/RequestContextInterceptor.java" timestamp="1556896080817" />
+      <file name="/LocationRequestContextMatcher.java" timestamp="1556894946556" />
+      <file name="/DomainObjectTenancyHelper.java" timestamp="1556896623592" />
+      <file name="/RequestContextAspect.java" timestamp="1556895090043" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/authorization-core/4.4.0/a72c7c909e337313b1d15016409879cee8a72dac/authorization-core-4.4.0-sources.jar!/com/abcfinancial/api/authorization/core/permission/role/company/CompanyRoleBase.java" timestamp="1556890875647" />
+      <file name="/OrganizationDomainObject.java" timestamp="1556895459620" />
+      <file name="/TenancyAwareRepository.java" timestamp="1556896402729" />
     </filemarks>
     <jumps>
       <jump line="129" column="48" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
