@@ -3,16 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" timestamp="1556873491427">
+        <mark key="'" line="66" column="27" />
+      </file>
       <file name="/db.changelog-location-documents.yaml" timestamp="1556871552383" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1556873459521">
+        <mark key="'" line="106" column="23" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/src/main/java/com/abcfinancial/api/common/domain/ConflictResponseError.java" timestamp="1556873557432" />
       <file name="/DocType.java" timestamp="1556871001506" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/vo/member/MemberRequestVO.java" timestamp="1556873427905">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" timestamp="1556870588178">
         <mark key="'" line="56" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="121" column="77" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="136" column="86" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="124" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="129" column="48" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
       <jump line="139" column="25" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
@@ -110,6 +120,9 @@
       <jump line="23" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/db/changelog/db.changelog-master.yaml" />
       <jump line="11" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/ResetPasswordVO.java" />
       <jump line="56" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" />
+      <jump line="57" column="42" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" />
+      <jump line="106" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" />
+      <jump line="66" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -240,8 +253,8 @@
         <entry>action ParameterInfo</entry>
         <entry>action GotoImplementation</entry>
         <entry>action ShowUsages</entry>
-        <entry>action Forward</entry>
         <entry>action Find</entry>
+        <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action QuickImplementations</entry>
       </history-cmd>
