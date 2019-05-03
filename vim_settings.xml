@@ -3,25 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/20190426.REL1-6273.create-action_code-table.yaml" timestamp="1556811718874" />
-      <file name="/ActionCodeRepository.java" timestamp="1556812105239" />
-      <file name="/index.adoc" timestamp="1556811478663" />
-      <file name="/ActionCodeCrudTest.groovy" timestamp="1556812439277" />
-      <file name="/ActionCodeValidator.java" timestamp="1556812190402" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" timestamp="1556808371990" />
-      <file name="/RemovedActionCodeRepository.java" timestamp="1556812123936" />
-      <file name="/ArchivedActionCodeCrudTest.groovy" timestamp="1556812617817" />
-      <file name="/ActionCodeController.java" timestamp="1556811881384" />
-      <file name="/ActionCodeTestDataGenerator.groovy" timestamp="1556812588532" />
-      <file name="/ArchivedActionCodeController.java" timestamp="1556812415520" />
-      <file name="/ActionCodeBase.java" timestamp="1556812031382" />
-      <file name="/ActionCodeBaseVO.java" timestamp="1556812155155" />
-      <file name="/ArchivedActionCodeTest.groovy" timestamp="1556812635444" />
-      <file name="/ActionCodeTests.groovy" timestamp="1556812600581" />
-      <file name="/ActionCodeService.java" timestamp="1556812384963" />
+      <file name="/db.changelog-location-documents.yaml" timestamp="1556871552383" />
+      <file name="/DocType.java" timestamp="1556871001506" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" timestamp="1556870588178">
+        <mark key="'" line="56" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="15" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/configuration/ses/EmailConfiguration.java" />
       <jump line="20" column="47" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="121" column="77" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="136" column="86" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
@@ -121,6 +109,7 @@
       <jump line="35" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/user/UserController.java" />
       <jump line="23" column="68" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/db/changelog/db.changelog-master.yaml" />
       <jump line="11" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/vo/ResetPasswordVO.java" />
+      <jump line="56" column="61" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/LocationDocumentController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
