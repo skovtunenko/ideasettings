@@ -6,7 +6,8 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberController.java" timestamp="1556873491427">
         <mark key="'" line="66" column="27" />
       </file>
-      <file name="/db.changelog-location-documents.yaml" timestamp="1556871552383" />
+      <file name="/db.changelog-location-documents.yaml" timestamp="1556874468347" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/enumeration/DocType.java" timestamp="1556874637354" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/MemberService.java" timestamp="1556873459521">
         <mark key="'" line="106" column="23" />
       </file>
