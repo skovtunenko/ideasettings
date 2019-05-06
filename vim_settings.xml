@@ -4,23 +4,30 @@
     <globalmarks />
     <filemarks>
       <file name="/ActionCodeRepository.java" timestamp="1557129739447" />
+      <file name="/AbcWebSecurityConfiguration.java" timestamp="1557153552401" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1557135452663" />
+      <file name="/ActionCodeValidator.java" timestamp="1557129963860" />
+      <file name="/ProfileAwareLdapAuthenticationProvider.java" timestamp="1557153660593" />
+      <file name="/RemovedActionCodeRepository.java" timestamp="1557129687336" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcWebSecurityConfiguration.java" timestamp="1557153491168" />
+      <file name="/20190506.REL1-8842.create-action_code-table.yaml" timestamp="1557129173360" />
+      <file name="/ActionCodeController.java" timestamp="1557129507329" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1557135688310" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberNoteController.java" timestamp="1557134969367" />
+      <file name="/InternalUserProfileService.java" timestamp="1557153816746" />
       <file name="/ArchivedActionCodeController.java" timestamp="1557129556077" />
       <file name="/ActionCodeBase.java" timestamp="1557129463577" />
-      <file name="/ActionCodeValidator.java" timestamp="1557129963860" />
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/RemovedActionCodeRepository.java" timestamp="1557129687336" />
       <file name="/ActionCodeVOMapper.java" timestamp="1557129782066" />
       <file name="/ActionCodeBaseVO.java" timestamp="1557130099103" />
-      <file name="/20190506.REL1-8842.create-action_code-table.yaml" timestamp="1557129173360" />
+      <file name="/BaseInternalUserProfile.java" timestamp="1557153279451" />
+      <file name="/InternalAliasNumberGenerator.java" timestamp="1557153890681" />
       <file name="/db.changelog-master.yaml" timestamp="1557129094877" />
       <file name="/ActionCodeService.java" timestamp="1557129917868" />
-      <file name="/ActionCodeController.java" timestamp="1557129507329" />
       <file name="/ActionCode.java" timestamp="1557129480668" />
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.0.11.RELEASE/cc6891de68cff6b23ed8d9bbfc6c22b15131cf7/spring-security-core-5.0.11.RELEASE-sources.jar!/org/springframework/security/access/hierarchicalroles/RoleHierarchyImpl.java" timestamp="1557135688310" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/controller/MemberNoteController.java" timestamp="1557134969367" />
+      <file name="/InternalUserProfileRepository.java" timestamp="1557153833329" />
     </filemarks>
     <jumps>
       <jump line="129" column="48" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
