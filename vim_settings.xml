@@ -201,7 +201,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickImplementations</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -255,8 +255,8 @@
         <entry>action ShowUsages</entry>
         <entry>action Find</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action QuickImplementations</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
