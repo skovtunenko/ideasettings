@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/LDAPTests.groovy" timestamp="1557231065042" />
+      <file name="/Dummy.txt" timestamp="1557303712232">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/client/ClientTestDataGenerator.groovy" timestamp="1557236119418" />
-      <file name="/20190430.REL1-8217.add-internal-profile.yaml" timestamp="1557232089114" />
     </filemarks>
     <jumps>
       <jump line="129" column="48" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
