@@ -9,7 +9,11 @@
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/secure-authorization/src/main/resources/bootstrap.yml" timestamp="1557311405508" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.java" timestamp="1557318577278">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="129" column="48" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
@@ -123,7 +127,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGVTeXN0ZW1Qcm9wZXJ0aWVzOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -150,13 +154,13 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcnJpZGVTeXN0ZW1Qcm9wZXJ0aWVzOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxsb3dPdmVycmlkZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZzoK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKCBTdHJpbmdbXSBhcmdzICkKICAgIG92ZXJyaWRlU3lzdGVtUHJvcGVydGllczogZmFsc2UKICAgIG92ZXJyaWRlU3lzdGVtUHJvcGVydGllczogZmFsc2UKICAgIHsKICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -172,22 +176,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdsb2c0ajpsb2c0ajoxLjJkZGQuMTcnKSAvL2ZpeGVzIHN0dXBpZCB3YXJuaW5nCg==</text>
+        <text encoding="base64">ICAgICAgb3ZlcnJpZGVTeXN0ZW1Qcm9wZXJ0aWVzOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcucHJvamVjdGxvbWJvazpsb21ib2s6MS4xOC40JykK</text>
+        <text encoding="base64">ICAgICAgYWxsb3dPdmVycmlkZTogdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcucHJvamVjdGxvbWJvazpsb21ib2s6MS4xOC40JykK</text>
+        <text encoding="base64">ICAgIGNvbmZpZzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCdsb2c0ajpsb2c0ajoxLjJkZGQuMTcnKSAvL2ZpeGVzIHN0dXBpZCB3YXJuaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIG9yZy5zbGY0ai5Mb2dnZXIgbG9nID0gb3JnLnNsZjRqLkxvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKERhdGFiYXNlQ29udGFpbmVyQXBwbGljYXRpb24uY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcucHJvamVjdGxvbWJvazpsb21ib2s6MS4xOC40JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5KCdvcmcucHJvamVjdGxvbWJvazpsb21ib2s6MS4xOC40JykK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
