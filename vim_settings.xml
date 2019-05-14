@@ -23,7 +23,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/config-server/src/main/resources/bootstrap.yml" timestamp="1557831293448" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1557832850103" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1557832382378" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/application-local.yml" timestamp="1557830095297" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/application-local.yml" timestamp="1557843553428" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/src/main/resources/banner.txt" timestamp="1557830830592" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/OrganizationApplication.java" timestamp="1557832046244">
         <mark key="'" line="6" column="5" />
