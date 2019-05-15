@@ -3,45 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/src/main/java/com/abcfinancial/edge/controller/HealthCheckController.java" timestamp="1557831956222" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/.gitmodules" timestamp="1557831872983" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/src/main/resources/application-local.yml" timestamp="1557831149656" />
-      <file name="/SubscriptionData.java" timestamp="1557846878499" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557832773488" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/config-server/src/main/resources/bootstrap.yml" timestamp="1557831293448" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/application-local.yml" timestamp="1557832850103" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/application-local.yml" timestamp="1557843553428" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/OrganizationApplication.java" timestamp="1557832046244">
         <mark key="'" line="6" column="5" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/resources/bootstrap.yml" timestamp="1557832565383" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/8.2.0/cec1459a2d17813a7a10b926dc9ce44c7452c016/common-core-8.2.0-sources.jar!/com/abcfinancial/api/common/annotation/AbcService.java" timestamp="1557832048413">
         <mark key="'" line="22" column="12" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/api-gateway.yml" timestamp="1557836687012" />
       <file name="/Dummy.txt" timestamp="1557832652113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/application-local.yml" timestamp="1557846353827" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1557842302128">
         <mark key="[" line="2" column="51" />
       </file>
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.8.RELEASE/63ad6ae49bfab563b551afb66dc56644dc1485d5/spring-boot-autoconfigure-2.0.8.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" timestamp="1557832052985" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/config-server/src/main/java/com/abcfinancial/config/configserver/ConfigServerApplication.java" timestamp="1557831285705" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1557832382378" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/src/main/resources/banner.txt" timestamp="1557830830592" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/notification/src/test/resources/application-local.yml" timestamp="1557846310717" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/api-gateway/src/main/resources/bootstrap.yml" timestamp="1557831001695" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/ApplicationService.java" timestamp="1557832246330" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/UniqueNumberRepository.java" timestamp="1557912057142" />
       <file name="/fragment.java" timestamp="1557832652105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/config-server/src/main/resources/application.yml" timestamp="1557831430144" />
     </filemarks>
     <jumps>
       <jump line="133" column="106" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
