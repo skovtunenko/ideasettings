@@ -24,6 +24,12 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557994473189">
         <mark key="'" line="128" column="20" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1558000361206">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/AsyncHandlerInterceptor.java" timestamp="1557994306811" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerEndpointsConfigurer.java" timestamp="1557994255735" />
       <file name="/fragment.java" timestamp="1557832652105">
