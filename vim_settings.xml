@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/common-core/build.gradle" timestamp="1557917618030" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1557918250643">
-        <mark key="[" line="20" column="125" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/common/domain/Reason.java" timestamp="1557922101449" />
       <file name="/Dummy.txt" timestamp="1557926929411">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -19,24 +14,26 @@
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Jenkinsfile" timestamp="1557916159895" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/repository/UniqueNumberRepository.java" timestamp="1557912057142" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-staging.yml" timestamp="1557926703471" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-qa.yml" timestamp="1557926746537" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-qa.yml" timestamp="1557926952708" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1557917661624" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/client/RemovedClient.java" timestamp="1557917716725" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1557994315238">
+        <mark key="'" line="32" column="68" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
+        <mark key="'" line="23" column="65" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/9.3.0/b302afd0eac8eaf5bc539ca24926023c8eeda429/common-core-9.3.0-sources.jar!/com/abcfinancial/api/common/tenancy/Tenancy.java" timestamp="1557994340134" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557994473189">
+        <mark key="'" line="128" column="20" />
+      </file>
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/AsyncHandlerInterceptor.java" timestamp="1557994306811" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.security.oauth/spring-security-oauth2/2.2.1.RELEASE/2fc46ad11050219e1d45663a9f872d9f773e19ba/spring-security-oauth2-2.2.1.RELEASE-sources.jar!/org/springframework/security/oauth2/config/annotation/web/configurers/AuthorizationServerEndpointsConfigurer.java" timestamp="1557994255735" />
       <file name="/fragment.java" timestamp="1557832652105">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1557918250643">
+        <mark key="[" line="20" column="125" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="106" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/5.0.12.RELEASE/fa395868c296475b98b1aeb6a8cd1b21f5a4ac74/spring-tx-5.0.12.RELEASE-sources.jar!/org/springframework/transaction/support/TransactionTemplate.java" />
-      <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="47" column="51" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="46" column="65" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="60" column="75" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
-      <jump line="74" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="34" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="87" column="58" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
       <jump line="64" column="65" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/number/MemberNumberGenerator.java" />
@@ -131,6 +128,12 @@
       <jump line="60" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/service/document/DocumentService.java" />
       <jump line="6" column="5" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/OrganizationApplication.java" />
       <jump line="22" column="12" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-core/8.2.0/cec1459a2d17813a7a10b926dc9ce44c7452c016/common-core-8.2.0-sources.jar!/com/abcfinancial/api/common/annotation/AbcService.java" />
+      <jump line="23" column="65" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" />
+      <jump line="111" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" />
+      <jump line="100" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" />
+      <jump line="123" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" />
+      <jump line="32" column="68" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" />
+      <jump line="128" column="20" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
