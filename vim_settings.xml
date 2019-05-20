@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558375890888">
+      <file name="/Dummy.txt" timestamp="1558377499184">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -17,22 +17,28 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1557994315238">
         <mark key="'" line="32" column="68" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1558000361206">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
         <mark key="'" line="23" column="65" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557994473189">
         <mark key="'" line="128" column="20" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1558000361206">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/organization-staging.yml" timestamp="1558377487009" />
       <file name="/fragment.java" timestamp="1557832652105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-staging.yml" timestamp="1558375138850" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-prod.yml" timestamp="1558376704467">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1557918250643">
         <mark key="[" line="20" column="125" />
       </file>
@@ -148,8 +154,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>local</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJvb3RzdHJhcFNlcnZlcnM6ICdjcC1rYWZrYS0wLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMS5jcC1rYWZrYS1oZWFkbGVzczo5MDkyLGNwLWthZmthLTIuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MicK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -176,13 +182,13 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFVVE9NQVRFRF9URVNUSU5HOnQzc3RAbGx0aDN0aDFuZ3MK</text>
+        <text encoding="base64">ICAgIGJvb3RzdHJhcFNlcnZlcnM6ICdjcC1rYWZrYS0wLmNwLWthZmthLWhlYWRsZXNzOjkwOTIsY3Ata2Fma2EtMS5jcC1rYWZrYS1oZWFkbGVzczo5MDkyLGNwLWthZmthLTIuY3Ata2Fma2EtaGVhZGxlc3M6OTA5MicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
+        <text encoding="base64">ICBrYWZrYToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zdHJlYW0uZXZlbnRzLkF0dHJpYnV0ZTsK</text>
+        <text encoding="base64">c3ByaW5nOgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -198,22 +204,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zdHJlYW0uZXZlbnRzLlN0YXJ0RWxlbWVudDsK</text>
+        <text encoding="base64">ICAgIEFVVE9NQVRFRF9URVNUSU5HOnQzc3RAbGx0aDN0aDFuZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5JdGVyYXRvcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zb21lY29tcGFueS5wcm9jZXNzb3IuZm9ybWF0dGVyLmltcGwudXMuY2MudmFudGl2LmNvbW1vbi5Db25zdGFudHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zdHJlYW0uZXZlbnRzLkF0dHJpYnV0ZTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBDcmVkaXRSZXNwb25zZSBjcmVkaXRSZXNwb25zZURhdGEoIFN0YXJ0RWxlbWVudCBzdGFydEVsZW1lbnQsIFN0cmluZyBjcmVkaXRSZXNwb25zZUVsZW1lbnQgKQogICAgewogICAgICAgIGlmKCBjcmVkaXRSZXNwb25zZUVsZW1lbnQuZXF1YWxzSWdub3JlQ2FzZSggQ1JFRElUX1JFU1BPTlNFICkgKQogICAgICAgIHsKICAgICAgICAgICAgbG9nLmluZm8oICJTdGFydCBjcmVkaXRSZXNwb25zZSA6IGNyZWRpdFJlc3BvbnNlIiApOwogICAgICAgICAgICBJdGVyYXRvcjxBdHRyaWJ1dGU+IGF0dHJpYnV0ZXMgPSBzdGFydEVsZW1lbnQuZ2V0QXR0cmlidXRlcygpOwogICAgICAgICAgICB3aGlsZSggYXR0cmlidXRlcy5oYXNOZXh0KCkgKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBdHRyaWJ1dGUgYXR0cmlidXRlID0gYXR0cmlidXRlcy5uZXh0KCk7CiAgICAgICAgICAgICAgICB0cmFuc2FjdGlvblJlc3BvbnNlQXR0cmlidXRlUHJvcGVydGllcy5zZXRQcm9wZXJ0eSggU3RyaW5nLnZhbHVlT2YoIGF0dHJpYnV0ZS5nZXROYW1lKCkgKSwgU3RyaW5nLnZhbHVlT2YoIGF0dHJpYnV0ZS5nZXRWYWx1ZSgpICkgKTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gQ3JlZGl0UmVzcG9uc2UuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmNyZWRpdFJlc3BvbnNlSWQoIHRyYW5zYWN0aW9uUmVzcG9uc2VBdHRyaWJ1dGVQcm9wZXJ0aWVzLmdldFByb3BlcnR5KCBDUkVESVRfUkVTUE9OU0VfSUQgKSApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnJlcG9ydEdyb3VwKCB0cmFuc2FjdGlvblJlc3BvbnNlQXR0cmlidXRlUHJvcGVydGllcy5nZXRQcm9wZXJ0eSggUkVQT1JUX0dST1VQICkgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5jdXN0b21lcklkKCB0cmFuc2FjdGlvblJlc3BvbnNlQXR0cmlidXRlUHJvcGVydGllcy5nZXRQcm9wZXJ0eSggQ1VTVE9NRVJfSUQgKSApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCk7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnhtbC5zdHJlYW0uZXZlbnRzLlN0YXJ0RWxlbWVudDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zb21lY29tcGFueS5wcm9jZXNzb3IuZm9ybWF0dGVyLmltcGwudXMuY2MudmFudGl2LmNvbW1vbi5Db25zdGFudHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
