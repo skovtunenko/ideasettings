@@ -20,18 +20,12 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
         <mark key="'" line="23" column="65" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558389319025">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558718862593">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557994473189">
         <mark key="'" line="128" column="20" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/organization-prod.yml" timestamp="1558382088861" />
-      <file name="/organization.yml" timestamp="1558388234293" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/test/resources/application-local.yml" timestamp="1558388966578" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/build.gradle" timestamp="1558000361206">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="3" />
@@ -41,11 +35,9 @@
       <file name="/authorization.oauth_client [@localhost]" timestamp="1558384440835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/organization-staging.yml" timestamp="1558377487009" />
       <file name="/fragment.java" timestamp="1557832652105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-staging.yml" timestamp="1558375138850" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/notification-prod.yml" timestamp="1558376704467">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
