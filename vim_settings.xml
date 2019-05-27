@@ -20,6 +20,18 @@
       <file name="/payment_gateway.company [DEV RO]" timestamp="1558732907793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/PaymentMethodService.java" timestamp="1558740598508">
+        <mark key="[" line="213" column="61" />
+        <mark key="]" line="213" column="60" />
+        <mark key="." line="213" column="60" />
+        <mark key="^" line="213" column="60" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Batch.java" timestamp="1558908176726">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentSchedulerJob.java" timestamp="1558742300813">
         <mark key="'" line="22" column="23" />
       </file>
@@ -82,6 +94,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Formatter.java" timestamp="1558906421558">
         <mark key="'" line="4" column="12" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/README.md" timestamp="1558908322571" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558718862593">
         <mark key="'" line="0" column="0" />
       </file>
@@ -94,6 +107,11 @@
       </file>
       <file name="/payment_gateway.transaction [DEV RO]" timestamp="1558898761034">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Transaction.java" timestamp="1558908140236">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Demo.java" timestamp="1558906412808">
         <mark key="'" line="4" column="27" />
@@ -225,8 +243,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -253,13 +271,13 @@
         <text encoding="base64">ICAgICIiIDoge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF1dGhvcml6YXRpb24sc2NoZWR1bGUsbm90aWZpY2F0aW9uLGNhdGFsb2csb3JnYW5pemF0aW9uLHB1cmNoYXNlLGJpbGxpbmcsY29udmVyc2lvbixwYXltZW50LWdhdGV3YXkK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIldyaXRpbmcgUGF5bWVudCBmaWxlbmFtZSAiICsgZmlsZU5hbWUgKTsK</text>
+        <text encoding="base64">ICogVE9ETwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIldyaXRpbmcgUGF5bWVudCBmaWxlbmFtZSAiICsgZmlsZU5hbWUgKTsK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml6YXRpb24sc2NoZWR1bGUsbm90aWZpY2F0aW9uLGNhdGFsb2csb3JnYW5pemF0aW9uLHB1cmNoYXNlLGJpbGxpbmcsY29udmVyc2lvbixwYXltZW50LWdhdGV3YXkK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -275,22 +293,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrZXktdXJpOiAnaHR0cDovL2F1dGhvcml6YXRpb246ODA4MC90b2tlbktleScK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIldyaXRpbmcgUGF5bWVudCBmaWxlbmFtZSAiICsgZmlsZU5hbWUgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgand0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIldyaXRpbmcgUGF5bWVudCBmaWxlbmFtZSAiICsgZmlsZU5hbWUgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc291cmNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBrZXktdXJpOiAnaHR0cDovL2F1dGhvcml6YXRpb246ODA4MC90b2tlbktleScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LXNlY3JldDogJ1BMQUNFSE9MREVSX0NMSUVOVF9TRUNSRVQnCg==</text>
+        <text encoding="base64">ICAgICAgand0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50LWlkOiAnUExBQ0VIT0xERVJfQ0xJRU5UX0lEJwo=</text>
+        <text encoding="base64">ICAgIHJlc291cmNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDoK</text>
+        <text encoding="base64">ICAgICAgY2xpZW50LXNlY3JldDogJ1BMQUNFSE9MREVSX0NMSUVOVF9TRUNSRVQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ShowUsages</text>
