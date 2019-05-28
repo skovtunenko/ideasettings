@@ -9,6 +9,12 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1557994315238">
         <mark key="'" line="32" column="68" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/broker/domain/Audit.java" timestamp="1559070042656">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="44" />
+        <mark key="^" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
         <mark key="'" line="23" column="65" />
       </file>
@@ -30,6 +36,12 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="4" column="38" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/broker/domain/Command.java" timestamp="1559070021225">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentSchedulerJob.java" timestamp="1558742300813">
         <mark key="'" line="22" column="23" />
       </file>
@@ -46,13 +58,6 @@
       </file>
       <file name="/oauth_client [@localhost]" timestamp="1558732889687">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/communications/filesystem/util/CommandFilesystemHelper.java" timestamp="1558744840455">
-        <mark key="'" line="71" column="26" />
-        <mark key="[" line="72" column="47" />
-        <mark key="]" line="72" column="59" />
-        <mark key="." line="72" column="59" />
-        <mark key="^" line="72" column="59" />
       </file>
       <file name="/payment_gateway.account_info [DEV RO]" timestamp="1558902087158">
         <mark key="[" line="0" column="0" />
@@ -92,7 +97,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Formatter.java" timestamp="1558906421558">
         <mark key="'" line="4" column="12" />
       </file>
-      <file name="/build.gradle" timestamp="1559018193442" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558718862593">
         <mark key="'" line="0" column="0" />
       </file>
@@ -113,24 +117,37 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Demo.java" timestamp="1558906412808">
         <mark key="'" line="4" column="27" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1559070320328">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+      </file>
       <file name="/payment_gateway.audit [DEV RO]" timestamp="1558898761051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.command [DEV RO]" timestamp="1558732904259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/ResourceServerConfiguration.java" timestamp="1559070685314" />
       <file name="/authorization.oauth_client [QA RO]" timestamp="1558898841183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client [@localhost]" timestamp="1558384440835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1557832652105">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1559069940515">
+        <mark key="'" line="64" column="32" />
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1559070000777">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="9" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/event/impl/kafka/KafkaEventService.java" />
       <jump line="381" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="68" column="7" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="73" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
@@ -230,6 +247,7 @@
       <jump line="4" column="12" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Formatter.java" />
       <jump line="4" column="8" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/BatchFile.java" />
       <jump line="44" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/batch/payment/PaymentBatchingService.java" />
+      <jump line="64" column="32" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
