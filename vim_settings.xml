@@ -1,9 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/spi/Formatter.java" timestamp="1559231714648" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1557994315238">
         <mark key="'" line="32" column="68" />
       </file>
@@ -16,7 +15,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
         <mark key="'" line="23" column="65" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/formatters/sample/EFTPaymentRequest.java" timestamp="1559231479088" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-format-providers/us-amex-provider/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/impl/us/amex/AMEXABPP300ResponseReader.java" timestamp="1559191266962">
         <mark key="'" line="34" column="40" />
         <mark key="[" line="107" column="83" />
@@ -49,9 +47,6 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/broker/domain/Command.java" timestamp="1559070021225">
         <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/PaymentMethodService.java" timestamp="1558740598508">
         <mark key="[" line="213" column="61" />
@@ -91,6 +86,11 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/sample-app/build.gradle" timestamp="1559230483186">
         <mark key="'" line="7" column="21" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-eft-nacha-provider/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/impl/us/eft/nacha/formatter/writer/NachaFormatter.java" timestamp="1559240010561">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-amex-provider/gradle.properties" timestamp="1559084648852">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="19" />
@@ -124,7 +124,7 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentResponseFilesListJob.java" timestamp="1559187237419">
-        <mark key="'" line="49" column="72" />
+        <mark key="'" line="11" column="72" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/gradle.properties" timestamp="1559084611318">
         <mark key="[" line="9" column="15" />
@@ -162,20 +162,15 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/sample-app/gradle.properties" timestamp="1559230541614" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1559108945546">
-        <mark key="'" line="64" column="32" />
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
+        <mark key="'" line="52" column="32" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-eft-nacha-provider/gradle.properties" timestamp="1559084547258">
         <mark key="[" line="9" column="17" />
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/batch/BatchingProcessorInfo.java" timestamp="1559228866662" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/batch/BatchingProcessorInfo.java" timestamp="1559239854133" />
     </filemarks>
     <jumps>
       <jump line="185" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AuthorizationServer.java" />
@@ -288,8 +283,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -316,13 +311,13 @@
         <text>=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICJTcGVjaWZpY2F0aW9uLVRpdGxlIjogJ0Zvcm1hdCBwcm92aWRlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvamVjdFZlcnNpb249Mi4wLjEK</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVzICJTcGVjaWZpY2F0aW9uLVRpdGxlIjogJ0Zvcm1hdCBwcm92aWRlcicK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -341,19 +336,19 @@
         <text encoding="base64">cHJvamVjdFZlcnNpb249Mi4wLjEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvamVjdFZlcnNpb249OS4zLjMK</text>
+        <text encoding="base64">cHJvamVjdFZlcnNpb249Mi4wLjEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">cHJvamVjdFZlcnNpb249OS4zLjMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVE9ETwo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dGhvcml6YXRpb24sc2NoZWR1bGUsbm90aWZpY2F0aW9uLGNhdGFsb2csb3JnYW5pemF0aW9uLHB1cmNoYXNlLGJpbGxpbmcsY29udmVyc2lvbixwYXltZW50LWdhdGV3YXkK</text>
+        <text encoding="base64">ICogVE9ETwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyggIldyaXRpbmcgUGF5bWVudCBmaWxlbmFtZSAiICsgZmlsZU5hbWUgKTsK</text>
+        <text encoding="base64">ICAgIGF1dGhvcml6YXRpb24sc2NoZWR1bGUsbm90aWZpY2F0aW9uLGNhdGFsb2csb3JnYW5pemF0aW9uLHB1cmNoYXNlLGJpbGxpbmcsY29udmVyc2lvbixwYXltZW50LWdhdGV3YXkK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
