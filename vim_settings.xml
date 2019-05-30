@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/spi/Formatter.java" timestamp="1559231714648" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.12.RELEASE/2bde6778a543e2418f12074c01544ec833e50f20/spring-webmvc-5.0.12.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java" timestamp="1557994315238">
         <mark key="'" line="32" column="68" />
       </file>
@@ -15,6 +16,7 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
         <mark key="'" line="23" column="65" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/formatters/sample/EFTPaymentRequest.java" timestamp="1559231479088" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-format-providers/us-amex-provider/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/impl/us/amex/AMEXABPP300ResponseReader.java" timestamp="1559191266962">
         <mark key="'" line="34" column="40" />
         <mark key="[" line="107" column="83" />
@@ -57,6 +59,11 @@
         <mark key="." line="213" column="60" />
         <mark key="^" line="213" column="60" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/settings.gradle" timestamp="1559230292174">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentSchedulerJob.java" timestamp="1558742300813">
         <mark key="'" line="22" column="23" />
       </file>
@@ -74,18 +81,15 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/communications/datastore/impl/SftpDataStoreFactory.java" timestamp="1558731133313">
         <mark key="'" line="5" column="20" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/build.gradle" timestamp="1559085298357">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/communications/filesystem/util/CommandFilesystemHelper.java" timestamp="1559227493260">
         <mark key="'" line="101" column="22" />
         <mark key="[" line="87" column="45" />
         <mark key="]" line="87" column="44" />
         <mark key="^" line="87" column="44" />
         <mark key="." line="87" column="44" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/sample-app/build.gradle" timestamp="1559230483186">
+        <mark key="'" line="7" column="21" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-amex-provider/gradle.properties" timestamp="1559084648852">
         <mark key="[" line="9" column="15" />
@@ -103,6 +107,9 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorController.java" timestamp="1558735272746">
         <mark key="'" line="41" column="80" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/formatters/sample/EFTPaymentResponse.java" timestamp="1559231746374">
+        <mark key="'" line="29" column="43" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/ProcessToBatch.java" timestamp="1558742330611">
         <mark key="'" line="66" column="47" />
@@ -124,6 +131,9 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/build.gradle" timestamp="1559230848601">
+        <mark key="[" line="65" column="1" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Transaction.java" timestamp="1558908140236">
         <mark key="[" line="3" column="0" />
@@ -152,6 +162,7 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/sample-app/gradle.properties" timestamp="1559230541614" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1559108945546">
         <mark key="'" line="64" column="32" />
         <mark key="[" line="45" column="7" />
@@ -167,9 +178,6 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/batch/BatchingProcessorInfo.java" timestamp="1559228866662" />
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
-      <jump line="67" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
-      <jump line="64" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
       <jump line="185" column="33" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AuthorizationServer.java" />
       <jump line="74" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="173" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
@@ -267,6 +275,9 @@
       <jump line="108" column="56" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-format-providers/us-amex-provider/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/impl/us/amex/AMEXABPP300ResponseReader.java" />
       <jump line="34" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-format-providers/us-amex-provider/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/impl/us/amex/AMEXABPP300ResponseReader.java" />
       <jump line="101" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/communications/filesystem/util/CommandFilesystemHelper.java" />
+      <jump line="7" column="21" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/sample-app/build.gradle" />
+      <jump line="56" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/formatters/sample/EFTPaymentResponse.java" />
+      <jump line="29" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/formatters/sample/EFTPaymentResponse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -278,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -296,7 +307,7 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZWZlcmVuY2VOdW1iZXJcPg==</text>
