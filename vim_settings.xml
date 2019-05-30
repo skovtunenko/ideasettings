@@ -15,6 +15,9 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
+        <mark key="'" line="23" column="65" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization-core/src/main/java/com/abcfinancial/api/authorization/core/configuration/AbcAuthorizationServerConfiguration.java" timestamp="1557994473189">
         <mark key="'" line="128" column="20" />
       </file>
@@ -33,6 +36,12 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/PaymentMethodService.java" timestamp="1558740598508">
+        <mark key="[" line="213" column="61" />
+        <mark key="]" line="213" column="60" />
+        <mark key="." line="213" column="60" />
+        <mark key="^" line="213" column="60" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentSchedulerJob.java" timestamp="1558742300813">
         <mark key="'" line="22" column="23" />
       </file>
@@ -43,72 +52,6 @@
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/test-data/src/main/java/com/abcfinancial/test/data/domain/BaseDomain.java" timestamp="1559167150022">
         <mark key="'" line="71" column="25" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1557918250643">
-        <mark key="[" line="20" column="125" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1557842302128">
-        <mark key="[" line="2" column="51" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorController.java" timestamp="1558735272746">
-        <mark key="'" line="41" column="80" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/ProcessToBatch.java" timestamp="1558742330611">
-        <mark key="'" line="66" column="47" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558718862593">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/payment_gateway.merchant [DEV RO]" timestamp="1558898760995">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentResponseFilesListJob.java" timestamp="1558731604345">
-        <mark key="'" line="49" column="72" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/gradle.properties" timestamp="1559084611318">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-      </file>
-      <file name="/payment_gateway.transaction [DEV RO]" timestamp="1558898761034">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1559106620315">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="21" />
-        <mark key="^" line="45" column="21" />
-        <mark key="." line="45" column="21" />
-      </file>
-      <file name="/payment_gateway.audit [DEV RO]" timestamp="1558898761051">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-cc-vantiv-provider/gradle.properties" timestamp="1559084684710">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1559108945546">
-        <mark key="'" line="64" column="32" />
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="20" />
-        <mark key="^" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-eft-nacha-provider/gradle.properties" timestamp="1559084547258">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/configuration/AuthorizationServerConfiguration.java" timestamp="1557994193953">
-        <mark key="'" line="23" column="65" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/paymentmethod/PaymentMethodService.java" timestamp="1558740598508">
-        <mark key="[" line="213" column="61" />
-        <mark key="]" line="213" column="60" />
-        <mark key="." line="213" column="60" />
-        <mark key="^" line="213" column="60" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/ResponseFileProcessor.java" timestamp="1558728869716">
         <mark key="'" line="29" column="37" />
@@ -131,6 +74,9 @@
       <file name="/dummy.sql" timestamp="1558902347730">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/authorization-dev.yml" timestamp="1557918250643">
+        <mark key="[" line="20" column="125" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-amex-provider/gradle.properties" timestamp="1559084648852">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="19" />
@@ -145,11 +91,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1557842302128">
+        <mark key="[" line="2" column="51" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/ProcessorController.java" timestamp="1558735272746">
+        <mark key="'" line="41" column="80" />
+      </file>
       <file name="/RegExp Fragment (RoleHierarchyImpl.java:6254).regexp" timestamp="1557135351371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.processor [DEV RO]" timestamp="1558898760622">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/ProcessToBatch.java" timestamp="1558742330611">
+        <mark key="'" line="66" column="47" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Formatter.java" timestamp="1558906421558">
         <mark key="'" line="4" column="12" />
@@ -157,34 +112,80 @@
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/io.codearte.jfairy/jfairy/0.5.0/a6befacc0e88a16b779bfad8591db43a639e3d71/jfairy-0.5.0-sources.jar!/io/codearte/jfairy/Fairy.java" timestamp="1559167152440">
         <mark key="'" line="76" column="14" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/configs/payment-gateway.yml" timestamp="1558718862593">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/payment_gateway.merchant [DEV RO]" timestamp="1558898760995">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/jobs/PaymentResponseFilesListJob.java" timestamp="1558731604345">
+        <mark key="'" line="49" column="72" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/core-formatters-spi/gradle.properties" timestamp="1559084611318">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
+      <file name="/payment_gateway.transaction [DEV RO]" timestamp="1558898761034">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Transaction.java" timestamp="1558908140236">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/processor/domain/Processor.java" timestamp="1559106620315">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="21" />
+        <mark key="^" line="45" column="21" />
+        <mark key="." line="45" column="21" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Demo.java" timestamp="1558906412808">
         <mark key="'" line="4" column="27" />
+      </file>
+      <file name="/payment_gateway.audit [DEV RO]" timestamp="1558898761051">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/payment_gateway.command [DEV RO]" timestamp="1558732904259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1559183632576">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
+      </file>
       <file name="/authorization.oauth_client [QA RO]" timestamp="1558898841183">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-cc-vantiv-provider/gradle.properties" timestamp="1559084684710">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="/authorization.oauth_client [@localhost]" timestamp="1558384440835">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/admin/merchant/domain/Merchant.java" timestamp="1559108945546">
+        <mark key="'" line="64" column="32" />
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="45" column="20" />
+        <mark key="^" line="45" column="20" />
+        <mark key="." line="45" column="20" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-formatters/us-eft-nacha-provider/gradle.properties" timestamp="1559084547258">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1559070000777">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="219" column="11" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="233" column="18" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="309" column="23" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="329" column="22" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
-      <jump line="336" column="60" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/SecurityConfiguration.java" />
       <jump line="60" column="39" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
       <jump line="31" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
       <jump line="61" column="4" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/java/com/abcfinancial/api/authorization/security/AbcTokenEnhancer.java" />
@@ -279,6 +280,12 @@
       <jump line="64" column="43" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/payment-gateway/src/main/java/com/abcfinancial/api/paymentgateway/scheduler/service/batch/payment/PaymentBatchingService.java" />
       <jump line="71" column="25" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/test-data/src/main/java/com/abcfinancial/test/data/domain/BaseDomain.java" />
       <jump line="76" column="14" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/io.codearte.jfairy/jfairy/0.5.0/a6befacc0e88a16b779bfad8591db43a639e3d71/jfairy-0.5.0-sources.jar!/io/codearte/jfairy/Fairy.java" />
+      <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="43" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="36" column="73" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
+      <jump line="37" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,8 +296,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -308,13 +315,13 @@
         <text encoding="base64">YmJiIA==</text>
       </register>
       <register name="-" type="4">
-        <text>9.3.3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dnZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICIiIDoge30K</text>
+      <register name="0" type="4">
+        <text>=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
