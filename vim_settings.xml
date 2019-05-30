@@ -24,6 +24,12 @@
       <file name="/payment_gateway.company [DEV RO]" timestamp="1558732907793">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-format-providers/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/streaming/request/Transaction.java" timestamp="1559186896728">
+        <mark key="[" line="27" column="103" />
+        <mark key="]" line="27" column="94" />
+        <mark key="^" line="27" column="94" />
+        <mark key="." line="27" column="94" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/DELME/platform-formatters/core-formatters-spi/src/main/java/com/abcfinancial/paymentgateway/processor/formatter/interfaces/Batch.java" timestamp="1558908176726">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="38" />
@@ -156,7 +162,7 @@
       <file name="/payment_gateway.command [DEV RO]" timestamp="1558732904259">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1559183632576">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" timestamp="1559186501148">
         <mark key="'" line="37" column="13" />
         <mark key="[" line="39" column="31" />
         <mark key="]" line="40" column="7" />
