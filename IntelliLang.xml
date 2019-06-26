@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="MariaDB" injector-id="java">
+      <display-name>NamedNativeQuery.query (javax.persistence)</display-name>
+      <place><![CDATA[psiMethod().withName("query").withParameters().definedInClass("javax.persistence.NamedNativeQuery")]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>Query.from (com.ghx.tpm.dao.domain.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("from").withParameters().definedInClass("com.ghx.tpm.dao.domain.annotation.Query")]]></place>
