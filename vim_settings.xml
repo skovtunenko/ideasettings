@@ -51,5 +51,8 @@
         <text>shift ctrl pressed SPACE</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <smart-join enabled="true" />
+    </editor>
   </component>
 </application>
