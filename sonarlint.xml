@@ -1,0 +1,180 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="excludedRules">
+      <set>
+        <option value="php:S101" />
+        <option value="php:S1066" />
+        <option value="php:S1068" />
+        <option value="php:S107" />
+        <option value="php:S1075" />
+        <option value="php:S108" />
+        <option value="php:S1109" />
+        <option value="php:S1110" />
+        <option value="php:S1116" />
+        <option value="php:S1117" />
+        <option value="php:S112" />
+        <option value="php:S1125" />
+        <option value="php:S1126" />
+        <option value="php:S1134" />
+        <option value="php:S1135" />
+        <option value="php:S114" />
+        <option value="php:S1142" />
+        <option value="php:S1144" />
+        <option value="php:S1145" />
+        <option value="php:S115" />
+        <option value="php:S1172" />
+        <option value="php:S1185" />
+        <option value="php:S1192" />
+        <option value="php:S121" />
+        <option value="php:S125" />
+        <option value="php:S1264" />
+        <option value="php:S127" />
+        <option value="php:S1301" />
+        <option value="php:S131" />
+        <option value="php:S138" />
+        <option value="php:S1448" />
+        <option value="php:S1479" />
+        <option value="php:S1481" />
+        <option value="php:S1488" />
+        <option value="php:S1536" />
+        <option value="php:S1599" />
+        <option value="php:S1600" />
+        <option value="php:S1603" />
+        <option value="php:S1605" />
+        <option value="php:S1656" />
+        <option value="php:S1697" />
+        <option value="php:S1751" />
+        <option value="php:S1763" />
+        <option value="php:S1764" />
+        <option value="php:S1788" />
+        <option value="php:S1848" />
+        <option value="php:S1854" />
+        <option value="php:S1862" />
+        <option value="php:S1871" />
+        <option value="php:S1998" />
+        <option value="php:S2004" />
+        <option value="php:S2010" />
+        <option value="php:S2014" />
+        <option value="php:S2041" />
+        <option value="php:S2053" />
+        <option value="php:S2068" />
+        <option value="php:S2115" />
+        <option value="php:S2123" />
+        <option value="php:S2201" />
+        <option value="php:S2251" />
+        <option value="php:S2277" />
+        <option value="php:S2278" />
+        <option value="php:S2681" />
+        <option value="php:S2737" />
+        <option value="php:S2757" />
+        <option value="php:S2964" />
+        <option value="php:S3358" />
+        <option value="php:S3626" />
+        <option value="php:S3699" />
+        <option value="php:S3776" />
+        <option value="php:S3923" />
+        <option value="php:S3972" />
+        <option value="php:S3973" />
+        <option value="php:S3981" />
+        <option value="php:S3984" />
+        <option value="php:S4144" />
+        <option value="php:S4423" />
+        <option value="php:S4426" />
+        <option value="php:S4433" />
+        <option value="php:S4524" />
+        <option value="php:S4830" />
+        <option value="php:S836" />
+        <option value="php:S905" />
+        <option value="php:S907" />
+        <option value="python:BackticksUsage" />
+        <option value="python:ExecStatementUsage" />
+        <option value="python:InequalityUsage" />
+        <option value="python:PreIncrementDecrement" />
+        <option value="python:PrintStatementUsage" />
+        <option value="python:S100" />
+        <option value="python:S101" />
+        <option value="python:S1066" />
+        <option value="python:S107" />
+        <option value="python:S108" />
+        <option value="python:S1110" />
+        <option value="python:S1134" />
+        <option value="python:S116" />
+        <option value="python:S117" />
+        <option value="python:S125" />
+        <option value="python:S1313" />
+        <option value="python:S1481" />
+        <option value="python:S1542" />
+        <option value="python:S1656" />
+        <option value="python:S1700" />
+        <option value="python:S1716" />
+        <option value="python:S1763" />
+        <option value="python:S1764" />
+        <option value="python:S1845" />
+        <option value="python:S1862" />
+        <option value="python:S1871" />
+        <option value="python:S2711" />
+        <option value="python:S2712" />
+        <option value="python:S2733" />
+        <option value="python:S2734" />
+        <option value="python:S2772" />
+        <option value="python:S3776" />
+        <option value="ruby:ParsingError" />
+        <option value="ruby:S100" />
+        <option value="ruby:S101" />
+        <option value="ruby:S1066" />
+        <option value="ruby:S107" />
+        <option value="ruby:S108" />
+        <option value="ruby:S1110" />
+        <option value="ruby:S1134" />
+        <option value="ruby:S1135" />
+        <option value="ruby:S1145" />
+        <option value="ruby:S117" />
+        <option value="ruby:S1172" />
+        <option value="ruby:S1186" />
+        <option value="ruby:S1192" />
+        <option value="ruby:S131" />
+        <option value="ruby:S1479" />
+        <option value="ruby:S1481" />
+        <option value="ruby:S1656" />
+        <option value="ruby:S1763" />
+        <option value="ruby:S1764" />
+        <option value="ruby:S1862" />
+        <option value="ruby:S1871" />
+        <option value="ruby:S1940" />
+        <option value="ruby:S2068" />
+        <option value="ruby:S2757" />
+        <option value="ruby:S3776" />
+        <option value="ruby:S3923" />
+        <option value="ruby:S4144" />
+        <option value="ruby:S4663" />
+      </set>
+    </option>
+    <option name="includedRules">
+      <set>
+        <option value="kotlin:ParsingError" />
+        <option value="kotlin:S103" />
+        <option value="kotlin:S104" />
+        <option value="kotlin:S105" />
+        <option value="kotlin:S1067" />
+        <option value="kotlin:S1151" />
+        <option value="kotlin:S122" />
+        <option value="kotlin:S126" />
+        <option value="kotlin:S134" />
+        <option value="kotlin:S138" />
+        <option value="kotlin:S1451" />
+        <option value="kotlin:S1821" />
+      </set>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.ops.30preprod.com" />
+          <token>df9bdf99df9adf92df9fdf9bdfc8df9edfc8dfcfdfcbdf9ddf9cdf92dfcfdfcbdf9adfccdfccdf9cdf98df9edf99df9bdfc8dfcedf98df9fdf93df9bdfc8df9ddf9ddf9edf9adf93dfc9dfc9df9cdfcf</token>
+          <option name="name" value="ABC" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
