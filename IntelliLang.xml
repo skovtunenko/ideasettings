@@ -199,6 +199,10 @@
       <display-name>SharedSessionContract.createSQLQuery (org.hibernate)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createSQLQuery").withParameters("java.lang.String").definedInClass("org.hibernate.SharedSessionContract"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>Subselect.value (org.hibernate.annotations)</display-name>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.hibernate.annotations.Subselect")]]></place>
+    </injection>
     <injection language="SpEL" injector-id="java">
       <display-name>Value.value (org.springframework.beans.factory.annotation)</display-name>
       <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.beans.factory.annotation.Value")]]></place>
