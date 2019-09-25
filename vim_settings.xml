@@ -58,10 +58,5 @@
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
-    <notifications>
-      <idea-join enabled="false" />
-      <idea-put enabled="false" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
