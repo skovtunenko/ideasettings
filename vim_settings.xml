@@ -58,5 +58,9 @@
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
