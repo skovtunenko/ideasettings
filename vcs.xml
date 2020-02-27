@@ -22,9 +22,13 @@
           <option name="url" value="git@github.com:abcfinancial2/platform-payment-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:abcfinancial2/payment-processing-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/Volumes/DEV/GitCheckouts/abcfinancial2" />
+    <option name="cloneParentDir" value="/Volumes/DEV/GitCheckouts/abcfinancial2/POC" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
