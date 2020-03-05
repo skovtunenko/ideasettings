@@ -116,17 +116,66 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/api-gateway-staging.yml" timestamp="1583336704562">
-        <mark key="[" line="310" column="0" />
-        <mark key="]" line="310" column="0" />
-        <mark key="." line="310" column="0" />
+      <file name="/oauth_client [QA R/O]" timestamp="1583406673882">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1583338080894">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/account/update/AccountUpdateResponseAuditRepository.java" timestamp="1583406975936">
+        <mark key="'" line="50" column="79" />
+      </file>
+      <file name="/DATABASECHANGELOGLOCK [QA R/O]" timestamp="1583406674082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.company" timestamp="1583406672706">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/oauth_client [DEV R/O]" timestamp="1583406673765">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.oauth_client" timestamp="1583406673897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tin_sequence [CERT R/O]" timestamp="1583406673175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/staging_payment_batch [CERT R/O]" timestamp="1583406672774">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/common_response_code [QA R/O]" timestamp="1583406673397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.tin_sequence" timestamp="1583406673334">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.country_lookup" timestamp="1583406672879">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/country_lookup [CERT R/O]" timestamp="1583406672852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.common_response_code" timestamp="1583406673421">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/processor_response_code [QA R/O]" timestamp="1583406673504">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1583407003664" />
+      <file name="/hard_collection.DATABASECHANGELOGLOCK" timestamp="1583406674097">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/company [CERT R/O]" timestamp="1583406672686">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tin_sequence [QA R/O]" timestamp="1583406673308">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.staging_payment_batch" timestamp="1583406672800">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/abc_payment_gateway.processor_response_code" timestamp="1583406673519">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="52" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/secure-authorization/src/main/resources/db/changelog/permission/20200204.REL1-16646-add-change-history-permission.yaml" />
       <jump line="72" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyVOMapper.java" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyVOMapper.java" />
       <jump line="73" column="57" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyVOMapper.java" />
@@ -226,6 +275,7 @@
       <jump line="31" column="15" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/18.6.2/bcc223751ea28036fb69282b77ecee174a155b4d/common-unit-test-18.6.2-sources.jar!/com/abcfinancial/api/common/test/sftp/SFTPHelper.java" />
       <jump line="75" column="32" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/com.abcfinancial.api/common-unit-test/18.6.2/bcc223751ea28036fb69282b77ecee174a155b4d/common-unit-test-18.6.2-sources.jar!/com/abcfinancial/api/common/test/sftp/SFTPHelper.java" />
       <jump line="275" column="25" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/nio/file/FileSystems.java" />
+      <jump line="50" column="79" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/account/update/AccountUpdateResponseAuditRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
