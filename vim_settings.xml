@@ -139,9 +139,6 @@
       <file name="/common_response_code [QA R/O]" timestamp="1583406673397">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/abc_payment_gateway.tin_sequence" timestamp="1583406673334">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abcbilling-cert.yml" timestamp="1583429575081" />
       <file name="/abc_payment_gateway.common_response_code" timestamp="1583406673421">
         <mark key="[" line="0" column="0" />
@@ -150,6 +147,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1583407003664" />
+      <file name="/taxation-qa.yml" timestamp="1583431059214" />
       <file name="/hard_collection.DATABASECHANGELOGLOCK" timestamp="1583406674097">
         <mark key="[" line="0" column="0" />
       </file>
