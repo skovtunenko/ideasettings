@@ -116,42 +116,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/ItemController.java" timestamp="1583487705364">
+        <mark key="'" line="54" column="36" />
+      </file>
       <file name="/oauth_client [QA R/O]" timestamp="1583406673882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/account/update/AccountUpdateResponseAuditRepository.java" timestamp="1583406975936">
         <mark key="'" line="50" column="79" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/vo/ItemRequestVO.java" timestamp="1583487592909">
+        <mark key="'" line="7" column="44" />
+      </file>
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/a81d6029eb792e7f0556357cc619fd938897b15f/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/PageJacksonModule.java" timestamp="1583422989853">
         <mark key="'" line="152" column="22" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abcbilling-staging.yml" timestamp="1583429596682" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/category/ItemCategoryController.java" timestamp="1583487504378" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/vo/BaseItemVO.java" timestamp="1583487612523" />
       <file name="/DATABASECHANGELOGLOCK [QA R/O]" timestamp="1583406674082">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.10.RELEASE/f7841c4bde3526e1f69c0f3af61acc2e5f76d512/spring-data-commons-2.1.10.RELEASE-sources.jar!/org/springframework/data/domain/Slice.java" timestamp="1583422772135" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/cleanup/CatalogController.java" timestamp="1583487430998" />
+      <file name="/hard_collection.DATABASECHANGELOGLOCK" timestamp="1583406674097">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/oauth_client [DEV R/O]" timestamp="1583406673765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client" timestamp="1583406673897">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/common_response_code [QA R/O]" timestamp="1583406673397">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abcbilling-cert.yml" timestamp="1583429575081" />
-      <file name="/abc_payment_gateway.common_response_code" timestamp="1583406673421">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/processor_response_code [QA R/O]" timestamp="1583406673504">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/src.zip!/java/lang/Integer.java" timestamp="1583407003664" />
-      <file name="/taxation-qa.yml" timestamp="1583431059214" />
-      <file name="/hard_collection.DATABASECHANGELOGLOCK" timestamp="1583406674097">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/transaction/TransactionService.java" timestamp="1583433517187" />
       <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.10.RELEASE/f7841c4bde3526e1f69c0f3af61acc2e5f76d512/spring-data-commons-2.1.10.RELEASE-sources.jar!/org/springframework/data/domain/Page.java" timestamp="1583421152425">
         <mark key="'" line="55" column="14" />
       </file>
@@ -160,8 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="57" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyVOMapper.java" />
-      <jump line="14" column="35" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/test/http/rest-api.http" />
       <jump line="0" column="0" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/test/http/rest-api.http" />
       <jump line="224" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/webhook/sender/WebhookEventSender.java" />
       <jump line="211" column="27" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/webhook/sender/WebhookEventSender.java" />
@@ -260,6 +252,8 @@
       <jump line="50" column="79" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/account/update/AccountUpdateResponseAuditRepository.java" />
       <jump line="55" column="14" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.10.RELEASE/f7841c4bde3526e1f69c0f3af61acc2e5f76d512/spring-data-commons-2.1.10.RELEASE-sources.jar!/org/springframework/data/domain/Page.java" />
       <jump line="152" column="22" filename="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/a81d6029eb792e7f0556357cc619fd938897b15f/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/PageJacksonModule.java" />
+      <jump line="54" column="36" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/ItemController.java" />
+      <jump line="7" column="44" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/vo/ItemRequestVO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -360,7 +354,7 @@
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxwZW5kaW5nQmF0Y2hcPg==</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
