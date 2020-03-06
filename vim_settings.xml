@@ -153,8 +153,8 @@
       <file name="/abc_payment_gateway.DATABASECHANGELOGLOCK" timestamp="1583492253540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5bee30c-93b2-40bf-a071-1ae95ead11e1/console.sql" timestamp="1583492815480">
-        <mark key="[" line="13" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5bee30c-93b2-40bf-a071-1ae95ead11e1/console.sql" timestamp="1583493657060">
+        <mark key="[" line="21" column="63" />
         <mark key="]" line="21" column="63" />
         <mark key="^" line="21" column="63" />
         <mark key="." line="21" column="62" />
