@@ -119,45 +119,42 @@
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/ItemController.java" timestamp="1583487705364">
         <mark key="'" line="54" column="36" />
       </file>
-      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-openfeign-core/2.1.3.RELEASE/a81d6029eb792e7f0556357cc619fd938897b15f/spring-cloud-openfeign-core-2.1.3.RELEASE-sources.jar!/org/springframework/cloud/openfeign/support/PageJacksonModule.java" timestamp="1583422989853">
-        <mark key="'" line="152" column="22" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/category/ItemCategoryController.java" timestamp="1583487504378" />
-      <file name="/console" timestamp="1583492807074">
+      <file name="/console" timestamp="1583499613640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/abc_payment_gateway.DATABASECHANGELOG" timestamp="1583492520319">
+      <file name="/abc_payment_gateway.DATABASECHANGELOG" timestamp="1583499613191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/vo/BaseItemVO.java" timestamp="1583487612523" />
-      <file name="/tin_sequence [DEV R/O]" timestamp="1583492364714">
+      <file name="/tin_sequence [DEV R/O]" timestamp="1583499613152">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DATABASECHANGELOG [DEV R/O]" timestamp="1583492520303">
+      <file name="/DATABASECHANGELOG [DEV R/O]" timestamp="1583499613183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1583492654806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DATABASECHANGELOGLOCK [DEV R/O]" timestamp="1583492253420">
+      <file name="/DATABASECHANGELOGLOCK [DEV R/O]" timestamp="1583499613108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/item/vo/ItemRequestVO.java" timestamp="1583487592909">
         <mark key="'" line="7" column="44" />
       </file>
-      <file name="/abc_payment_gateway.tin_sequence" timestamp="1583492364729">
+      <file name="/abc_payment_gateway.tin_sequence" timestamp="1583499613161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/resources/db/changelog/v0_021/20200227.REL2-503.update-batching-tables.yaml" timestamp="1583492707019" />
+      <file name="/Volumes/DEV/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/2.0.1.Final/4b714a5167580122e46ead3317ffcdcdbd67c5f0/validation-api-2.0.1.Final-sources.jar!/javax/validation/constraints/Pattern.java" timestamp="1583499923615" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/catalog/src/main/java/com/abcfinancial/api/catalog/cleanup/CatalogController.java" timestamp="1583487430998" />
-      <file name="/abc_payment_gateway.DATABASECHANGELOGLOCK" timestamp="1583492253540">
+      <file name="/abc_payment_gateway.DATABASECHANGELOGLOCK" timestamp="1583499613123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5bee30c-93b2-40bf-a071-1ae95ead11e1/console.sql" timestamp="1583493657060">
-        <mark key="[" line="21" column="63" />
-        <mark key="]" line="21" column="63" />
-        <mark key="^" line="21" column="63" />
-        <mark key="." line="21" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b5bee30c-93b2-40bf-a071-1ae95ead11e1/console.sql" timestamp="1583499623425">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -312,10 +309,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIGlkOiAnYXZhbGFyYS10YXgnCiAgICAgICAgICBiYXNlLXVybDogJ2F2YWxhcmEtdGF4OjgwODAnCiAgICAgICAgICB1cmlzOgogICAgICAgICAgICAtIHBhdGg6ICdyZXF1ZXN0TmV3QWNjb3VudCcKICAgICAgICAgICAgLSBwYXRoOiAncmVxdWVzdE5ld0FjY291bnQvKionCiAgICAgICAgICAgIC0gcGF0aDogJ3F1ZXJ5Q29tcGFuaWVzJwogICAgICAgICAgICAtIHBhdGg6ICdxdWVyeUNvbXBhbmllcy8qKicKICAgICAgICAgICAgLSBwYXRoOiAncXVlcnlMb2NhdGlvbnMnCiAgICAgICAgICAgIC0gcGF0aDogJ3F1ZXJ5TG9jYXRpb25zLyoqJwogICAgICAgICAgICAtIHBhdGg6ICdyZXNvbHZlQWRkcmVzcycKICAgICAgICAgICAgLSBwYXRoOiAncmVzb2x2ZUFkZHJlc3MvKionCiAgICAgICAgICAgIC0gcGF0aDogJ2NyZWF0ZVRyYW5zYWN0aW9uJwogICAgICAgICAgICAtIHBhdGg6ICdjcmVhdGVUcmFuc2FjdGlvbi8qKicKICAgICAgICAgICAgLSBwYXRoOiAnbmV4dXMnCiAgICAgICAgICAgIC0gcGF0aDogJ25leHVzLyoqJwogICAgICAgICAgICAtIHBhdGg6ICdjcmVhdGVMb2NhdGlvbicKICAgICAgICAgICAgLSBwYXRoOiAnY3JlYXRlTG9jYXRpb24vKionCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB1cmw6ICdqZGJjOm1hcmlhZGI6YXVyb3JhOi8vJHtkYXRhc291cmNlLmhvc3R9LyR7ZGF0YXNvdXJjZS5zY2hlbWF9P3NvY2tldFRpbWVvdXQ9NTAwMDAmc2Vzc2lvblZhcmlhYmxlcz1tYXhfZXhlY3V0aW9uX3RpbWU9NjAwMDAnICMgTm90IGZvciBQUk9EIHVzYWdlCg==</text>
+        <text>SELE</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -330,23 +327,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIyAgICdWQVVMVCcgLSBVc2luZyBWYXVsdCBhcyBlbmNyeXB0aW9uIHByb3ZpZGVyLiBXaGVuIFZBVUxUIGVuYWJsZWQgcHJvcGVydHkgJ3NwcmluZy5jbG91ZC52YXVsdC5lbmFibGVkJyBhbHNvIHNob3VsZCBiZSAndHJ1ZScK</text>
+      <register name="4" type="4">
+        <text>CT CONCAT(bin_uuid(
+                      (SELECT p.proc_id
+                       FROM processor p
+                       WHERE p.proc_payment_type = CAST(SUBSTR(tseq_id, 41, 1) AS UNSIGNED)
+                         AND p.country_code = SUBSTR(tseq_id, 38, 2)
+                         AND p.tenant_id = uuid_bin(SUBSTR(tseq_id, 1, 36)))
+                  ), SUBSTR(tseq_id, 42, 6)) from tin_sequence;
+
+SELECT * FROM tin_sequence WHERE NOT EXISTS(SELECT p.proc_id
+                                          FROM processor p
+                                          WHERE p.proc_payment_type = CAST(SUBSTR(tseq_id, 41, 1) AS UNSIGNED)
+                                            AND p.country_code = SUBSTR(tseq_id, 38, 2)
+                                            AND p.tenant_id = uuid_bin(SUBSTR(tseq_id, 1, 36)));</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIyAgICdWQVVMVCcgLSBVc2luZyBWYXVsdCBhcyBlbmNyeXB0aW9uIHByb3ZpZGVyLiBXaGVuIFZBVUxUIGVuYWJsZWQgcHJvcGVydHkgJ3NwcmluZy5jbG91ZC52YXVsdC5lbmFibGVkJyBhbHNvIHNob3VsZCBiZSAndHJ1ZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjdmF1bHQgY29uZmlncyBiZWxvdyBzaG91bGQgYmUgcmVtb3ZlZCBhZnRlciBwcm9tb3Rpb24gb2YgUkVMMS0xNzEzMQo=</text>
+        <text encoding="base64">ICAgICAgICAtIGlkOiAnYXZhbGFyYS10YXgnCiAgICAgICAgICBiYXNlLXVybDogJ2F2YWxhcmEtdGF4OjgwODAnCiAgICAgICAgICB1cmlzOgogICAgICAgICAgICAtIHBhdGg6ICdyZXF1ZXN0TmV3QWNjb3VudCcKICAgICAgICAgICAgLSBwYXRoOiAncmVxdWVzdE5ld0FjY291bnQvKionCiAgICAgICAgICAgIC0gcGF0aDogJ3F1ZXJ5Q29tcGFuaWVzJwogICAgICAgICAgICAtIHBhdGg6ICdxdWVyeUNvbXBhbmllcy8qKicKICAgICAgICAgICAgLSBwYXRoOiAncXVlcnlMb2NhdGlvbnMnCiAgICAgICAgICAgIC0gcGF0aDogJ3F1ZXJ5TG9jYXRpb25zLyoqJwogICAgICAgICAgICAtIHBhdGg6ICdyZXNvbHZlQWRkcmVzcycKICAgICAgICAgICAgLSBwYXRoOiAncmVzb2x2ZUFkZHJlc3MvKionCiAgICAgICAgICAgIC0gcGF0aDogJ2NyZWF0ZVRyYW5zYWN0aW9uJwogICAgICAgICAgICAtIHBhdGg6ICdjcmVhdGVUcmFuc2FjdGlvbi8qKicKICAgICAgICAgICAgLSBwYXRoOiAnbmV4dXMnCiAgICAgICAgICAgIC0gcGF0aDogJ25leHVzLyoqJwogICAgICAgICAgICAtIHBhdGg6ICdjcmVhdGVMb2NhdGlvbicKICAgICAgICAgICAgLSBwYXRoOiAnY3JlYXRlTG9jYXRpb24vKionCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjdmF1bHQgY29uZmlncyBiZWxvdyBzaG91bGQgYmUgcmVtb3ZlZCBhZnRlciBwcm9tb3Rpb24gb2YgUkVMMS0xNzEzMQo=</text>
+        <text encoding="base64">ICB1cmw6ICdqZGJjOm1hcmlhZGI6YXVyb3JhOi8vJHtkYXRhc291cmNlLmhvc3R9LyR7ZGF0YXNvdXJjZS5zY2hlbWF9P3NvY2tldFRpbWVvdXQ9NTAwMDAmc2Vzc2lvblZhcmlhYmxlcz1tYXhfZXhlY3V0aW9uX3RpbWU9NjAwMDAnICMgTm90IGZvciBQUk9EIHVzYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhdWx0OgogICAgICBrZXktcGF0aDogInRyYW5zaXQvJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlfS0ke3NwcmluZy5hcHBsaWNhdGlvbi5uYW1lfSIKICAgICAgZW5jcnlwdGlvbi1rZXktbmFtZTogInRyYW5zaXQvJHtzcHJpbmcucHJvZmlsZXMuYWN0aXZlfS0ke3NwcmluZy5hcHBsaWNhdGlvbi5uYW1lfSIgI1ZBVUxUIEtFWQo=</text>
+        <text encoding="base64">ICAgICAgIyAgICdWQVVMVCcgLSBVc2luZyBWYXVsdCBhcyBlbmNyeXB0aW9uIHByb3ZpZGVyLiBXaGVuIFZBVUxUIGVuYWJsZWQgcHJvcGVydHkgJ3NwcmluZy5jbG91ZC52YXVsdC5lbmFibGVkJyBhbHNvIHNob3VsZCBiZSAndHJ1ZScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNjb25maWdzIGJlbG93IHNob3VsZCBiZSByZW1vdmVkIGFmdGVyIHByb21vdGlvbiBvZiBSRUwxLTE3MTMxCiAgICB2YXVsdDoKICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICBob3N0OiAndmF1bHQub3BzLnN2Yy5jbHVzdGVyLmxvY2FsJyAjIHVzZSBWYXVsdCBUcmFuc2l0IHRocm91Z2ggSzhTIGludGVybmFsIHNlcnZpY2UKICAgICAgYXV0aGVudGljYXRpb246ICdLVUJFUk5FVEVTJwogICAgICBrdWJlcm5ldGVzOgogICAgICAgIHJvbGU6ICcke3NwcmluZy5wcm9maWxlcy5hY3RpdmV9LSR7c3ByaW5nLmFwcGxpY2F0aW9uLm5hbWV9JwogICAgICAgIGt1YmVybmV0ZXMtcGF0aDogJ2t1YmVybmV0ZXMnCiAgICAgICAgc2VydmljZS1hY2NvdW50LXRva2VuLWZpbGU6ICcvdmFyL3J1bi9zZWNyZXRzL2t1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvdG9rZW4nCg==</text>
+        <text encoding="base64">ICAgICAgIyAgICdWQVVMVCcgLSBVc2luZyBWYXVsdCBhcyBlbmNyeXB0aW9uIHByb3ZpZGVyLiBXaGVuIFZBVUxUIGVuYWJsZWQgcHJvcGVydHkgJ3NwcmluZy5jbG91ZC52YXVsdC5lbmFibGVkJyBhbHNvIHNob3VsZCBiZSAndHJ1ZScK</text>
       </register>
       <register name=":" type="4">
         <text>action GotoImplementation</text>
