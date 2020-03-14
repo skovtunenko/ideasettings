@@ -131,15 +131,15 @@
         <mark key="^" line="82" column="62" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification.yml" timestamp="1584214803826" />
       <file name="/unique_number [QA R/O]" timestamp="1584033585078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/organization/location/LocationService.java" timestamp="1584033828611">
         <mark key="'" line="77" column="64" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/organization/common/service/DefaultUniqueNumberService.java" timestamp="1584033139705">
-        <mark key="'" line="51" column="47" />
-      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/api-gateway-qa.yml" timestamp="1584214567934" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/authorization-dev.yml" timestamp="1584214610771" />
       <file name="/sequence_data [DEV R/O]" timestamp="1584103277316">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +152,8 @@
       <file name="/secure_authorization.oauth_client" timestamp="1584103727025">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization.yml" timestamp="1584214834108" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/secure-authorization-dev.yml" timestamp="1584214597093" />
       <file name="/dummy.sql" timestamp="1584104123932">
         <mark key="[" line="0" column="0" />
       </file>
@@ -369,7 +371,7 @@ SELECT * FROM tin_sequence WHERE NOT EXISTS(SELECT p.proc_id
       <last-replace encoding="base64">IGFhYSA=</last-replace>
       <last-substitute encoding="base64">XDxwZW5kaW5nQmF0Y2hcPg==</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
