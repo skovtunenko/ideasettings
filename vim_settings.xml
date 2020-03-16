@@ -116,13 +116,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/abcbilling.sequence_data" timestamp="1584350127741">
+      <file name="/abcbilling.sequence_data" timestamp="1584375799559">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/resources/db/changelog/v0_020/db.changelog.yaml" timestamp="1584376894279">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="34" />
       </file>
       <file name="/organization.unique_number" timestamp="1584033585097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1584213684917">
+      <file name="/Dummy.txt" timestamp="1584376698418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/hard-collection-dev.yml" timestamp="1584213646887">
@@ -131,16 +137,19 @@
         <mark key="^" line="82" column="62" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="/unique_number [QA R/O]" timestamp="1584033585078">
+      <file name="/abc_payment_gateway.DATABASECHANGELOG" timestamp="1584375836386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/organization/src/main/java/com/abcfinancial/api/organization/location/LocationService.java" timestamp="1584033828611">
         <mark key="'" line="77" column="64" />
       </file>
+      <file name="/DATABASECHANGELOG [CERT R/O]" timestamp="1584375836371">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/abc_payment_gateway.DATABASECHANGELOGLOCK" timestamp="1584350490979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/sequence_data [DEV R/O]" timestamp="1584350127723">
+      <file name="/sequence_data [DEV R/O]" timestamp="1584375799281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_client [DEV R/O]" timestamp="1584350127015">
@@ -155,7 +164,7 @@
       <file name="/DATABASECHANGELOGLOCK [CERT R/O]" timestamp="1584350490964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1584350495276">
+      <file name="/dummy.sql" timestamp="1584376894102">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
