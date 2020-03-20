@@ -117,6 +117,7 @@
     <globalmarks />
     <filemarks>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/test/groovy/com/abcfinancial/api/abcpaymentgateway/merchant/MerchantTest.groovy" timestamp="1584709910133" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/generalledger/client/account/ClientAccountController.java" timestamp="1584726050475" />
       <file name="/organization.unique_number" timestamp="1584702864595">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,7 +127,7 @@
         <mark key="^" line="46" column="6" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/contract/profile/client/fee/clienttransaction/enumeration/ClientTransactionFeeConfigType.java" timestamp="1584724669102" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/contract/profile/client/fee/clienttransaction/enumeration/ClientTransactionFeeConfigType.java" timestamp="1584725656597" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_021/05032020.REL1-16589-add-location-communication-preference-authority.yaml" timestamp="1584705243824" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abc-payment-gateway-dev.yml" timestamp="1584693114619" />
       <file name="/oauth_client [DEV R/O]" timestamp="1584694092473">
@@ -135,7 +136,7 @@
       <file name="/secure_authorization.oauth_client" timestamp="1584694092601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1584694097168">
+      <file name="/dummy.sql" timestamp="1584726030815">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1584724666620">
@@ -146,7 +147,6 @@
       <file name="/unique_number [QA R/O]" timestamp="1584702864556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abc-payment-gateway.yml" timestamp="1584693000849" />
     </filemarks>
     <jumps>
       <jump line="12" column="26" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/RealtimeService.java" />
