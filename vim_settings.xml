@@ -120,18 +120,17 @@
       <file name="/organization.unique_number" timestamp="1584727513536">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/contract/profile/client/fee/clienttransaction/enumeration/ClientTransactionFeeConfigType.java" timestamp="1584727504875" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/generalledger/client/account/entry/vo/ClientAccountTransactionsVO.java" timestamp="1584726611805" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/datamanagement/organization/OrganizationOperationService.java" timestamp="1584726749649" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/datamanagement/OperationController.java" timestamp="1584726637275">
         <mark key="'" line="80" column="106" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abc-pg-simulator-dev.yml" timestamp="1584708479661">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="46" column="6" />
-        <mark key="." line="53" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/taxation-migration.yml" timestamp="1584733225020">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/contract/profile/client/fee/clienttransaction/enumeration/ClientTransactionFeeConfigType.java" timestamp="1584727504875" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_021/05032020.REL1-16589-add-location-communication-preference-authority.yaml" timestamp="1584705243824" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/generalledger/client/account/entry/vo/ClientAccountTransactionsVO.java" timestamp="1584726611805" />
       <file name="/dummy.sql" timestamp="1584726030815">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,7 +142,11 @@
       <file name="/unique_number [QA R/O]" timestamp="1584727513525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/abcbilling/src/main/java/com/abcfinancial/api/abcbilling/datamanagement/organization/OrganizationOperationService.java" timestamp="1584726749649" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/taxation-loadtest.yml" timestamp="1584733249779">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="51" column="74" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/operation/OperationService.java" />
