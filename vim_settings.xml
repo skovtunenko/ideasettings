@@ -137,22 +137,31 @@
       <file name="/abc_payment_gateway.merchant" timestamp="1585570783029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/oauth_client [DEV R/O]" timestamp="1585571088673">
+      <file name="/oauth_client [DEV R/O]" timestamp="1585572225420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/authorization.oauth_client" timestamp="1585571088687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/secure_authorization.oauth_client" timestamp="1585570783024">
+      <file name="/secure_authorization.oauth_client" timestamp="1585572225434">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/company_role [DEV R/O]" timestamp="1585570783030">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/secure_authorization.oauth_client_authority" timestamp="1585572534253">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/authorization.oauth_client_authority" timestamp="1585571799330">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/abc_payment_gateway.merchant_processor_category" timestamp="1585229599307">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1585571091578">
+      <file name="/dummy.sql" timestamp="1585572642673">
+        <mark key="[" line="0" column="42" />
+      </file>
+      <file name="/oauth_client_authority [DEV R/O]" timestamp="1585572534242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/merchant_processor_category [DEV R/O]" timestamp="1585229599294">
