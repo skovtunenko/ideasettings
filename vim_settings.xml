@@ -142,16 +142,11 @@
       <file name="/abc_payment_gateway.transaction" timestamp="1585652431663">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_023/db.changlog.yaml" timestamp="1585664452634" />
       <file name="/sequence_data [QA R/O]" timestamp="1585652432032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-common-core/src/main/java/com/abcfinancial/api/common/encryption/MockEncryptionService.java" timestamp="1585652492906" />
-      <file name="/staging_payment_batch [DEV R/O]" timestamp="1585652431611">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_pg_simulator.condition" timestamp="1585652431586">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/abc_payment_gateway.staging_payment_batch" timestamp="1585652431619">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,6 +157,13 @@
       <file name="/webhook_log [DEV R/O]" timestamp="1585652431984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" timestamp="1585664466005">
+        <mark key="'" line="18" column="56" />
+        <mark key="[" line="16" column="35" />
+        <mark key="]" line="18" column="57" />
+        <mark key="^" line="18" column="57" />
+        <mark key="." line="18" column="56" />
+      </file>
       <file name="/oauth_client_authority [DEV R/O]" timestamp="1585652432101">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/us/worldpay/configuration/CnpClientConfiguration.java" />
       <jump line="46" column="106" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/us/worldpay/VantivService.java" />
       <jump line="18" column="98" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/us/worldpay/converter/TransactionConverter.java" />
       <jump line="37" column="111" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/token/card/CardPaymentTokenVOMapper.java" />
@@ -270,6 +271,7 @@
       <jump line="16" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/charge/vo/ChargeBulkRequestVO.java" />
       <jump line="62" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/charge/ChargeService.java" />
       <jump line="323" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/transaction/TransactionService.java" />
+      <jump line="18" column="56" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
