@@ -116,6 +116,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585666201177">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
       <file name="/console" timestamp="1585652432587">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,9 +152,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-common-core/src/main/java/com/abcfinancial/api/common/encryption/MockEncryptionService.java" timestamp="1585652492906" />
-      <file name="/abc_payment_gateway.staging_payment_batch" timestamp="1585652431619">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/hard-collection/src/main/java/com/abcfinancial/api/hardcollection/agency/DetailsMapper.java" timestamp="1585654725736" />
       <file name="/secure_authorization.oauth_client_authority" timestamp="1585652432108">
         <mark key="[" line="0" column="0" />
