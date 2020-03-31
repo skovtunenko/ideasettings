@@ -116,6 +116,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/client/ClientCrudTests.groovy" timestamp="1585681723017">
+        <mark key="'" line="23" column="24" />
+      </file>
       <file name="/authorization.oauth_client" timestamp="1585654736259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,10 +131,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyService.java" timestamp="1585668722583" />
-      <file name="/oauth_client_authority [DEV R/O]" timestamp="1585652432101">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585676554741">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585681836254">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -140,13 +140,7 @@
       <file name="/console" timestamp="1585652432587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/abc_pg_simulator.sequence_data" timestamp="1585652432041">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/oauth_client [DEV R/O]" timestamp="1585654736248">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/secure_authorization.oauth_client" timestamp="1585652432075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1585654740347">
@@ -158,17 +152,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-common-core/src/main/java/com/abcfinancial/api/common/encryption/MockEncryptionService.java" timestamp="1585652492906" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" timestamp="1585664466005">
-        <mark key="'" line="18" column="56" />
-        <mark key="[" line="16" column="35" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/client/ClientTestDataGenerator.groovy" timestamp="1585682085908" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" timestamp="1585682278416">
+        <mark key="'" line="18" column="40" />
+        <mark key="[" line="18" column="57" />
         <mark key="]" line="18" column="57" />
         <mark key="^" line="18" column="57" />
         <mark key="." line="18" column="56" />
       </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" timestamp="1585681353979">
+        <mark key="'" line="18" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="106" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/us/worldpay/VantivService.java" />
-      <jump line="18" column="98" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/processor/internal/us/worldpay/converter/TransactionConverter.java" />
       <jump line="37" column="111" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-realtime-payment-gateway/src/main/java/com/abcfinancial/api/rpg/token/card/CardPaymentTokenVOMapper.java" />
       <jump line="257" column="52" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/scheduler/service/batching/ExportPaymentFileService.java" />
       <jump line="334" column="46" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/scheduler/service/batching/ExportPaymentFileService.java" />
@@ -266,7 +262,9 @@
       <jump line="16" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/charge/vo/ChargeBulkRequestVO.java" />
       <jump line="62" column="67" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/charge/ChargeService.java" />
       <jump line="323" column="28" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/transaction/TransactionService.java" />
-      <jump line="18" column="56" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" />
+      <jump line="18" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/db.changelog-master.yaml" />
+      <jump line="18" column="40" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" />
+      <jump line="23" column="24" filename="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/test/groovy/com/abcfinancial/api/authorization/client/ClientCrudTests.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
