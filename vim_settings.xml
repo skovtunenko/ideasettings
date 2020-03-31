@@ -116,6 +116,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/authorization.oauth_client" timestamp="1585654736259">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/processor/ProcessorDetailsVerificationService.java" timestamp="1585652521843" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_023/db.changlog.yaml" timestamp="1585664452634" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/settings.gradle" timestamp="1585668840820" />
+      <file name="/sequence_data [QA R/O]" timestamp="1585652432032">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/configuration/TaxationConfigurationProperties.java" timestamp="1585668478375" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/hard-collection/src/main/java/com/abcfinancial/api/hardcollection/agency/DetailsMapper.java" timestamp="1585654725736" />
+      <file name="/secure_authorization.oauth_client_authority" timestamp="1585652432108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyService.java" timestamp="1585668722583" />
+      <file name="/oauth_client_authority [DEV R/O]" timestamp="1585652432101">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585666201177">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="12" />
@@ -124,53 +142,27 @@
       <file name="/console" timestamp="1585652432587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/transaction [DEV R/O]" timestamp="1585652431652">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/abc_pg_simulator.sequence_data" timestamp="1585652432041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/oauth_client [DEV R/O]" timestamp="1585654736248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/authorization.oauth_client" timestamp="1585654736259">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/secure_authorization.oauth_client" timestamp="1585652432075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-abc-payment-gateway/src/main/java/com/abcfinancial/api/abcpaymentgateway/processor/ProcessorDetailsVerificationService.java" timestamp="1585652521843" />
       <file name="/dummy.sql" timestamp="1585654740347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/hard-collection/src/main/java/com/abcfinancial/api/hardcollection/encryption/EncryptionHelper.java" timestamp="1585652534658" />
-      <file name="/abc_payment_gateway.transaction" timestamp="1585652431663">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_023/db.changlog.yaml" timestamp="1585664452634" />
-      <file name="/sequence_data [QA R/O]" timestamp="1585652432032">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/taxation/src/main/java/com/abcfinancial/api/taxation/company/CompanyVOMapper.java" timestamp="1585668543746" />
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/PaymentGatewayDevelopment/platform-common-core/src/main/java/com/abcfinancial/api/common/encryption/MockEncryptionService.java" timestamp="1585652492906" />
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/hard-collection/src/main/java/com/abcfinancial/api/hardcollection/agency/DetailsMapper.java" timestamp="1585654725736" />
-      <file name="/secure_authorization.oauth_client_authority" timestamp="1585652432108">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/webhook_log [DEV R/O]" timestamp="1585652431984">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/db.changlog.yaml" timestamp="1585664466005">
         <mark key="'" line="18" column="56" />
         <mark key="[" line="16" column="35" />
         <mark key="]" line="18" column="57" />
         <mark key="^" line="18" column="57" />
         <mark key="." line="18" column="56" />
-      </file>
-      <file name="/oauth_client_authority [DEV R/O]" timestamp="1585652432101">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_payment_gateway.webhook_log" timestamp="1585652431996">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
