@@ -131,10 +131,10 @@
       <file name="/oauth_client_authority [DEV R/O]" timestamp="1585652432101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585670068895">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="13" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform/authorization/src/main/resources/db/changelog/v0_022/20200331.DOP-2880.fix-syntax-for-catalog.yaml" timestamp="1585676554741">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="14" />
       </file>
       <file name="/console" timestamp="1585652432587">
@@ -281,8 +281,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -312,16 +312,16 @@
         <text encoding="base64">ICAgICAgICBteURvZy5zZXROYW1lKCAibmFtZSAxIiApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3JSZXNwb25zZSggbmV3IE5vdEZvdW5kUmVzcG9uc2VFcnJvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3JSZXNwb25zZSggbmV3IE5vdEZvdW5kUmVzcG9uc2VFcnJvcgo=</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -337,7 +337,7 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -349,10 +349,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbmRlcjogJ25vcmVwbHlAZGV2LjMwcHJlcHJvZC5jb20nICMgdmFsdWUgc3BlY2lmaWMgdG8gREVWIGVudgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlY3JldEtleTogJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Github.Open.In.Browser</text>
