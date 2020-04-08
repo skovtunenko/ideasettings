@@ -116,62 +116,77 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/abc_pg_simulator.action" timestamp="1585929994801">
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abcbilling-staging.yml" timestamp="1586362881874" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/abc-payment-gateway-staging.yml" timestamp="1586362851205" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/telephony.yml" timestamp="1586361956093" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization-prod.yml" timestamp="1586361726309">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="45" column="59" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/application-cert.yml" timestamp="1586362008876">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/secure-authorization-prod.yml" timestamp="1586361863539" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/secure-authorization-qa.yml" timestamp="1586361859715">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="78" column="14" />
+        <mark key="^" line="78" column="14" />
+        <mark key="." line="78" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization-migration.yml" timestamp="1586361732385" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/secure-document-cert.yml" timestamp="1586361898049">
+        <mark key="[" line="65" column="30" />
+        <mark key="]" line="58" column="13" />
+        <mark key="." line="58" column="12" />
+        <mark key="^" line="58" column="13" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/secure-authorization-cert.yml" timestamp="1586361876554">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="131" column="5" />
+        <mark key="^" line="131" column="5" />
+        <mark key="." line="131" column="4" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/application-qa.yml" timestamp="1586361980809">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/soft-collection-cert.yml" timestamp="1586361910311" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/application.yml" timestamp="1586362015649">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586362017175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1585929994796">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/application-dev.yml" timestamp="1586362001996">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="/rule [QA R/O]" timestamp="1585929994799">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/taxation.yml" timestamp="1586361950323" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/notification-cert.yml" timestamp="1586361683418">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
-      <file name="/transaction [DEV R/O]" timestamp="1585929994806">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization-harness-qa.yml" timestamp="1586361746062">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="47" column="59" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="/abc_pg_simulator.sequence_data" timestamp="1585929994821">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/action [QA R/O]" timestamp="1585929994800">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/oauth_client [DEV R/O]" timestamp="1585929994822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/condition [QA R/O]" timestamp="1585929994802">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/secure_authorization.oauth_client" timestamp="1585929994822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_payment_gateway.transaction" timestamp="1585929994807">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/sequence_data [QA R/O]" timestamp="1585929994821">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/staging_payment_batch [DEV R/O]" timestamp="1585929994805">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_pg_simulator.condition" timestamp="1585929994802">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_payment_gateway.staging_payment_batch" timestamp="1585929994805">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/secure_authorization.oauth_client_authority" timestamp="1585929994823">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/webhook_log [DEV R/O]" timestamp="1585929994819">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_pg_simulator.rule" timestamp="1585929994800">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/oauth_client_authority [DEV R/O]" timestamp="1585929994823">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/abc_payment_gateway.webhook_log" timestamp="1585929994820">
-        <mark key="[" line="0" column="0" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization-cert.yml" timestamp="1586361833686" />
+      <file name="/Volumes/DEV/GitCheckouts/abcfinancial2/platform-configs/organization-harness-dev.yml" timestamp="1586361762535">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="47" column="59" />
+        <mark key="." line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -290,7 +305,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
+        <text encoding="base64">YWJjZmluYW5jaWEKICBzZWN1cml0eToKICAgIGhpZXJhcmNoeToKICAgICAgc2NvcGVQYXR0ZXJuOiAnKjphZG1pbiA+ICo6cHJvdGVjdGVkICo6cHJvdGVjdGVkID4gKjpkZWxldGUgKjpkZWxldGUgPiAqOmNyZWF0ZSAqOmNyZWF0ZSA+ICo6d3JpdGUgKjp3cml0ZSA+ICo6cmVhZCcKICAgICAgYXV0aG9yaXR5UGF0dGVybjogJyo6Y2xpZW50LWFkbWluID4gKjpjbGllbnQtcHJvdGVjdGVkICo6Y2xpZW50LXByb3RlY3RlZCA+ICo6Y2xpZW50LWRlbGV0ZSAqOmNsaWVudC1kZWxldGUgPiAqOmNsaWVudC1jcmVhdGUgKjpjbGllbnQtY3JlYXRlID4gKjpjbGllbnQtd3JpdGUgKjpjbGllbnQtd3JpdGUgPiAqOmNsaWVudC1yZWFkICo6YWRtaW4gPiAqOnByb3RlY3RlZCAqOnByb3RlY3RlZCA+ICo6ZGVsZXRlICo6ZGVsZXRlID4gKjpjcmVhdGUgKjpjcmVhdGUgPiAqOndyaXRlICo6d3JpdGUgPiAqOnJlYWQnCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -311,7 +326,7 @@
         <text>RefundResponseVO</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhSZXNwb25zZVRpbWVcPg==</text>
@@ -320,16 +335,16 @@
         <text encoding="base64">ICAgICAgICBteURvZy5zZXROYW1lKCAibmFtZSAxIiApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
+        <text encoding="base64">YWJjZmluYW5jaWEKICBzZWN1cml0eToKICAgIGhpZXJhcmNoeToKICAgICAgc2NvcGVQYXR0ZXJuOiAnKjphZG1pbiA+ICo6cHJvdGVjdGVkICo6cHJvdGVjdGVkID4gKjpkZWxldGUgKjpkZWxldGUgPiAqOmNyZWF0ZSAqOmNyZWF0ZSA+ICo6d3JpdGUgKjp3cml0ZSA+ICo6cmVhZCcKICAgICAgYXV0aG9yaXR5UGF0dGVybjogJyo6Y2xpZW50LWFkbWluID4gKjpjbGllbnQtcHJvdGVjdGVkICo6Y2xpZW50LXByb3RlY3RlZCA+ICo6Y2xpZW50LWRlbGV0ZSAqOmNsaWVudC1kZWxldGUgPiAqOmNsaWVudC1jcmVhdGUgKjpjbGllbnQtY3JlYXRlID4gKjpjbGllbnQtd3JpdGUgKjpjbGllbnQtd3JpdGUgPiAqOmNsaWVudC1yZWFkICo6YWRtaW4gPiAqOnByb3RlY3RlZCAqOnByb3RlY3RlZCA+ICo6ZGVsZXRlICo6ZGVsZXRlID4gKjpjcmVhdGUgKjpjcmVhdGUgPiAqOndyaXRlICo6d3JpdGUgPiAqOnJlYWQnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBXSEVSRSBvY19jbGllbnRfaWQgPSAnQ0FUQUxPRyc7Cg==</text>
+        <text encoding="base64">YWJjZmluYW5jaWFsOgogIHNlY3VyaXR5OgogICAgaGllcmFyY2h5OgogICAgICBzY29wZVBhdHRlcm46ICcqOmFkbWluID4gKjpwcm90ZWN0ZWQgKjpwcm90ZWN0ZWQgPiAqOmRlbGV0ZSAqOmRlbGV0ZSA+ICo6Y3JlYXRlICo6Y3JlYXRlID4gKjp3cml0ZSAqOndyaXRlID4gKjpyZWFkJwogICAgICBhdXRob3JpdHlQYXR0ZXJuOiAnKjpjbGllbnQtYWRtaW4gPiAqOmNsaWVudC1wcm90ZWN0ZWQgKjpjbGllbnQtcHJvdGVjdGVkID4gKjpjbGllbnQtZGVsZXRlICo6Y2xpZW50LWRlbGV0ZSA+ICo6Y2xpZW50LWNyZWF0ZSAqOmNsaWVudC1jcmVhdGUgPiAqOmNsaWVudC13cml0ZSAqOmNsaWVudC13cml0ZSA+ICo6Y2xpZW50LXJlYWQgKjphZG1pbiA+ICo6cHJvdGVjdGVkICo6cHJvdGVjdGVkID4gKjpkZWxldGUgKjpkZWxldGUgPiAqOmNyZWF0ZSAqOmNyZWF0ZSA+ICo6d3JpdGUgKjp3cml0ZSA+ICo6cmVhZCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3JSZXNwb25zZSggbmV3IE5vdEZvdW5kUmVzcG9uc2VFcnJvcgo=</text>
+        <text encoding="base64">YWJjZmluYW5jaWFsOgogIHNlY3VyaXR5OgogICAgaGllcmFyY2h5OgogICAgICBzY29wZVBhdHRlcm46ICcqOmFkbWluID4gKjpwcm90ZWN0ZWQgKjpwcm90ZWN0ZWQgPiAqOmRlbGV0ZSAqOmRlbGV0ZSA+ICo6Y3JlYXRlICo6Y3JlYXRlID4gKjp3cml0ZSAqOndyaXRlID4gKjpyZWFkJwogICAgICBhdXRob3JpdHlQYXR0ZXJuOiAnKjpjbGllbnQtYWRtaW4gPiAqOmNsaWVudC1wcm90ZWN0ZWQgKjpjbGllbnQtcHJvdGVjdGVkID4gKjpjbGllbnQtZGVsZXRlICo6Y2xpZW50LWRlbGV0ZSA+ICo6Y2xpZW50LWNyZWF0ZSAqOmNsaWVudC1jcmVhdGUgPiAqOmNsaWVudC13cml0ZSAqOmNsaWVudC13cml0ZSA+ICo6Y2xpZW50LXJlYWQgKjphZG1pbiA+ICo6cHJvdGVjdGVkICo6cHJvdGVjdGVkID4gKjpkZWxldGUgKjpkZWxldGUgPiAqOmNyZWF0ZSAqOmNyZWF0ZSA+ICo6d3JpdGUgKjp3cml0ZSA+ICo6cmVhZCcK</text>
       </register>
       <register name="s" type="4">
         <keys>
@@ -345,22 +360,22 @@
         </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0K</text>
+        <text encoding="base64">YWJjZmluYW5jaWFsOgogIHNlY3VyaXR5OgogICAgaGllcmFyY2h5OgogICAgICBzY29wZVBhdHRlcm46ICcqOmFkbWluID4gKjpwcm90ZWN0ZWQgKjpwcm90ZWN0ZWQgPiAqOmRlbGV0ZSAqOmRlbGV0ZSA+ICo6Y3JlYXRlICo6Y3JlYXRlID4gKjp3cml0ZSAqOndyaXRlID4gKjpyZWFkJwogICAgICBhdXRob3JpdHlQYXR0ZXJuOiAnKjpjbGllbnQtYWRtaW4gPiAqOmNsaWVudC1wcm90ZWN0ZWQgKjpjbGllbnQtcHJvdGVjdGVkID4gKjpjbGllbnQtZGVsZXRlICo6Y2xpZW50LWRlbGV0ZSA+ICo6Y2xpZW50LWNyZWF0ZSAqOmNsaWVudC1jcmVhdGUgPiAqOmNsaWVudC13cml0ZSAqOmNsaWVudC13cml0ZSA+ICo6Y2xpZW50LXJlYWQgKjphZG1pbiA+ICo6cHJvdGVjdGVkICo6cHJvdGVjdGVkID4gKjpkZWxldGUgKjpkZWxldGUgPiAqOmNyZWF0ZSAqOmNyZWF0ZSA+ICo6d3JpdGUgKjp3cml0ZSA+ICo6cmVhZCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgVFJBTlNBQ1RJT05fTk9ORSAgICAgICAgICAgICA9IDA7CiAgICAjICAgIFRSQU5TQUNUSU9OX1JFQURfVU5DT01NSVRURUQgPSAxOwogICAgIyAgICBUUkFOU0FDVElPTl9SRUFEX0NPTU1JVFRFRCAgID0gMjsKICAgICMgICAgVFJBTlNBQ1RJT05fUkVQRUFUQUJMRV9SRUFEICA9IDQ7CiAgICAjICAgIFRSQU5TQUNUSU9OX1NFUklBTElaQUJMRSAgICAgPSA4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgVFJBTlNBQ1RJT05fTk9ORSAgICAgICAgICAgICA9IDA7CiAgICAjICAgIFRSQU5TQUNUSU9OX1JFQURfVU5DT01NSVRURUQgPSAxOwogICAgIyAgICBUUkFOU0FDVElPTl9SRUFEX0NPTU1JVFRFRCAgID0gMjsKICAgICMgICAgVFJBTlNBQ1RJT05fUkVQRUFUQUJMRV9SRUFEICA9IDQ7CiAgICAjICAgIFRSQU5TQUNUSU9OX1NFUklBTElaQUJMRSAgICAgPSA4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgVFJBTlNBQ1RJT05fU0VSSUFMSVpBQkxFICAgICA9IDg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgVFJBTlNBQ1RJT05fUkVQRUFUQUJMRV9SRUFEICA9IDQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgVFJBTlNBQ1RJT05fUkVBRF9DT01NSVRURUQgICA9IDI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Github.Open.In.Browser</text>
