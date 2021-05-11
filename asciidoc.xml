@@ -1,5 +1,6 @@
 <application>
   <component name="AsciidocApplicationSettings">
-    <AsciiDocPreviewSettings DefaultSplitLayout="Show preview only" DisabledInjectionsByLanguage="" />
+    <option name="pluginVersion" value="0.32.2" />
+    <AsciiDocPreviewSettings DefaultSplitLayout="Show preview only" />
   </component>
 </application>

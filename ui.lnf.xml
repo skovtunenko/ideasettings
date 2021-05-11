@@ -5,11 +5,11 @@
     <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
   </component>
   <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
     <option name="EDITOR_TAB_PLACEMENT" value="4" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="24" />
     <option name="MAX_LOOKUP_WIDTH2" value="1122" />
