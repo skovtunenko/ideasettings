@@ -5,6 +5,7 @@
         <option value="file://" />
         <option value="file://$USER_HOME$/.gvm/gos/go1.13.15" />
         <option value="file://$USER_HOME$/.gvm/gos/go1.15.11" />
+        <option value="file://$USER_HOME$/.gvm/gos/go1.15.13" />
         <option value="file:///usr/local/Cellar/go/1.11/libexec" />
         <option value="file:///usr/local/Cellar/go/1.12.7/libexec" />
         <option value="file:///usr/local/Cellar/go/1.13.4/libexec" />

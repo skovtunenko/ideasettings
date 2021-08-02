@@ -1,0 +1,12 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="editor.tab.painting" value="ARROW" />
+        <entry key="ide.open.readme.md.on.startup" value="false" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
