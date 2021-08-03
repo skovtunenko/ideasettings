@@ -1,0 +1,6 @@
+<application>
+  <component name="GoFoldingSettings">
+    <option name="isOneLineReturns" value="false" />
+    <option name="isOneLinePanics" value="false" />
+  </component>
+</application>

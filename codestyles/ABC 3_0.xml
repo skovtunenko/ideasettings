@@ -1,13 +1,13 @@
 <code_scheme name="ABC 3.0" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="180" />
+  <GoCodeStyleSettings>
+    <option name="LOCAL_PACKAGE_PREFIXES" />
+  </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
   </JavaCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <codeStyleSettings language="Groovy">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
