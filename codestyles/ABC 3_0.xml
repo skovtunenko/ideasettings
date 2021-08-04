@@ -2,6 +2,7 @@
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="180" />
   <GoCodeStyleSettings>
+    <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
     <option name="LOCAL_PACKAGE_PREFIXES" />
   </GoCodeStyleSettings>
   <JavaCodeStyleSettings>
