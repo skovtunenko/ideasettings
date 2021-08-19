@@ -1,6 +1,11 @@
 <code_scheme name="ABC 3.0" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="180" />
+  <option name="DO_NOT_FORMAT">
+    <list>
+      <fileSet type="globPattern" pattern="*.json" />
+    </list>
+  </option>
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
     <option name="LOCAL_PACKAGE_PREFIXES" />
