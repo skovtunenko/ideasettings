@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="$USER_HOME$/.gvm/pkgsets/go1.15.14/global/src/gitlab.connectwisedev.com/platform/platform-dynamicgroup-service/import-resources" />
+  </component>
+</application>
