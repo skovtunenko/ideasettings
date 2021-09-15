@@ -3,6 +3,7 @@
     <option name="settings">
       <map>
         <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="editor.tab.painting" value="ARROW" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
