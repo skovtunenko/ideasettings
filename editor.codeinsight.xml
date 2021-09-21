@@ -1,4 +1,7 @@
 <application>
+  <component name="Go">
+    <option name="renameSearchInCommentsForFunction" value="false" />
+  </component>
   <component name="GoFoldingSettings">
     <option name="isOneLineReturns" value="false" />
     <option name="isOneLinePanics" value="false" />
