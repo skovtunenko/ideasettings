@@ -4,6 +4,7 @@
     <option name="renameSearchInCommentsForFunction" value="false" />
     <option name="renameSearchInCommentsForPackage" value="false" />
     <option name="renameSearchInCommentsForType" value="false" />
+    <option name="renameSearchInCommentsForVariable" value="false" />
   </component>
   <component name="GoFoldingSettings">
     <option name="isOneLineReturns" value="false" />
