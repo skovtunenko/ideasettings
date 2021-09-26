@@ -1,6 +1,8 @@
 <application>
   <component name="Go">
+    <option name="renameDirectoryOnPackageRenaming" value="YES" />
     <option name="renameSearchInCommentsForFunction" value="false" />
+    <option name="renameSearchInCommentsForPackage" value="false" />
     <option name="renameSearchInCommentsForType" value="false" />
   </component>
   <component name="GoFoldingSettings">
