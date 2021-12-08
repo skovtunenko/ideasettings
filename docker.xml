@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/.gvm/pkgsets/go1.16.9/global/src/gitlab.connectwisedev.com/platform/platform-dynamicgroup-service/dev/docker-compose.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerMachinePath" value="/usr/local/bin/docker-machine" />
