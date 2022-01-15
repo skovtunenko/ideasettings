@@ -3,312 +3,264 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldTag" />
+          <option name="groupName" value="VgoHiddenTemplate" />
+          <option name="key" value="vgo_lang_require" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldFunction" />
+          <option name="groupName" value="VgoHiddenTemplate" />
+          <option name="key" value="vgo_lang_replace" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sb" />
+          <option name="groupName" value="VgoHiddenTemplate" />
+          <option name="key" value="vgo_lang_exclude" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sbf" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_package" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sbfb" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_import" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="aop" />
-          <option name="key" value="aopautoproxycreator" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_import_with_parens" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="aop" />
-          <option name="key" value="aopautoproxy" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_break" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="hibernatefactory" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_continue" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="datasource" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_const" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="hibernatetm" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_for" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="transactionmanager" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_if" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jndids" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_switch" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdopmf" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_case" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdopmfproxy" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_default" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdotm" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_func" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpoxpmf" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_func" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinklsf" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_func_call" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinktasa" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_struct" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinktm" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_map" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ibatisfactory" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_slice" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpaemfb" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_anonymous_array" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpacemf" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_var" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapum" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_type" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapabpp" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="type_qf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapetpp" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="struct_type_qf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpatm" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_var_qf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="intscheduler" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="global_var_qf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="crontrigger" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="global_const_qf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="scedulerfactorybean" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="add_return" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="simpletrigger" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="introduce_field" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdkscheduledtimertask" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="template_type_hint_comment" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdktimerfactorybean" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="go_lang_meth" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ejblssb" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="test" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ejbrssb" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="bench" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="freemarker" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="forbN" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="placeholder" />
+          <option name="groupName" value="GoHiddenTemplate" />
+          <option name="key" value="fuzz" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="propertyoverrideconfigurer" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="resourcefb" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="commonslogfb" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="fieldretrfactory" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="listfactory" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mapfactory" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="proprsfactory" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="setfactory" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowregistry" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowexecutor" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowbuildersevices" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="conversationservice" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="expressionparser" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="factorycreator" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowexelistener" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleservice" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgimultiservice" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleref" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgimultiref" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgibeannameref" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgirefwithlistener" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimplelist" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleset" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgilistwithcomp" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisetwithcomparator" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadEndpoint" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadMapping" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mapBasedEndpointMapping" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="annotationEndpointMapping" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="simpleWsdlDefinition" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchema" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchemaCollection" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="xsdSchema" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="commonsXsdSchemaCollection" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageFactory" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="soapMessageDispatcher" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListenerContainer" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListener" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="connectionFactory" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mailMessageReceiver" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="httpServerFactoryBean" />
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
         </TemplateKey>
       </list>
     </option>

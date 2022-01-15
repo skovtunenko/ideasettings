@@ -1,0 +1,23 @@
+<templateSet group="Go">
+  <template name="set" value="map[$KEY_TYPE$]struct{}" description="Set type" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY_TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_TYPE" value="true" />
+    </context>
+  </template>
+  <template name="erris" value="if errors.Is($ERR$, $TARTGETERR$) {&#10; $END$&#10;}" description="If error IS()" toReformat="true" toShortenFQNames="true">
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <variable name="TARTGETERR" expression="errorVariable()" defaultValue="&quot;targetErr&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="erras" value="var $TARTGET_ERR$ $TARGET_ERR_TYPE$&#10;if errors.Is($ERR$, &amp;$TARTGET_ERR$) {&#10; $END$&#10;}" description="If error AS()" toReformat="true" toShortenFQNames="true">
+    <variable name="TARTGET_ERR" expression="errorVariable()" defaultValue="&quot;targetErr&quot;" alwaysStopAt="true" />
+    <variable name="TARGET_ERR_TYPE" expression="errorVariableDefinition(expressionWithErrorResult)" defaultValue="" alwaysStopAt="true" />
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
