@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
@@ -21,6 +22,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ActivateVcsChangesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="ctrl alt z" />
