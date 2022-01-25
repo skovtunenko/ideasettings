@@ -1,5 +1,12 @@
 <application>
   <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="pattern" value="department the points are: NONE :(" />
+        </GrepSettings>
+      </list>
+    </option>
     <option name="sortSettingsMap">
       <map>
         <entry key="SortAction">
