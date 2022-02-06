@@ -3,5 +3,11 @@
     <option name="PLANTUML_LIMIT_SIZE" value="" />
     <option name="customPlantumlJarPath" value="" />
     <option name="includedPaths" value="" />
+    <option name="lastBundledVersion" value="1.2022.0" />
+    <option name="previewSettings">
+      <PreviewSettings>
+        <option name="splitEditorLayout" value="Show preview only" />
+      </PreviewSettings>
+    </option>
   </component>
 </application>
