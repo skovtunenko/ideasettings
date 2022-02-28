@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="Scratches and Consoles" />
+    <option name="defaultScopeName" value="Scratches and Consoles" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
@@ -22,5 +22,6 @@
     <mask>*.java</mask>
     <mask>*.up.cql</mask>
     <mask>*.go</mask>
+    <mask>*.json</mask>
   </component>
 </application>
