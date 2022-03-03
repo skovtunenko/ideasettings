@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Scratches and Consoles" />
-    <option name="defaultScopeName" value="Scratches and Consoles" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Scratches and Consoles" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.js</mask>
