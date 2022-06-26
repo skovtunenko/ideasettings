@@ -9,7 +9,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJsonAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
