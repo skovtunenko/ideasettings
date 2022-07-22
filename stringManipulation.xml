@@ -9,7 +9,7 @@
     </option>
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveEmptyLinesAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
