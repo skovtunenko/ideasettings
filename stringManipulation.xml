@@ -1,0 +1,25 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="grepHistory">
+      <list>
+        <GrepSettings>
+          <option name="pattern" value="department the points are: NONE :(" />
+        </GrepSettings>
+      </list>
+    </option>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveEmptyLinesAction" />
+      </UniversalActionModel>
+    </option>
+    <option name="sortSettingsMap">
+      <map>
+        <entry key="SortAction">
+          <value>
+            <SortSettings />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

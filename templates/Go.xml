@@ -1,0 +1,35 @@
+<templateSet group="Go">
+  <template name="set" value="map[$KEY_TYPE$]struct{}" description="Set type" toReformat="true" toShortenFQNames="true">
+    <variable name="KEY_TYPE" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_TYPE" value="true" />
+    </context>
+  </template>
+  <template name="erris" value="if errors.Is($ERR$, $TARTGET_ERR$) {&#10; $END$&#10;}" description="If error IS()" toReformat="true" toShortenFQNames="true">
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <variable name="TARTGET_ERR" expression="errorVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="erras" value="var $TARTGET_ERR$ *$TARGET_ERR_TYPE$&#10;if errors.Is($ERR$, &amp;$TARTGET_ERR$) {&#10; $END$&#10;}" description="If error AS()" toReformat="true" toShortenFQNames="true">
+    <variable name="TARTGET_ERR" expression="errorVariable()" defaultValue="&quot;targetErr&quot;" alwaysStopAt="true" />
+    <variable name="TARGET_ERR_TYPE" expression="errorVariableDefinition(expressionWithErrorResult)" defaultValue="" alwaysStopAt="true" />
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mtest" value="func Test$NAME$(t *testing.T) {&#10;&#9;type fields struct {&#10;&#9;}&#10;&#9;type args struct {&#10;&#9;}&#10;&#9;tests := []struct {&#10;&#9;&#9;name          string&#10;&#9;&#9;fieldsFactory func(t *testing.T, ctrl *gomock.Controller) fields&#10;&#9;&#9;argsFactory   func(t *testing.T, ctrl *gomock.Controller) args&#10;&#9;&#9;args          args&#10;&#9;}{&#10;        {&#10;&#9;&#9;&#9;name: &quot;good&quot;,&#10;&#9;&#9;&#9;fieldsFactory: func(t *testing.T, ctrl *gomock.Controller) fields {&#10;&#9;&#9;&#9;&#9;t.Helper()&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;return fields{}&#10;&#9;&#9;&#9;},&#10;&#9;&#9;&#9;argsFactory: func(t *testing.T, ctrl *gomock.Controller) args {&#10;&#9;&#9;&#9;&#9;t.Helper()&#10;&#9;&#9;&#9;&#9;&#10;&#9;&#9;&#9;&#9;return args{}&#10;&#9;&#9;&#9;},&#10;&#9;&#9;&#9;args: args{},&#10;&#9;&#9;},&#10;&#9;}&#10;&#9;for _, tt := range tests {&#10;&#9;&#9;tt := tt&#10;&#9;&#9;t.Run(tt.name, func(t *testing.T) {&#10;&#9;&#9;&#9;ctrl := gomock.NewController(t)&#10;&#10;&#9;&#9;&#9;fields := tt.fieldsFactory(t, ctrl)&#10;&#9;&#9;&#9;args := tt.argsFactory(t, ctrl)&#10;&#10;&#9;&#9;&#9;fields = fields&#10;&#9;&#9;&#9;args = args$END$&#10;&#9;&#9;})&#10;&#9;}&#10;}" description="Mocked table-driven Test with gomock" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
+  <template name="stest" value="func Test$NAME$(t *testing.T) {&#10;&#9;t.Run(&quot;good&quot;, func(t *testing.T) {&#10;&#9;&#9;r := require.New(t)&#10;&#10;&#9;&#9;r = r$END$&#10;&#9;})&#10;}" description="Test with subtests" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_FILE" value="true" />
+    </context>
+  </template>
+</templateSet>
