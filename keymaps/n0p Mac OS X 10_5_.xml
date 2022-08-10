@@ -175,6 +175,9 @@
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl meta o" />
   </action>
@@ -186,6 +189,9 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt w" />
