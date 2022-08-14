@@ -3,6 +3,7 @@
     <words>
       <w>chunker</w>
       <w>deduplicator</w>
+      <w>stringified</w>
       <w>upsertion</w>
     </words>
   </component>
