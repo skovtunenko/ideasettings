@@ -32,4 +32,14 @@
       <option name="GO_FILE" value="true" />
     </context>
   </template>
+  <template name="def" value="defer func() {&#10; $END$&#10;}()" description="Deferred anonymous function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rec" value="defer func() {&#10;    if err := recover(); err != nil {&#10;        $END$&#10;    }&#10;}()" description="Deferred recovery function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
