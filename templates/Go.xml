@@ -42,4 +42,9 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="trun" value="t.Run(&quot;$END$&quot;, func(t *testing.T) {&#10;    r := require.New(t)&#10;    &#10;    r = r&#10;})" description="New subtest" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
