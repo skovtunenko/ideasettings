@@ -18,6 +18,9 @@
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
     </driver>
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.38.0" />
+    </driver>
     <driver id="${database.driverClass}" name="${database.driverClass}" driver-class="${database.driverClass}" />
     <driver id="7b75738e-2f8f-4943-b87c-67c1abb988ee" name="hibernate.cfg.xml/Hibernate driver" dialect="MySQL" driver-class="com.mysql.jdbc.Driver" icon="AllIcons.Providers.Mysql">
       <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />

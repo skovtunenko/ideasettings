@@ -47,4 +47,11 @@
       <option name="GO_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="fore" value="for _, $VALUE$ := range $COLLECTION$ {&#10; $END$&#10;}" description="For range loop to get only Element" toReformat="true" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="&quot;collection&quot;" alwaysStopAt="true" />
+    <variable name="VALUE" expression="goSuggestVariableName()" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
