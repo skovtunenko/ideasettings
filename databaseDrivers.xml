@@ -9,6 +9,9 @@
     <driver id="mariadb">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.4.1" />
     </driver>
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.15" />
+    </driver>
     <driver id="mysql.8">
       <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
     </driver>
