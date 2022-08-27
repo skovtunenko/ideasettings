@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
+      <mapping ext="cql" type="Cypher" />
       <mapping ext="props" type="DTD" />
       <mapping ext="slide" type="Markdown" />
       <mapping ext="graphml" type="Native" />
@@ -14,6 +15,7 @@
       <mapping ext="universal" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="flw" type="PLAIN_TEXT" />
+      <removed_mapping ext="cql" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
