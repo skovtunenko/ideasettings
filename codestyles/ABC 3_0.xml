@@ -1,6 +1,7 @@
 <code_scheme name="ABC 3.0" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="180" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <GoCodeStyleSettings>
     <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
     <option name="COMMENTS_WITHOUT_LEADING_SPACE">
