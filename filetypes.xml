@@ -11,6 +11,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="biar" type="PLAIN_TEXT" />
       <mapping ext="tcf" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="universal" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="flw" type="PLAIN_TEXT" />
