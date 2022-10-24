@@ -13,6 +13,7 @@
       <mapping ext="tcf" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="universal" type="PLAIN_TEXT" />
+      <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="flw" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
