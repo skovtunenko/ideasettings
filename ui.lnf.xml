@@ -1,0 +1,21 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_MODULES" value="false" />
+    <option name="UI_FILTER_OUT_OF_CYCLE_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="EDITOR_TAB_PLACEMENT" value="4" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="24" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1418" />
+    <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
+    <option name="OPEN_TABS_IN_MAIN_WINDOW" value="true" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+  </component>
+</application>

@@ -1,0 +1,23 @@
+<application>
+  <component name="CapPluginsElasticsearchClientSetting">
+    <option name="elasticsearchClusters">
+      <map>
+        <entry key="local">
+          <value>
+            <map>
+              <entry key="cluster_name" value="local" />
+              <entry key="keyStorePassword" value="" />
+              <entry key="keyStorePath" value="" />
+              <entry key="password" value="" />
+              <entry key="selfSigned" value="false" />
+              <entry key="trustStorePassword" value="" />
+              <entry key="trustStorePath" value="" />
+              <entry key="url" value="http://localhost:9200" />
+              <entry key="user" value="" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

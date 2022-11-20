@@ -1,0 +1,13 @@
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="ToStringBuilder (Apache commons-lang 3)" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="ToStringBuilder with SUPER (Apache commons-lang 3)" />
+          <option name="template" value="public java.lang.String toString() {&#10;   return new org.apache.commons.lang3.builder.ToStringBuilder(this)&#10;   .appendSuper(super.toString())&#10;#foreach ($member in $members)&#10;   .append(&quot;$member.name&quot;, $member.accessor)&#10;#end&#10;   .toString();&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>

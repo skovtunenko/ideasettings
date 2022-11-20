@@ -1,0 +1,42 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="inventory" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
+      <mapping ext="props" type="DTD" />
+      <mapping ext="slide" type="Markdown" />
+      <mapping ext="graphml" type="Native" />
+      <mapping ext="py" type="Native" />
+      <mapping pattern="DELETEME" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="biar" type="PLAIN_TEXT" />
+      <mapping ext="tcf" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
+      <mapping ext="universal" type="PLAIN_TEXT" />
+      <mapping ext="drawio" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="flw" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cql" approved="true" type="SQL" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="Jenkinsfile" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

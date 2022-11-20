@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="fore@userDefined" key=".fore" provider="com.goide.postfix.GoPostfixTemplateProvider" topmost="true">
+      <conditions>
+        <condition id="string" />
+        <condition id="array" />
+        <condition id="slice" />
+        <condition id="map" />
+      </conditions>
+      <template name="fakeKey" value="for _, el := range $EXPR$ {&#10;    &#10;}" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
