@@ -5,18 +5,17 @@
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="props" type="DTD" />
       <mapping ext="slide" type="Markdown" />
-      <mapping ext="py" type="Native" />
       <mapping ext="graphml" type="Native" />
+      <mapping ext="py" type="Native" />
       <mapping pattern="DELETEME" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
-      <mapping ext="sum" type="PLAIN_TEXT" />
-      <mapping ext="flw" type="PLAIN_TEXT" />
-      <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="biar" type="PLAIN_TEXT" />
       <mapping ext="tcf" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="universal" type="PLAIN_TEXT" />
-      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="drawio" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="flw" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cql" approved="true" type="SQL" />
@@ -31,6 +30,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
