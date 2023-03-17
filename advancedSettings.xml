@@ -9,6 +9,8 @@
         <entry key="editor.tab.painting" value="ARROW" />
         <entry key="ide.open.readme.md.on.startup" value="false" />
         <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="searcheverywhere.ml.sort.classes" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
