@@ -17,5 +17,6 @@
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="REUSE_NOT_MODIFIED_TABS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>
