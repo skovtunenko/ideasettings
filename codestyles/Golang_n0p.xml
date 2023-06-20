@@ -1,7 +1,7 @@
 <code_scheme name="Golang_n0p" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="RIGHT_MARGIN" value="180" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
   <GoCodeStyleSettings>
     <option name="ADD_PARENTHESES_FOR_SINGLE_IMPORT" value="true" />
     <option name="REMOVE_REDUNDANT_IMPORT_ALIASES" value="true" />
