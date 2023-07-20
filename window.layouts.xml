@@ -1,0 +1,371 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v1": [
+        {
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Commit"
+        },
+        {
+          "id": "Hierarchy",
+          "order": 0,
+          "isVisible": true,
+          "weight": 0.2502604,
+          "isSplit": true
+        },
+        {
+          "id": "JWT",
+          "order": 1,
+          "isSplit": true
+        },
+        {
+          "id": "Coverage",
+          "order": 2,
+          "isVisible": true,
+          "weight": 0.2502604,
+          "isSplit": true
+        },
+        {
+          "id": "make",
+          "order": 3,
+          "weight": 0.33033174,
+          "isSplit": true
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 4,
+          "isSplit": true
+        },
+        {
+          "id": "PlantUML",
+          "order": 5,
+          "isSplit": true
+        },
+        {
+          "id": "Bookmarks",
+          "order": 6,
+          "isSplit": true
+        },
+        {
+          "id": "Project",
+          "order": 7,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.2502604
+        },
+        {
+          "id": "Structure",
+          "order": 8
+        },
+        {
+          "id": "Database",
+          "order": 9
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Find",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33033174
+        },
+        {
+          "id": "Run",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.33033174
+        },
+        {
+          "id": "Debug",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Endpoints",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "order": 5,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Regex Tester",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Inspection",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "weight": 0.4
+        },
+        {
+          "id": "Problems View",
+          "order": 8,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
+        },
+        {
+          "id": "Notifications",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 11,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
+        },
+        {
+          "id": "Terminal",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
+        },
+        {
+          "id": "String Manipulation",
+          "anchor": "RIGHT"
+        }
+      ],
+      "v2": [
+        {
+          "id": "Bookmarks",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "contentUiType": "COMBO",
+          "weight": 0.30683595
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.2502976
+        },
+        {
+          "id": "VcsChanges",
+          "order": 3,
+          "weight": 0.21875
+        },
+        {
+          "id": "Database",
+          "order": 4,
+          "weight": 0.21875
+        },
+        {
+          "id": "Coverage",
+          "order": 5,
+          "isShowStripeButton": false,
+          "weight": 0.32994792
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33024392
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Services",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "weight": 0.50487804
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "contentUiType": "COMBO",
+          "weight": 0.24978724
+        },
+        {
+          "id": "Version Control",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.4943463
+        },
+        {
+          "id": "Problems",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
+        },
+        {
+          "id": "Regex Tester",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Python Packages",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Run",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.50473934
+        },
+        {
+          "id": "Debug",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33033174
+        },
+        {
+          "id": "RegexTester",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Graph Database Console",
+          "order": 9,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "String Manipulation",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Gradle",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "PlantUML",
+          "order": 2,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Web Inspector",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "JWT",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Graph Database",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "make",
+          "order": 6,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "SciView",
+          "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.30683595,
+        "bottom": 0.4943463,
+        "right": 0.33
+      }
+    }
+  }
+}]]></component>
+</application>
