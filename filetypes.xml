@@ -8,11 +8,11 @@
       <mapping ext="graphml" type="Native" />
       <mapping pattern="DELETEME" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="flw" type="PLAIN_TEXT" />
       <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="biar" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="tcf" type="PLAIN_TEXT" />
       <mapping ext="universal" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
