@@ -166,6 +166,8 @@
           "type": "SLIDING",
           "internalType": "SLIDING",
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.30683595
         },
         {
@@ -236,9 +238,7 @@
           "id": "Version Control",
           "order": 1,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.4943463
+          "weight": 0.47463414
         },
         {
           "id": "Problems",
@@ -299,6 +299,17 @@
           "order": 10,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 10,
+          "anchor": "BOTTOM",
+          "weight": 0.47463414
+        },
+        {
+          "id": "AIAssistant",
+          "order": 11,
+          "anchor": "BOTTOM"
         },
         {
           "id": "String Manipulation",
@@ -362,7 +373,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.30683595,
-        "bottom": 0.4943463,
+        "bottom": 0.47463414,
         "right": 0.33
       }
     }
