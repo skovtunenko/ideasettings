@@ -166,9 +166,7 @@
           "type": "SLIDING",
           "internalType": "SLIDING",
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.30683595
+          "weight": 0.16777344
         },
         {
           "id": "Commit",
@@ -290,25 +288,30 @@
         },
         {
           "id": "Graph Database Console",
-          "order": 9,
+          "order": 10,
           "anchor": "BOTTOM",
           "weight": 0.33033174
         },
         {
           "id": "Kafkalytic",
-          "order": 10,
+          "order": 11,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "KafkaToolWindow",
-          "order": 10,
+          "order": 12,
           "anchor": "BOTTOM",
           "weight": 0.47463414
         },
         {
           "id": "AIAssistant",
-          "order": 11,
+          "order": 13,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 14,
           "anchor": "BOTTOM"
         },
         {
@@ -372,7 +375,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.30683595,
+        "left": 0.16777344,
         "bottom": 0.47463414,
         "right": 0.33
       }
