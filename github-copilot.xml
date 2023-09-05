@@ -1,0 +1,24 @@
+<application>
+  <component name="github-copilot">
+    <option name="signinNotificationShown" value="true" />
+    <languageAllowList>
+      <map>
+        <entry key="*" value="true" />
+        <entry key="Bazaar" value="false" />
+        <entry key="Chef" value="false" />
+        <entry key="CloudFoundry" value="false" />
+        <entry key="Cvs" value="false" />
+        <entry key="Darcs" value="false" />
+        <entry key="DeployHQ" value="false" />
+        <entry key="ESLint" value="false" />
+        <entry key="Fossil" value="false" />
+        <entry key="Google Cloud" value="false" />
+        <entry key="HiveQL" value="false" />
+        <entry key="JAVA" value="false" />
+        <entry key="Mercurial" value="false" />
+        <entry key="RELAX-NG" value="false" />
+      </map>
+    </languageAllowList>
+    <option name="showIdeCompletions" value="true" />
+  </component>
+</application>
