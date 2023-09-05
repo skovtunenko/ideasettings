@@ -19,6 +19,7 @@
         <entry key="RELAX-NG" value="false" />
       </map>
     </languageAllowList>
+    <option name="inlayTextColor" value="#b7d7cd" />
     <option name="showIdeCompletions" value="true" />
   </component>
 </application>
