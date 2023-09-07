@@ -5,7 +5,6 @@
       <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="IntelliJ Light" scheme="_@user_Default" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
-      <laf-to-scheme laf="Light with Light Header" scheme="_@user_Light" />
     </lafs-to-previous-schemes>
   </component>
 </application>
