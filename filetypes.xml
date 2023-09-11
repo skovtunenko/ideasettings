@@ -4,6 +4,10 @@
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="props" type="DTD" />
+      <mapping ext="postman_environment.json" type="JSON" />
+      <mapping ext="postman_collection.json" type="JSON" />
+      <mapping ext="postman_collection" type="JSON" />
+      <mapping ext="postman_environment" type="JSON" />
       <mapping ext="slide" type="Markdown" />
       <mapping ext="graphml" type="Native" />
       <mapping pattern="DELETEME" type="PLAIN_TEXT" />
