@@ -157,6 +157,9 @@
           "isShowStripeButton": false
         },
         {
+          "id": "Merge Requests"
+        },
+        {
           "id": "Pull Requests",
           "isShowStripeButton": false
         },
@@ -229,8 +232,7 @@
           "id": "Notifications",
           "order": 0,
           "anchor": "BOTTOM",
-          "contentUiType": "COMBO",
-          "weight": 0.24978724
+          "weight": 0.4745583
         },
         {
           "id": "Version Control",
@@ -246,13 +248,14 @@
         {
           "id": "Problems View",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.4745583
         },
         {
           "id": "Terminal",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.33033174
+          "weight": 0.4745583
         },
         {
           "id": "Regex Tester",
@@ -271,7 +274,7 @@
           "order": 7,
           "anchor": "BOTTOM",
           "isShowStripeButton": false,
-          "weight": 0.50473934
+          "weight": 0.4745583
         },
         {
           "id": "Debug",
@@ -315,6 +318,11 @@
           "anchor": "BOTTOM"
         },
         {
+          "id": "SonarLint",
+          "order": 15,
+          "anchor": "BOTTOM"
+        },
+        {
           "id": "String Manipulation",
           "anchor": "RIGHT",
           "isShowStripeButton": false
@@ -323,6 +331,17 @@
           "id": "documentation.v2",
           "anchor": "RIGHT",
           "isShowStripeButton": false
+        },
+        {
+          "id": "BigDataToolWindow",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.3298828,
+          "isSplit": true
         },
         {
           "id": "Gradle",
@@ -376,8 +395,8 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.16777344,
-        "bottom": 0.47463414,
-        "right": 0.33
+        "bottom": 0.4745583,
+        "right": 0.3298828
       }
     }
   }
