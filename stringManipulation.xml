@@ -1,25 +1,11 @@
 <application>
   <component name="StringManipulationState">
-    <option name="grepHistory">
-      <list>
-        <GrepSettings>
-          <option name="pattern" value="department the points are: NONE :(" />
-        </GrepSettings>
-      </list>
-    </option>
-    <option name="lastAction">
+    <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToSnakeCaseAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJavaAction" />
+        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJava" />
+        <option name="textWithMnemonic" value="Unescape Java" />
       </UniversalActionModel>
-    </option>
-    <option name="sortSettingsMap">
-      <map>
-        <entry key="SortAction">
-          <value>
-            <SortSettings />
-          </value>
-        </entry>
-      </map>
     </option>
   </component>
 </application>
