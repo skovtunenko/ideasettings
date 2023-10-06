@@ -4,6 +4,8 @@
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping ext="props" type="DTD" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="slide" type="Markdown" />
       <mapping ext="graphml" type="Native" />
       <mapping pattern="DELETEME" type="PLAIN_TEXT" />
