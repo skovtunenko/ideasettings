@@ -1,0 +1,33 @@
+<scheme name="_@user_Light" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2023-10-07T08:27:46</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.2.2.0.0</property>
+    <property name="modified">2023-10-07T18:02:00</property>
+    <property name="originalScheme">Light</property>
+    <property name="partialSave">true</property>
+  </metaInfo>
+  <colors>
+    <option name="TAB_UNDERLINE_INACTIVE" value="" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="b7d7cd" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="414d41" />
+        <option name="BACKGROUND" value="c51717" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TAB_SELECTED_INACTIVE">
+      <value>
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

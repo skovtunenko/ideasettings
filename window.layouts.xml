@@ -1,7 +1,8 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "Default",
   "layouts": {
-    "Custom": {
+    "Default": {
       "v1": [
         {
           "id": "Pull Requests"
@@ -157,19 +158,17 @@
           "isShowStripeButton": false
         },
         {
-          "id": "Merge Requests"
-        },
-        {
           "id": "Pull Requests",
           "isShowStripeButton": false
         },
         {
           "id": "Project",
           "order": 0,
+          "isAutoHide": true,
           "type": "SLIDING",
           "internalType": "SLIDING",
           "contentUiType": "COMBO",
-          "weight": 0.16777344
+          "weight": 0.21972656
         },
         {
           "id": "Commit",
@@ -179,23 +178,26 @@
         {
           "id": "Structure",
           "order": 2,
-          "weight": 0.2502976
-        },
-        {
-          "id": "VcsChanges",
-          "order": 3,
-          "weight": 0.21875
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.21972656
         },
         {
           "id": "Database",
+          "order": 3,
+          "weight": 0.28535157
+        },
+        {
+          "id": "VcsChanges",
           "order": 4,
-          "weight": 0.21875
+          "weight": 0.28535157
         },
         {
           "id": "Coverage",
           "order": 5,
           "isShowStripeButton": false,
-          "weight": 0.32994792
+          "weight": 0.19434524,
+          "isSplit": true
         },
         {
           "id": "Database Changes",
@@ -221,106 +223,120 @@
         {
           "id": "Services",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.6658537
         },
         {
           "id": "Find",
           "anchor": "BOTTOM",
-          "weight": 0.50487804
+          "isShowStripeButton": false,
+          "weight": 0.47667843
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.6335689
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "BOTTOM",
+          "type": "SLIDING",
+          "internalType": "SLIDING",
+          "weight": 0.66607773
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Notifications",
-          "order": 0,
+          "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.4745583
+          "weight": 0.7042403
         },
         {
           "id": "Version Control",
-          "order": 1,
+          "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.47463414
+          "isAutoHide": true,
+          "weight": 0.47667843
         },
         {
           "id": "Problems",
-          "order": 2,
+          "order": 5,
           "anchor": "BOTTOM"
         },
         {
           "id": "Problems View",
-          "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.4745583
+          "order": 6,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Terminal",
-          "order": 4,
-          "anchor": "BOTTOM",
-          "weight": 0.4745583
+          "order": 7,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Regex Tester",
-          "order": 5,
+          "order": 8,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "Python Packages",
-          "order": 6,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
-          "id": "Run",
-          "order": 7,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.4745583
-        },
-        {
-          "id": "Debug",
-          "order": 8,
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.33033174
-        },
-        {
-          "id": "RegexTester",
           "order": 9,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
-          "id": "Graph Database Console",
+          "id": "Debug",
           "order": 10,
           "anchor": "BOTTOM",
-          "weight": 0.33033174
+          "weight": 0.47667843
         },
         {
-          "id": "Kafkalytic",
+          "id": "Run",
           "order": 11,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.47667843
+        },
+        {
+          "id": "Messages",
+          "order": 12,
+          "anchor": "BOTTOM",
+          "weight": 0.7042403
+        },
+        {
+          "id": "RegexTester",
+          "order": 13,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
-          "id": "KafkaToolWindow",
-          "order": 12,
-          "anchor": "BOTTOM",
-          "weight": 0.47463414
-        },
-        {
-          "id": "AIAssistant",
-          "order": 13,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "github.copilotToolWindow",
+          "id": "Dependency Viewer",
           "order": 14,
+          "anchor": "BOTTOM",
+          "weight": 0.46749115
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 15,
           "anchor": "BOTTOM"
         },
         {
           "id": "SonarLint",
-          "order": 15,
+          "order": 16,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Graph Database Console",
+          "order": 17,
+          "anchor": "BOTTOM",
+          "weight": 0.33033174
         },
         {
           "id": "String Manipulation",
@@ -331,17 +347,6 @@
           "id": "documentation.v2",
           "anchor": "RIGHT",
           "isShowStripeButton": false
-        },
-        {
-          "id": "BigDataToolWindow",
-          "anchor": "RIGHT"
-        },
-        {
-          "id": "Meet New UI",
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.3298828,
-          "isSplit": true
         },
         {
           "id": "Gradle",
@@ -386,16 +391,22 @@
           "isShowStripeButton": false
         },
         {
-          "id": "SciView",
+          "id": "Hierarchy",
           "order": 7,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "SciView",
+          "order": 8,
           "anchor": "RIGHT",
           "isShowStripeButton": false
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16777344,
-        "bottom": 0.4745583,
+        "left": 0.21972656,
+        "bottom": 0.47667843,
         "right": 0.3298828
       }
     }
