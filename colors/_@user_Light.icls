@@ -3,24 +3,24 @@
     <property name="created">2023-10-07T08:27:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-07T18:28:48</property>
+    <property name="modified">2023-10-12T19:36:24</property>
     <property name="originalScheme">Light</property>
     <property name="partialSave">true</property>
   </metaInfo>
   <colors>
+    <option name="BREADCRUMBS_BORDER_COLOR" value="ea0909" />
     <option name="TAB_UNDERLINE_INACTIVE" value="" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="b7d7cd" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="414d41" />
-        <option name="BACKGROUND" value="dccccc" />
+        <option name="BACKGROUND" value="ffeded" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
