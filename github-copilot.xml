@@ -17,6 +17,7 @@
         <entry key="JAVA" value="false" />
         <entry key="Mercurial" value="false" />
         <entry key="RELAX-NG" value="false" />
+        <entry key="go" value="false" />
       </map>
     </languageAllowList>
     <option name="inlayTextColor" value="#b7d7cd" />
