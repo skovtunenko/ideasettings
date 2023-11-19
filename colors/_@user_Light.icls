@@ -1,12 +1,17 @@
 <scheme name="_@user_Light" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2023-10-07T08:27:46</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-12T19:36:24</property>
+    <property name="modified">2023-11-19T17:40:02</property>
     <property name="originalScheme">Light</property>
     <property name="partialSave">true</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="JetBrainsMono Nerd Font" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="BREADCRUMBS_BORDER_COLOR" value="ea0909" />
     <option name="TAB_UNDERLINE_INACTIVE" value="" />
