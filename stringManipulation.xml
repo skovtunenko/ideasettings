@@ -2,9 +2,11 @@
   <component name="StringManipulationState">
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.escaping.UnescapeJavaAction" />
-        <option name="description" value="org.apache.commons.text.StringEscapeUtils#unescapeJava" />
-        <option name="textWithMnemonic" value="Unescape Java" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveDuplicateLinesAction" />
+        <option name="description" value="Remove duplicate lines or text. Supports multicaret subselection." />
+        <option name="modelClass" value="osmedile.intellij.stringmanip.filter.RemoveDuplicatesSettings" />
+        <option name="modelData" value="&lt;RemoveDuplicatesSettings&gt;&#10;  &lt;option name=&quot;type&quot; value=&quot;REMOVE_LINE&quot; /&gt;&#10;&lt;/RemoveDuplicatesSettings&gt;" />
+        <option name="textWithMnemonic" value="Remove Duplicates" />
       </UniversalActionModel>
     </option>
   </component>
