@@ -311,4 +311,5 @@
   <action id="com.github.setial.intellijjavadocs.action.JavaDocRemoveActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsGenerateActionOnEditor" />
   <action id="com.github.setial.intellijjavadocs.action.JavaDocsRemoveActionOnEditor" />
+  <action id="copilot.disposeInlays" />
 </keymap>
